@@ -1,4 +1,3 @@
 # PPE-groupe
 
-Membres : Tifanny
-Membre : Yaasmine
+Membres : Tifanny, Yaasmine
