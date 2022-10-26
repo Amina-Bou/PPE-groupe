@@ -1,4 +1,4 @@
-### Journal de bord du groupe.
+# Journal de bord du groupe.
 
 ## Choix du mot :
 
