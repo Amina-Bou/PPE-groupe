@@ -14,4 +14,17 @@ https://www.bbc.com/vietnamese/forum-60343718
 
 https://www.voatiengviet.com/a/tr%E1%BA%A3i-nghi%E1%BB%87m-c%E1%BB%A7a-ng%C6%B0%E1%BB%9Di-vi%E1%BB%87t-trong-c%C3%B4ng-%C4%91o%C3%A0n-%C4%91%E1%BB%99c-l%E1%BA%ADp-t%E1%BA%A1i-anh/6500357.html
 
+- Ở Pháp.
+
 https://www.rfi.fr/vi/ph%C3%A1p/20191214-ph%C3%A1p-v%C3%B4-%C4%91i%CC%A3ch-th%C3%AA%CC%81-gi%C6%A1%CC%81i-v%C3%AA%CC%80-%C4%91i%CC%80nh-c%C3%B4ng (La France : Championne du monde…de grève!)
+
+https://vtv.vn/the-gioi/dinh-cong-tren-toan-nuoc-phap-trong-boi-canh-lam-phat-tang-vot-20221018145448367.htm
+
+https://vnexpress.net/hon-100-000-nguoi-phap-dinh-cong-doi-tang-luong-4525159.html
+
+https://tuoitre.vn/dinh-cong-ram-ro-tren-toan-nuoc-phap-20191206063819433.htm
+
+- Ở Việt Nam
+
+https://luatsux.vn/phap-luat-lao-dong-viet-nam-ve-dinh-cong-bat-hop-phap/
+
