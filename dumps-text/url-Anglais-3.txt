@@ -1,0 +1,272 @@
+   Support us
+   The Guardian - Back to homeThe Guardian: news website of the year
+     * News
+     * Opinion
+     * Sport
+     * Culture
+     * Lifestyle
+
+   (BUTTON)
+   [ ] Show captionThe latest workers to go on strike are CWU postal
+   workers. Photograph: Adrian Dennis/AFP/Getty Images
+   Labour
+
+Support for striking workers declared by 600 Labour councillors
+
+   Exclusive: Open letter puts pressure on party’s stance on strikes amid
+   talk of coordinated autumn action
+   Rowena Mason Deputy political editor
+   Sun 28 Aug 2022 12.24 BST
+     * Share on Facebook
+     * Share on Twitter
+     * Share via Email
+
+   3 months old
+
+   More than 600 Labour councillors have declared their full backing for
+   all rail, postal, dock and other workers on picket lines, as the party
+   comes under continuing pressure over its stance on strikes.
+
+   Amid a wave of strikes over pay and increasing talk of coordinated
+   industrial action this autumn, the councillors signed an open letter
+   saying they offered “full solidarity and support” to the Rail, Maritime
+   and Transport workers’ union (RMT), the Communication Workers Union
+   (CWU), Unite and others.
+
+   The latest workers to go on strike are CWU postal workers who rejected
+   a 5.5% pay rise in return for changes to their conditions, while the
+   RMT is planning a further round of rail strikes in the autumn. There
+   are also 1,900 dockworker members of Unite at Felixstowe, the country’s
+   biggest port, on an eight-day stoppage.
+
+   However, the issue of strikes is a vexed one for Labour. Keir Starmer,
+   the party’s leader, has expressed sympathy with the aims of striking
+   workers, but the party’s whips have asked frontbenchers not to appear
+   on picket lines. The party is also stressing the need for negotiated
+   solutions, with Starmer saying he “completely understands” why workers
+   are striking but adding that his party would make sure talks were
+   properly conducted.
+
+   Starmer’s equivocal stance on strikes has annoyed Labour’s trade union
+   funders. Sharon Graham, the Unite general secretary, told the Observer
+   earlier this month: “There’s no point giving money to a party that is
+   basically sticking two fingers up to workers. It’s almost like an
+   abusive relationship.”
+
+   Ahead of the Trades Union Congress in September, senior union officials
+   have begun to talk more of scheduling strikes for the same time for
+   maximum impact or staggering them for effect.
+
+   Earlier this week, Mick Lynch, the RMT general secretary, said: “We
+   need a summer of solidarity, and a spring of solidarity if it needs to
+   go through next year. The CWU, Unite, GMB, RMT and the others, we have
+   to call on the entire movement ... to come into this action, to get
+   members motivated and call them to the flag and vote yes for a wave of
+   industrial action across the UK and internationally if that is what it
+   takes, because we need to redress the balance in society.
+
+   “And not be dictated to by people from Eton and Harrow, telling us we
+   have to give up our wages and give up our place. We are not going to
+   have it.”
+
+   The joint letter was organised by the councillors Aneesa Akbar, from
+   Hull, Jumbo Chan, from Brent, and Matt White, from Haringey, who are
+   all active in the trade union movement.
+
+   In it, the councillors said they were “proud to witness this emerging
+   renaissance of trade unionism, and we offer to the RMT, the CWU, Unite
+   and many other trade unions taking action our full solidarity and
+   support, on the picket line and elsewhere”.
+
+   They criticised the “obscene” situation in which millions of people in
+   Britain were struggling to make ends meet and workers were told a
+   “tsunami of lies” to keep workers in their place, while there were more
+   billionaires than ever, and the profits and dividend payouts of
+   Britain’s biggest companies soared.
+
+   The councillors said the actions of trade unions were a “welcome,
+   important rejection of this dismal absurdity”.
+
+   “We urge all ordinary working people to take control of their
+   destinies, and to join a trade union today,” they said.
+
+   Starmer was told to “get a spine” and send a “strong message” that
+   Labour supported striking workers by Graham of Unite.
+
+   She told BBC Radio 4’s Broadcasting House programme “you cannot defend
+   workers by being silent” and that neither Labour nor the Conservatives
+   were aware of “how bad it is for people out there”.
+   {{#ticker}}
+
+   {{topLeft}}
+
+   {{bottomLeft}}
+
+   {{topRight}}
+
+   {{bottomRight}}
+   {{#goalExceededMarkerPercentage}}
+   {{/goalExceededMarkerPercentage}}
+   {{/ticker}}
+
+{{heading}}
+
+   {{#paragraphs}}
+
+   {{.}}
+   {{/paragraphs}}{{highlightedText}}
+   {{#choiceCards}}
+   (BUTTON) Single (BUTTON) Monthly (BUTTON) Annual
+   (BUTTON) (BUTTON) (BUTTON) Other
+   {{/choiceCards}}
+   {{#cta}}{{text}}{{/cta}}
+   (BUTTON)
+   (BUTTON)
+   Email address
+   Please enter a valid email address
+   Please enter your email address
+   ____________________ (BUTTON) Set a reminder
+   Sorry we couldn't set a reminder for you this time. Please try again
+   later.
+   We will send you a maximum of two emails in . To find out what personal
+   data we collect and how we use it, view our Privacy Policy.
+   We will be in touch to remind you to contribute. Look out for a message
+   in your inbox in . If you have any questions about contributing, please
+   contact us.
+   Topics
+     * Labour
+
+     * Industrial action
+     * Rail strikes
+     * Trade unions
+     * Keir Starmer
+     * news
+
+     * Share on Facebook
+     * Share on Twitter
+     * Share via Email
+     * Share on LinkedIn
+     * Share on WhatsApp
+     * Share on Messenger
+
+   View on theguardian.com
+   {{#showContent}}
+   {{displayName}}
+   {{#description}}
+   {{description}}
+   {{/description}}{{#content}}{{#headline}}
+
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{
+{#isComment}}{{/isComment}}{{headline}}
+
+   {{#isComment}}
+   {{byline}}
+   {{/isComment}}
+   {{#showWebPublicationDate}}
+   {{webPublicationDate}}{{/showWebPublicationDate}}
+   {{headline}}
+   {{/headline}}{{/content}}
+   {{/showContent}}
+   Show more
+   {{#showContent}}
+   {{displayName}}
+   {{#description}}
+   {{description}}
+   {{/description}}{{#content}}{{#headline}}
+
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{
+{#isComment}}{{/isComment}}{{headline}}
+
+   {{#isComment}}
+   {{byline}}
+   {{/isComment}}
+   {{#showWebPublicationDate}}
+   {{webPublicationDate}}{{/showWebPublicationDate}}
+   {{headline}}
+   {{/headline}}{{/content}}
+   {{/showContent}}
+   Show more
+   {{#showContent}}
+   {{displayName}}
+   {{#description}}
+   {{description}}
+   {{/description}}{{#content}}{{#headline}}
+
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{
+{#isComment}}{{/isComment}}{{headline}}
+
+   {{#isComment}}
+   {{byline}}
+   {{/isComment}}
+   {{#showWebPublicationDate}}
+   {{webPublicationDate}}{{/showWebPublicationDate}}
+   {{headline}}
+   {{/headline}}{{/content}}
+   {{/showContent}}
+   Show more
+   {{#showContent}}
+   {{displayName}}
+   {{#description}}
+   {{description}}
+   {{/description}}{{#content}}{{#headline}}
+
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{
+{#isComment}}{{/isComment}}{{headline}}
+
+   {{#isComment}}
+   {{byline}}
+   {{/isComment}}
+   {{#showWebPublicationDate}}
+   {{webPublicationDate}}{{/showWebPublicationDate}}
+   {{headline}}
+   {{/headline}}{{/content}}
+   {{/showContent}}
+   Show more
+     * About us
+     * Contact us
+     * Complaints and corrections
+     * Securedrop
+     * Work for us
+     * Privacy settings
+     * Privacy policy
+     * Cookie policy
+     * Terms & conditions
+     * Help
+
+     * All topics
+     * All writers
+     * Modern Slavery Act
+     * Digital newspaper archive
+     * Facebook
+     * Twitter
+
+     * Advertise with us
+     * Search jobs
+     * Patrons
+     * Discount Codes
+
+   Support the Guardian
+   Support us
+   Back to top
+   © 2022 Guardian News & Media Limited or its affiliated companies. All
+   rights reserved.
+
+   {{ #topLevelSections }}
+     *
+
+{{ title }}
+        {{ #subSections }}
+          + {{ title }} {{ /subSections }}
+       {{ /topLevelSections }}
+
+   {{ #readerRevenueLinks }}
+     * {{ title }} {{ /readerRevenueLinks }}
+     * Sign in / Register
+
+Switch edition
+
+   {{ #editions }}
+     * {{ displayName }} {{ /editions }}
+
+   {{ #secondarySections }}
+     * {{ title }} {{ /secondarySections }}
