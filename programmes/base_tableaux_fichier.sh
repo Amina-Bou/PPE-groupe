@@ -9,6 +9,7 @@
 # Notamment pour quelque chose de plus léger, il n'y a pas de norme en bash.
 #===============================================================================
 
+
 fichier_urls=$1 # le fichier d'URL en entrée
 fichier_tableau=$2 # le fichier HTML en sortie
 
@@ -17,7 +18,6 @@ then
 	echo "Ce programme demande exactement trois arguments."
 	exit
 fi
-
 mot=$3 # à modifier -fait 
 
 echo $fichier_urls;
