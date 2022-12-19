@@ -8,3 +8,10 @@ Je dois faire attention car avec "đình công à Hà Nội", google ignore parf
 ## 16 nov. 2022
 
 Les pages vietnamiennes sont encodées en UTF-8, mais certains charactères sont mal encodés. Lorsque je copie une URL, les lettres avec des tons vietnamiens deviennent donc des charactères "interdits" tels que des chiffres ou "@" et le script pour le tableau testé sur mon git personnel ne marche pas.
+
+## 19 dec. 2022
+
+Résumé :
+
+- Certains sites vietnamiens ne permettent pas l'accès aux informations via le script. Ca affiche donc des erreurs 404, par exemple, alors que l'URL existe bien. Je change donc les URLs problématiques.
+- Problème de segmentation pour trouver les occurences du mot à cause de l'espace qui n'est pas pris en charge. Il faut que je trouve comment utiliser le tokenizer.
