@@ -1,4 +1,4 @@
-Les urls on été choisi en fonction de :
+Les urls ont été choisi en fonction de :
 - LA DÉFINITION
 - L'ÉTYMOLOGIE DU MOT
 - LES DIFFERENTS TYPES DE GREVE EN FRANCE
