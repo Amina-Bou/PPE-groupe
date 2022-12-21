@@ -1,0 +1,31 @@
+.menu {
+        display: flex;
+        padding:0;
+        background-color: #6FA1C7;
+        justify-content: center
+        }
+
+.menu li {
+        list-style-type: none;
+        }
+
+.menu a {
+        display:block;
+        min-width: 120px;
+        }
+.menu a:hover {
+        background-color: #6FA1C7;
+        color: #E6FFFF;
+        border-color: #6FA1C7;
+        }
+.menu a.actif {
+        background-color: #000;
+        color: #1ABC9C;
+        border-color: #1ABC9C;
+
+.menu a:hover,
+.menu a:hover.actif {
+        background-color: #ed2794;
+        color: #ffe843;
+        border-color: #ffe843;
+    }
