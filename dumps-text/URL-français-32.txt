@@ -32,8 +32,8 @@
    Recommander cette page
    [ ] Je ne suis pas un robot
      * Votre adresse email ____________________
-     * Destinataire ____________________
      * Veuillez laisser ce champ vide : __________
+     * Destinataire ____________________
      * Texte de votre message
        ______________________________
        ______________________________
@@ -224,42 +224,45 @@ Grève et faute lourde :
    06/02/2020 Journée de mobilisation contre la réforme des retraites
    20/02/2020 Journée de mobilisation contre la réforme des retraites
 
-   Mobilisons-nous plus que jamais : Vendredi 24 janvier, on met le
-   paquet !
+   Le combat pour les retraites est engagé
 
-   Retraite 20 janvier 2020 par FEETS-FO
+   Revue de presse 11 octobre 2019 par Christophe Chiclet
 
-   Depuis le 5 décembre dernier, de nombreux salariés ont montré leur
-   détermination à refuser le projet de réforme de retraite universelle
-   par points. Après plus de 40 jours de mobilisation, le soutien reste
-   massif et majoritaire dans l’opinion publique.
+   Le 8 octobre a été une journée de mobilisation pour la défense des
+   retraites. Force Ouvrière était en première ligne pour cette bataille
+   qui ne fait que commencer. Comme elle l’était déjà en 1995, avec
+   succès. Aperçu dans la presse.
 
-   Yves Veyrier, Secrétaire général de FO, était l’invité de Matthieu
-   Belliard
+   Yves Veyrier, Secrétaire général de FO, était invité de l’émission
+   :l’éco
 
-   Europe 1 le 3 juillet 2020 3 juillet 2020 par Yves Veyrier
+   :franceinfo le mardi 15 mars 2022 15 mars par Yves Veyrier, Secrétaire
+   général de Force Ouvrière
 
-   Yves Veyrier, Secrétaire général de Force Ouvrière, était l’invité de
-   Matthieu Belliard sur Europe 1 le 3 juillet 2020.
+   Yves Veyrier, Secrétaire général de Force Ouvrière, était sur France
+   info Radio, dans l’émission :l’éco du mardi présenté par Jean-Paul
+   Chapel.
 
-   Déclaration de la Commission exécutive du 28 novembre 2019
+   Communiqué intersyndical Retraites : prêts et déterminés
 
-   Communiqué de FO 28 novembre 2019 par Yves Veyrier
+   Communiqué intersyndical 13 décembre par Frédéric Souillot
 
-   La Commission exécutive confédérale FO réaffirme son opposition au
-   « système universel par points », qui conduirait en réalité à un régime
-   unique gouverné par l’État en fonction des contraintes budgétaires et
-   financières aboutissant à contraindre demain à « devoir travailler plus
-   longtemps » ou à subir la baisse des pensions.
+   Le président de la République a annoncé le report de l’annonce de la
+   réforme au 10 janvier 2023.
+   Ce décalage de calendrier ne changera pas l’opposition de toutes les
+   organisations syndicales à tout recul de l’âge légal de départ en
+   retraite.
+   Conformément au communiqué intersyndical du 5 décembre, les (...)
 
-   Retraites : maintenir et amplifier la mobilisation dès la rentrée et
-   vers le 9 janvier
+   FO résolue à défendre les retraites !
 
-   Communiqué de FO 3 janvier 2020 par Yves Veyrier
+   Communiqué de FO 14 septembre par Michel Beaugas, Secteur Retraites
 
-   La confédération FO constate que le Président de la République a
-   confirmé sa volonté de mettre en œuvre le projet du gouvernement d’un
-   « système universel de retraites par points ».
+   Au soir même d’une réunion au ministère du travail visant à fixer le
+   calendrier d’un nouvel agenda social, en concertation avec les
+   interlocuteurs sociaux, le Président de la République a relancé son
+   projet de réforme des retraites, avec la volonté manifeste d’en
+   accélérer le tempo.
 
 force-ouvriere.fr
 
@@ -300,9 +303,9 @@ Nous suivre
 
 Notre Newsletter
 
-   Veuillez laisser ce champ vide : __________
    Votre email
    ____________________ (BUTTON)
+   Veuillez laisser ce champ vide : __________
 
 FO Autour de vous
 
