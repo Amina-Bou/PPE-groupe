@@ -1,59 +1,65 @@
-     * Éducateurs & Médiateurs
+     * Idées
 
-   Primaire CE2 EMC C'est quoi une grève ?
-   CE2
-   Matières
+   Grève
+    1. Accueil
+    2. Dico de l'éco
+    3. Grève
+
+   Dico de l'éco
+
+Grève
+
+   (BUTTON)
 --
-     * Recherche
 
-Vidéo : C'est quoi une grève ?
+   Action de stopper de manière manifeste le travail afin de réclamer plus
+   de droits. Un salarié n'est pas payé lorsqu'il est en grève mais en
+   France il est protégé et ne peut être sanctionné pour cela par son
+   employeur. Le droit de grève a été obtenu par les salariés après de
+   longs combats sociaux.
 
-   icu.next-video (BUTTON) Annuler
+   L'histoire du droit de grève en 6 dates
+
+1791
 --
-   EMC01:42Publié le 06/04/2018
+1864
 
-C'est quoi une grève ?
-
-   1 jour, 1 question
---
-   refusent des mesures qui modifient leur travail.
-
-Est-ce que la grève a toujours existé ?
-
-   Oui. La première remonte à l’époque des Egyptiens qui s'étaient
-   rebellés sur leurs conditions de travail lors de la construction du
-   tombeau de Ramses III. La France, quant à elle, a connu deux grèves
-   colossales en 1936 et 1968 ! Elles avaient complètement paralysé le
-   pays car des millions de Français s’étaient arrêtés de travailler en
-   même temps. Longtemps interdite, la grève a peu à peu été autorisée par
-   la loi. En 1946, elle est reconnue comme un droit. Ainsi, le salarié
-   est libre de faire grève sans pour autant être licencié ou mal vu par
-   son entreprise. En revanche, il n'est pas payé pendant les jours de
-   grève !
-
-   Encore aujourd’hui, il y a des exceptions : les militaires, les
-   gardiens de prison ou les pompiers n'ont pas le droit de faire grève.
-   Et les salariés des transports publics, eux, sont obligés de prévenir
-   48 heures à l’avance de leur intention de faire grève.
-
+   Abrogation du délit de coalition et instauration du droit de grève par
+   Napoléon III avec la loi Ollivier.
 
 --
-   une manifestation ?
-   C'est qui Abdelaziz Bouteflika ? C'est qui Greta Thunberg ? C'est quoi
-   une grève ? C'est quoi une manifestation ?
-   1 jour, 1 question Les valeurs de la République 1 jour, 1 question - Le
-   travail
+1946
+
+   Le droit de grève est pleinement reconnu dans la Constitution  : « Le
+   droit de grève s’exerce dans le cadre des lois qui le réglementent »,
+   alinéa 7 du préambule. Ce droit n’est, en principe, autorisé qu’aux
+   salariés du secteur privé.
 --
-   (BUTTON) Fermer la fenêtre d'ajout au favoris et voir plus tard
+1950
 
-   C'est quoi une grève ?
-   C'est quoi une grève ? C'est quoi une grève ?
-   (BUTTON) Favoris (BUTTON) Voir + tard
-   (BUTTON) Fermer la fenêtre d'ajout à l'écran d'accueil
+   Le Conseil d’État considère que la grève est possible pour les
+   fonctionnaires, mais qu’elle peut être encadrée. D’une part, certaines
+   catégories de fonctionnaires demeurent exclues (police nationale, CRS,
 --
-   (BUTTON) Fermer la fenêtre d'ajout au favoris et voir plus tard
+2000
 
-   C'est quoi une grève ?
-   C'est quoi une grève ? C'est quoi une grève ?
-   (BUTTON) Favoris (BUTTON) Voir + tard
+   Le droit de grève est inscrit dans la Charte des droits fondamentaux de
+   l’Union européenne.
 
+--
+   Sélection abonnés
+
+   Pourquoi fait-on encore grève ?
+
+   7 min.
+   Sélection abonnés
+
+   Situation économique et grève sont-elles nécessairement lié...
+
+   4 min.
+--
+   1 min.
+
+   D'où vient l'expression : « Faire grève » ?
+
+   4 min.

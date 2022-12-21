@@ -1,136 +1,17 @@
-     * Campagnes
-     * Réforme des retraites, FO dit stop !
-     * Mouvement de grève illicite, sanctions du salarié gréviste : état
-       du (...)
+    3. Dictionnaire
+    4. g
+    5. grève
+
+   Dictionnaire
+--
+   n.prop. (ellipse)
+
+   place de Grève
+   n.f.
 
 --
-   Veuillez laisser ce champ vide : __________
+   n.f. (ellipse)
 
-Mouvement de grève illicite, sanctions du salarié gréviste : état du droit
+   place de Grève
+   v. trans.
 
-   Mobilisation Publié lundi 2 décembre 2019 modifié le 28 octobre 2022 à
---
-   |
-     * Arrêt de travail
-     * Droit de grève
-     * Grève
-     * Licenciement
-
---
-   dit stop !
-
-Mouvements de grève « courts et répétés » : une grève licite
-
-   Dans le secteur privé, les grévistes peuvent déclencher un mouvement de
-   grève à n’importe quel moment. Ils n’ont pas à respecter de préavis.
-   Une convention collective ne peut pas avoir pour effet de limiter ou de
-   réglementer pour les salariés l’exercice du droit de grève.
-
-   Un syndicat est libre de lancer un mouvement de grève dans une
-   entreprise privée, même s’il n’est pas représentatif dans celle-ci. Le
-   droit de grève est constitutionnellement garanti et l’entreprise ne
-   saurait priver un syndicat de cette possibilité au motif qu’il n’est
-   pas un syndicat représentatif. Dès lors que le syndicat porte des
-   revendications professionnelles (augmentation des salaires,
-   amélioration des conditions de travail…), le mouvement de grève est
-   licite. Seuls les grévistes et le syndicat qui mènent le mouvement sont
-   juges de la légitimité de leurs revendications, l’employeur ne saurait
-   valablement s’immiscer dans ces considérations sans porter atteinte au
-   droit de grève constitutionnellement garanti.
-
-   Lorsque les revendications des salariés grévistes ont pour seul objet
---
-   faits strictement personnels que les salariés estiment abusive et
-   déloyale, la Cour de cassation n’assimile pas cela à des revendications
-   professionnelles justifiant l’exercice légitime du droit de grève. Les
-   salariés qui s’inscrivent dans un tel mouvement, qui ne peut être
-   assimilé à une grève, peuvent faire l’objet d’une sanction
-   disciplinaire, voire d’un licenciement pour faute grave en cas de refus
-   réitéré de reprendre le travail (Cass. soc., 6-4-22, n°20-21586).
-
-   Attention, la grève ne peut être limitée à une obligation particulière
-   du contrat de travail. Par exemple, la grève de l’astreinte qui
-   consiste pour les salariés à effectuer normalement leur journée de
-   travail mais à ne pas assurer leur obligation d’astreinte est illicite.
-   Autrement dit, la grève ne peut pas être uniquement destinée à
-   permettre aux salariés d’exécuter leur travail dans les conditions
-   qu’ils revendiquent (les salariés qui refusent de travailler le samedi
-   ne peuvent se mettre en grève uniquement la samedi).
-
-   Des arrêts de travail répétés et de courtes durées sont parfaitement
---
-   cessation totale et continue dans la mesure où les salariés
-   non-grévistes n’ont pas été empêchés d’accomplir leur tâche, le
-   mouvement de grève doit être déclaré comme licite (Cass. soc., 25-2-88,
-   n°85-43293).
-
---
-   courts et répétés, quelque dommageables qu’ils soient pour la
-   production, ne peuvent en principe être considérés comme un exercice
-   illicite du droit de grève (Cass. soc., 25-1-11, n°09-69030). Seule la
-   désorganisation totale de l’entreprise peut constituer un abus.
-
---
-   désorganisation de la production. Des perturbations, ou même une grave
-   désorganisation de la production, ne sont pas suffisants pour que
-   l’abus soit constaté car la grève ne dégénère en abus que si elle
-   entraine une véritable désorganisation totale de l’entreprise (Cass.
-   soc., 18-1-95, n°91-10476).
---
-   Dans la mesure où la perturbation dont se plaint l’employeur n’est que
-   la conséquence normale de la limitation de la durée du travail du fait
-   de la grève et qu’aucune désorganisation de l’entreprise manifeste et
-   complètement anormale ne s’est manifestée, l’entreprise ne peut
-   invoquer une grève illicite, l’entreprise ayant eu la possibilité
-   notamment de réduire les livraisons et d’informer sa clientèle des
-   reports de livraison (Cass. soc., 16-10-01, n°99-18128).
-
-   Une série d’arrêts de travail courts et répétés sur une période de plus
-   d’un mois ne constitue pas un abus du droit de grève, quand bien même
-   la répétition de ces arrêts aurait entrainé des gaspillages d’énergie
-   et de frais fixes, un accroissement du manque à gagner et une baisse
---
-   (Cass. soc., 7-4-93, n°91-16834).
-
-Grève et faute lourde :
-
-   Un employeur ne peut sanctionner un salarié gréviste que si celui-ci a
-   commis une faute lourde à l’occasion de la grève. La faute lourde se
-   définit comme une faute d’une gravité particulière qui révèle
-   l’intention de nuire à l’employeur et qui ne peut être excusée par les
---
-   insultes en dehors de toute violence ne constitue pas une faute lourde,
-   le fait de frapper un salarié qui refuse de rejoindre le mouvement de
-   grève, ou de séquestrer des membres de la direction, peut justifier un
-   licenciement pour faute lourde.
-
---
-   n°90-40760 ).
-
-   Un piquet de grève, qui consiste en un regroupement de salariés
-   grévistes devant l’entrée de l’entreprise, n’est pas en soi illicite.
-   Le piquet de grève vise à gêner le fonctionnement de l’entreprise et à
-   inciter les non-grévistes à cesser le travail. Celui-ci est licite, dès
-   lors qu’il n’entrave pas la liberté du travail des autres salariés et
---
-   de la production.
-
-   Lorsque le piquet de grève aboutit au blocage des portes de
-   l’établissement et interdit l’accès de l’usine aux autres salariés,
-   l’exercice anormal du droit de grève est caractérisé (Cass. soc.,
-   8-12-83, n°81-14238). Le blocage par un piquet de grève situé à
-   l’entrée principale de l’entreprise est licite dès lors que le
-   personnel gardait la possibilité de pénétrer par d’autres voies
---
-
-   Un employeur qui souhaite licencier un salarié gréviste en raison de la
-   faute lourde commise durant le mouvement de grève doit respecter la
-   procédure de licenciement. En cas de faute lourde, le salarié est privé
-   des indemnités de licenciement et du préavis, sa responsabilité civile
---
-À lire également
-
-     * Exercer son droit de grève, mode d’emploi
-     * Grève et primes : attention à la discrimination !
-
-   Plus dans la campagne Réforme des retraites, FO dit stop !…

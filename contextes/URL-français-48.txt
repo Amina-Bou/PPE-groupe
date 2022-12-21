@@ -1,165 +1,48 @@
-   #Fiches / Cours » Flux Fiches / Cours » Flux des commentaires Fiches /
-   Cours » Les conséquences de l’exercice du droit de grève Flux des
-   commentaires alternate alternate alternate
+    1. Accueil
+    2. Conflits au travail et contrôle de la réglementation
+    3. Grève
+
+   (BUTTON) (BUTTON)
+   (BUTTON)
+
+   Grève
+
+Grève des transports : quels droits pour le salarié ?
+
+   Source: Fiche service-public.fr - Mis à jour le : 30/05/2022
+
+   Le salarié absent ou en retard à cause d'une grève des transports n'est
+   pas en faute dès lors qu'il lui est impossible de se rendre au travail.
+   Pour éviter de ne pas être rémunéré, le salarié peut, en accord avec
+--
+   télétravail pour éviter une baisse de leur rémunération.
+
+Peut-on sanctionner le salarié absent en cas de grève des transports ?
+
+   Non, le salarié ne peut pas être sanctionné s'il justifie de son
+--
+   transport à son employeur.
+
+Est-ce que le salarié absent est rémunéré en cas de grève des transports ?
+
+   Non, le salarié n'est pas rémunéré pendant son absence.
+--
+   rémunération de ce temps d'absence.
+
+Peut-on imposer le télétravail au salarié en cas de grève des transports ?
+
+   Non, on ne peut pas imposer le télétravail. Si l'emploi le permet, le
+--
+       du travail
+
+Le salarié peut-il quitter son travail plus tôt en cas de grève des
+transports ?
 
 --
-          + Droit des transports
+   (BUTTON) Non (BUTTON) Oui
+   Articles liés :
+     * Droit de grève d'un salarié du secteur privé
+     * La grève : qu’est ce qu’une grève ?
+     * La grève : quelles sont les conséquences sur le salaire ?
 
-Les conséquences de l’exercice du droit de grève
-
-   septembre 27, 2019 Cours droit 7) Contentieux du droit du travail 0
---
-   [ ]
-
-     * Les conséquences de l’exercice « normale » du droit de grève
-     * 1°) La suspension du contrat de travail par la grève
-     * 2°) La protection des grévistes contre les sanctions et le
-       licenciement
-
-Les conséquences de l’exercice « normale » du droit de grève
-
-   La grève s’entend comme étant un arrêt du travail qui est, en principe,
-   total. Dès lors que la cessation de travail est totale, aucune durée
-   n’est exigée pour qu’on considère qu’il y a grève. Donc les arrêts de
-   travail répétés et de courte durée sont parfaitement licites.
-   Cependant, si la répétition des arrêts de travail de courte durée
-   aboutit à une totale désorganisation de l’entreprise, il s’agira d’un
-   abus du droit de grève. Nous n’évoquerons ici que les conséquences de
-   l’exercice « normal » du droit de grève c’est-à-dire sans abus.
-
-   Les effets de la suspension du contrat de travail des grévistes : La
-   grève suspend l’exécution du contrat et chaque partie se trouve
-   dispensée des obligations qui lui incombent. Ainsi, les périodes de
-   grève ne sont pas assimilées à un temps de travail effectif pour
-   l’appréciation du droit au congé annuel
-   [INS: :INS]
-
-   Autre effet : la protection du salarié en grève. Selon l’article
-   L.1132-2 du Code du travail, aucun salarié ne peut être sanctionné,
-   licencié ou faire l’objet d’une mesure discriminatoire en raison de
-   l’exercice normal du droit de grève. Toute disposition ou tout acte
-   contraire à l’égard d’un salarié est nul de plein droit (Cass. Ass.
-   plén., 23 juin 2006, no04-40.289). Conformément à l’article L. 2511-1
---
-Résultat de recherche d'images pour "greve"
-
-1°) La suspension du contrat de travail par la grève
-
-   Article L.2511-1 al.1 du code du travail qui dispose que « l’exercice
-   du droit de grève en peut justifier la rupture du contrat de travail,
-   sauf faute lourde imputable au salarié ». Ainsi, la grève ne rompt pas
-   le contrat de travail, le gréviste conserve donc son emploi. À la fin
-   de la grève, le contrat reprend, il est donc suspendu pour la durée de
-   la grève. Cette durée dépend de l’exercice par le salarié concerné de
-   son droit de grève dont il est seul titulaire. Ainsi, son contrat n’est
-   suspendu que pour le temps ou il a participé à la grève. Il va falloir
-   faire un décompte individuel, pour chaque salarié.
-
-   On distingue la grève au sens collectif (mouvement revendicatif), de la
-   cessation par un salarié pris individuellement, pour participer à un
-   mouvement de grève. Cette suspension du contrat de travail,
-   conformément à la théorie de la générale de la suspension, entraine la
-   suspension des obligations principales du contrat de travail. Les
---
-   le salaire, même si le salarié ne fait rien .
-
-   L’employeur, pour la durée de la grève, n’est pas tenu de payer le
-   salaire. Cette retenue de salaire n’est pas une sanction que
-   l’employeur infligerait au salarié, c’est un effet de la suspension du
---
-   doit être proportionnelle à l’interruption du travail :
-
-   – Si l’employeur retient le salaire en excédant la durée de la grève,
-   il commet un acte illicite. En effet, la fraction de la retenue qui
-   excède la durée de la grève ne peut s’analyser qu’en une sanction pour
-   le salarié. Or, cette sanction est illicite (car pas de procédure
-   disciplinaire, sanction est pécuniaire, fait obstacle au droit de
-   grève, discriminatoire). Ainsi, l’employeur doit rémunérer le gréviste
-   dès qu’il se remet à sa disposition. L’employeur ne peut pas invoquer
-   un temps de remise en route des machines ou délai de réorganisation.
-
-   – Rien n’interdit à l’employeur de verser les rémunérations
-   correspondant à la grève. C’est d’ailleurs souvent l’objet des accords
-   de fin de grève qui peuvent prévoir aussi bien la rémunération de tout
-   ou partie de la durée de la grève. Ces accords de fin de grève posent
-   parfois un problème du point de vue de leur nature juridique (accord
-   collectif ou engagement unilatéral de l’employeur ?).
---
-   – La retenue sur salaire ne concerne que les grévistes ; les non
-   grévistes conservent leur salaire même si ils sont été empêchés de
-   travailler pendant la grève. L’employeur conserve la possibilité
-   d’affecter les non grévistes à d’autres tâches que leurs tâches
-   habituelles, à condition que ces nouvelles tâches entrent dans leur
---
-   juges estiment qu’on n’est pas loin de la notion de force majeure.
-
-   Si la grève a été provoquée par un manquement grave et délibéré de
-   l’employeur à ses obligations, dans ce cas, la grève devra donner lieu
-   au versement des salaires (si l’employeur a violé un droit fondamental
-   ou s’il ne payait plus le salaire à ses salariés). Ainsi, la grève est
-   la conséquence de la faute commise par l’employeur et les salaires
-   correspondants à la durée de la grève sont dus aux grévistes.
-
-2°) La protection des grévistes contre les sanctions et le licenciement
-
-   Ici, on retrouve l’article L.2511-1 aux alinéa 2 et 3 qui prévoient que
-   l’exercice du droit de grève ne peut pas donner lieu à une mesure
-   discriminatoire notamment en matière de rémunération et d’avantages
-   sociaux. Le licenciement prononcé en l’absence d’une faute lourde du
---
-
-   L’article L.1132-2 du code du travail interdit les mesures
-   discriminatoires en raison de l’exercice normal du droit de grève et
-   renvoie à l’article L.1132-1 qui interdit, de manière générale, les
-   mesures discriminatoires.
---
-   La Cour de cassation juge, sur le base de ces articles, qu’un gréviste
-   ne peut pas être licencié ni sanctionné en raison d’un fait commis à
-   l’occasion de la grève à laquelle il a participé. SAUF si ce fait est
-   constitutif d’une faute lourde .
-
---
-   [INS: :INS]
-
-   Si l’arrêt de travail peut être qualifié de grève, alors le salarié se
-   trouve protégé par l’exercice de son droit de grève contre les
-   sanctions ou le licenciement, tant qu’il n’a pas commis de faute
-   lourde. Comme le licenciement est nul de plein droit, le salarié peut
---
-   référés peut aussi allouer des dommages et intérêts, et il faut
-   remarquer que ces sanctions peuvent être prononcées aussi bien lorsque
-   le motif du licenciement est la grève que lorsque le licenciement est
-   fondé sur un fait commis à l’occasion d’une grève mais que ce fait ne
-   peut pas être qualifié de faute lourde.
-
-   Les autres fiches de cours :
-     * Les conflits et contentieux du travail
-     * La grève : définition et modalité d’exercice
-     * Le harcèlement au travail : définition, preuve, responsabilité
-     * Obligation de l’employeur sur la santé et la sécurité du salarié
---
-     * L’organisation du conseil des prud’hommes
-     * Le règlement des conflits collectifs (médiation, conciliation…)
-     * Les conséquences de l’exercice anormal du droit de grève
-     * Les conséquences de l’exercice du droit de grève
-     * La responsabilité pénale et civile de l’employeur
-     * Contentieux en droit du travail
---
-   Suivant
-
-   Les conséquences de l’exercice anormal du droit de grève
-
-Soyez le premier à commenter
---
-
-     * Les conflits et contentieux du travail
-     * La grève : définition et modalité d’exercice
-     * Le harcèlement au travail : définition, preuve, responsabilité
-     * Obligation de l’employeur sur la santé et la sécurité du salarié
---
-     * L’organisation du conseil des prud’hommes
-     * Le règlement des conflits collectifs (médiation, conciliation…)
-     * Les conséquences de l’exercice anormal du droit de grève
-     * Les conséquences de l’exercice du droit de grève
-     * La responsabilité pénale et civile de l’employeur
-     * Contentieux en droit du travail
+   Besoin de plus d’informations ?

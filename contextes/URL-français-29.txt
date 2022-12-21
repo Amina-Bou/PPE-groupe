@@ -1,73 +1,154 @@
-   Économie
+     * Réglementation et droit du travail
 
-SNCF : préavis de grève maintenu pour les fêtes, des perturbations à prévoir
+Droit de grève : définition et Code du travail
 
-Divisé, le collectif des contrôleurs a décidé ce lundi 19 décembre de
-conserver son préavis de grève sans appeler à cesser le travail les week-ends
-du 24 et 30 décembre. Un entre-deux étonnant qui devrait engendrer des
-perturbations sur les lignes TGV.
+   Droit de grève : définition et Code du travail Le droit de grève est
+   reconnu par le Code du travail. Les droits et les obligations des
+   grévistes et des employeurs. Définition, durée, préavis et retenues
 --
 
-   Attention, bazar ! Les contrôleurs de la SNCF ont annoncé ce lundi, à
-   la mi-journée, le maintien des préavis de grève pour les week-ends de
-   Noël et du Nouvel An, via un communiqué diffusé par SUD-Rail, tout en
-   n’appelant pas à cesser le travail. Une subtilité, incompréhensible
---
-   les contrôleurs grévistes en dehors de tout cadre syndical, aucune
-   position majoritaire n’est sortie. En clair, certains cheminots
-   voulaient poursuivre la grève, d’autres non. Cette décision, pour le
-   moins ambiguë, permet à chaque contrôleur de prendre ses
-   responsabilités sans devoir suivre un mot d’ordre national.
-     __________________________________________________________________
+   Sommaire
+     * Définition du droit de grève
+     * Conditions du droit de grève
+     * Durée minimale et maximale d'une grève
+     * Préavis de grève obligatoire
+     * Conséquences pour les salariés grévistes
+     * Protection du droit de grève par le Code du travail
+     * Retenues sur salaire des grévistes
+     * Entrave au travail et licenciement
+     * Grève interdite
 
-   À lire aussiGrève SNCF : pourquoi un train ne peut pas circuler sans
-   contrôleur
-     __________________________________________________________________
---
-   Reste désormais à savoir quelles seront les conditions de circulation
-   pour les deux prochains week-ends ? Lors de leur précédent mouvement
-   social, début décembre, la grève avait été très suivie parmi les 10 000
-   chefs de bord, avec 60 % des TGV et des Intercités annulés. Cette
-   fois-ci, divisés, ils devraient être moins nombreux à cesser le
---
-   conséquentes étaient sur la table au terme de plusieurs semaines de
-   négociations, même si nous prenons acte du choix des organisations
-   syndicales de ne pas appeler à la grève ».
+Qu'est-ce que le droit de grève ?
 
-   Lors d’une rencontre avec les grévistes, le 8 décembre, la SNCF a
---
-   « Nous avons tout fait pour trouver une issue favorable et éviter un
-   conflit qui sera pénalisant pour les voyageurs, assure Christophe
-   Fanichet. Nous espérons que l’absence d’appel à la grève sera entendue
-   par chaque chef de bord, à une période de l’année où les Français
-   comptent tant sur nous pour les faire voyager ».
---
-Le plan transport connu à partir de mardi
+   Le droit de grève est la cessation collective et concertée du travail
+   par les salariés d'une entreprise en vue d'appuyer des revendications
+   professionnelles. Afin de ne pas être considéré comme illicite, le
+   mouvement des salariés doit remplir plusieurs conditions. A noter que
+   le droit de grève ne doit pas être confondu avec le droit de retrait.
 
-   Désormais, les contrôleurs qui souhaitent se mettre en grève ont
-   jusqu’à mercredi soir pour informer la direction. Mais dès ce mardi, la
-   SNCF assure qu’un premier plan de transport sera communiqué afin que
---
-   voire cheminots.
+A quelles conditions peut-on faire grève ?
 
-   « On va voir comment le mouvement, sans appel à la grève claire, sera
-   suivi, analyse un cadre de la SNCF. Ce qui est sûr, c’est qu’il y a
-   toujours un fort mécontentement chez les contrôleurs ». Pour preuve,
-   alors que moins de 30 % d’entre eux avaient jusqu’à présent annoncé à
-   la direction leur intention de se mettre en grève pour les deux
-   prochains week-ends, ce chiffre ne cesse d’augmenter depuis la réunion
-   organisée ce lundi matin entre les grévistes.
+   Pour être licite, la grève doit réunir plusieurs critères. Lorsque
+   ceux-ci ne sont pas réunis, il ne s'agit pas d'une grève mais d'un
+   mouvement illicite exposant les salariés à des sanctions de la part de
+   leur entreprise.
+
+   La grève doit ainsi être collective : elle ne peut pas être exercée par
+   un seul salarié à moins que ce dernier soit le seul salarié de
+   l'entreprise ou que celui-ci participe à une grève nationale.
+
+   La grève doit également conduire à une cessation complète du travail.
+   Elle ne peut donc pas prendre la forme d'un simple ralentissement dans
+   l'exécution du travail ou d'une exécution partielle de celui-ci.
+
+   Enfin, la grève doit s'appuyer sur des revendications professionnelles.
+   Exemples : le salaire, les conditions de travail, les primes, les
+   horaires, etc. En revanche, les mouvements « d'autosatisfaction » par
 --
-   fabrique ses propres granulés de bois
-   A défaut de trouver un train de susbtitution, les usagers touchés par
-   le mouvement de grève peuvent réclamer le remboursement à 200 % du prix
-   de leur billet initial. Stéphane de Sakutin/AFP
-   Grève à la SNCF : remboursement, bon d’achat... à quoi avez-vous le
-   droit si votre train est annulé ?
-   Le Get 27 n'est plus vendu dans les magasins Carrefour et U.
+   avril 2022), la cessation du travail par des salariés en soutien à un
+   collègue licencié sans revendications collectives n'est pas assimilable
+   à une grève. Des salariés qui arrêtent de travailler par solidarité
+   peuvent être licenciés pour absence injustifiée dès lors que la lettre
+   qu'ils ont adressée à leur employeur se contente de contester le
+   licenciement disciplinaire de leur collègue.
+
+Quelle est la durée minimale et maximale d'une grève ?
+
+   Aucune condition de durée minimum ou maximum n'est applicable à une
+   grève. Elle peut donc aussi bien durer une heure que plusieurs mois
+   sans pour autant que ces délais soient considérés comme abusifs.
+
+Le préavis de grève est-il obligatoire ?
+
+   Dans le secteur privé, une grève peut être déclenchée à tout moment. La
+   jurisprudence exige simplement que les revendications professionnelles
+   sur lesquelles elle porte soient connues de l'employeur lorsque l'arrêt
 --
-   boulot ? La réponse du psy
-   Illustration. La gare de Paris Gare de Lyon en 2019.
-   Grève à la SNCF : des remboursements de billets de train à hauteur de
-   «200 %», annonce le PDG de SNCF Voyageurs
-   En partie à cause de la hausse des prix de l'énergie, le foie gras
+   fonction publique, les établissements publics et les entreprises
+   privées qui gèrent un service public (la SNCF par exemple), l'exercice
+   du droit de grève fait l'objet d'une réglementation renforcée. Un
+   préavis de grève doit être établi par une organisation syndicale
+   représentative et être adressé à la direction au moins 5 jours francs
+   avant le début de la grève.
+
+Quelles sont les conséquences d'une grève sur le contrat de travail ?
+
+   Pour les salariés grévistes, la grève entraîne la suspension de leur
+   contrat de travail. Le salarié n'exécute pas son travail tandis que
+   l'employeur est dispensé de lui verser son salaire pour la durée de
+   l'arrêt de travail. Le salarié gréviste est également protégé contre
+   d'éventuelles sanctions prononcées par l'entreprise en raison de la
+   grève.
+
+Quel article du Code du travail protège le droit de grève ?
+
+   Les salariés grévistes bénéficient de la protection accordée par
+   l'article L. 2511-1 du Code du travail qui prévoit que l'exercice du
+   droit de grève :
+     * ne peut pas justifier la rupture du contrat de travail (sauf faute
+       lourde du salarié)
+--
+   nul de plein droit.
+
+     Exemples de faute lourde en cas de grève : des violences ou une
+     destruction du matériel de l'entreprise.
+
+Quelle retenue sur salaire en cas grève ?
+
+   Le montant de la retenue sur salaire en cas de grève du salarié doit
+   être proportionnelle à la durée de son arrêt de travail. Toute retenue
+   supérieure à ce montant doit être analysée comme une sanction
+--
+
+   Pour qu'une retenue sur salaire soit effectuée, encore faut-il que le
+   salarié soit réellement en grève. La Cour de Cassation (arrêt n°
+   14-30012 de la chambre sociale rendu le 30 juin 2016) considère ainsi
+   que les salariés ayant pointé et étant restés à la disposition de leur
+   employeur pendant une grève dans l'entreprise ont droit au paiement de
+   leurs salaires pour la période correspondante.
+
+--
+
+   Un salarié gréviste ne peut pas empêcher d'autres salariés de
+   travailler si ceux-ci ne souhaitent pas faire grève. A défaut, il
+   s'expose à un licenciement pour faute lourde. Tel est le cas, par
+   exemple, du salarié bloquant l'entrée et la sortie d'un dépôt de bus en
+   refusant de libérer le passage malgré la sommation d'un huissier de
+   justice, son employeur ayant décidé de maintenir une ligne de bus
+   malgré la grève (arrêt n° 15-19309 de la chambre sociale de la Cour de
+   Cassation rendu le 18 janvier 2017). Licencier un salarié gréviste est
+   dans ce cas possible, mais à condition pour l'employeur d'apporter la
+--
+   15-22428, rendu le même jour).
+
+Grève interdite
+
+   Dans certains secteurs de la fonction publique, les fonctionnaires ont
+   l'interdiction de faire grève. Il s'agit notamment :
+     * des CRS ;
+     * des militaires ;
+--
+   législatives.
+
+   Droit de grève : définition et Code du travail
+
+   Sommaire Définition du droit de grève Conditions du droit de grève
+   Durée minimale et maximale d'une grève Préavis de grève obligatoire
+   Conséquences pour les salariés grévistes Protection du droit de grève
+   par le Code du travail...
+
+--
+Réglementation et droit du travail
+
+     * Droit de grève code du travail
+     * Grève def
+     * Définition grève travail
+     * Grève sncf calendrier 2022 > Guide
+     * Pour faire valoir ce que de droit > Guide
+     * Prestation sans droit caf > Forum RSA
+--
+     * Droit à la déconnexion : définition et Code du travail
+     * Travail en soirée : droits et rémunération du salarié
+     * Grève des transports : absence ou retard au travail
+     * VRP : définition, statut et règles du Code du travail
+     * Changement de lieu de travail par l'employeur

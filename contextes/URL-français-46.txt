@@ -1,68 +1,190 @@
-   #À la Une de 20minutes.fr Droit de grève : Quelles conséquences pour le
-   salarié ?
+     * Blog
+
+La grève
+
+Introduction
+
+   La grève se définit comme la cessation collective et concertée du
+   travail (1) en vue d’appuyer des revendications professionnelles (2).
+   Ce n’est que si le mouvement collectif répond à cette définition que le
+--
+   à reprendre le travail en les réquisitionnant (3).
+
+   En principe, et sauf meilleure négociation, les heures de grève ne
+   donnent pas lieu à rémunération (4). Faire grève a donc un coût pour
+   les salariés. La Cour de cassation a réussi à adapter ce principe aux
+   salariés en forfaits jours.
+
+   Si la grève peut avoir un impact sur le montant d’une prime
+   d’assiduité, certaines conditions doivent être remplies pour que la
+   mesure ne soit pas considérée comme discriminatoire. Pour les mêmes
+   raisons, attribuer une prime aux seuls salariés n’ayant pas participé
+   au mouvement de grève apparaît périlleux.
+
+   Les salariés pourront toutefois prétendre à une indemnité compensant la
+   perte de salaire s’ils se sont trouvés dans une situation contraignante
+   telle qu’ils ont dû faire grève pour faire respecter leurs droits
+   essentiels (5).
+
+   Aux termes de l’article L 2511-1 du code du travail « l’exercice du
+   droit de grève ne peut justifier la rupture du contrat de travail, sauf
+   faute lourde imputable au salarié ». Licencier un salarié au mépris de
+   cette disposition peut coûter très cher à l’employeur (6).
+
+   Si le mouvement est qualifié d’illicite car ne répondant pas aux
+   critères de la grève, la responsabilité civile des organisations
+   syndicales ayant organisé le mouvement peut être engagée (7).
+
+1) La cessation collective et concertée du travail
+
+   La « grève des astreintes » n’est pas une grève
+
+   Suite à un préavis de « grève » déposé par une organisation syndicale,
+   des salariés normalement tenus d’accomplir des astreintes
+   professionnelles cessent de les accomplir. Pour le reste, ils
+   accomplissaient normalement leur travail. Ces salariés pouvaient-ils se
+   prévaloir de la protection inhérente à l’exercice du droit de grève ?
+
+   C’est non ! Faire la « grève des astreintes » n’est pas un exercice
+   normal du droit de grève pour la Cour de cassation et s’apparente à une
+   inexécution des obligations contractuelles, donc à une faute.
+     * La grève est la cessation collective et concertée du travail en vue
+       d’appuyer des revendications professionnelles ; qu’elle ne peut,
+       dès lors, être limitée à une obligation particulière du contrat de
+--
+   travail et ne confère pas la protection applicable au salarié gréviste.
+
+   Dans un autre exemple intéressant EDF, la qualification de grève n’a
+   pas été retenue. Les salariés cessaient le travail à un moment bien
+   précis de la journée au cours duquel des horaires et des tâches
+--
+
+   Des salariés sont licenciés pour abandon de poste. Invoquant le droit
+   de grève, l’employeur leur reproche de n’avoir pas présenté de
+   revendications avant d’avoir cessé le travail dans la nuit du 17 au 18
+   février 2005. La Cour de cassation sanctionne l’employeur pour
+   violation du droit de grève. En effet, « l’inspectrice du travail par
+   lettre du 24 janvier 2005 avait porté à la connaissance de la direction
+   des doléances des salariés ». Cass. soc. 28 février 2007 n° 06-40944
+--
+l’entreprise.
+
+   Caractérise l’exercice du droit de grève une cessation concertée et
+   collective du travail en vue de soutenir un mot d’ordre national pour
+   la défense des retraites, qui constitue une revendication à caractère
+--
+
+   La capacité de l’employeur à satisfaire les revendications des salariés
+   est sans incidence sur la légitimité de la grève » soc. 23 octobre 2007
+   n° 06-17802 (P)
 
 --
-     * Guerre en Ukraine
-     * Noël
-     * Grève à la SNCF
-     * Sorties ciné
+   mairie revienne sur une de ces décisions. L’employeur ne pouvant
+   directement satisfaire cette revendication avait contesté la légalité
+   de la grève.
+
+3) L’impossibilité pour l’employeur de réquisitionner des salariés grévistes
+--
+   peut être imposé que par la loi.
+
+4) Grève et rémunération
+
+   La Cour de cassation a fixé les principes suivants :
+--
+     * l’abattement appliqué doit être proportionnel à la durée de l’arrêt
+       de travail,
+     * la retenue pour fait de grève doit être identique à celle subie par
+       les salariés concernés pour toute autre absence de même durée.
+
+   La Cour de cassation a réussi à appliquer le principe de la retenue
+   proportionnelle à la durée de grève aux salariés en forfaits jours, ce
+   qui constitue un tour de force (a). Elle veille par ailleurs à ce que
+   les salariés grévistes ne fassent pas l’objet de mesures
+--
+
+   Comment calculer la retenue de salaire pouvant être opérée sur la
+   rémunération d’un cadre au forfait jours quand la durée de la grève est
+   courte, par exemple inférieure à la demi-journée de travail ? La Cour
+   de cassation donne la règle à suivre. Toutefois le principe de la
+--
+   particularité du contrat des cadres dont les absences ne peuvent être
+   comptabilisées que par journée complète, voir demi-journée, les
+   absences pour grève du mois précédent étaient cumulées et déduites de
+   la paie si elles atteignaient l’équivalent d’une demi-journée comptée
+   pour 3,90 heures ou d’une durée multiple de 3,90 heures, les heures
+   restantes étant conservées et reportées dans le cumul du mois suivant,
+   chacun des cadres intéressés pouvant obtenir de la direction, sur sa
+   demande, un relevé individuel des arrêts de travail pour grève
+   constatés, des retenues effectuées et des temps reportés.
 
 --
-    2. Économie
+   collectif sont à 35 H, un cadre au forfait jours gagnant 40 000 € par
+   an et devant travailler 215 jours, supportera une retenue de salaire
+   calculée comme suit pour une heure de grève :
 
-Droit de grève : Quelles conséquences pour le salarié ?
+   215 jours / 217 jours x 151,67 heures x 12 mois = 1803,26
 
-   TRAVAIL Faute de dialogue préalable, la grève est bien souvent la seule
-   façon pour les travailleurs de se faire entendre. L’exercice de ce
-   droit constitutionnel a toutefois des répercussions financières
+   Le salaire horaire, et donc la retenue pour une heure de grève, est de
+   40 000 € / 1803,26 = 22,18 €
+     * L’incidence de dispositions conventionnelles
 --
-     * (BUTTON) Sauvegarder l'article
+   La Cour de cassation s’appuie sur ce texte pour dénier à l’employeur la
+   possibilité de retenir une partie de la rémunération du salarié qui a
+   cessé le travail pendant 1H 30. Seule la participation à une grève
+   d’une demi-journée aurait pu donner lieu à retenue de salaire. Cass.
+   soc. 4 mars 2009 n° 07-45291 ; 07-45292 ; 07-45293 ; 07-45294 et
+   07-45295 (P).
 
-   L'exercice du droit de grève est légal à condition de respecter un
-   certain cadre.
-   L'exercice du droit de grève est légal à condition de respecter un
-   certain cadre. — iStock / City Presse
+b. Grève et prime d’assiduité
+
+   Après une période de jurisprudence implacable, la Cour de cassation,
+--
+
+   « Si l’employeur peut tenir compte des absences, même motivées par la
+   grève, pour l’attribution d’une prime destinée à récompenser une
+   assiduité profitable à l’entreprise, c’est à la condition que toutes
+   les absences, autorisées ou non, entraînent les mêmes conséquences « .
+--
+
+   « Si l’employeur peut tenir compte des absences, même motivées par la
+   grève, pour le paiement d’une prime, c’est à la condition que toutes
+   les absences, hormis celles qui sont légalement assimilées à un temps
+   de travail effectif, entraînent les mêmes conséquences sur son
+--
+   juin 2009 n° 08-42154 (P).
+
+c. Grève et récompense des salariés non grévistes
+
+   Dans une affaire où un employeur avait attribué une prime aux salariés
+--
+   supplémentaires, la Cour de cassation oppose sèchement : « qu’est
+   discriminatoire l’attribution par l’employeur d’une prime aux salariés
+   selon qu’ils ont participé ou non à un mouvement de grève ». soc. 1^er
+   juin 2010 n° 09-40144 (P).
+
+5) L’indemnisation des heures de grève en cas de situation contraignante
+
+     * Le principe
+--
+   2006 n° 04-46664 (P).
+
+   « Le mouvement de grève ayant été notamment motivé par le non-paiement
+   des heures supplémentaires et donc, à l’évidence, par un manquement
+   grave et délibéré de l’employeur à ses obligations, le juge des référés
+   a exactement décidé que l’obligation de l’employeur au paiement des
+   provisions sollicitées n’était pas sérieusement contestable, nonobstant
+   le protocole d’accord de fin de grève » soc. 3 mai 2007 n° 05-44776
+   (P).
 
 --
-   mesures qu’ils estiment être à leur désavantage, les travailleurs
-   hexagonaux ont en effet essentiellement à leur disposition le droit de
-   grève.
+   (P).
 
-Une démarche sous conditions
+   Après avoir rappelé la valeur constitutionnelle du droit de grève ainsi
+   que l’article L 2511-1 du code du travail, la Cour de cassation fixe le
+   mode de calcul de l’indemnisation que peut obtenir le salarié dont le
 --
-   concertée du travail. Il faut donc qu’au moins deux employés
-   participent à ce mouvement. Ceci étant dit, un travailleur isolé peut
-   se mettre en grève tout seul dans son entreprise, dès lors qu’il suit
-   un appel lancé au niveau national ou qu’il est l’unique salarié de la
-   société.
---
-   Par ailleurs, il ne s’agit pas de stopper son activité n’importe
-   comment. Pour être légal, l'arrêt du travail doit être complet, ce qui
-   exclut de travailler au ralenti ou mal (grève perlée) ou de cesser ses
-   tâches uniquement à certains moments (pendant ses heures d’astreinte
-   par exemple). De plus, le mouvement doit être suivi par l’ensemble des
---
-Le salaire impacté
-
-   La participation d’un employé à une grève légale entraîne la suspension
-   de son contrat de travail mais en aucun cas une rupture. Ce droit
-   permet ainsi de stopper ses tâches sans pour autant être sanctionné par
---
-   paie. Dès lors, la rémunération et ses éventuels à-côtés, comme
-   l’indemnité de déplacement par exemple, sont réduits
-   proportionnellement à la durée de la grève. Cette absence peut
-   également être prise en compte pour baisser ou supprimer une prime.
-   Mais attention à ne pas calculer trop large : toute retenue excessive
-   de salaire est interdite. Le motif de grève ne peut pas apparaître sur
-   le bulletin de paie. Seule l’indication « absence non rémunérée »
-   permet de garder une trace du non-paiement de ces heures.
---
-   dans un contexte chaotique
-   Société
-   Grève dans les transports : Trafic peu perturbé lundi à la RATP
-     * Legislation
-     * Salaire
-     * Travail
-     * Grève
-     * Économie
-
+   Elle estime que « la Cour d’appel a caractérisé le comportement fautif
+   des associations professionnelles de transporteurs dont le mouvement
+   collectif ne constituait pas une grève au sens de l’article L. 521-1
+   [L. 2511-1] du Code du travail ». Cass. soc. 11 janvier 2006 n°
+   04-16114 (P).

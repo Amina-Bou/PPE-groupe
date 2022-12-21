@@ -1,154 +1,100 @@
-     * Réglementation et droit du travail
+    3. Citoyenneté
+    4. Droits du citoyen
+    5. Qu'est-ce que le droit de grève ?
 
-Droit de grève : définition et Code du travail
-
-   Droit de grève : définition et Code du travail Le droit de grève est
-   reconnu par le Code du travail. Les droits et les obligations des
-   grévistes et des employeurs. Définition, durée, préavis et retenues
---
-
-   Sommaire
-     * Définition du droit de grève
-     * Conditions du droit de grève
-     * Durée minimale et maximale d'une grève
-     * Préavis de grève obligatoire
-     * Conséquences pour les salariés grévistes
-     * Protection du droit de grève par le Code du travail
-     * Retenues sur salaire des grévistes
-     * Entrave au travail et licenciement
-     * Grève interdite
+   Fiche thématique
 
 Qu'est-ce que le droit de grève ?
 
-   Le droit de grève est la cessation collective et concertée du travail
-   par les salariés d'une entreprise en vue d'appuyer des revendications
-   professionnelles. Afin de ne pas être considéré comme illicite, le
-   mouvement des salariés doit remplir plusieurs conditions. A noter que
-   le droit de grève ne doit pas être confondu avec le droit de retrait.
+   La grève est une cessation collective et concertée du travail destinée
+   à appuyer des revendications professionnelles.
 
-A quelles conditions peut-on faire grève ?
-
-   Pour être licite, la grève doit réunir plusieurs critères. Lorsque
-   ceux-ci ne sont pas réunis, il ne s'agit pas d'une grève mais d'un
-   mouvement illicite exposant les salariés à des sanctions de la part de
-   leur entreprise.
-
-   La grève doit ainsi être collective : elle ne peut pas être exercée par
-   un seul salarié à moins que ce dernier soit le seul salarié de
-   l'entreprise ou que celui-ci participe à une grève nationale.
-
-   La grève doit également conduire à une cessation complète du travail.
-   Elle ne peut donc pas prendre la forme d'un simple ralentissement dans
-   l'exécution du travail ou d'une exécution partielle de celui-ci.
-
-   Enfin, la grève doit s'appuyer sur des revendications professionnelles.
-   Exemples : le salaire, les conditions de travail, les primes, les
-   horaires, etc. En revanche, les mouvements « d'autosatisfaction » par
 --
-   avril 2022), la cessation du travail par des salariés en soutien à un
-   collègue licencié sans revendications collectives n'est pas assimilable
-   à une grève. Des salariés qui arrêtent de travailler par solidarité
-   peuvent être licenciés pour absence injustifiée dès lors que la lettre
-   qu'ils ont adressée à leur employeur se contente de contester le
-   licenciement disciplinaire de leur collègue.
+     * Partager sur Linkedin (nouvelle fenêtre)
 
-Quelle est la durée minimale et maximale d'une grève ?
+Comment définit-on le droit de grève ?
 
-   Aucune condition de durée minimum ou maximum n'est applicable à une
-   grève. Elle peut donc aussi bien durer une heure que plusieurs mois
-   sans pour autant que ces délais soient considérés comme abusifs.
+   En France, le droit de grève est un droit à valeur constitutionnelle.
+   Il fait partie des droits et devoirs accordés dès 1946 et repris par la
+   Constitution de la Ve République : "le droit de grève s’exerce dans le
+   cadre des lois qui le règlementent" (alinéa 7 du préambule de la
+   Constitution de 1946).
 
-Le préavis de grève est-il obligatoire ?
+   L’arrêt du 2 février 2006 de la chambre sociale de la Cour de cassation
+   définit la grève comme "la cessation collective, concertée et totale du
+   travail en vue de présenter à l’employeur des revendications
+   professionnelles".
 
-   Dans le secteur privé, une grève peut être déclenchée à tout moment. La
-   jurisprudence exige simplement que les revendications professionnelles
-   sur lesquelles elle porte soient connues de l'employeur lorsque l'arrêt
+   Pour être valable, une grève doit réunir les conditions suivantes :
+     * un arrêt total du travail ;
+     * un arrêt collectif du travail par l’ensemble des salariés grévistes
+       (l’appel d’un syndicat à faire grève n’est pas nécessaire) ;
+     * des revendications professionnelles (portant sur le salaire, les
+       conditions de travail, la défense des droits...).
+
+Dans quelles conditions une grève peut-elle avoir lieu ?
+
+   Dans le secteur privé, un mouvement de grève peut être déclenché à tout
+   moment, sans préavis ni avertissement ou tentative de conciliation avec
+   l’employeur. À l’inverse, dans le secteur public, une grève doit
+   obligatoirement être précédée d’un préavis de cinq jours pendant lequel
+   les représentants syndicaux et l’administration employeur sont tenus de
 --
-   fonction publique, les établissements publics et les entreprises
-   privées qui gèrent un service public (la SNCF par exemple), l'exercice
-   du droit de grève fait l'objet d'une réglementation renforcée. Un
-   préavis de grève doit être établi par une organisation syndicale
-   représentative et être adressé à la direction au moins 5 jours francs
-   avant le début de la grève.
 
-Quelles sont les conséquences d'une grève sur le contrat de travail ?
+   Dans les deux cas, les revendications portées par les grévistes doivent
+   être clairement communiquées à l’employeur dès le départ. La grève peut
+   être de courte durée (1h par exemple) ou bien s’étendre sur plusieurs
+   jours voire semaines. Elle peut aussi être répétée. Néanmoins, les
+--
+   le matériel), ils s’exposent à une sanction.
 
-   Pour les salariés grévistes, la grève entraîne la suspension de leur
-   contrat de travail. Le salarié n'exécute pas son travail tandis que
-   l'employeur est dispensé de lui verser son salaire pour la durée de
-   l'arrêt de travail. Le salarié gréviste est également protégé contre
-   d'éventuelles sanctions prononcées par l'entreprise en raison de la
+   Certaines formes de grèves sont interdites dans la fonction publique :
+     * la grève tournante, qui correspond à la cessation du travail par
+       roulement concerté des différents secteurs ou catégories
+       professionnelles d’une même administration ;
+     * la grève politique, non justifiée par des revendications
+       professionnelles ;
+     * la grève sur le tas avec occupation et blocage des locaux de
+       travail.
+
+Quelles sont les conséquences d’une grève sur l’emploi des grévistes ?
+
+   La grève suspend le contrat de travail des grévistes mais ne le rompt
+   pas. Le code du travail, dans sa version de 2002 toujours en vigueur,
+   précise que "l’exercice du droit de grève ne peut justifier la rupture
+   du contrat de travail, sauf faute lourde imputable au salarié" (article
+   L2511-1). Le gréviste perd une partie de son salaire proportionnelle à
+--
+
+   Aucun salarié ne peut être sanctionné ni faire l’objet d’une
+   discrimination pour avoir fait grève. Il peut néanmoins être sanctionné
+   voire perdre son emploi s’il a commis des actes illégaux (comme l’usage
+   de la violence à l’encontre du personnel ou de la direction de
+   l’entreprise).
+
+Quelles sont les limites au droit de grève ?
+
+   Certains agents publics n’ont pas le droit de grève, en raison de
+   l’obligation d'assurer la continuité du service public. Les professions
+   concernées sont :
+--
+       surveillance et de conservation des données).
+
+   D’autres professions bénéficient d’un droit de grève limité et doivent
+   assurer un service minimum à cause de leur organisation particulière
+   comme les contrôleurs aériens, les employés de l’audiovisuel public,
+--
+   les écoles maternelles et élémentaires, les enseignants doivent
+   informer à l'avance leur administration de leur intention de faire
    grève.
 
-Quel article du Code du travail protège le droit de grève ?
-
-   Les salariés grévistes bénéficient de la protection accordée par
-   l'article L. 2511-1 du Code du travail qui prévoit que l'exercice du
-   droit de grève :
-     * ne peut pas justifier la rupture du contrat de travail (sauf faute
-       lourde du salarié)
+   Le pouvoir exécutif peut également décider de limiter le droit de
+   grève au nom de l'article L1111-2 du code de la défense, lequel
+   autorise la mobilisation générale de tout ou une partie de la
+   population "en cas de menace portant notamment sur une partie du
 --
-   nul de plein droit.
+     * Emploi - Travail
+     * Relations du travail
+     * Grève
 
-     Exemples de faute lourde en cas de grève : des violences ou une
-     destruction du matériel de l'entreprise.
-
-Quelle retenue sur salaire en cas grève ?
-
-   Le montant de la retenue sur salaire en cas de grève du salarié doit
-   être proportionnelle à la durée de son arrêt de travail. Toute retenue
-   supérieure à ce montant doit être analysée comme une sanction
---
-
-   Pour qu'une retenue sur salaire soit effectuée, encore faut-il que le
-   salarié soit réellement en grève. La Cour de Cassation (arrêt n°
-   14-30012 de la chambre sociale rendu le 30 juin 2016) considère ainsi
-   que les salariés ayant pointé et étant restés à la disposition de leur
-   employeur pendant une grève dans l'entreprise ont droit au paiement de
-   leurs salaires pour la période correspondante.
-
---
-
-   Un salarié gréviste ne peut pas empêcher d'autres salariés de
-   travailler si ceux-ci ne souhaitent pas faire grève. A défaut, il
-   s'expose à un licenciement pour faute lourde. Tel est le cas, par
-   exemple, du salarié bloquant l'entrée et la sortie d'un dépôt de bus en
-   refusant de libérer le passage malgré la sommation d'un huissier de
-   justice, son employeur ayant décidé de maintenir une ligne de bus
-   malgré la grève (arrêt n° 15-19309 de la chambre sociale de la Cour de
-   Cassation rendu le 18 janvier 2017). Licencier un salarié gréviste est
-   dans ce cas possible, mais à condition pour l'employeur d'apporter la
---
-   15-22428, rendu le même jour).
-
-Grève interdite
-
-   Dans certains secteurs de la fonction publique, les fonctionnaires ont
-   l'interdiction de faire grève. Il s'agit notamment :
-     * des CRS ;
-     * des militaires ;
---
-   législatives.
-
-   Droit de grève : définition et Code du travail
-
-   Sommaire Définition du droit de grève Conditions du droit de grève
-   Durée minimale et maximale d'une grève Préavis de grève obligatoire
-   Conséquences pour les salariés grévistes Protection du droit de grève
-   par le Code du travail...
-
---
-Réglementation et droit du travail
-
-     * Droit de grève code du travail
-     * Grève def
-     * Définition grève travail
-     * Grève sncf calendrier 2022 > Guide
-     * Pour faire valoir ce que de droit > Guide
-     * Prestation sans droit caf > Forum RSA
---
-     * Droit à la déconnexion : définition et Code du travail
-     * Travail en soirée : droits et rémunération du salarié
-     * Grève des transports : absence ou retard au travail
-     * VRP : définition, statut et règles du Code du travail
-     * Changement de lieu de travail par l'employeur
+Dans la même thématique :

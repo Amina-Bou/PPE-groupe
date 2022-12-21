@@ -1,45 +1,310 @@
-   #Avocat Jalain » Flux Avocat Jalain » Flux des commentaires Avocat
-   Jalain » Comment savoir si une grève est licite ? Flux des commentaires
-   alternate alternate alternate
+     * Impressum
 
-   Pour toute consultation, merci de nous contacter par mail sur
-   contact@avocat-jalain.fr
-   Comment savoir si une grève est licite ? Comment savoir si une grève
-   est licite ?
-
-   Comment savoir si une grève est licite ?
-     * Le cabinet
-     * Expertise
+   La culture de grève Ici vous trouverez quelques informations sur la
+   culture de grève en France. En touchant des domaines divers comme le
+   contexte historique, la législation ainsi que le rôle des syndicats, le
+   texte vous offre une comparaison avec la situation en Allemagne et
+   explique pourquoi la France utilise si régulièrement son droit de grève
+   au lieu de préférer des négociations paisibles.
+   https://www.uni-giessen.de/de/fbz/fb05/romanistik/sprx/frz/pers/moureau
 --
-   (BUTTON) Recherche
+     *
 
-Comment savoir si une grève est licite ?
+La culture de grève
 
-                  Comment savoir si une grève est licite ?
+   Ici vous trouverez quelques informations sur la culture de grève en
+   France. En touchant des domaines divers comme le contexte historique,
+   la législation ainsi que le rôle des syndicats, le texte vous offre une
+   comparaison avec la situation en Allemagne et explique pourquoi la
+   France utilise si régulièrement son droit de grève au lieu de préférer
+   des négociations paisibles.
 
-   Pour qu’un mouvement de grève soit valable et que par conséquent les
-   salariés y participant soit protégés contre toute sanction à ce titre
-   (art. L. 2511-1 C. tr.), il doit répondre à trois critères :
-     * Un arrêt total du travail (le travail défectueux ou ralenti est
-       donc interdit),
-     * Une volonté commune (un salarié ne peut faire grève seul sauf s’il
-       rallie un mouvement national),
-     * Des revendications professionnelles (dont l’employeur doit être
+     * Le mouvement social contre la réforme des retraites en 2010
+     * La culture de grève dans le contexte de la Révolution française
+     * La législation
+     * Le rôle des syndicats
+     * Types de grèves
+
+
+   La culture de grève
+
+   (Image : La grève contre la réforme des retraites à Besançon en 2010.)
+
+
+   Selon l'un des stéréotypes les plus répandus, les Français adorent
+   vraiment faire grève. Comme ils semblent passer la majorité de leur
+   temps dans la rue pour manifester contre tout ce qui les dérange, on
+   pourrait rapidement penser que la France ne se compose que de râleurs
+   jamais contents. Surtout nous, les Allemands, pensons que nos voisins
+   français sont presque toujours en grève: Les trains sont bloqués, les
+   aéroports sont fermés et les stations-service n'ont plus d'essence. La
+   'culture de grève' est sans doute l'un des stéréotypes les moins
+   flatteurs sur la France.
+
+--
+   l'université de Besançon en 2010. Cette année a été surtout marquée par
+   un sujet: le mouvement social contre la réforme des retraites[1]. Les
+   grèves contre cette nouvelle loi ont commencé juste au bon moment: à la
+   rentrée. Comme l'entreprise de transport locale avait cessé son
+   travail, la ville entière a sombré dans le chaos. Prendre un taxi ou sa
 --
 
-   Dans le secteur privé, aucun préavis n’est imposé par la loi. Or seule
-   la loi peut encadrer le droit de grève protégé constitutionnellement
-   par le préambule de la Constitution de 1946. Une convention collective
-   ne pourrait donc prévoir une telle condition supplémentaire.
+   Mais cet incident désagréable était malheureusement seulement le début
+   d'une kyrielle de grèves. En plus de plusieurs semaines où l'entreprise
+   de transport local de Besançon a seulement assuré un service limité à
+   25-80%, il y a eu deux jours sans aucun service. En octobre, c'étaient
+   surtout la SNCF et les stations-services qui ont été en grève. Quand ma
+   mère a voulu me rendre visite en France par exemple, j'ai dû aller la
+   chercher à la gare de Colmar parce que le train jusqu’à Besançon était
 --
-   Dans les services publics, les agents non titulaires et fonctionnaires
-   sont tenus de respecter un délai de préavis de 5 jours francs durant
-   lesquels ils doivent négocier avant le déclenchement de la grève. Ledit
-   préavis est déposé par une organisation syndicale représentative au
-   niveau national et indique la date, le lieu, l’heure du déclenchement,
+   améliorée jusque-là, mais quelques-uns d'entre eux ont vraiment dû
+   rester à Besançon. D'autres ont pris leur propre voiture ou ils se sont
+   cherché un covoiturage. Pourtant, à cause de la grève dans le secteur
+   pétrolier, la voiture également n'était pas la solution parfaite pour
+   retourner à la maison. De plus, aussi le personnel des stations de
+   péage s’est mis en grève pendant cette période. Finalement, la
+   situation n'était pas si grave. La pénurie de carburant n'a pas touché
+   la région de Besançon et les stations de péage proposaient un service
 --
-   _____________________________________________
-   _____________________________________________
-   Comment savoir si une grève est licite ?
-     __________________________________________________________________
 
+   Pendant mon séjour à Besançon, aussi le secteur éducatif s’est joint à
+   la grève contre la réforme des retraites. Mais tandis que les écoles
+   ont été fermées plusieurs jours pour faire des manifestations,
+   l'université a été bloquée pour seulement un jour en novembre:
+--
+
+   Donc, pendant mon séjour de seulement cinq mois, j'ai dû subir un bon
+   nombre de grèves. Avec mes expériences à Besançon et après avoir vécu
+   en Allemagne pour plus de 24 ans, je peux maintenant confirmer sans
+   doute que les Français font vraiment souvent la grève. La citation
+   suivante montre dans ce contexte qu’il ne s’agit pas du tout d’une
+   impression complètement subjective. De plus elle fait preuve du fait
+   que l’année 2010 n’était pas une exception dans l’histoire de la grève
+   en France:
+
+   « Selon Eurostat […], l’Hexagone occupe pour la période 2000-2007 la
+   deuxième place en Europe, derrière l’Espagne, des pays les plus touchés
+   par les grèves. La France comptait une moyenne de 110 jours de grève
+   par an pour 1000 travailleurs – soit 23 fois plus qu’en Allemagne. »[3]
+   Il est malgré tout intéressant que la première place est occupée par
+   l’Espagne et pourtant on n’associe pas l’Espagne à la grève.
+
+   En parlant des différences entre la France et l’Allemagne, le journal
+--
+   zwar so manchen Bürger aufgebracht. Die Gewerkschaften haben jedoch
+   nicht zum Streik aufgerufen »[4]. Mais pourquoi la France
+   utilise-t-elle si régulièrement son droit de grève au lieu de préférer
+   des négociations paisibles entre les salariés et les employeurs - un
+   moyen beaucoup moins extrême pour faire entendre son mécontentement?
+--
+   des syndicats.
+
+La culture de grève dans le contexte de la Révolution française
+
+   Avant tout, la culture de grève en France trouve sa source dans
+   l’histoire de ce pays: La Révolution française de 1789-1799 : « On est
+   un peu plus rebelles que d’autres. Ce n’est pas pour rien que c’est en
+--
+   les grévistes sont beaucoup plus paisibles qu’en 1789 et se limitent
+   normalement à bloquer des usines ou à manifester dans la rue. Mais il y
+   a aussi des cas un peux plus extrêmes comme la grève chez Renault Douai
+   en janvier cette année (2013). En manifestant contre l’accord de
+   compétitivité qui prévoit entre autres « 7 500 suppressions nettes
+--
+La législation
+
+   Même si la culture de grève en France peut être considérée comme une
+   conséquence de la révolution, c’est surtout le droit de grève qui
+   favorise le nombre et l’intensité des manifestations en France. Tout
+   d’abord il faut savoir que c’est très simple pour un employé de faire
+   grève! Le droit de grève est même reconnu par la Constitution. Le
+   préambule de la Constitution de 1946 énonce ce qui suit:
+
+--
+   syndicale et adhérer au syndicat de son choix.
+
+   7. Le droit de grève s'exerce dans le cadre des lois qui le
+   réglementent ».[12]
+
+   Bien que la Constitution de 1946 ait été remplacée par la Constitution
+   de la Cinquième République de 1958, son préambule et donc le droit de
+   grève qui y est inscrit sont encore valables[13]. Etant ancré dans la
+   Constitution, le droit de grève est un droit individuel : « Chaque
+   individu peut donc faire grève, même s’il n’est pas syndiqué »[14]. Les
+   seules conditions sont entre autres:
+     * La grève et un arrêt de travail clair et net : La grève perlée
+       (=Dienst nach Vorschrift : travailler mal et au ralenti) est
+       illégale[15].
+
+     * Il faut « protester pour des raisons professionnelles »[16]. Une
+       grève avec des motifs purement politiques est, comme en Allemagne,
+       interdite[17].
+
+     * Même si c’est un droit individuel, un gréviste a besoin d’un
+       mouvement collectif auquel il peut participer. Par conséquent, il
+       peut décider seul de se mettre en grève, mais il doit se joindre
+
+    a. soit à une grève nationale qui est déjà en cours
+    b. soit à un groupe avec au moins deux salariés au total qui
+       s’associent pour lancer une nouvelle grève dans leur
+       entreprise.[18]
+
+--
+
+
+   En Allemagne, le droit de grève est également reconnu par la loi. Dans
+   l’article 9, § 3 du Grundgesetz on peut trouver l’information suivante:
+
+--
+
+   Selon cette règle, les salariés allemands ont le droit de créer des
+   syndicats et sont autorisés à utiliser la grève pour protéger leurs
+   intérêts professionnels. Dans ce contexte, la législation allemande se
+   ne distingue pas le la Constitution française.
+
+   Les différences entre les deux pays deviennent toutefois visibles
+   lorsqu’on observe les conditions les plus importantes d’une grève
+   légale en Allemagne. Selon Gabler[20], ces conditions sont les
+   suivantes:
+     * La grève et « un droit collectif : seul un syndicat peut appeler à
+       la grève »[21]. La grève sauvage (= wilder Streik) qui n’est pas
+       organisée par un syndicat, est par contre illégale.
+
+     *  La grève est la dernière solution: un syndicat est seulement
+       autorisé à organiser une grève après avoir essayé de négocier avec
+       l’employeur pour trouver un accord entre les deux parties.
+
+     * Le but d’une grève doit concerner et se limiter à un ou plusieurs
+       règlements de la convention collective de travail [CCT =
+       Tarifvertrag], un texte qui définit entre autres la rémunération
+       des salariés, les heures de travail ou le congé.
+
+     * Il est illégal de se mettre en grève pendant la trêve sociale
+       [=Friedenspflicht]. La trêve sociale est une période qui se limite
+       à la durée d’une CCT. Donc, les salariés ne peuvent pas faire grève
+       avant l’expiration de la convention collective actuelle de leur
+       entreprise.
+
+     * En France, également les fonctionnaires comme des enseignants ont
+       le droit de faire grève. En Allemagne, par contre, c’est interdit:
+       «Danach steht Beamten mit Blick auf deren Treuepflicht gegenüber
+       ihrem Dienstherrn kein Streikrecht zu. Und zwar unabhängig davon,
+--
+
+   Cette comparaison montre très clairement que c’est en fait plus facile
+   pour un Français que pour un Allemand de faire grève. Pour résumer :
+   les Français n’ont pas besoin d’un syndicat et ne doivent pas respecter
+   de trêve sociale. De plus, ils ont le droit de protester contre tout ce
+--
+   limiter aux règlements qui sont explicitement mentionnés dans leur CCT.
+   De plus, chaque personne, aussi les fonctionnaires, a le droit de faire
+   grève.
+
+
+--
+
+   Comme déjà mentionné dans le paragraphe précédent, les Français n’ont
+   pas besoin d’adhérer à un syndicat pour avoir le droit de faire grève.
+   Cette règle a pour conséquence que la France est le pays présentant le
+   plus faible nombre de syndicalistes en Europe de l’Ouest ! En
+--
+   salariés français préfèrent donc rester indépendants. Le problème est
+   que seul un syndicat puissant peut vraiment changer les choses ! Mais
+   ainsi chaque petit groupe ou syndicat mène sa propre grève qui reste
+   pour cette raison souvent inefficace. Le résultat : encore plus de
+   grèves ! Un véritable cercle vicieux! Maintenant, la citation suivante
+   n’est plus étonnante : « C’est le paradoxe français : la France, qui
+   compte le moins de salariés syndiqués est aussi le pays d’Europe qui a
+   le plus grand nombre de jours de grève : 1,8 million en 2001, année de
+   la grève générale contre la réforme de la Sécu d’Alain Juppé. »[24]
+
+   Tout de même, le manque de syndicalistes n’est pas le seul problème. La
+   structure des syndicats eux-mêmes est aussi responsable du grand nombre
+   des grèves en France : En Allemagne, les syndicats « représentent des
+   secteurs entiers de l’économie comme le puissant IG Metall, par
+   exemple, qui négocie ainsi pour tous les employés de l’industrie
+--
+
+
+Types de grèves :
+
+   Grève surprise (überraschender Streik): les salariés débrayent sans
+   prévenir leur employeur.
+
+   Grève sauvage (wilder Streik): les travailleurs se mettent en grève
+   sans l’accord d’un syndicat.
+
+   Grève de solidarité (Solidaritätsstreik): une grève pour soutenir
+   d’autres salariées de la même entreprise ou d’autres entreprises.
+
+   Grève sur le tas (Sitzstreik): les grévistes s’installent dans les
+   locaux de l’entreprise (bureaux, ateliers, etc.) pour les occuper.
+
+   Grève perlée (≈ Dienst nach Vorschrift/Bummelstreik): les salariés
+   travaillent mal et/ou au ralenti.
+
+   Grève générale (Generalstreik): une grève qui est suivie par la grande
+   majorité des salariés d'un pays. En plus, les employés ont les mêmes
+   revendications principales.
+
+   Grève politique (politischer Streik): les grévistes ont des
+   revendications politiques  (≠professionnelles) et veulent faire
+   pression sur les autorités du pays.
+
+   Grève de la faim (Hungerstreik): les grévistes refusent de se nourrir
+   pour attirer l’attention des autorités et du public sur un problème
+   particulier.
+--
+
+   [3] Hartmann, Isabelle (2013): « Les Français font-ils trop souvent
+   grève ? » – Dans: Écoute, n°3, p. 24.
+
+   [4]
+--
+
+   [5] Hartmann, Isabelle (2013): « Les Français font-ils trop souvent
+   grève ? » – Dans: Écoute, n°3, p. 27.
+
+   [6] Pendant cette révolution, les 13 colonies britanniques d’Amérique
+--
+
+   [14] Hartmann, Isabelle (2013): « Les Français font-ils trop souvent
+   grève ? » – Dans: Écoute, n°3, p. 25.
+
+   [15] cf. http://www.juritravail.com/Actualite/droit-de-greve/Id/8793
+--
+
+   [16]Hartmann, Isabelle (2013): « Les Français font-ils trop souvent
+   grève ? » – Dans: Écoute, n°3, p. 25.
+
+   [17] cf. http://wirtschaftslexikon.gabler.de/Definition/streik.html
+--
+
+   [18] cf. Hartmann, Isabelle (2013): « Les Français font-ils trop
+   souvent grève ? » – Dans: Écoute, n°3, p. 25.
+
+   [19] http://dejure.org/gesetze/GG/9.html (16.07.2013).
+--
+
+   [21] Hartmann, Isabelle (2013): « Les Français font-ils trop souvent
+   grève ? » – Dans: Écoute, n°3, p. 25.
+
+   [22]
+--
+
+   [25] Hartmann, Isabelle (2013): « Les Français font-ils trop souvent
+   grève ? » – Dans: Écoute, n°3, p. 25/26.
+
+
+--
+                                   = Le monde du travail en France
+                                   * La communauté allemande en France
+                                   * La culture de grève
+               o Christophe Schaumburg
+          + Le petit JLU
+--
+    8. Travail / Stage
+    9. Le monde du travail en France
+   10. La culture de grève
+
+   Barrierefreiheit | Impressum | Datenschutzerklärung | Login für

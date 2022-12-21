@@ -1,0 +1,256 @@
+    2. MBDE
+    3. Droit du travail
+    4. La définition de la grève
+
+La définition de la grève
+
+   Soumis le 01/03/2011 par Pierre andre Guillard dans MBDE / Droit du
+--
+
+
+   La notion de grève en France et en Allemagne recouvre des réalités
+   différentes. En effet, tant sur le plan des traditions syndicales de la
+   pratique du droit de grève que sur celui des fondements juridiques de
+   ce droit élémentaire, le droit français et le droit allemand divergent.
+   D'où l'intérêt de la comparaison de ces deux droits.
+--
+   de l'Union européenne pour le nombre de journées individuelles non
+   travaillées selon une étude d'Eurostat (en 1995, Eurostat a
+   comptabilisé 5 883 200 journées de grève et 1 807 250 en 2001 en
+   France). Ce record laisse penser que la grève, par sa banalisation, a
+   perdu de son sens, de sa force. Mais la grève reste un mode
+   particulièrement fort d'action, de revendication des salariés que l'on
+   peut considérer comme un fait social accepté par tous. Si la grève peut
+   être multiforme (grève perlée, débrayages entraînant la désorganisation
+   de la production etc...), sa définition est un exercice relativement
+   aisé. Ainsi, on s'accorde à dire en droit français que la grève est une
+   cessation collective et concertée du travail en vue d'aboutir au succès
+   des revendications professionnelles. La Chambre sociale de la Cour de
+--
+   d'appuyer des revendications professionnelles déjà déterminées
+   auxquelles l'employeur refuse de donner satisfaction » dans une
+   décision en date du 17 janvier 1968. La grève est le mode d'action le
+   plus dur qui
+
+   soit à la dispositions des salariés dans le sens où la cessation du
+   travail est nuisible à l'employeur, aux fournisseurs, aux clients ou
+   aux usagers du service public si la grève a lieu dans un service
+   public. C'est pour cela que la légalisation et l'acceptation sociale de
+   ce phénomène n'allaient pas de soi au 19ème siècle. En effet, il a
+   fallu attendre en France la loi du 25 mai 1864 pour que le fait de
+   grève soit dépénalisé. En Allemagne, la grève s'entend comme le cas où
+   une majorité de salariés arrêtent ensemble et de manière organisée de
+   travailler totalement ou partiellement contre la volonté de l'employeur
+--
+   (Arbeitsrecht Kommentar, de Henssler, Willemsen et Kalb, édition Dr.
+   Otto Schmidt, page 2192). On retrouve donc grosso modo la même
+   définition de la grève en droit allemand qu'en droit français même si
+   la définition du droit français paraît plus précise à première vue
+   grâce à l'utilisation du vocable « revendications professionnelles ».
+   Ainsi quelle est donc la conception allemande de la grève ? En quoi
+   diffère-t-elle de la conception française ?
+
+--
+
+    Après avoir éclairci le point de savoir qui est le titulaire du droit
+   de grève (A), nous tenterons d'expliquer le sens de la cessation des
+   prestations de travail par le salarié (B).
+
+
+    A)Les titulaires du droit de grève en France et en Allemagne
+
+
+   Sur la question de savoir qui est le titulaire du droit de grève, les
+   droits français et allemand apportent des réponses radicalement
+   différentes. Mais avant de traiter ce thème, il convient d'éluder le
+   mystère, si j'ose dire, du fondement allemand du droit à la grève. Ce
+   dernier n'est jamais formulé formellement ou expressément par le
+   législateur outre-Rhin. Le droit de grève découle en fait du droit des
+   coalitions (Koalitionsrecht) qui est un droit fondamental garanti par
+   la Grundgesetz en son article 9 paragraphe 3. Le droit des coalitions
+--
+   Kommentar, de Schmidt-Bleibtreu, Klein, Hofman et Haupfauf, édition
+   Carl Heymanns, p. 330). C'est la jurisprudence de la Cour
+   constitutionnelle fédérale qui a estimé que le droit de grève était une
+   forme de droit des coalitions et donc bénéficie pleinement de la
+   protection de l'article 9 paragraphe 3 de la Loi fondamentale
+--
+
+   Là, on remarque un parallélisme de forme des fondements juridiques
+   entre la France et l'Allemagne puisque le droit de grève a lui aussi un
+   fondement constitutionnel en France: le préambule la Constitution de
+   1946. En revanche sur le fond, le préambule énonce sans ambiguïté un
+   droit à la grève par l'expression suivante « le droit de grève s'exerce
+   dans le cadre des lois qui le réglementent ». Le droit de grève est en
+   France formellement affirmé alors qu'en Allemagne il apparaît
+   implicitement comme une composante d'un droit aux contours plus larges:
+   le droit des coalitions. Ceci n'est pas sans importance pour la suite
+   car le développement prétorien du droit de grève en France va conduire
+   à concevoir le droit de grève comme un droit individuel. Là, le droit
+   allemand est l'inverse même du droit français car pour lui le droit de
+   grève est nécessairement un droit collectif. La ténébreuse distinction
+   droit collectif droit individuel a une incidence directe sur l'identité
+   des titulaires du droit de grève. Le droit allemand qui retient une
+   conception organique du droit de grève désigne le syndicat ou toute
+   autre organisation de travailleurs comme titulaire du droit de grève
+   (Précis Dalloz, Droit du travail, de J.Pelissier, G. Auzero et E.
+   Dockès, p.1350) tandis que le droit français estime le droit de grève
+   en droit individuel conformément à la disposition du Préambule de la
+   Constitution de 1946.
+
+   Une grève organisée en Allemagne doit être organisée par une
+   tariffähige Partei (une personne capable juridiquement de conclure un
+   accord collectif) sinon cette grève sera qualifiée de grève sauvage, et
+   sera donc illégale (Arrêt de la Bundesarbeitsgericht du 20 décembre
+   1963. Présomption de légalité de la grève si cette dernière est
+   organisée par un syndicat, arrêt de la Bundesarbeitsgericht du 19 juin
+   1973). En France, la jurisprudence confirme cette thèse en
+   reconnaissant que « tout salarié a un droit personnel à la
+   grève »(Arrêt de la Chambre sociale de la Cour de Cassation du 10
+   octobre 1990).
+
+   En principe, les fonctionnaires ont un droit de grève (Arrêt du Conseil
+   d'Etat, Dehaene, du 7 juin 1950. Néanmoins des exceptions subsistent
+   pour les militaires, les fonctionnaires de police et CRS, magistrats
+   etc...(Précis Dalloz, Droit du travail, de J. Pelissier, G. Auzero et
+   E. Dockès, p. 1355). En Allemagne, le droit de grève n'est pas accordé
+   aux fonctionnaires.
+
+--
+
+   La cessation du travail constitue le trait le plus caractéristique d'un
+   mouvement de grève. La conséquence pratique immédiate de la liberté de
+   faire la grève est l'absence d'obligation de respecter un délai de
+   préavis (Soc. 26 février 1981 « une grève...ne saurait perdre son
+   caractère licite du fait qu'elle n'a pas été précédée d'un
+   avertissement, ou d'une tentative de conciliation ») sauf dans les
+   services publics conformément à l'Art. L. 2512-2 du Code du travail. En
+   droit allemand, le principe « ultima-ratio » doit être théoriquement
+   respecté. Cela signifie concrètement que la grève doit être précédée de
+   négociations avec le patronat. Mais la jurisprudence laisse le choix
+   tactique aux syndicats d'organiser des grèves d'une durée limitée avant
+   la conclusion d'un nouvel accord collectif (Warnstreiks; Arbeitsrecht,
+   Hanau et Domeit, édition Luchterhand p.79). La grève ne doit pas être
+   un moyen disproportionné pour obtenir la satisfaction des
+   revendications syndicales. Sur ce point on retrouve l'idée selon
+   laquelle la grève en Allemagne est le moyen ultime, exceptionnel
+   d'action des salariés. La négociation collective est l'espace ordinaire
+   dans lequel les salariés tentent, par le biais de leurs représentants
+   syndicaux, de faire valoir leurs intérêts. Ainsi les syndicats
+   allemands et les salariés grévistes ont l'obligation de mener un combat
+   équitable (faire Kampfführung). Cela implique en pratique que la grève
+   n'est qu'une cessation des prestations de travail par les salariés
+   grévistes et que la grève ne doit pas être un prétexte pour mener des
+   actions de revendication violentes (Atteintes physiques aux salariés
+   non grévistes, sabotage, occupation des locaux etc...Arbeitsrecht,
+   Hanau et Domeit, édition Luchterhand pp.79-80. Dans le même esprit, le
+   but de la grève est bien d'obtenir gain de cause sur les prétentions
+   des employés et non de désorganiser l'entreprise. Les droits français
+   et allemand se rejoignent sur cet aspect: la grève a pour conséquence
+   une désorganisation de la production mais elle ne doit pas avoir pour
+   effet une désorganisation considérable de l'entreprise
+--
+   Streik serait retenue.
+
+   L'incidence majeure de la grève consiste bien, on l'a vu, en l'arrêt
+   des prestations de travail par le salarié gréviste qui provoque tant en
+   droit français qu'en droit allemand la suspension du contrat de travail
+--
+   28/06/1951 et Soc. 28/06/1951). Prestation et contre-prestation sont
+   inexistantes: le contrat de travail est bel et bien suspendu durant la
+   grève.
+
+    Après avoir relevé les points problématiques nés de la cessation
+   collective du travail, il nous faut nous pencher sur les revendications
+   professionnelles, le second pilier de la notion de grève.
+
+
+--
+
+
+   En droit allemand, la grève a, comme en droit français, pour but
+   d'obtenir une amélioration des conditions de travail des salariés
+   (niveau de rémunération, système de rémunération, diminution du temps
+   de travail, prise en charge des enfants du personnel etc...). Ceci a
+   pour conséquence l'interdiction de principe des grèves de protestation,
+   à caractère politique ( grève consistant à faire pression par exemple
+   sur le législateur et non sur l'employeur ou le syndicat d'employeurs)
+   ou de sympathie (Interdiction de principe des grèves de sympathie y
+   compris de solidarité posée par l'arrêt de la Bundesarbeitsgericht du
+   12 janvier 1988). Ainsi, le législateur allemand a conçu la grève comme
+   un moyen de pression exclusivement orienté vers l'employeur ou le
+   syndicat d'employeurs. La grève pour être qualifiée de grève doit
+   contenir des revendications professionnelles. Cela vaut tant pour le
+   droit français que le droit allemand (Néanmoins un mot d'ordre national
+   pour la défense des retraites constitue une revendication
+   professionnelle d'après Soc. 15 février 2006), mais pour le droit
+   allemand la grève a pour but l'incorporation d'avantages pour les
+   employés dans la convention collective qui doit prochainement succéder
+   à l'accord collectif qui a expiré. C'est pourquoi on parle de tariflich
+   regelbares Ziel (objectif que l'on peut atteindre au moyen d'une
+   disposition d'une convention collective) de la grève (Arbeitsrecht,
+   Hanau et Domeit, édition Luchterhand pp. 76-77). Les grèves qui visent
+   certes la conclusion d'un accord collectif mais dont les revendications
+   ne peuvent pas faire partie du contenu d'un accord collectif sont
+   illégales (Arbeitsrecht, Gitter et Michalski, édition C.F. Müller, p.
+   253). La grève en droit allemand est très encadrée. Les salariés ne
+   peuvent pas se mettre en grève alors qu'une convention collective qui
+   impose une obligation de paix au travail (Friedensplicht) est en
+   vigueur. C'est pourquoi la grève reste en Allemagne un phénomène
+   relativement rare. Et si grève il y a, elle est concentrée dans le laps
+   de temps entre l'expiration de l'accord collectif et l'aboutissement de
+   la négociation collective qui est couronnée en règle générale par la
+--
+
+   Avant même d'aborder le thème de l'étendue des revendications, il
+   semble opportun de signaler que la grève en elle-même en Allemagne doit
+   respecter le principe de proportionnalité
+   (Verhältnismässigkeitsprinzip) qui se subdivise en trois éléments: die
+--
+   l'autosatisfaction des désirs », selon l'expression de Monsieur le
+   Professeur Georges Borenfreund. Concrètement cela veut dire qu'on
+   refusera la qualification de grève si la revendication qui fonde le
+   mouvement de grève est d'ores et déjà satisfaite par les actions des
+   employés grévistes. A titre d'exemple on peut parler
+   d' »autosatisfaction «  des revendications lorsque les salariés
+--
+   les revendications économiques que juridiques (Soc. 9 février 1961).
+   Par ailleurs, la question du caractère raisonnable des revendications
+   émerge lorsqu'il s'agit de savoir si une grève est licite ou pas. Cette
+   question ne s'est, apparemment, pas posée en droit allemand car la
+   qualification de grève est restreinte par les éléments que nous avons
+   vu. En revanche de l'autre côté du Rhin, il en va autrement.. Une
+   querelle entre l'Assemblée plénière de la Cour de cassation et la
+   Chambre sociale de la même cour est née sur le point de savoir si une
+   ou plusieurs revendication(s) déraisonnable(s) avait pour conséquence
+   de qualifier la grève de mouvement illicite.
+
+   La Chambre sociale dans un arrêt du 9 novembre 1982 avait estimé que ce
+   n'était pas le rôle du juge de qualifier des revendications de
+   raisonnables ou de déraisonnables sachant que cette qualification a une
+   incidence directe sur la licéité de la grève. L'Assemblée plénière dans
+   une décision remarquée du 4 juillet 1986 avait alors jugé qu'une grève
+   pouvait être préventivement interdite parce que les revendications
+   étaient déraisonnables ce qui avait pour conséquence de rendre la grève
+   illicite.Finalement, la Chambre sociale a tenu bon face à l'Assemblée
+   plénière et a confirmé par l'attendu de principe suivant la position de
+   la même chambre de 1982: « si la grève suppose l'existence de
+   revendications de nature professionnelle, le juge ne peut, sans porter
+   atteinte au libre exercice d'un droit constitutionnellement garanti,
+--
+
+    Ainsi on voit bien qu'au-delà des traditions syndicales relatives à
+   l'exercice du droit de grève, le juge français a modelé un droit
+   individuel à la grève qui ne connaît peu de limites alors qu'en
+   Allemagne la conception collective de cette liberté pensée avant tout
+   pour amener employeur et représentants syndicaux des salariés à la
+   conclusion d'une convention collective (Tarifvertrag) confère à la
+   grève un rôle relativement secondaire notamment par rapport à la
+   négociation dans les relations collectives en droit du travail.
+
+--
+
+   Tags:
+   syndicats, renvendications, négociation collective, Grève, employeur,
+   définition, Allemagne
+

@@ -1,101 +1,537 @@
-    2. Blog de la gestion d'entreprise
-    3. Ressources humaines
-    4. Quels sont les différents types de grève ?
+   #Grève Modifier Wikirouge (fr)
 
-Quels sont les différents types de grève ?
+Grève
 
-   Le 22/10/2019
+   De Wikirouge
+   Aller à la navigation Aller à la recherche
+   GrèveGénérale.jpg
+
+   Une grève est un arrêt de travail par des salariés pour lutter contre
+   un ou des patrons, voire, pour les plus massives (grève générale),
+   contre le patronat et le gouvernement bourgeois.
+
+   De nombreux révolutionnaires ont comme axe stratégique pour le
+   renversement de la bourgeoisie une grève générale insurrectionnelle.
+   [ ]
+
 --
-   Dans Ressources humaines
 
-   La grève est l’arrêt collectif et concerté du travail, dans le but
-   d’appuyer des revendications professionnelles que l’employeur refuse de
-   satisfaire. Le droit de grève est reconnu en France et est inclus dans
-   le préambule de la Constitution du 27 Octobre 1946, repris par celle de
-   1958. Les types de grève sont nombreux.
-
-Les différentes formes de cessation du travail
-
-Grève perlée
-
-   Elle consiste à ralentir volontairement le travail, dans des conditions
-   volontairement défectueuses. L’activité n’est pas totalement
-   interrompue. Cela n’est pas considéré comme une grève au sens de la loi
-   et est donc illégal en France. Il s’agit d’une inexécution des
-   obligations contractuelles de la part du salarié.
-
-Grève d’autosatisfaction
-
-   Elle est illicite car l’employeur n’a pas de marge de négociation. Les
+     * 1 Principe
+     * 2 Droit de grève
+     * 3 Types de grèves
+          + 3.1 Grève locale, grève sectorielle et grève générale
+          + 3.2 Grève économique et grève politique
+          + 3.3 Grève générale passive et grève générale active
+          + 3.4 Dynamiques
+     * 4 Aspects pratiques
+          + 4.1 Le temps et l'argent
+          + 4.2 L'unité et les "jaunes"
+          + 4.3 Grève et services vitaux
+          + 4.4 Grève et opérations gratuité
+     * 5 Débats stratégiques sur la grève
+          + 5.1 Premiers débats
+          + 5.2 Le syndicalisme révolutionnaire
+          + 5.3 L'expérience russe de 1905
+          + 5.4 Débats dans l'Internationale ouvrière
+          + 5.5 Trotskisme et grève générale
+          + 5.6 La grève sous un État ouvrier
+     * 6 Exemples
+          + 6.1 En France
 --
-   peut s’agir par exemple de faire le pont lors du vendredi de
-   l’Ascension sans autorisation de l’employeur en prétextant le droit de
-   grève.
+1 Principe[modifier | modifier le wikicode]
 
-Grève du zèle
-
-   Il s’agit d’exécuter le travail en appliquant strictement les consignes
-   données, afin que l’exécution soit ralentie voire qu’un ou plusieurs
-   services soient de ce fait bloqués. Le travail est réalisé, le salaire
-   est perçu mais la productivité baisse très fortement. Ce type de grève
-   est interdit en France dans la fonction publique.
-
-Grève tournante
-
-   Les grévistes se concertent et se relaient pour faire grève afin que
-   les effectifs de travail ne soient jamais au complet dans l’entreprise,
-   sans perte importante de salaire. Sont affectées successivement des
-   catégories professionnelles (grève tournante verticale) ou des secteurs
-   d’activité (grève tournante horizontale). La grève tournante est licite
-   sauf si elle désorganise l’entreprise. Elle est prohibée dans le
-   secteur public.
-
-Grève solidaire
-
-   Il s’agit d’un arrêt collectif du travail ayant pour but est d’être
-   solidaire en soutenant les revendications d’une autre catégorie de
-   salariés en grève.
-
-Grève générale
-
-   La grande majorité ou l’ensemble des travailleurs d’un pays sont
+   Le principe d'une grève locale est de faire perdre des profits à
+   l'entreprise, pour faire pression sur son patron et obtenir des
+   concessions (augmentation de salaire, annulation de licenciements...).
+   Chaque grève, et plus généralement chaque lutte collective dans une
+   entreprise porte en germe la question de "qui dirige ?". A priori,
+   c'est le patron, mais les travailleurs peuvent rapidement prendre
 --
-   Types greve
+   Plus les travailleurs prennent largement conscience de leurs intérêts
+   communs, plus ils s'organisent, notamment via les syndicats, et luttent
+   à une échelle plus large. Par exemple, les travailleurs peuvent grève
+   dans toute une branche de métier pour obtenir des améliorations de
+   leurs conditions de travail communes.
 
-Grève avec occupation
+   Une grève générale dans tout un pays est un des moyens de lutte les
+   plus puissants des exploités. Lorsqu'une grève générale illimitée est
+   lancée et s'élargit à des revendications politiques, elle pose
+   rapidement la question du pouvoir au niveau de l'Etat. C'est pourquoi
+   beaucoup de socialistes révolutionnaires ont fait de la grève générale
+   un cheval de bataille.
 
-   Pendant celle-ci, les lieux de travail sont occupés par les grévistes.
+   Le nombre de grèves peut être considéré comme un indicateur de la
+   combativité générale de la classe ouvrière.^[1]^[2]
+
+2 Droit de grève[modifier | modifier le wikicode]
+
+   Le droit de grève ne va pas de soi. De nombreux gouvernements le
+   limitent ou l'interdisent, espérant par là offrir au patronat de
+   meilleures conditions d'exploitation ou pour éviter que des grèves
+   politiques ne les menacent. Néanmoins, dans les pays où le mouvement
+   ouvrier a atteint une grande puissance, le droit de grève a souvent été
+   finalement accordé, à la fois sous la pression, et à la fois parce que
+   cela devient un moyen de canaliser les mouvements : une fois autorisés,
 --
-   ainsi été obtenus.
+   embourgeoisement partiel, etc.
 
-Piquet de grève
-
-   Les grévistes se regroupent et s’installent à l’entrée d’un lieu de
+   Dans le cas de la France, le droit de grève a été interdit au moment
+   même ou s'ouvrait l'ère bourgeoise, pendant la Révolution française. En
+   effet la Révolution va abolir les corporations de l'Ancien régime, qui
 --
-   illégal en France.
+   limites protectionnistes corporatives. Or, cette reglementation (loi
+   d'Allarde puis loi le Chapelier) va ensuite être appliquée pour nier le
+   droit de grève et interdire la formation de syndicats. L'interdiction
+   est ainsi explicite dans le Code pénal de 1810.
 
-Grève sauvage
-
-   Elle est décidée par les salariés en dehors de toute consigne syndicale
-   pour défendre leurs acquis, leur statut…
-
-Grève bouchon
-
-   Elle est légale sauf si elle désorganise l’entreprise en lui infligeant
 --
-   Greve 1
+   « compassion sociale », espérant ainsi dépolitiser les revendications
+   ouvrières et les couper de toute revendication anti-gouvernementale. Il
+   autorise ainsi les grèves en 1864. Mais cela ne fonctionne pas, le
+   socialisme se renforce lentement mais sûrement. Mais les syndicats sont
+   toujours interdits.
 
-Conditions d’exercice du droit de grève
+   Finalement, c'est la grande grève des mineurs de 1884, celle qui
+   inspirera Germinal à Zola, qui débouchere sur la légalisation des
+   syndicats. Mais pendant encore des décennies, les gouvernements
+   n'hésiteront pas à s'appuyer sur le délit dit « d’atteinte à la liberté
+   du travail » (articles 414 et 415 du Code pénal) pour faire réprimer
+   des grèves par l’armée et emprisonner des syndicalistes et des
+   grévistes.
 
-   Le 18/06/2019
+3 Types de grèves[modifier | modifier le wikicode]
 
-   Le droit de grève est un droit fondamental protégé par la Constitution.
-   Chaque salarié peut l’exercer en respectant certaines conditions. La
-   grève est un mouvement de contestation collectif, engendrant la
-   cessation totale du travail des grévistes, réalisé afin d’obtenir
-   satisfaction de revendications d’ordre purement professionnel
-   (amélioration des conditions de travail, de la sécurité…). Ces trois
-   conditions doivent être respectées. Dans le cas contraire, les salariés
-   participant ne sont pas protégés par le droit de grève et s’exposent à
-   des sanctions de la part de leur employeur.
-   Dans Conditions et environnement de travail
+   On peut différencier schématiquement plusieurs types de grèves.
+
+3.1 Grève locale, grève sectorielle et grève générale[modifier | modifier le
+wikicode]
+
+     * La grève locale est celle qui ne touche qu'une seule entreprise.
+     * La grève sectorielle s'étend à toutes les entreprises d'un secteur,
+       parce que les travailleurs de ce secteur ont des intérêts communs.
+       Cela peut être par exemple à l'initiative d'un syndicat de branche.
+     * La grève générale est une grève qui touche tous les secteurs et
+       tout le pays. Cela n'arrive bien sûr jamais à 100%, mais lorsqu'une
+       grève touche de nombreux secteurs des centaines de milliers
+       d'ouvriers, elle a un impact majeur qui focalise la vie politique
+       de tout le pays.
+
+   La grève générale est un mouvement qui a un minimum de durée, et repose
+   sur une dynamique de mobilisation enthousiaste des travailleurs.
+   Lorsque l'on parle de "grève générale" pour une journée de grève
+   nationale ponctuelle, appelée par les directions bureaucratiques des
+   syndicats sur des mots d'ordre timorés, c'est donc un abus de langage.
+
+3.2 Grève économique et grève politique[modifier | modifier le wikicode]
+
+     * La « grève économique », qui ne vise qu'à obtenir des
+       revendications concernant le rapport travailleur/patron (hausse des
+       salaires, meilleures conditions de travail, pour des embauches ou
+       contre des licenciements...)
+     * La « grève politique », qui concerne des revendications politiques
+       plus générales (droits démocratiques, paix, démission d'un
+       gouvernement...)
+
+3.3 Grève générale passive et grève générale active[modifier | modifier le
+wikicode]
+
+   Il faut distinguer une grève générale largement passive dans laquelle
+   les ouvrier·es se limitent à arrêter le travail d’avec une grève
+   générale avec occupation d’usines, qui est évidemment un énorme pas en
+   avant, parce qu’elle permet de rassembler la force de la classe. Une
+   grève générale passive est une grève qui disperse la force de la
+   classe : chaque ouvrier·e restant chez soi.
+
+   Il y a quelques exemples de grève passive dans l’histoire, et même
+   parmi les plus éclatants : la plus grande grève générale qu’on ait
+   jamais connu en Europe occidentale, la plus efficace, est la grève
+   générale de la classe ouvrière allemande contre le putsch du général
+   Kapp en 1920, qui a été absolument totale dans son efficacité, dans son
+   effet, qui a arrêté toute la vie économique et publique, était passive.
+
+   Le type le plus avancé de grève active est celle dans laquelle les
+   ouvrier·es reprennent en main la production pour leur propre compte
+   (autogestion), ou a minima vendent les produits. C'est un point
+--
+
+   En Belgique, les ouvriers de Gazelco (gaz, électricité) ont longtemps
+   appliqué la règle qu’en cas de grève, ils contrôlent eux-mêmes la
+   distribution du courant pour couper le courant aux entreprises, aux
+   administrations publiques, banques, etc. et éviter que le courant ne
+   soit coupé aux ménages, car cela risque de diviser la classe ouvrière,
+   car la grève sera impopulaire dans certains secteurs de la classe
+   ouvrière.^[4]
+
+   Un autre exemple eut lieu en mai 68 à Nantes, quand des comités de
+   grève ont voulu organiser le ravitaillement des grévistes en assurant
+   un échange de produits avec les paysans, ce qui impliquait la reprise
+   ou le maintien de la production, ou l’écoulement des stocks qui
+--
+3.4 Dynamiques[modifier | modifier le wikicode]
+
+   Bien sûr, ces catégories n'ont pas de frontière nette. Les grèves
+   concrètes, réelles, se situent plus ou moins entre ces « pôles » et
+   peuvent évoluer rapidement dans leur contenu. La classe ouvrière peut
+   rapidement politiser ses grèves dans certaines circonstances. Trotski
+   décrit par exemple la radicalisation des ouvriers russes pendant la
+   Guerre, avec l'avant-garde de Petrograd plus politisée :
+--
+     « Les industriels se refusaient de plus en plus à faire des
+     concessions aux ouvriers et le gouvernement continuait à répondre à
+     chaque grève par une rigoureuse répression. Tout cela portait la
+     pensée ouvrière du particulier au général, de l'économique à la
+     politique : " Il faut qu'on déclare la grève tous en même temps. "
+     Ainsi renaît l'idée d'une grève générale. Le processus de la
+     radicalisation des masses est exprimé de la façon la plus
+     convaincante par la statistique. En 1915, le chiffre des
+     participants aux grèves politiques est de 2,5 inférieur à celui des
+     ouvriers engagés dans des conflits économiques ; (...) au cours des
+     deux premiers mois de 1917, les grèves politiques englobèrent six
+     fois plus d'ouvriers que les grèves économiques. Le rôle de
+     Pétrograd est suffisamment indiqué par un chiffre : pendant des
+     années de guerre, 72 % des grévistes politiques appartiennent à la
+--
+
+   Les communistes révolutionnaires cherchent souvent à favoriser la
+   généralisation des grèves et leur politisation, parce que c'est un
+   outil majeur pour augmenter le rapport de force du côté ouvrier, et
+   parce que cela forge la conscience de classe. Les plus grandes grèves
+   générales politiques peuvent déboucher sur des situations
+   révolutionnaires. Enfin, au cours même des grèves durables et massives,
+   la nécessité d'organiser l'ensemble des travailleurs peut faire
+   apparaître des structures d'auto-organisation (des conseils, soviet en
+--
+4.1 Le temps et l'argent[modifier | modifier le wikicode]
+
+   Il y a une contradiction majeure dans une grève : les travailleurs
+   aussi bien que les capitalistes perdent de l'argent. Pour les
+   travailleurs, les conséquences sont souvent pénibles. Il peut sembler
+   que ce sont les travailleurs les plus aisés qui se mettent plus
+   facilement en grève, mais c'est loin d'être aussi simple. Lorsque les
+   conditions de vie sont déjà intenables, certains se disent qu'ils n'ont
+   plus rien à perdre et tout à gagner. Un des moyens principaux qu'ont
+   les travailleurs de mieux tenir dans une grève dure et longue, c'est en
+   constituant des caisses de grève. De ce point de vue, les syndicats
+   sont une arme. Mais un syndicat bureaucratisé et versé dans la
+   collaboration de classe peut aussi être un frein...
+
+   Les patrons ont eux aussi des armes pour résister à des grèves. Déjà,
+   la centralisation du capital permet à des capitalistes qui ont de
+   nombreuses entreprises de supporter des pertes conséquentes dans une
+--
+   fréquent que des grands patrons ou directions d'entreprises étatiques
+   imposent des reculs sociaux entreprises par entreprises pour éviter une
+   grève d'ensemble.
+
+   Il est évident que les patrons perdent d'autant plus d'argent que la
+   grève est longue. Ce qui inquiète le plus les capitalistes, c'est
+   d'avoir face à eux des travailleurs prêts à faire grève jusqu'à
+   satisfaction. C'est pourquoi les vendus qui dirigent la plupart des
+   centrales syndicales font semblant d'organiser la défense des
+   travailleurs en les appelant à des journées ponctuelles de grève. De
+   son côté, le patron reconnaissant n'a qu'à attendre la fin de la
+   journée.
+--
+4.2 L'unité et les "jaunes"[modifier | modifier le wikicode]
+
+   Pour être efficace, il faut qu'une grève soit suivie. Dans certains
+   entreprises industrielles, il suffit que certains secteurs stratégiques
+   se mettent en grève pour que la production soit arrêtée et que les
+   profits soient bloqués. Dans les autres cas, le niveau de gêne est
+   souvent proportionnel au nombre de grévistes.
+--
+   parfois même qui ne travaillent pas sur place - pour remplacer des
+   grévistes. Les grévistes tentent souvent de faire appel à la solidarité
+   de ces recrues pour qu'elles ne sapent pas la grève. Il est arrivé que
+   des tensions assez dures éclatent entre grévistes et "briseurs de
+   grève", aussi appelés "jaunes" (couleur symbole de trahison).
+
+4.3 Grève et services vitaux[modifier | modifier le wikicode]
+
+   Dans le cas de services vitaux, comme dans les urgences des hôpitaux,
+   il est souvent très difficile moralement de cesser l'activité. Les
+   administrateurs s'appuient souvent sur ce sentiment de culpabilité vis
+   à vis des patient·es pour en profiter. La grève des urgentistes en
+   France en 2019 a constitué une rupture de ce point de vue, avec un ras
+   le bol et une situation tellement critique dans les urgences, pour
+--
+   travail a pris de l'ampleur.
+
+4.4 Grève et opérations gratuité[modifier | modifier le wikicode]
+
+   Parfois au lieu de cesser l'activité, des salarié·es en luttent
+--
+   transports gratuits. Cependant cela pose d'autres difficultés :
+   notamment cela expose les salariés à de lourdes sanctions
+   (contrairement au droit de grève), et cela diminue le pouvoir de
+   blocage de l'économie qu'ont les transports.^[5]
+
+5 Débats stratégiques sur la grève[modifier | modifier le wikicode]
+
+5.1 Premiers débats[modifier | modifier le wikicode]
+--
+   De par sa révolution industrielle, l'Angleterre fut aussi le berceau du
+   mouvement ouvrier. Ce fut logiquement là que fut la première fois
+   évoquée la question de la grève générale, dans le mouvement chartiste.
+
+     « Durant le développement rapide et vigoureux pris par le chartisme
+--
+   Dans l'Association internationale des travailleurs (AIT, Première
+   internationale), Marx a dû défendre l'importance du recours à l'arme de
+   la grève par les travailleurs, face à des courants comme celui de
+   Proudhon qui lui tournaient le dos.
+
+   Le socialiste belge César de Paepe défend une théorie de la grève
+   générale au Congrès de 1868 de la I'AIT.
+
+   Dans l'AIT, une partie des « anti-autoritaires » (bakouniniens
+   notamment) se sont appuyés sur l'idée de grève générale révolutionnaire
+   pour l'opposer à la ligne des « marxistes », qui étaient en faveur de
+   la conquête de bastions ouvriers dans les élections. C'était le début
+--
+   tandis qu'Engels lui répond :
+
+     « La grève générale est, dans le programme de Bakounine, le levier
+     employé à inaugurer la révolution sociale. Un beau matin tous les
+     ouvriers de tous les ateliers d'un pays, ou même du monde entier,
+--
+     et par la même occasion d'en finir avec la vieille société tout
+     entière. (...) Au Congrès des alliancistes à Genève, le 1er
+     septembre 1873, la grève universelle joua également un grand rôle,
+     sauf qu'on reconnut de tous les côtés qu'il fallait, pour la faire,
+     une organisation complète de la classe ouvrière et une caisse
+--
+     le prolétariat en arrive à se donner cette organisation idéale et ce
+     fonds de réserve gigantesque. Si d'ailleurs il les avait, il
+     n'aurait plus besoin du détour de la grève générale pour parvenir à
+     son but. »^[6]
+
+   Marx et Engels auraient certainement été enthousiasmés par les
+   mouvements de grève générale qui eurent lieu après leur mort. Mais à
+   cette époque où le débat était abstrait, ils raillaient souvent ceux
+   qui faisaient de la grève générale une panacée universelle, et surtout
+   se servait de cet objectif (alors tout à fait hypothétique) pour
+   s'opposer à des conquêtes politiques partielles.
+
+   La pratique de la grève et les grèves générales étaient assez fortes en
+   Belgique vers le début du 20^e siècle.^[7] Mais la direction du POB ne
+   faisait le plus souvent que canaliser, avec réticence, les explosions
+   spontanées des masses. Lors de la grève générale de 1887, le Congrès
+   extraordinaire du POB du 15 juin 1887 adopte une résolution qui centre
+   sur le suffrage universel, et repousse tout caractère révolutionnaire
+   (adopté par 59 voix contre 34 et 24 abstentions). Lors de la grève
+   générale de 1902, la Neue Zeit (dont Rosa Luxemburg) critiqua la
+   collaboration du POB avec les libéraux bourgeois (tandis que Bernstein
+--
+5.2 Le syndicalisme révolutionnaire[modifier | modifier le wikicode]
+
+   L'expression de « grève générale » est née en France à la fin du
+   19^e siècle dans les milieux du syndicalisme. Théorisée, entre autres,
+   par Joseph Tortelier et Aristide Briand, elle devait être une grève
+   générale expropriatrice, synonyme de révolution. Mais le courant
+   marxiste français, autour de Jules Guesde, était dominé par un
+   dogmatisme couvrant une politique à la fois sectaire et opportuniste.
+   Il s'opposait à l'idée de grève générale comme une chimère trop
+   lointaine, tout en mettant de plus en plus exclusivement ses forces
+   dans les élections locales et parlementaires, parlant de révolution
+--
+   titre au centre de la théorie du syndicalisme révolutionnaire et
+   considérée comme le prolongement de la politique d'action directe.
+   L'échec des grèves générales lancées par la CGT, notamment le premier
+   mai 1906, contribua au déclin du mythe révolutionnaire qu'elle
+   représentait.
+--
+
+   Trotski fut un des premiers et des principaux social-démocrates russes
+   à insister sur la grève générale insurrectionnelle, dès la fin 1904,
+   avant que celle-ci n'éclate^[8]^[9].
+
+   Les événéments révolutionnaires en Russie à partir de fin 1905, au
+   cours desquels les ouvriers sont entrés spontanément dans des grèves de
+   masse, ont provoqué de larges débats dans l'Internationale ouvrière.
+   Lénine note que « déjà en mai 1905, le Congrès [du POSDR] chargeait
+   toutes les organisations du Parti "d’étudier le rôle des grèves
+   politiques de masse, qui peuvent avoir une grande importance au début
+   et dans le cours de l’insurrection" ».^[10]
+--
+     « Pour la première fois dans l'histoire du monde, la lutte
+     révolutionnaire atteignit un tel degré de développement et une telle
+     puissance que l'insurrection armée coïncida avec la grève de masse,
+     cette arme spécifiquement prolétarienne. Il est clair que cette
+     expérience a une signification internationale pour toutes les
+--
+
+   Trotski fut le président du Soviet ouvrier de Petersbourg, centre
+   organisateur de la grève générale. Rosa Luxemburg, même en se basant
+   uniquement sur les compte-rendu de presse, reconnut tout de suite
+   l'importance majeure de ces mouvements de grèves de masse. A l'inverse,
+   « l'immense majorité des représentants officiels des partis (...)
+   officiels, dont les réformistes et les gens de l'espèce des futurs
+--
+   La révolution russe de 1905 et  la montée des luttes ouvrières à cette
+   époque soulèvent d'intenses débats dans le SPD et l'Internationale
+   ouvrière sur l'utilisation qui pouvait être faite de la grève générale.
+   Les bureaucrates à la tête de la social-démocratie montrent leur
+   réticence. Les syndicats allemands déclarent en mai 1905, lors de leur
+   congrès, qu’ils n’ont pas les moyens pour soutenir une grève générale
+   et qu’ils ont besoin de la paix sociale pour continuer leur progression
+   numérique. Quelques mois plus tard, au congrès du parti, Bebel marque
+   son hostilité aux révisionnistes qui rejettent la grève générale,
+   affirmant que « la grève des masses doit être retenue comme une mesure
+   défensive ».
+
+   Il reçoit le soutien de Rosa Luxemburg, qui rentre de Russie et publie
+   en 1906 Grève de masse, Parti et syndicat^[11], où elle réfute les
+   positions des syndicalistes : elle dénonce leur caractère mécanique
+   (attendre que toute la classe ouvrière soit organisée), leur attitude
+   de comptable (les caisses des syndicats ne permettent pas de soutenir
+   une grève générale) et met en avant que c’est dans la lutte que les
+   travailleurs réalisent les plus grands progrès dans leur organisation
+   et donc dans leur auto-émancipation. Il est à noter que Luxemburg
+--
+   Lors du Congrès de Stuttgart (1907) de l'Internationale ouvrière, les
+   délégués français proposent qu'en cas de guerre, il soit lancé un appel
+   à la grève générale. Les Allemands, conduits par Bebel et Vollmar
+   rejettent leur motion, au nom du fait que la grève générale détruirait
+   toutes les organisations.
+
+   Dans ses attaques des bolchéviks après la révolution d'Octobre, Kautsky
+   parle tout au plus de grève générale dans les moyens
+   extra-parlementaires qui peuvent être utilisés selon lui. Trotski lui
+   répond en 1920 :
+
+     « La grève générale ne peut avoir d'influence décisive que si elle
+     est le prélude d'un conflit entre le prolétariat et la force armée
+     de l'ennemi, c'est-à-dire d'une insurrection.  »^[12]
+
+5.5 Trotskisme et grève générale[modifier | modifier le wikicode]
+
+   Dans ses écrits sur la grève générale en France (1935), Trotski
+   écrivait :
+
+     « La grève générale, comme le sait tout marxiste, est un des moyens
+     de lutte les plus révolutionnaires. La grève générale ne se trouve
+     possible que lorsque la lutte des classes s'élève au-dessus de
+     toutes les exigences particulières et corporatives, s'étend à
+--
+     légalité et l'illégalité et mobilise la majorité du prolétariat, en
+     l'opposant activement à la bourgeoisie et à l'Etat. Au-dessus de la
+     grève générale, il ne peut y avoir que l'insurrection armée. Toute
+     l'histoire du mouvement ouvrier témoigne que toute grève générale,
+     quels que soient les mots d'ordre sous lesquels elle soit apparue, a
+     une tendance interne à se transformer en conflit révolutionnaire
+     déclaré, en lutte directe pour le pouvoir. En d'autres termes : la
+     grève générale n'est possible que dans les conditions d'une extrême
+     tension politique et c'est pourquoi elle est toujours l'expression
+     indiscutable du caractère révolutionnaire de la situation. ! »^[13]
+
+   Ernest Mandel a systématisé sa conception de la grève générale
+   insurrectionnelle comme axe stratégique.
+
+5.6 La grève sous un État ouvrier[modifier | modifier le wikicode]
+
+   🔍 Voir : Syndicats en Russie.
+--
+   matérielles très difficile, et où l'économie était étatisée, la
+   direction du parti a considéré que les ouvriers n'avaient pas à faire
+   grève contre un État ouvrier. Il y a eu des nuances sur ce point, et
+   des oppositions des communistes de gauche.
+
+--
+6.1 En France[modifier | modifier le wikicode]
+
+     * 1919 : Grèves de juin
+     * 1936 : Grève générale de juin 1936
+     * 1947 : Grève à Renault
+     * 1948 : Grève des mineurs
+     * 1961 : Grève générale d’une heure en avril, pour contrer le putsch
+       des généraux
+     * 1968 : Grève générale révolutionnaire
+     * 1995 : Grèves contre le plan Juppé
+     * 2003 : Grèves contre la loi Fillon
+     * 2010 : Grèves contre la réforme des retraites de Sarkozy
+     * 2016 : Grèves contre la loi travail
+
+   Les grèves de 1995 ont marqué un réveil des luttes en France :
+   c'étaient alors les plus grandes grèves depuis Mai 68, et le nombre des
+   jours de grève a explosé jusqu'à 6 millions en 1995, alors que le
+   nombre moyen annuel de jours de grève de la période 1982-1994 est de
+   1,1 million par an.^[14]
+
+   Parmi les grèves régionales d'ampleur, on peut citer l'affaire Lip de
+   1973 à 1974, dans la ville de Besançon.
+   GrèvesTauxSyndicalisation.jpg
+
+6.2 Ailleurs dans le monde[modifier | modifier le wikicode]
+
+     * 1155 av. J.-C. : la première grève attestée de l'histoire, une
+       grève des ouvriers de la Vallée des Rois en Egypte^[15]
+     * 1825 : légalisation du droit de grève en Angleterre, suite à
+       l'essor du mouvement ouvrier
+     * 1841-1842 : grèves de masse en Angleterre, provoquées par la crise
+     * 1902 : Grève générale en Belgique pour le suffrage universel
+     * 1905 : Grève générale en Russie, dite "révolution de 1905"
+     * 1912-1914 : Vague de grèves en Russie
+     * 1917 : Grèves générales en Russie, jusqu'à la révolution d'Octobre
+     * 1917 : Grève générale en Espagne
+     * 1918 : Grève générale en Suisse
+     * 1919 : Grève générale à Seattle, et à Winnipeg
+     * 1920 : Grève générale en Allemagne, pour contrer le putsch de Kapp
+     * 1926 : Grève générale au Royaume-Uni
+     * 1932 : Grève générale à Genève
+     * 1956 : Grève générale lancée le 19 mai 1956 en Algérie, en Tunisie
+       et au Maroc, par l'Union générale des étudiants musulmans algériens
+       (UGEMA), durant la Guerre d'Algérie
+     * 1960 : Grève générale de l'hiver 1960-1961 en Belgique
+     * 1978 : Jeudi noir en Tunisie
+     * 1980 : Grève générale au Sri Lanka^[16]
+     * 1984 : Grèves contre Thatcher au Royaume-Uni
+     * 2000 : Grèves et blocages des travailleurs au Vietnam
+     * 2003 : Grève-générale en Inde contre un vaste plan de privatisation
+     * 2004 : émeutes ouvrières à Dongguan suite à violences policières,
+       grèves d'ouvrières dans le textile et l'électronique, tentatives de
+       créer des syndicats, forte répression.
+     * 2004 : Révolution orange en Ukraine
+     * 2006 : Grève générale au Népal qui ébranle le pouvoir et conduira à
+       l'abolition de la monarchie.
+     * 2008 :
+          + Grève d'aiguilleurs du ciel dans plusieurs pays d'Afrique de
+            l'Ouest, la grève déborde les syndicats.
+          + Grève générale en Afrique du Sud contre l'augmentation brusque
+            des prix de l'électricité (suite à privatisation).
+
+     * 2009 :
+          + Grèves de médecins au Nigéria pour de meilleures conditions de
+            travail.
+          + 44 jours de grève générale en Guadeloupe, unité syndicale et
+            politique dans le LKP, victoire, hausse des salaires
+          + Mouvement analogue (de 38 jours) Martinique
+--
+       1930
+    3. ↑ https://autogestion.asso.fr/1971-greve-active-a-la-clyde/
+    4. ↑ Ernest Mandel, La grève générale. Questions stratégiques, années
+       1970 (republié dans Contretemps, 12 décembre 2019)
+    5. ↑
+--
+       gratuits/
+    6. ↑ ^6,0 et ^6,1 Friedrich Engels, Les bakouninistes à l'oeuvre, 1873
+    7. ↑ Marcel Liebman, La pratique de la grève générale dans le Parti
+       ouvrier belge jusqu'en 1914, Le Mouvement social, N° 58 –
+       janvier-mars 1967
+--
+   10. ↑ ^10,0 ^10,1 et ^10,2 Lénine, Contribution à l’histoire de la
+       dictature, 20 octobre 1920
+   11. ↑ Rosa Luxemburg, Grève de masse, parti et syndicat, 1906
+   12. ↑ Trotski, Terrorisme et communisme, 1920
+   13. ↑ Trotski, Où va la France ?, mars 1935
+   14. ↑ Six fois plus de jours de grève en 1995, L'Humanité, 16 novembre
+       1996.
+   15. ↑ La toute première grève. Courrier international, Février 2020.
+       Traduction d'un article du magazine roumain Historia
+   16. ↑ DailyFT, How the 1980 general strike was smashed, 2016
+--
+
+   Récupérée de
+   « https://wikirouge.net/w/index.php?title=Grève&oldid=2842237 »
+   Catégories :
+     * Économie
