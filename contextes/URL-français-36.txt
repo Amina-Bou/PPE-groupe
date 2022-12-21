@@ -1,0 +1,461 @@
+<< /Length 5 0 R /Filter /FlateDecode >>
+stream
+--
+--
+--
+--
+>>
+stream
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+13 0 obj
+<< /Length 14 0 R /Type /XObject /Subtype /Image /Width 521 /Height 346 /ColorSpace
+/DeviceGray /Interpolate true /BitsPerComponent 8 /Filter /FlateDecode >>
+stream
+--
+endobj
+15 0 obj
+<< /Length 16 0 R /N 3 /Alternate /DeviceRGB /Filter /FlateDecode >>
+stream
+--
+--
+--
+--
+--
+--
+--
+endobj
+17 0 obj
+<< /Length 18 0 R /N 3 /Alternate /DeviceRGB /Filter /FlateDecode >>
+stream
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+<< /Length 32 0 R /Filter /FlateDecode >>
+stream
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+<< /Length 36 0 R /Filter /FlateDecode >>
+stream
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+<< /Length 40 0 R /Filter /FlateDecode >>
+stream
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+stream
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+<< /Length 49 0 R /Filter /FlateDecode >>
+stream
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+<< /Length 53 0 R /Filter /FlateDecode >>
+stream
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+endobj
+24 0 obj
+<< /Type /Font /Subtype /TrueType /BaseFont /FBQWGS+Calibri /FontDescriptor
+61 0 R /ToUnicode 62 0 R /FirstChar 33 /LastChar 40 /Widths [ 507 226 507
+507 507 507 507 507 ] >>
+--
+endobj
+61 0 obj
+<< /Type /FontDescriptor /FontName /FBQWGS+Calibri /Flags 4 /FontBBox [-503 -307 1240 1026]
+/ItalicAngle 0 /Ascent 952 /Descent -269 /CapHeight 644 /StemV 0 /XHeight
+476 /AvgWidth 521 /MaxWidth 1328 /FontFile2 64 0 R >>
+--
+<< /Length 65 0 R /Length1 1960 /Filter /FlateDecode >>
+stream
+--
+--
+--
+--
+--
+endobj
+8 0 obj
+<< /Type /Font /Subtype /TrueType /BaseFont /JPSLZT+Garamond-Bold /FontDescriptor
+66 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar 143 /Widths [ 250
+0 0 0 0 0 0 0 0 0 0 0 0 0 260 0 469 396 469 0 0 469 0 0 0 0 260 0 0 0 0 0
+--
+endobj
+66 0 obj
+<< /Type /FontDescriptor /FontName /JPSLZT+Garamond-Bold /Flags 32 /FontBBox
+[-147 -372 1168 996] /ItalicAngle 0 /Ascent 862 /Descent -263 /CapHeight 645
+/StemV 0 /XHeight 413 /AvgWidth 422 /MaxWidth 1211 /FontFile2 67 0 R >>
+--
+stream
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+endobj
+11 0 obj
+<< /Type /Font /Subtype /TrueType /BaseFont /SUMYRM+Garamond /FontDescriptor
+74 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar 213 /Widths [ 250
+0 0 0 0 0 0 177 292 292 0 0 219 313 219 500 469 469 469 469 469 469 469 469
+--
+endobj
+74 0 obj
+<< /Type /FontDescriptor /FontName /SUMYRM+Garamond /Flags 32 /FontBBox [-139 -307 1063 986]
+/ItalicAngle 0 /Ascent 862 /Descent -263 /CapHeight 640 /StemV 0 /XHeight
+399 /AvgWidth 387 /MaxWidth 1111 /FontFile2 75 0 R >>
+--
+<< /Length 76 0 R /Length1 35916 /Filter /FlateDecode >>
+stream
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+endobj
+29 0 obj
+<< /Type /Font /Subtype /TrueType /BaseFont /GPUQBP+Garamond-Italic /FontDescriptor
+77 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar 213 /Widths [ 250
+0 0 0 0 0 0 219 271 271 0 0 219 260 219 0 0 469 469 469 469 0 0 0 469 469
+--
+endobj
+77 0 obj
+<< /Type /FontDescriptor /FontName /GPUQBP+Garamond-Italic /Flags 96 /FontBBox
+[-217 -315 1129 993] /ItalicAngle -6 /Ascent 862 /Descent -263 /CapHeight
+654 /StemV 0 /XHeight 410 /AvgWidth 324 /MaxWidth 1153 /FontFile2 78 0 R >>
+--
+<< /Length 79 0 R /Length1 22128 /Filter /FlateDecode >>
+stream
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+"!
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+endobj
+42 0 obj
+<< /Type /Font /Subtype /TrueType /BaseFont /RYHTQC+GillSansMT /FontDescriptor
+80 0 R /Encoding /MacRomanEncoding /FirstChar 45 /LastChar 45 /Widths [ 323
+] >>
+endobj
+80 0 obj
+<< /Type /FontDescriptor /FontName /RYHTQC+GillSansMT /Flags 32 /FontBBox
+[-162 -282 1041 918] /ItalicAngle 0 /Ascent 929 /Descent -230 /CapHeight 691
+/StemV 0 /XHeight 454 /AvgWidth 407 /MaxWidth 1042 /FontFile2 81 0 R >>
+--
+endobj
+81 0 obj
+--
+<< /Length 82 0 R /Length1 3200 /Filter /FlateDecode >>
+stream
+--
+--
+--
+endobj
+86 0 obj
+(Analyse CJG)
+endobj
+87 0 obj
