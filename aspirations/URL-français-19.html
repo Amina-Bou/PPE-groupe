@@ -1,0 +1,670 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"048e346e0d",applicationID:"386790329"};/*! For license information please see nr-loader-rum-1220.min.js.LICENSE.txt */
+!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==typeof define&&define.amd?define([],e):"object"==typeof exports?exports.NRBA=e():t.NRBA=e()}(self,(function(){return function(){var t,e,n={9034:function(t,e,n){"use strict";var r=n(4168);e.Z=(0,r.ky)(16)},5973:function(t,e,n){"use strict";n.d(e,{I:function(){return r}});var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1])},4280:function(t,e,n){"use strict";n.d(e,{H:function(){return o}});var r=document.createElement("div");r.innerHTML="\x3c!--[if lte IE 6]><div></div><![endif]--\x3e\x3c!--[if lte IE 7]><div></div><![endif]--\x3e\x3c!--[if lte IE 8]><div></div><![endif]--\x3e\x3c!--[if lte IE 9]><div></div><![endif]--\x3e";var o,i=r.getElementsByTagName("div").length;o=4===i?6:3===i?7:2===i?8:1===i?9:0},5955:function(t,e,n){"use strict";n.d(e,{I:function(){return r}});var r=function(t,e){var n=this;return t&&"object"==typeof t?e&&"object"==typeof e?(Object.assign(this,e),void Object.entries(t).forEach((function(t){var e=t[0],r=t[1];n[e]=r}))):console.error("setting a Configurable requires a model to set its initial properties"):console.error("setting a Configurable requires an object as input")}},441:function(t,e,n){"use strict";n.d(e,{C:function(){return c},L:function(){return u}});var r=n(1424),o=n(5955),i={beacon:r.ce.beacon,errorBeacon:r.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function c(t){if(!t)throw new Error("All info objects require an agent identifier!");if(!a[t])throw new Error("Info for "+t+" was never set");return a[t]}function u(t,e){if(!t)throw new Error("All info objects require an agent identifier!");a[t]=new o.I(e,i),(0,r.Qy)(t,a[t],"info")}},1476:function(t,e,n){"use strict";n.d(e,{Dg:function(){return c},Mt:function(){return u}});var r=n(1424),o=n(5955),i={privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,enabled:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0},metrics:{enabled:!0},page_action:{enabled:!0},page_view_event:{enabled:!0},page_view_timing:{enabled:!0},session_trace:{enabled:!0},spa:{enabled:!0}},a={};function c(t,e){if(!t)throw new Error("All configuration objects require an agent identifier!");a[t]=new o.I(e,i),(0,r.Qy)(t,a[t],"config")}function u(t,e){if(!t)throw new Error("All configuration objects require an agent identifier!");var n=function(t){if(!t)throw new Error("All configuration objects require an agent identifier!");if(!a[t])throw new Error("Configuration for "+t+" was never set");return a[t]}(t);if(n){for(var r=e.split("."),o=0;o<r.length-1;o++)if("object"!=typeof(n=n[r[o]]))return;n=n[r[r.length-1]]}return n}},2085:function(t,e,n){"use strict";n.d(e,{Y:function(){return r}});var r=(0,n(1424).mF)().o},1220:function(t,e,n){"use strict";n.d(e,{O:function(){return w},s:function(){return x}});var r={};n.r(r),n.d(r,{agent:function(){return a},match:function(){return f},version:function(){return c}});var o=n(4280),i=n(6959),a=null,c=null;if(navigator.userAgent){var u=navigator.userAgent,s=u.match(/Version\/(\S+)\s+Safari/);s&&-1===u.indexOf("Chrome")&&-1===u.indexOf("Chromium")&&(a="Safari",c=s[1])}function f(t,e){if(!a)return!1;if(t!==a)return!1;if(!e)return!0;if(!c)return!1;for(var n=c.split("."),r=e.split("."),o=0;o<r.length;o++)if(r[o]!==n[o])return!1;return!0}var d=n(5955),l=n(1424),v=n(4168),p=window.sessionStorage,h="NRBA_SESSION_ID";var g=n(1476),y=window.XMLHttpRequest,m=y&&y.prototype,b={};function w(t){if(!t)throw new Error("All runtime objects require an agent identifier!");if(!b[t])throw new Error("Runtime for "+t+" was never set");return b[t]}function x(t,e){if(!t)throw new Error("All runtime objects require an agent identifier!");var n,a;b[t]=new d.I(e,(n=t,{customTransaction:void 0,disabled:!1,features:{},maxBytes:6===o.H?2e3:3e4,offset:(0,i.yf)(),onerror:void 0,origin:""+window.location,ptid:void 0,releaseIds:{},sessionId:!0===(0,g.Mt)(n,"privacy.cookies_enabled")?(null===(a=p.getItem(h))&&(a=(0,v.ky)(16),p.setItem(h,a)),a):"0",xhrWrappable:y&&m&&m.addEventListener&&!/CriOS/.test(navigator.userAgent),userAgent:r})),(0,l.Qy)(t,b[t],"runtime")}},158:function(t,e,n){"use strict";n.d(e,{q:function(){return r}});var r=["1220","PROD"].filter((function(t){return t})).join(".")},3707:function(t,e,n){"use strict";n.d(e,{w:function(){return o}});var r={agentIdentifier:""},o=function(t){var e=this;if("object"!=typeof t)return console.error("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,r),Object.entries(t).forEach((function(t){var n=t[0],o=t[1];Object.keys(r).includes(n)&&(e.sharedContext[n]=o)}))}},1776:function(t,e,n){"use strict";n.d(e,{ee:function(){return r}});var r,o=n(1424),i=n(4217),a=n(357),c="nr@context",u=(0,o.fP)();function s(){}function f(){return new s}function d(){(r.backlog.api||r.backlog.feature)&&(r.aborted=!0,r.backlog={})}u.ee?r=u.ee:(r=function t(e,n){var o={},u={},l={},v={on:g,addEventListener:g,removeEventListener:y,emit:h,get:b,listeners:m,context:p,buffer:w,abort:d,aborted:!1,isBuffering:x,debugId:n,backlog:e&&e.backlog?e.backlog:{}};return v;function p(t){return t&&t instanceof s?t:t?(0,i.X)(t,c,f):f()}function h(t,n,o,i,a){if(!1!==a&&(a=!0),!r.aborted||i){e&&a&&e.emit(t,n,o);for(var c=p(o),s=m(t),f=s.length,d=0;d<f;d++)s[d].apply(c,n);var l=O()[u[t]];return l&&l.push([v,t,n,c]),c}}function g(t,e){o[t]=m(t).concat(e)}function y(t,e){var n=o[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return o[t]||[]}function b(e){return l[e]=l[e]||t(v,e)}function w(t,e){var n=O();v.aborted||(0,a.D)(t,(function(t,r){e=e||"feature",u[r]=e,e in n||(n[e]=[])}))}function x(t){return!!O()[u[t]]}function O(){return v.backlog}}(void 0,"globalEE"),u.ee=r)},7361:function(t,e,n){"use strict";n.d(e,{E:function(){return r},p:function(){return o}});var r=n(1776).ee.get("handle");function o(t,e,n,o,i){i?(i.buffer([t],o),i.emit(t,e,n)):(r.buffer([t],o),r.emit(t,e,n))}},3350:function(t,e,n){"use strict";n.d(e,{X:function(){return i}});var r=n(7361);i.on=a;var o=i.handlers={};function i(t,e,n,i){a(i||r.E,o,t,e,n)}function a(t,e,n,o,i){i||(i="feature"),t||(t=r.E);var a=e[i]=e[i]||{};(a[n]=a[n]||[]).push([t,o])}},4408:function(t,e,n){"use strict";n.d(e,{m:function(){return i}});var r=!1;try{var o=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,o),window.removeEventListener("testPassive",null,o)}catch(t){}function i(t){return r?{passive:!0,capture:!!t}:!!t}},4168:function(t,e,n){"use strict";function r(){var t=null,e=0,n=window.crypto||window.msCrypto;function r(){return t?15&t[e++]:16*Math.random()|0}n&&n.getRandomValues&&(t=n.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<i.length;c++)a+="x"===(o=i[c])?r().toString(16):"y"===o?(o=3&r()|8).toString(16):o;return a}function o(t){var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<t;i++)o.push(a().toString(16));return o.join("");function a(){return e?15&e[n++]:16*Math.random()|0}}n.d(e,{Rl:function(){return r},ky:function(){return o}})},6959:function(t,e,n){"use strict";n.d(e,{nb:function(){return u},os:function(){return s},yf:function(){return c},zO:function(){return a}});var r=n(2364),o=(new Date).getTime(),i=o;function a(){return r.G&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-i}function c(){return o}function u(t){i=t}function s(){return i}},2364:function(t,e,n){"use strict";n.d(e,{G:function(){return r}});var r=void 0!==window.performance&&window.performance.timing&&void 0!==window.performance.timing.navigationStart},1793:function(t,e,n){"use strict";function r(t){var e,n=0;for(e=0;e<t.length;e++)n+=(e+1)*t.charCodeAt(e);return Math.abs(n)}n.d(e,{v:function(){return s},s:function(){return u}});var o=n(6972),i=n(5973),a=n(6959),c=n(2364),u=!0;function s(t){var e=function(){if(i.I&&i.I<9)return;if(c.G)return u=!1,window.performance.timing.navigationStart}()||function(){for(var t=document.cookie.split(" "),e=0;e<t.length;e++)if(0===t[e].indexOf("NREUM=")){for(var n,o,i,a,c=t[e].substring("NREUM=".length).split("&"),u=0;u<c.length;u++)0===c[u].indexOf("s=")?i=c[u].substring(2):0===c[u].indexOf("p=")?";"===(o=c[u].substring(2)).charAt(o.length-1)&&(o=o.substr(0,o.length-1)):0===c[u].indexOf("r=")&&";"===(n=c[u].substring(2)).charAt(n.length-1)&&(n=n.substr(0,n.length-1));if(n){var s=r(document.referrer);(a=s==n)||(a=r(document.location.href)==n&&s==o)}if(a&&i){if((new Date).getTime()-i>6e4)return;return i}}}();e&&((0,o.B)(t,"starttime",e),(0,a.nb)(e))}},6972:function(t,e,n){"use strict";n.d(e,{B:function(){return i},L:function(){return a}});var r=n(6959),o={};function i(t,e,n){void 0===n&&(n=(0,r.zO)()+(0,r.os)()),o[t]=o[t]||{},o[t][e]=n}function a(t,e,n,r){var i,a,c=t.sharedContext.agentIdentifier,u=null==(i=o[c])?void 0:i[n],s=null==(a=o[c])?void 0:a[r];void 0!==u&&void 0!==s&&t.store("measures",e,{value:s-u})}},7299:function(t,e,n){"use strict";n.d(e,{T:function(){return a}});var r=window,o=r;function i(){return o}var a={isFileProtocol:function(){var t=i(),e=!(!t.location||!t.location.protocol||"file:"!==t.location.protocol);e&&(a.supportabilityMetricSent=!0);return e},supportabilityMetricSent:!1}},847:function(t,e,n){"use strict";n.d(e,{K:function(){return a}});var r=n(1220),o=n(1476),i=["ajax","jserrors","metrics","page_action","page_view_event","page_view_timing","session_trace","spa"];function a(t){var e={};return i.forEach((function(n){e[n]=function(t,e){return!0!==(0,r.O)(e).disabled&&!1!==(0,o.Mt)(e,t+".enabled")}(n,t)})),e}},5023:function(t,e,n){"use strict";n.d(e,{W:function(){return o}});var r=n(1776),o=function(t,e,n){void 0===n&&(n=[]),this.agentIdentifier=t,this.aggregator=e,this.ee=r.ee.get(t),this.externalFeatures=n}},4217:function(t,e,n){"use strict";n.d(e,{X:function(){return o}});var r=Object.prototype.hasOwnProperty;function o(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(t){}return t[e]=o,o}},357:function(t,e,n){"use strict";n.d(e,{D:function(){return o}});var r=Object.prototype.hasOwnProperty;function o(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}},603:function(t,e,n){"use strict";n.d(e,{$c:function(){return s},Ng:function(){return f},RR:function(){return u}});var r=n(1476),o=n(3707),i=n(7299);function a(t,e){return a=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},a(t,e)}var c={regex:/^file:\/\/(.*)/,replacement:"file://OBFUSCATED"},u=function(t){var e,n;function r(e){return t.call(this,e)||this}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,a(e,n);var o=r.prototype;return o.shouldObfuscate=function(){return s(this.sharedContext.agentIdentifier).length>0},o.obfuscateString=function(t){if(!t||"string"!=typeof t)return t;for(var e=s(this.sharedContext.agentIdentifier),n=t,r=0;r<e.length;r++){var o=e[r].regex,i=e[r].replacement||"*";n=n.replace(o,i)}return n},r}(o.w);function s(t){var e=[],n=(0,r.Mt)(t,"obfuscate")||[];return e=e.concat(n),i.T.isFileProtocol()&&e.push(c),e}function f(t){for(var e=!1,n=!1,r=0;r<t.length;r++){"regex"in t[r]?"string"!=typeof t[r].regex&&t[r].regex.constructor!==RegExp&&(console&&console.warn&&console.warn('An obfuscation replacement rule contains a "regex" value with an invalid type (must be a string or RegExp)'),n=!0):(console&&console.warn&&console.warn('An obfuscation replacement rule was detected missing a "regex" value.'),n=!0);var o=t[r].replacement;o&&"string"!=typeof o&&(console&&console.warn&&console.warn('An obfuscation replacement rule contains a "replacement" value with an invalid type (must be a string)'),e=!0)}return!e&&!n}},1424:function(t,e,n){"use strict";n.d(e,{EZ:function(){return u},Qy:function(){return c},ce:function(){return o},fP:function(){return i},gG:function(){return s},mF:function(){return a}});var r=n(6959),o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function i(){return window.NREUM||(window.NREUM={}),void 0===window.newrelic&&(window.newrelic=window.NREUM),window.NREUM}function a(){var t=i();if(!t.o){var e=window,n=e.XMLHttpRequest;t.o={ST:setTimeout,SI:e.setImmediate,CT:clearTimeout,XHR:n,REQ:e.Request,EV:e.Event,PR:e.Promise,MO:e.MutationObserver,FETCH:e.fetch}}return t}function c(t,e,n){var o,a,c=i(),u=c.initializedAgents||{},s=u[t]||{};return Object.keys(s).length||(s.initializedAt={ms:(0,r.zO)(),date:new Date}),c.initializedAgents=Object.assign({},u,((a={})[t]=Object.assign({},s,((o={})[n]=e,o)),a)),c}function u(t,e){i()[t]=e}function s(){var t,e;return t=i(),e=t.info||{},t.info=Object.assign({beacon:o.beacon,errorBeacon:o.errorBeacon},e),function(){var t=i(),e=t.init||{};t.init=Object.assign({},e)}(),a(),function(){var t=i(),e=t.loader_config||{};t.loader_config=Object.assign({},e)}(),i()}},8539:function(t){t.exports=function(t,e,n){e||(e=0),void 0===n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}}},r={};function o(t){var e=r[t];if(void 0!==e)return e.exports;var i=r[t]={exports:{}};return n[t](i,i.exports,o),i.exports}o.m=n,o.n=function(t){var e=t&&t.__esModule?function(){return t.default}:function(){return t};return o.d(e,{a:e}),e},o.d=function(t,e){for(var n in e)o.o(e,n)&&!o.o(t,n)&&Object.defineProperty(t,n,{enumerable:!0,get:e[n]})},o.f={},o.e=function(t){return Promise.all(Object.keys(o.f).reduce((function(e,n){return o.f[n](t,e),e}),[]))},o.u=function(t){return t+"."+o.h().slice(0,8)+"-1220.js"},o.h=function(){return"2d6a2503b7f18a5b77dd"},o.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},t={},e="NRBA:",o.l=function(n,r,i,a){if(t[n])t[n].push(r);else{var c,u;if(void 0!==i)for(var s=document.getElementsByTagName("script"),f=0;f<s.length;f++){var d=s[f];if(d.getAttribute("src")==n||d.getAttribute("data-webpack")==e+i){c=d;break}}c||(u=!0,(c=document.createElement("script")).charset="utf-8",c.timeout=120,o.nc&&c.setAttribute("nonce",o.nc),c.setAttribute("data-webpack",e+i),c.src=n),t[n]=[r];var l=function(e,r){c.onerror=c.onload=null,clearTimeout(v);var o=t[n];if(delete t[n],c.parentNode&&c.parentNode.removeChild(c),o&&o.forEach((function(t){return t(r)})),e)return e(r)},v=setTimeout(l.bind(null,void 0,{type:"timeout",target:c}),12e4);c.onerror=l.bind(null,c.onerror),c.onload=l.bind(null,c.onload),u&&document.head.appendChild(c)}},o.r=function(t){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(t,"__esModule",{value:!0})},o.p="https://js-agent.newrelic.com/",function(){var t={299:0,82:0};o.f.j=function(e,n){var r=o.o(t,e)?t[e]:void 0;if(0!==r)if(r)n.push(r[2]);else{var i=new Promise((function(n,o){r=t[e]=[n,o]}));n.push(r[2]=i);var a=o.p+o.u(e),c=new Error;o.l(a,(function(n){if(o.o(t,e)&&(0!==(r=t[e])&&(t[e]=void 0),r)){var i=n&&("load"===n.type?"missing":n.type),a=n&&n.target&&n.target.src;c.message="Loading chunk "+e+" failed.\n("+i+": "+a+")",c.name="ChunkLoadError",c.type=i,c.request=a,r[1](c)}}),"chunk-"+e,e)}};var e=function(e,n){var r,i,a=n[0],c=n[1],u=n[2],s=0;if(a.some((function(e){return 0!==t[e]}))){for(r in c)o.o(c,r)&&(o.m[r]=c[r]);if(u)u(o)}for(e&&e(n);s<a.length;s++)i=a[s],o.o(t,i)&&t[i]&&t[i][0](),t[i]=0},n=self.webpackChunkNRBA=self.webpackChunkNRBA||[];n.forEach(e.bind(null,0)),n.push=e.bind(null,n.push.bind(n))}();var i={};return function(){"use strict";o.r(i);var t=o(9034),e=o(4408),n=window,r=n.document;function a(t){"complete"===r.readyState&&t()}function c(t){a(t),r.addEventListener?n.addEventListener("load",t,(0,e.m)(!1)):n.attachEvent("onload",t)}function u(t){a(t),r.addEventListener?r.addEventListener("DOMContentLoaded",t,(0,e.m)(!1)):r.attachEvent("onreadystatechange",a)}var s=o(1776);function f(){f=function(){return t};var t={},e=Object.prototype,n=e.hasOwnProperty,r="function"==typeof Symbol?Symbol:{},o=r.iterator||"@@iterator",i=r.asyncIterator||"@@asyncIterator",a=r.toStringTag||"@@toStringTag";function c(t,e,n){return Object.defineProperty(t,e,{value:n,enumerable:!0,configurable:!0,writable:!0}),t[e]}try{c({},"")}catch(t){c=function(t,e,n){return t[e]=n}}function u(t,e,n,r){var o=e&&e.prototype instanceof l?e:l,i=Object.create(o.prototype),a=new j(r||[]);return i._invoke=function(t,e,n){var r="suspendedStart";return function(o,i){if("executing"===r)throw new Error("Generator is already running");if("completed"===r){if("throw"===o)throw i;return P()}for(n.method=o,n.arg=i;;){var a=n.delegate;if(a){var c=x(a,n);if(c){if(c===d)continue;return c}}if("next"===n.method)n.sent=n._sent=n.arg;else if("throw"===n.method){if("suspendedStart"===r)throw r="completed",n.arg;n.dispatchException(n.arg)}else"return"===n.method&&n.abrupt("return",n.arg);r="executing";var u=s(t,e,n);if("normal"===u.type){if(r=n.done?"completed":"suspendedYield",u.arg===d)continue;return{value:u.arg,done:n.done}}"throw"===u.type&&(r="completed",n.method="throw",n.arg=u.arg)}}}(t,n,a),i}function s(t,e,n){try{return{type:"normal",arg:t.call(e,n)}}catch(t){return{type:"throw",arg:t}}}t.wrap=u;var d={};function l(){}function v(){}function p(){}var h={};c(h,o,(function(){return this}));var g=Object.getPrototypeOf,y=g&&g(g(_([])));y&&y!==e&&n.call(y,o)&&(h=y);var m=p.prototype=l.prototype=Object.create(h);function b(t){["next","throw","return"].forEach((function(e){c(t,e,(function(t){return this._invoke(e,t)}))}))}function w(t,e){function r(o,i,a,c){var u=s(t[o],t,i);if("throw"!==u.type){var f=u.arg,d=f.value;return d&&"object"==typeof d&&n.call(d,"__await")?e.resolve(d.__await).then((function(t){r("next",t,a,c)}),(function(t){r("throw",t,a,c)})):e.resolve(d).then((function(t){f.value=t,a(f)}),(function(t){return r("throw",t,a,c)}))}c(u.arg)}var o;this._invoke=function(t,n){function i(){return new e((function(e,o){r(t,n,e,o)}))}return o=o?o.then(i,i):i()}}function x(t,e){var n=t.iterator[e.method];if(void 0===n){if(e.delegate=null,"throw"===e.method){if(t.iterator.return&&(e.method="return",e.arg=void 0,x(t,e),"throw"===e.method))return d;e.method="throw",e.arg=new TypeError("The iterator does not provide a 'throw' method")}return d}var r=s(n,t.iterator,e.arg);if("throw"===r.type)return e.method="throw",e.arg=r.arg,e.delegate=null,d;var o=r.arg;return o?o.done?(e[t.resultName]=o.value,e.next=t.nextLoc,"return"!==e.method&&(e.method="next",e.arg=void 0),e.delegate=null,d):o:(e.method="throw",e.arg=new TypeError("iterator result is not an object"),e.delegate=null,d)}function O(t){var e={tryLoc:t[0]};1 in t&&(e.catchLoc=t[1]),2 in t&&(e.finallyLoc=t[2],e.afterLoc=t[3]),this.tryEntries.push(e)}function E(t){var e=t.completion||{};e.type="normal",delete e.arg,t.completion=e}function j(t){this.tryEntries=[{tryLoc:"root"}],t.forEach(O,this),this.reset(!0)}function _(t){if(t){var e=t[o];if(e)return e.call(t);if("function"==typeof t.next)return t;if(!isNaN(t.length)){var r=-1,i=function e(){for(;++r<t.length;)if(n.call(t,r))return e.value=t[r],e.done=!1,e;return e.value=void 0,e.done=!0,e};return i.next=i}}return{next:P}}function P(){return{value:void 0,done:!0}}return v.prototype=p,c(m,"constructor",p),c(p,"constructor",v),v.displayName=c(p,a,"GeneratorFunction"),t.isGeneratorFunction=function(t){var e="function"==typeof t&&t.constructor;return!!e&&(e===v||"GeneratorFunction"===(e.displayName||e.name))},t.mark=function(t){return Object.setPrototypeOf?Object.setPrototypeOf(t,p):(t.__proto__=p,c(t,a,"GeneratorFunction")),t.prototype=Object.create(m),t},t.awrap=function(t){return{__await:t}},b(w.prototype),c(w.prototype,i,(function(){return this})),t.AsyncIterator=w,t.async=function(e,n,r,o,i){void 0===i&&(i=Promise);var a=new w(u(e,n,r,o),i);return t.isGeneratorFunction(n)?a:a.next().then((function(t){return t.done?t.value:a.next()}))},b(m),c(m,a,"Generator"),c(m,o,(function(){return this})),c(m,"toString",(function(){return"[object Generator]"})),t.keys=function(t){var e=[];for(var n in t)e.push(n);return e.reverse(),function n(){for(;e.length;){var r=e.pop();if(r in t)return n.value=r,n.done=!1,n}return n.done=!0,n}},t.values=_,j.prototype={constructor:j,reset:function(t){if(this.prev=0,this.next=0,this.sent=this._sent=void 0,this.done=!1,this.delegate=null,this.method="next",this.arg=void 0,this.tryEntries.forEach(E),!t)for(var e in this)"t"===e.charAt(0)&&n.call(this,e)&&!isNaN(+e.slice(1))&&(this[e]=void 0)},stop:function(){this.done=!0;var t=this.tryEntries[0].completion;if("throw"===t.type)throw t.arg;return this.rval},dispatchException:function(t){if(this.done)throw t;var e=this;function r(n,r){return a.type="throw",a.arg=t,e.next=n,r&&(e.method="next",e.arg=void 0),!!r}for(var o=this.tryEntries.length-1;o>=0;--o){var i=this.tryEntries[o],a=i.completion;if("root"===i.tryLoc)return r("end");if(i.tryLoc<=this.prev){var c=n.call(i,"catchLoc"),u=n.call(i,"finallyLoc");if(c&&u){if(this.prev<i.catchLoc)return r(i.catchLoc,!0);if(this.prev<i.finallyLoc)return r(i.finallyLoc)}else if(c){if(this.prev<i.catchLoc)return r(i.catchLoc,!0)}else{if(!u)throw new Error("try statement without catch or finally");if(this.prev<i.finallyLoc)return r(i.finallyLoc)}}}},abrupt:function(t,e){for(var r=this.tryEntries.length-1;r>=0;--r){var o=this.tryEntries[r];if(o.tryLoc<=this.prev&&n.call(o,"finallyLoc")&&this.prev<o.finallyLoc){var i=o;break}}i&&("break"===t||"continue"===t)&&i.tryLoc<=e&&e<=i.finallyLoc&&(i=null);var a=i?i.completion:{};return a.type=t,a.arg=e,i?(this.method="next",this.next=i.finallyLoc,d):this.complete(a)},complete:function(t,e){if("throw"===t.type)throw t.arg;return"break"===t.type||"continue"===t.type?this.next=t.arg:"return"===t.type?(this.rval=this.arg=t.arg,this.method="return",this.next="end"):"normal"===t.type&&e&&(this.next=e),d},finish:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.finallyLoc===t)return this.complete(n.completion,n.afterLoc),E(n),d}},catch:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.tryLoc===t){var r=n.completion;if("throw"===r.type){var o=r.arg;E(n)}return o}}throw new Error("illegal catch attempt")},delegateYield:function(t,e,n){return this.delegate={iterator:_(t),resultName:e,nextLoc:n},"next"===this.method&&(this.arg=void 0),d}},t}function d(t,e,n,r,o,i,a){try{var c=t[i](a),u=c.value}catch(t){return void n(t)}c.done?e(u):Promise.resolve(u).then(r,o)}var l=0;function v(t){var e;(e=f().mark((function e(){var n,r;return f().wrap((function(e){for(;;)switch(e.prev=e.next){case 0:if(!l++){e.next=2;break}return e.abrupt("return");case 2:return e.prev=2,e.next=5,o.e(552).then(o.bind(o,5552));case 5:return n=e.sent,r=n.aggregator,e.next=9,r(t);case 9:e.next=15;break;case 11:e.prev=11,e.t0=e.catch(2),console.error("Failed to successfully load all aggregators. Aborting...\n",e.t0),s.ee.abort();case 15:case"end":return e.stop()}}),e,null,[[2,11]])})),function(){var t=this,n=arguments;return new Promise((function(r,o){var i=e.apply(t,n);function a(t){d(i,r,o,a,c,"next",t)}function c(t){d(i,r,o,a,c,"throw",t)}a(void 0)}))})()}var p=o(8539),h=o.n(p),g=o(1424),y=o(1220),m=o(441),b=o(7361),w=o(357),x=o(6959);var O=o(1476),E=o(5955),j={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},_={};var P=!1;var A=o(6972),k=o(1793),L=o(5023);function S(t,e){return S=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},S(t,e)}var T,C,I,R=function(t){var e,n;function r(e){var n;return n=t.call(this,e)||this,(0,k.v)(e),(0,A.B)(e,"firstbyte",(0,x.yf)()),c((function(){return n.measureWindowLoaded()})),u((function(){return n.measureDomContentLoaded()})),n}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,S(e,n);var o=r.prototype;return o.measureWindowLoaded=function(){var t=(0,x.zO)();(0,A.B)(this.agentIdentifier,"onload",t+(0,x.os)()),(0,b.p)("timing",["load",t],void 0,void 0,this.ee)},o.measureDomContentLoaded=function(){(0,A.B)(this.agentIdentifier,"domContent",(0,x.zO)()+(0,x.os)())},r}(L.W);void 0!==document.hidden?(T="hidden",C="visibilitychange",I="visibilityState"):void 0!==document.msHidden?(T="msHidden",C="msvisibilitychange"):void 0!==document.webkitHidden&&(T="webkitHidden",C="webkitvisibilitychange",I="webkitVisibilityState");var M=o(2085);function N(t,e){return N=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},N(t,e)}var D=function(t){var n,r;function o(n){var r,o;if((r=t.call(this,n)||this).pageHiddenTime="hidden"===document.visibilityState?-1:1/0,r.performanceObserver,r.lcpPerformanceObserver,r.clsPerformanceObserver,r.fiRecorded=!1,!r.isEnabled())return function(t){if(void 0===t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}(r);if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){r.performanceObserver=new PerformanceObserver((function(){var t;return(t=r).perfObserver.apply(t,arguments)}));try{r.performanceObserver.observe({entryTypes:["paint"]})}catch(t){}r.lcpPerformanceObserver=new PerformanceObserver((function(){var t;return(t=r).lcpObserver.apply(t,arguments)}));try{r.lcpPerformanceObserver.observe({entryTypes:["largest-contentful-paint"]})}catch(t){}r.clsPerformanceObserver=new PerformanceObserver((function(){var t;return(t=r).clsObserver.apply(t,arguments)}));try{r.clsPerformanceObserver.observe({type:"layout-shift",buffered:!0})}catch(t){}}if("addEventListener"in document){r.fiRecorded=!1;["click","keydown","mousedown","pointerdown","touchstart"].forEach((function(t){document.addEventListener(t,(function(){var t;return(t=r).captureInteraction.apply(t,arguments)}),(0,e.m)(!1))}))}return o=function(){var t;return(t=r).captureVisibilityChange.apply(t,arguments)},"addEventListener"in document&&C&&document.addEventListener(C,(function(){I&&document[I]?o(document[I]):document[T]?o("hidden"):o("visible")}),(0,e.m)(!1)),r}r=t,(n=o).prototype=Object.create(r.prototype),n.prototype.constructor=n,N(n,r);var i=o.prototype;return i.isEnabled=function(){return!1!==(0,O.Mt)(this.agentIdentifier,"page_view_timing.enabled")},i.perfObserver=function(t,e){var n=this;t.getEntries().forEach((function(t){"first-paint"===t.name?(0,b.p)("timing",["fp",Math.floor(t.startTime)],void 0,void 0,n.ee):"first-contentful-paint"===t.name&&(0,b.p)("timing",["fcp",Math.floor(t.startTime)],void 0,void 0,n.ee)}))},i.lcpObserver=function(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(this.pageHiddenTime<r.startTime)return;var o=[r],i=this.addConnectionAttributes({});i&&o.push(i),(0,b.p)("lcp",o,void 0,void 0,this.ee)}},i.clsObserver=function(t){var e=this;t.getEntries().forEach((function(t){t.hadRecentInput||(0,b.p)("cls",[t],void 0,void 0,e.ee)}))},i.addConnectionAttributes=function(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t},i.captureInteraction=function(t){if(t instanceof M.Y.EV&&!this.fiRecorded){var e=Math.round(t.timeStamp),n={type:t.type};this.addConnectionAttributes(n),e<=(0,x.zO)()?n.fid=(0,x.zO)()-e:e>(0,x.os)()&&e<=Date.now()?(e-=(0,x.os)(),n.fid=(0,x.zO)()-e):e=(0,x.zO)(),this.fiRecorded=!0,(0,b.p)("timing",["fi",e,n],void 0,void 0,this.ee)}},i.captureVisibilityChange=function(t){"hidden"===t&&(this.pageHiddenTime=(0,x.zO)(),(0,b.p)("pageHide",[this.pageHiddenTime],void 0,void 0,this.ee))},o}(L.W),q=o(3350),B="React",z="Angular",G="AngularJS",H="Backbone",F="Ember",V="Vue",Z="Meteor",U="Zepto",X="Jquery";function Q(){var t=[];try{(function(){try{if(window.React||window.ReactDOM||window.ReactRedux)return!0;if(document.querySelector("[data-reactroot], [data-reactid]"))return!0;for(var t=document.querySelectorAll("body > div"),e=0;e<t.length;e++)if(Object.keys(t[e]).indexOf("_reactRootContainer")>=0)return!0;return!1}catch(t){return!1}})()&&t.push(B),function(){try{return!!window.angular||(!!document.querySelector(".ng-binding, [ng-app], [data-ng-app], [ng-controller], [data-ng-controller], [ng-repeat], [data-ng-repeat]")||!!document.querySelector('script[src*="angular.js"], script[src*="angular.min.js"]'))}catch(t){return!1}}()&&t.push(G),function(){try{return!!(window.hasOwnProperty("ng")&&window.ng.hasOwnProperty("coreTokens")&&window.ng.coreTokens.hasOwnProperty("NgZone"))||!!document.querySelectorAll("[ng-version]").length}catch(t){return!1}}()&&t.push(z),window.Backbone&&t.push(H),window.Ember&&t.push(F),window.Vue&&t.push(V),window.Meteor&&t.push(Z),window.Zepto&&t.push(U),window.jQuery&&t.push(X)}catch(t){}return t}var W=o(7299),K=o(603),Y=o(158);function J(t,e){return J=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},J(t,e)}var $=function(t){var e,n;function r(e){var n;return(n=t.call(this,e)||this).singleChecks(),(0,q.X)("record-supportability",(function(){var t;return(t=n).recordSupportability.apply(t,arguments)}),void 0,n.ee),(0,q.X)("record-custom",(function(){var t;return(t=n).recordCustom.apply(t,arguments)}),void 0,n.ee),n}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,J(e,n);var o=r.prototype;return o.recordSupportability=function(t,e){var n=["sm",t,{name:t},e];return(0,b.p)("storeMetric",n,null,void 0,this.ee),n},o.recordCustom=function(t,e){var n=["cm",t,{name:t},e];return(0,b.p)("storeEventMetrics",n,null,void 0,this.ee),n},o.singleChecks=function(){var t=this;this.recordSupportability("Generic/Version/"+Y.q+"/Detected"),u((function(){Q().forEach((function(e){t.recordSupportability("Framework/"+e+"/Detected")}))})),W.T.isFileProtocol()&&(this.recordSupportability("Generic/FileProtocol/Detected"),W.T.supportabilityMetricSent=!0);var e=(0,K.$c)(this.agentIdentifier);e.length>0&&this.recordSupportability("Generic/Obfuscate/Detected"),e.length>0&&!(0,K.Ng)(e)&&this.recordSupportability("Generic/Obfuscate/Invalid")},r}(L.W),tt=o(847);new Promise((function(e,n){if(P)e(P);else{var r=(0,g.gG)();try{(0,m.L)(t.Z,r.info),(0,O.Dg)(t.Z,r.init),function(t,e){if(!t)throw new Error("All loader-config objects require an agent identifier!");_[t]=new E.I(e,j),(0,g.Qy)(t,_[t],"loader_config")}(t.Z,r.loader_config),(0,y.s)(t.Z,{}),function(t){var e=(0,g.fP)(),n=s.ee.get(t),r=n.get("tracer"),o="api-",i="api-ixn-";function a(){}(0,w.D)(["setErrorHandler","finished","addToTrace","inlineHit","addRelease"],(function(t,n){e[n]=u(o,n,!0,"api")})),e.addPageAction=u(o,"addPageAction",!0),e.setCurrentRouteName=u(o,"routeName",!0),e.setPageViewName=function(e,n){if("string"==typeof e)return"/"!==e.charAt(0)&&(e="/"+e),(0,y.O)(t).customTransaction=(n||"http://custom.transaction")+e,u(o,"setPageViewName",!0,"api")()},e.setCustomAttribute=function(e,n){var r,i=(0,m.C)(t);return(0,m.L)(t,Object.assign({},i,{jsAttributes:Object.assign({},i.jsAttributes,(r={},r[e]=n,r))})),u(o,"setCustomAttribute",!0,"api")()},e.interaction=function(){return(new a).get()};var c=a.prototype={createTracer:function(t,e){var o={},i=this,a="function"==typeof e;return(0,b.p)("api-ixn-tracer",[(0,x.zO)(),t,o],i,void 0,n),function(){if(r.emit((a?"":"no-")+"fn-start",[(0,x.zO)(),i,a],o),a)try{return e.apply(this,arguments)}catch(t){throw r.emit("fn-err",[arguments,this,"string"==typeof t?new Error(t):t],o),t}finally{r.emit("fn-end",[(0,x.zO)()],o)}}}};function u(t,e,r,o){return function(){return(0,b.p)("record-supportability",["API/"+e+"/called"],void 0,void 0,n),(0,b.p)(t+e,[(0,x.zO)()].concat(h()(arguments)),r?null:this,o,n),r?void 0:this}}(0,w.D)("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),(function(t,e){c[e]=u(i,e)})),e.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),(0,b.p)("record-supportability",["API/noticeError/called"],void 0,void 0,n),(0,b.p)("err",[t,(0,x.zO)(),!1,e],void 0,void 0,n)}}(t.Z),e(P=!0)}catch(t){n(t)}}})).then((function(){var e,n,r,o=(0,tt.K)(t.Z);o.page_view_event&&new R(t.Z),o.page_view_timing&&new D(t.Z),o.metrics&&new $(t.Z),e="lite",n?setTimeout((function(){return v(e)}),r||1e3):c((function(){return v(e)}))}))}(),i}()}));</script><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3.0"><meta name="theme-color" content="#000"><script>
+  (function () {
+    if (!window.ATInternet)
+      return;
+    var tag = new window.ATInternet.Tracker.Tag({secure: true});
+    if (window.localStorage.getItem('optout-at') == "true") {
+      window.ATTag.privacy.setVisitorOptout();
+    }
+    else if (didomiState.didomiVendorsConsent.includes("c:atinterne-D22mcTNf")) {
+      window.ATTag.privacy.setVisitorOptin();
+    }
+    else {
+      window.ATTag.privacy.setVisitorMode('cnil', 'exempt');
+    }
+  })();
+</script><script type="text/javascript" src="https://tag.aticdn.net/607454/smarttag.js"></script><title>    
+                
+    C&#039;est quoi une grève ? - 1 jour, 1 question | Lumni
+</title><meta name="description" content="C&amp;rsquo;est un arr&amp;ecirc;t de travail d&amp;eacute;cid&amp;eacute; par des personnes pour obtenir certains "><!-- Facebook OG --><meta property="fb:app_id" content="483074148887671" /><meta property="og:title" content="C'est quoi une grève ?"/><meta property="og:url" content="https://www.lumni.fr/video/c-est-quoi-une-greve"/><meta property="og:description" content="C’est un arrêt de travail décidé par des personnes pour obtenir certains avantages ou pour protester contre une injustice. Souvent,..."/><meta property="og:type" content="article"/><meta property="og:image" content="https://medias.lumni.fr/ptFjKdxxyEzGzncbnSB13dbsv4o/600x314/filters:focal(374x197:373x196):quality(90):max_bytes(120000)/61f4319e71e22a21ff09d9ea"/><meta property="og:image:width" content="600"/><meta property="og:image:height" content="314"/><meta property="og:locale" content="fr_FR"/><!-- Twitter meta --><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@LumniFR"><meta name="twitter:creator" content="@LumniFR"><meta name="twitter:title" content="C'est quoi une grève ?"/><meta name="twitter:description" content="C’est un arrêt de travail décidé par des personnes pour obtenir certains avantages ou pour protester contre une injustice. Souvent,..."/><meta name="twitter:image" content="https://medias.lumni.fr/ptFjKdxxyEzGzncbnSB13dbsv4o/600x314/filters:focal(374x197:373x196):quality(90):max_bytes(120000)/61f4319e71e22a21ff09d9ea"/><meta name="google-site-verification" content="FvhTTCoT-x5_LbPf7d0R4CgcsDLUprSYkyP-XAqdkD4"/><link rel="icon" href="/images/favicons/favicon_lumni.png"/><link rel="apple-touch-icon" href="/images/pwa/lumni-128x128.png"><link rel="manifest" href="/manifest.webmanifest"><link rel="canonical" href="https://www.lumni.fr/video/c-est-quoi-une-greve" /><link rel="preload" href="/fonts/poppins-v9-latin-regular.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/fonts/poppins-v9-latin-300.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/fonts/poppins-v9-latin-600.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/build/index_build.d4068bf2fb8e931d363a84da9771895f.css"><script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "https://www.lumni.fr",
+      "logo": "https://www.lumni.fr/images/app/lumni.png",
+      "name": "Lumni",
+      "sameAs": [
+        "https://www.instagram.com/lumnifr/",
+        "https://twitter.com/LumniFR",
+        "https://www.facebook.com/lumnifr/",
+        "https://www.youtube.com/user/francetveducation"
+      ]
+    }
+</script><script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.lumni.fr/",
+        "name": "Lumni",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://www.lumni.fr/recherche?query={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+        }
+    }
+</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Primaire","item":"http:\/\/www.lumni.fr\/primaire"},{"@type":"ListItem","position":2,"name":"Ce2","item":"http:\/\/www.lumni.fr\/primaire\/ce2"},{"@type":"ListItem","position":3,"name":"EMC","item":"http:\/\/www.lumni.fr\/primaire\/ce2\/enseignement-moral-et-civique"},{"@type":"ListItem","position":4,"name":"C'est quoi une grève ?"}]}</script><script type="application/ld+json">{"@context":"http://schema.org/","@type":"VideoObject","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.lumni.fr/video/c-est-quoi-une-greve"},"audience":{"@type":"EducationalAudience","educationalRole":"student"},"educationalAlignment":[{"@type":"AlignmentObject","alignmentType":"educationalLevel","targetName":"CE2","targetUrl":"https://www.lumni.fr/primaire/ce2"},{"@type":"AlignmentObject","alignmentType":"educationalLevel","targetName":"CP","targetUrl":"https://www.lumni.fr/primaire/cp"},{"@type":"AlignmentObject","alignmentType":"educationalLevel","targetName":"CE1","targetUrl":"https://www.lumni.fr/primaire/ce1"},{"@type":"AlignmentObject","alignmentType":"educationalLevel","targetName":"CM1","targetUrl":"https://www.lumni.fr/primaire/cm1"},{"@type":"AlignmentObject","alignmentType":"educationalLevel","targetName":"CM2","targetUrl":"https://www.lumni.fr/primaire/cm2"},{"@type":"AlignmentObject","alignmentType":"educationalLevel","targetName":"Sixième","targetUrl":"https://www.lumni.fr/college/sixieme"},{"@type":"AlignmentObject","alignmentType":"educationalSubject","targetName":"Primaire - EMC","targetUrl":"https://www.lumni.fr/primaire/ce2/enseignement-moral-et-civique"}],"name":"C'est quoi une grève ?","datePublished":"2018-04-06","uploadDate":"2018-04-06","dateCreated":"2018-04-03","dateModified":"2022-04-13","description":"C’est un arrêt de travail décidé par des personnes pour obtenir certains avantages ou pour protester contre une injustice. Souvent, ce sont des salariés qui s’opposent à leur patron, car ils ne sont pas d’accord avec leurs conditions de travail ou leurs salaires. Ou des étudiants qui cessent d’aller en cours pour contester une loi proposée par le gouvernement. Ou encore des gens qui exercent le même métier et refusent des mesures qui modifient leur travail. \r\n\r\nEst-ce que la grève a toujours existé ?\r\n\r\nOui. La première remonte à l’époque des Egyptiens qui s'étaient rebellés sur leurs conditions de travail lors de la construction du tombeau de Ramses III. La France, quant à elle, a connu deux grèves colossales en 1936 et 1968 ! Elles avaient complètement paralysé le pays car des millions de Français s’étaient arrêtés de travailler en même temps. Longtemps interdite, la grève a peu à peu été autorisée par la loi. En 1946, elle est reconnue comme un droit. Ainsi, le salarié est libre de faire grève sans pour autant être licencié ou mal vu par son entreprise. En revanche, il n'est pas payé pendant les jours de grève !\r\n\r\nEncore aujourd’hui, il y a des exceptions : les militaires, les gardiens de prison ou les pompiers n'ont pas le droit de faire grève. Et les salariés des transports publics, eux, sont obligés de prévenir 48 heures à l’avance de leur intention de faire grève. \r\n\r\n ","thumbnailUrl":"https://medias.lumni.fr/YSq22MBOjBbXVg1BlJZZ16KHl_Q/720x1280/filters:focal(0x0:0x0):quality(80):max_bytes(120000)/61f4319e71e22a21ff09d9ea/c-est-quoi-une-greve.jpg","image":{"@type":"ImageObject","url":"https://medias.lumni.fr/YSq22MBOjBbXVg1BlJZZ16KHl_Q/720x1280/filters:focal(0x0:0x0):quality(80):max_bytes(120000)/61f4319e71e22a21ff09d9ea/c-est-quoi-une-greve.jpg","height":720,"width":1280},"playerType":"HTML5","height":358,"width":635,"isPartOf":"1 jour, 1 question saison 4","duration":"PT1M42S","learningResourceType":"Video","director":{"@type":"Person","name":"Jacques Azam"},"producer":{"@type":"Person","name":"Milan Presse, France Télévisions"}}</script><script>window.gdprAppliesGlobally = true;
+  (function () {
+    function a(e) {
+      if (!window.frames[e]) {
+        if (document.body && document.body.firstChild) {
+          var t = document.body;
+          var n = document.createElement('iframe');
+          n.style.display = 'none';
+          n.name = e;
+          n.title = e;
+          t.insertBefore(n, t.firstChild);
+        }
+        else {setTimeout(function () {a(e);}, 5);}
+      }
+    }
+
+    function e(n, r, o, c, s) {
+      function e(e, t, n, a) {
+        if (typeof n !== 'function') {return;}
+        if (!window[r]) {window[r] = [];}
+        var i = false;
+        if (s) {i = s(e, t, n);}
+        if (!i) {window[r].push({ command: e, parameter: t, callback: n, version: a });}
+      }
+
+      e.stub = true;
+
+      function t(a) {
+        if (!window[n] || window[n].stub !== true) {return;}
+        if (!a.data) {return;}
+        var i = typeof a.data === 'string';
+        var e;
+        try {e = i ? JSON.parse(a.data) : a.data;} catch (t) {return;}
+        if (e[o]) {
+          var r = e[o];
+          window[n](r.command, r.parameter, function (e, t) {
+            var n = {};
+            n[c] = { returnValue: e, success: t, callId: r.callId };
+            a.source.postMessage(i ? JSON.stringify(n) : n, '*');
+          }, r.version);
+        }
+      }
+
+      if (typeof window[n] !== 'function') {
+        window[n] = e;
+        if (window.addEventListener) {window.addEventListener('message', t, false);} else {window.attachEvent('onmessage', t);}
+      }
+    }
+
+    e('__tcfapi', '__tcfapiBuffer', '__tcfapiCall', '__tcfapiReturn');
+    a('__tcfapiLocator');
+    (function (e) {
+      var t = document.createElement('script');
+      t.id = 'spcloader';
+      t.async = true;
+      t.src = 'https://sdk.privacy-center.org/' + e + '/loader.js?target=' + document.location.hostname;
+      t.charset = 'utf-8';
+      var n = document.getElementsByTagName('script')[0];
+      n.parentNode.insertBefore(t, n);
+    })('fedf8125-d890-4ef1-a017-6700106a71f1');
+  })();</script><script>
+      (function (i, s, o, g, r, a, m) {
+        i[r] = i[r] || [], i["abtiming"] = 1 * new Date();
+        a = s.createElement(o),
+          m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+      })(window, document, "script", "//try.abtasty.com/cdd22d1d259db6ed8ac77de30760ec40.js", "_abtasty");
+    </script><noscript><style>
+                    .container--ariane--hidden {
+                        display: block !important;
+                    }
+
+                    .menu--hidden {
+                        visibility: visible !important;
+                    }
+
+                    .ftve-header--hidden {
+                        visibility: visible !important;
+                    }
+
+                    #playlistVideo .hidden {
+                        display: unset !important;
+                    }
+                </style></noscript>
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="UHZYR-YELMY-LU9MR-ZZLHV-TD6VW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"UHZYR-YELMY-LU9MR-ZZLHV-TD6VW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="fia4waac2l3aakqce3ydgaaaabr2ggxp-f-72846d128-clienttons-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"34","ak.cp":"902481","ak.ai":parseInt("576568",10),"ak.ol":"0","ak.cr":49,"ak.ipv":6,"ak.proto":"h2","ak.rid":"1c2b03f5","ak.r":37885,"ak.a2":e,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"2a01:cb00:2d2:f600::","ak.cport":36086,"ak.gh":"23.215.189.13","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1671633647","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==+iJIzkTPL5aYDG/e2q+qFj/bcQN021VM6OgzpFNrrGJWrNJIN9elXpWMo+ZMLyNHv548KPHOuMTU0/cN0MPB64g9AkjLxnI+OsSXojUUoUKL2RWhkAp8S7Ezfk/hv4PzWeaFoGoZUUmIIhLBSteUYQhIF91olDt+eSeGqGx7m6kVJzyB3NzgSK5tWeHwW+xi7PpwGBii/2dVyN0HGndU/gSkMEypGOqueeUwr2nZ0axi6MIeLCNxxwrjsEABTN+bVG2NHtkTYeS1KGiN3lO1fPPi684qjF0s/pMsGjqeeXT22KyhwbF+NnszTeGBOuLxwlAVHcr1feth+zUV8QN6iLBgC/tsGwphjg3AQ84dYxT92XOUQ9aov7mfWHQrgVQCQIyizznrmSTLID2rSmLL6/CkpQ9CNmIzdfKNuwejC+8=","ak.pv":"15","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><body data-theme="primaire"><div class="grid"><header class="container--header-v2 scrolling-top" role="banner"><nav><div class="wrapper--large wrapper--metanav"><div class="metanav-header"><ul class="skip-link-v2" aria-label="Lien d&#039;accès rapide"><li><a id="skip-main-content" href="#content">Aller au contenu principal</a></li><li><a href="#nav">Choisir un niveau</a></li><li><a id="search-skip-link" href="#searchQuery">Rechercher un contenu</a></li></ul><ul class="metanav-header__offers"><li class="back"><a href="" title="Lumni" data-cs-override-id="fleche-retour"><img class="metanav-header__back" src="/images/icons/arrow-left-white.svg" alt="Retour à la page précédente"></a></li><li class="logo"><a href="https://www.lumni.fr" title="Lumni" id="logo-link"><img class="metanav-header__logo" src="/images/logos/logo.svg" alt="Retour à l&#039;accueil"></a></li><li><a href="https://enseignants.lumni.fr" title="Enseignements">
+                        ENSEIGNEMENT
+                    </a></li><li><a id="link-asso" href="https://educateurs.lumni.fr" title="Éducateurs et médiateurs">
+                        ÉDUCATEURS &amp; MÉDIATEURS
+                    </a></li></ul><div><button class="top-bar--button" role="button">
+    CE2
+    <img class="top-bar--arrow" src="/images/icons/arrow-filter.svg" alt=""></button><div class="metanav-header__user"><ul class="user-menu-v2 "><li><a href="/mes-contenus?menu-ouvert=1" title="Mes favoris"
+               class="user-menu__tab "><svg class="icon--heart" width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M15.4332 5.31911C13.2804 3.76927 11.0523 3.54167 9.91666 3.54169C7.08332 3.54172 1.41666 5.95002 1.41666 12.75C1.41666 19.0446 10.3187 26.8364 15.7622 30.9564C16.4968 31.5124 17.5031 31.5124 18.2379 30.9565C23.6814 26.8387 32.5833 19.0608 32.5833 12.7663C32.5833 5.96627 26.9167 3.55794 24.0833 3.55794C22.946 3.55794 20.7133 3.7757 18.5576 5.32735C18.0279 5.70859 17.5029 6.17035 17 6.72919C16.4941 6.16713 15.966 5.70263 15.4332 5.31911Z"
+          fill="transparent"></path></svg></a></li><li class="user__login user__login-v2"><a href="javascript:void(0);" title="Connexion"
+           class="user-menu__tab "><svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon--user"><path fill-rule="evenodd" clip-rule="evenodd" d="M15.6143 7.5C15.6143 9.433 14.0473 11 12.1143 11C10.1813 11 8.61425 9.433 8.61425 7.5C8.61425 5.567 10.1813 4 12.1143 4C14.0473 4 15.6143 5.567 15.6143 7.5ZM17.1143 7.5C17.1143 10.2614 14.8757 12.5 12.1143 12.5C9.35283 12.5 7.11425 10.2614 7.11425 7.5C7.11425 4.73858 9.35283 2.5 12.1143 2.5C14.8757 2.5 17.1143 4.73858 17.1143 7.5ZM19.6143 18.8385V20H4.61425V18.6946C4.61425 17.8758 5.053 17.1198 5.76392 16.7135C9.57004 14.5386 14.2295 14.4836 18.0859 16.5682L18.3438 16.7076C19.1265 17.1306 19.6143 17.9488 19.6143 18.8385ZM19.0571 15.388L18.7992 15.2486C14.4866 12.9175 9.27603 12.979 5.01971 15.4112C3.84142 16.0845 3.11425 17.3375 3.11425 18.6946V20.5C3.11425 21.0523 3.56197 21.5 4.11425 21.5C9.44759 21.5 14.7809 21.5 20.1143 21.5C20.6665 21.5 21.1143 21.0523 21.1143 20.5V18.8385C21.1143 17.3978 20.3244 16.0731 19.0571 15.388Z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M15.6143 7.5C15.6143 9.433 14.0473 11 12.1143 11C10.1813 11 8.61426 9.433 8.61426 7.5C8.61426 5.567 10.1813 4 12.1143 4C14.0473 4 15.6143 5.567 15.6143 7.5ZM19.6143 18.8385V20H4.61426V18.6946C4.61426 17.8758 5.053 17.1198 5.76392 16.7135C9.57004 14.5386 14.2295 14.4836 18.0859 16.5682L18.3438 16.7076C19.1265 17.1306 19.6143 17.9488 19.6143 18.8385Z" fill="transparent"/></svg></a><ul class="header__sublist header__sublist--user hidden"><li><a href="/mes-contenus" title="Mes favoris">
+                    Mes favoris
+                </a></li><li><a href="/mon-historique" title="Mon historique">
+                    Mon historique
+                </a></li><li><a href="/mes-informations" title="Mes informations">
+                    Mon profil
+                </a></li><li><a href="/deconnexion" title="Déconnexion">
+                    Déconnexion
+                </a></li></ul></li></ul></div><button id="newsletter-button" class="metanav-header__btn newsletter-button" title="S&#039;inscrire aux newsletters" aria-expanded="false"><img class="metanav-header__btn-newsletter" src="/images/icons/letter.svg" alt=""></button><div class="container--newsletter"></div></div></div></div></nav><div class="popin-encouragement__overlay"></div><div class="popin-encouragement" role="dialog" aria-modal="true"><button class="close-cross popin-encouragement__close" title="Fermer la fenêtre d&#039;information sur la reprise de lecture"><span class="sr-only">Fermer la fenêtre d&#039;information sur la reprise de lecture</span></button><div class="popin-encouragement__icon"><svg width="24" height="26" viewBox="0 0 24 26" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8.94738 3.86937C8.5731 3.61027 8.5731 3.05379 8.94738 2.79469L10.7615 1.53882L12.3374 0.44789C12.7671 0.150441 13.3519 0.46019 13.3519 0.985229V2.074C19.3429 2.74567 24 7.82832 24 13.9987C24 20.6261 18.6274 25.9987 12 25.9987C5.37258 25.9987 0 20.6261 0 13.9987C0 10.6753 1.35098 7.66753 3.5337 5.49448C3.90256 5.12725 4.4956 5.15537 4.86124 5.5258C5.27024 5.94015 5.23275 6.61341 4.82705 7.03099C3.07737 8.83188 2 11.2895 2 13.9987C2 19.5215 6.47715 23.9987 12 23.9987C17.5228 23.9987 22 19.5215 22 13.9987C22 8.93433 18.2353 4.74925 13.3519 4.0893V5.67883C13.3519 6.20387 12.7671 6.51362 12.3374 6.21617L10.7615 5.12524L8.94738 3.86937ZM10 9.66536C10 9.11308 10.4477 8.66536 11 8.66536C11.5523 8.66536 12 9.11308 12 9.66536V14.6654L14.5661 17.2315C14.9566 17.622 14.9566 18.2552 14.5661 18.6457C14.1756 19.0363 13.5424 19.0363 13.1519 18.6457L10.3216 15.8154C10.1773 15.6712 10.0864 15.4938 10.0487 15.3078C10.0171 15.2104 10 15.1066 10 14.9987V9.66536Z" fill="black"/></svg></div><div class="popin-encouragement__block popin-encouragement__account"><span class="popin-encouragement__block__title">Nouveau : <br/>
+                                                Reprise de lecture
+                                    </span><div class="popin-accompany__block__content popin-encouragement__user_not_connected"><p><a href="/inscription" class="popin__link-account" data-action="registration">
+                            Crée ton compte 
+                        </a>
+                        pour reprendre la lecture de cette vidéo facilement !
+                    </p></div><div class="popin-accompany__block__content popin-encouragement__user_connected"><p>
+                        Retrouve cette vidéo dans
+                        <a href="/mon-historique">
+                            Mon historique
+                        </a>
+                        pour reprendre sa lecture quand tu le souhaites&nbsp;!
+                    </p></div></div></div><div class="popin-accompany__overlay"></div><div class="popin-accompany" role="dialog" aria-modal="true"><button class="close-cross popin-accompany__close" title="Fermer la fenêtre d’information sur l’ajout aux favoris"><span class="sr-only">Fermer la fenêtre d’information sur l’ajout aux favoris</span></button><div class="popin-accompany__icon"><img class="popin-accompany__image" src="/images/icons/heart.svg" alt=""></div><div class="popin-accompany__block"><span class="popin-accompany__block__title">Mes favoris !</span><div class="popin-accompany__block__content popin-accompany__account"><p>
+                Retrouve
+                <span class="popin_accompagny_item_type">
+                                                                        cette vidéo
+
+                                                            </span>
+                sur <br>ta page « Mes favoris »
+            </p><p>
+                Envie d&#039;y mettre plus de 3 contenus ? Rien de plus simple, il suffit de
+                <a href="/inscription" class="popin__link-account" data-action="registration">
+                    créer ton compte !
+                </a></p></div><div class="popin-accompany__block__content popin-accompany__limit_reached">
+            Tu as atteint le maximum de 3 favoris. Maintenant, il est temps de 
+            <a href="/inscription" class="popin__link-account" data-action="registration">
+                créer ton compte !
+            </a></div><div class="popin-accompany__block__content popin-accompany__connect"><a href="/connexion" class="popin__link-account" data-action="login">
+                J&#039;ai déjà un compte
+            </a></div></div></div><nav role="navigation" aria-label="menu principal"><div class="wrapper--large wrapper--bg-theme"><div class="header-v2"><ul class="header__list header__list--establishments"><li class=""><a id="nav" href="/" title="Page d'accueil Lumni">Accueil</a></li><li class=""
+                            data-slug="primaire"><div><a href="/primaire"
+                                   title="Page Primaire">
+                                    Primaire
+                                </a></div><ul class="header__sublist header__sublist--school header__sublist--bg-theme"><li class="header__sublist-establishment"><div class="header__establishment"><img src="/images/icons/arrow-filter.svg" class="header__arrow-back" alt="">
+                                            Primaire
+                                        </div></li><li class="" data-slug="maternelle"><a href="/primaire/maternelle"
+                                               title="Page Maternelle">
+                                                Maternelle
+                                            </a></li><li class="" data-slug="cp"><a href="/primaire/cp"
+                                               title="Page CP">
+                                                CP
+                                            </a></li><li class="" data-slug="ce1"><a href="/primaire/ce1"
+                                               title="Page CE1">
+                                                CE1
+                                            </a></li><li class="" data-slug="ce2"><a href="/primaire/ce2"
+                                               title="Page CE2">
+                                                CE2
+                                            </a></li><li class="" data-slug="cm1"><a href="/primaire/cm1"
+                                               title="Page CM1">
+                                                CM1
+                                            </a></li><li class="" data-slug="cm2"><a href="/primaire/cm2"
+                                               title="Page CM2">
+                                                CM2
+                                            </a></li></ul></li><li class=""
+                            data-slug="college"><div><a href="/college"
+                                   title="Page Collège">
+                                    Collège
+                                </a></div><ul class="header__sublist header__sublist--middle-school header__sublist--bg-theme"><li class="header__sublist-establishment"><div class="header__establishment"><img src="/images/icons/arrow-filter.svg" class="header__arrow-back" alt="">
+                                            Collège
+                                        </div></li><li class="" data-slug="sixieme"><a href="/college/sixieme"
+                                               title="Page Sixième">
+                                                Sixième
+                                            </a></li><li class="" data-slug="cinquieme"><a href="/college/cinquieme"
+                                               title="Page Cinquième">
+                                                Cinquième
+                                            </a></li><li class="" data-slug="quatrieme"><a href="/college/quatrieme"
+                                               title="Page Quatrième">
+                                                Quatrième
+                                            </a></li><li class="" data-slug="troisieme"><a href="/college/troisieme"
+                                               title="Page Troisième">
+                                                Troisième
+                                            </a></li></ul></li><li class=""
+                            data-slug="lycee"><div><a href="/lycee"
+                                   title="Page Lycée">
+                                    Lycée
+                                </a></div><ul class="header__sublist header__sublist--high-school header__sublist--bg-theme"><li class="header__sublist-establishment"><div class="header__establishment"><img src="/images/icons/arrow-filter.svg" class="header__arrow-back" alt="">
+                                            Lycée
+                                        </div></li><li class="" data-slug="seconde"><a href="/lycee/seconde"
+                                               title="Page Seconde">
+                                                Seconde
+                                            </a></li><li class="" data-slug="premiere"><a href="/lycee/premiere"
+                                               title="Page Première">
+                                                Première
+                                            </a></li><li class="" data-slug="terminale"><a href="/lycee/terminale"
+                                               title="Page Terminale">
+                                                Terminale
+                                            </a></li></ul></li><li class=""
+                            data-slug="etudiant"><div><a href="/etudiant"
+                                   title="Page Étudiant">
+                                    Étudiant
+                                </a></div></li></ul><div class="header__search"><form id="searchForm" class="search-v2" name="searchForm" method="get" action="/recherche" role="search"><label for="searchQuery" class="sr-only">
+        Rechercher sur le site Lumni.fr
+    </label><div class="search__input-group" role="search"><div class="icon-search"></div><input type="text" id="searchQuery" name="query" class="search__input"
+           placeholder="Rechercher une vidéo, un sujet, un thème..." autocomplete="off"
+           aria-label="Commencer à saisir pour avoir des suggestions de contenus puis naviguer avec les flèches haut et bas dans les propositions"><div role="button" tabindex="0" aria-label="Réinitialiser la recherche" class="search__input-clear close"></div></div><div id="searchCompletion" class="search__completion hidden"></div><div role="status" aria-live="assertive" aria-relevant="additions" id="alert"></div><input type="hidden" id="establishment" name="establishment" value="primaire"><input type="hidden" id="schoolLevel" name="schoolLevel" value="ce2"></form></div><ul class="user-menu-v2 header__list"><li><a href="/mes-contenus?menu-ouvert=1" title="Mes favoris"
+               class="user-menu__tab "><svg class="icon--heart" width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M15.4332 5.31911C13.2804 3.76927 11.0523 3.54167 9.91666 3.54169C7.08332 3.54172 1.41666 5.95002 1.41666 12.75C1.41666 19.0446 10.3187 26.8364 15.7622 30.9564C16.4968 31.5124 17.5031 31.5124 18.2379 30.9565C23.6814 26.8387 32.5833 19.0608 32.5833 12.7663C32.5833 5.96627 26.9167 3.55794 24.0833 3.55794C22.946 3.55794 20.7133 3.7757 18.5576 5.32735C18.0279 5.70859 17.5029 6.17035 17 6.72919C16.4941 6.16713 15.966 5.70263 15.4332 5.31911Z"
+          fill="transparent"></path></svg><span>Mes favoris</span></a></li><li class="user__login user__login-v2"><a href="javascript:void(0);" title="Connexion"
+           class="user-menu__tab "><svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon--user"><path fill-rule="evenodd" clip-rule="evenodd" d="M15.6143 7.5C15.6143 9.433 14.0473 11 12.1143 11C10.1813 11 8.61425 9.433 8.61425 7.5C8.61425 5.567 10.1813 4 12.1143 4C14.0473 4 15.6143 5.567 15.6143 7.5ZM17.1143 7.5C17.1143 10.2614 14.8757 12.5 12.1143 12.5C9.35283 12.5 7.11425 10.2614 7.11425 7.5C7.11425 4.73858 9.35283 2.5 12.1143 2.5C14.8757 2.5 17.1143 4.73858 17.1143 7.5ZM19.6143 18.8385V20H4.61425V18.6946C4.61425 17.8758 5.053 17.1198 5.76392 16.7135C9.57004 14.5386 14.2295 14.4836 18.0859 16.5682L18.3438 16.7076C19.1265 17.1306 19.6143 17.9488 19.6143 18.8385ZM19.0571 15.388L18.7992 15.2486C14.4866 12.9175 9.27603 12.979 5.01971 15.4112C3.84142 16.0845 3.11425 17.3375 3.11425 18.6946V20.5C3.11425 21.0523 3.56197 21.5 4.11425 21.5C9.44759 21.5 14.7809 21.5 20.1143 21.5C20.6665 21.5 21.1143 21.0523 21.1143 20.5V18.8385C21.1143 17.3978 20.3244 16.0731 19.0571 15.388Z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M15.6143 7.5C15.6143 9.433 14.0473 11 12.1143 11C10.1813 11 8.61426 9.433 8.61426 7.5C8.61426 5.567 10.1813 4 12.1143 4C14.0473 4 15.6143 5.567 15.6143 7.5ZM19.6143 18.8385V20H4.61426V18.6946C4.61426 17.8758 5.053 17.1198 5.76392 16.7135C9.57004 14.5386 14.2295 14.4836 18.0859 16.5682L18.3438 16.7076C19.1265 17.1306 19.6143 17.9488 19.6143 18.8385Z" fill="transparent"/></svg><span>Connexion</span><img class="user-menu__arrow hidden" src="/images/icons/chevron_slim.svg" alt=""></a><ul class="header__sublist header__sublist--user hidden"><li><a href="/mes-contenus" title="Mes favoris">
+                    Mes favoris
+                </a></li><li><a href="/mon-historique" title="Mon historique">
+                    Mon historique
+                </a></li><li><a href="/mes-informations" title="Mes informations">
+                    Mon profil
+                </a></li><li><a href="/deconnexion" title="Déconnexion">
+                    Déconnexion
+                </a></li></ul></li></ul></div></div></nav></header><div class="top-bar"><ul><li data-slug="maternelle" data-theme="primaire"><a class="" href="/primaire/maternelle" title="Page Maternelle">
+                        Maternelle
+                    </a></li><li data-slug="cp" data-theme="primaire"><a class="" href="/primaire/cp" title="Page CP">
+                        CP
+                    </a></li><li data-slug="ce1" data-theme="primaire"><a class="" href="/primaire/ce1" title="Page CE1">
+                        CE1
+                    </a></li><li data-slug="ce2" data-theme="primaire"><a class="" href="/primaire/ce2" title="Page CE2">
+                        CE2
+                    </a></li><li data-slug="cm1" data-theme="primaire"><a class="" href="/primaire/cm1" title="Page CM1">
+                        CM1
+                    </a></li><li data-slug="cm2" data-theme="primaire"><a class="" href="/primaire/cm2" title="Page CM2">
+                        CM2
+                    </a></li><li data-slug="sixieme" data-theme="college"><a class="" href="/college/sixieme" title="Page Sixième">
+                        Sixième
+                    </a></li><li data-slug="cinquieme" data-theme="college"><a class="" href="/college/cinquieme" title="Page Cinquième">
+                        Cinquième
+                    </a></li><li data-slug="quatrieme" data-theme="college"><a class="" href="/college/quatrieme" title="Page Quatrième">
+                        Quatrième
+                    </a></li><li data-slug="troisieme" data-theme="college"><a class="" href="/college/troisieme" title="Page Troisième">
+                        Troisième
+                    </a></li><li data-slug="seconde" data-theme="lycee"><a class="" href="/lycee/seconde" title="Page Seconde">
+                        Seconde
+                    </a></li><li data-slug="premiere" data-theme="lycee"><a class="" href="/lycee/premiere" title="Page Première">
+                        Première
+                    </a></li><li data-slug="terminale" data-theme="lycee"><a class="" href="/lycee/terminale" title="Page Terminale">
+                        Terminale
+                    </a></li><li data-slug="etudiant" data-theme="etudiant"><a class="" href="/etudiant?schoolLevel=etudiant" title="Page Étudiant">
+                        Étudiant
+                    </a></li><li data-theme="educateur"><a href="https://enseignants.lumni.fr">
+                Enseignement
+            </a></li><li data-theme="educateur"><a href="https://educateurs.lumni.fr">
+                Éducateurs &amp; Médiateurs
+            </a></li></ul></div><div class="wrapper--large container--breadcrumb-v2 "><div class="breadcrumb-v2"><a href="/primaire"
+               title="Primaire">
+                Primaire
+            </a><a href="/primaire/ce2"
+                   title="CE2">
+                    CE2
+                </a><a href="/primaire/ce2/enseignement-moral-et-civique" title="EMC">
+                    EMC
+                </a><span id="breadcrumbTitle">
+                C&#039;est quoi une grève ?
+            </span></div></div><div class="menuV2 menu--hidden" data-state="close"><nav role="navigation"><div class="nav-overlay"></div><div class="nav-panel thematic-level "><a class="nav-panel__level-title text-2-b"
+               href="/primaire/ce2"
+               title="Page CE2">
+                CE2
+            </a><div class="nav-panel__section custom-scrollbar"><div class="nav-panel__section--container"><span class="nav-panel__section--title subtitle">Matières</span><ul class="nav-panel__section--list"><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2" title="Accueil" data-slug="ce2"
+                       class=" nav-panel__section--link">
+                        Accueil
+                    </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/mathematiques" title="Maths" data-slug="mathematiques"
+                       class=" nav-panel__section--link">
+                        Maths
+                    </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/francais" title="Français" data-slug="francais"
+                       class=" nav-panel__section--link">
+                        Français
+                    </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/anglais" title="Anglais" data-slug="anglais"
+                       class=" nav-panel__section--link">
+                        Anglais
+                    </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/questionner-le-monde" title="Questionner le monde" data-slug="questionner-le-monde"
+                       class=" nav-panel__section--link">
+                        Questionner le monde
+                    </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/enseignement-moral-et-civique" title="EMC" data-slug="enseignement-moral-et-civique"
+                       class="select-thematic nav-panel__section--link">
+                        EMC
+                    </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/enseignements-artistiques" title="Enseignements artistiques" data-slug="enseignements-artistiques"
+                       class=" nav-panel__section--link">
+                        Enseignements artistiques
+                    </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/education-aux-medias" title="Education aux médias" data-slug="education-aux-medias"
+                       class=" nav-panel__section--link">
+                        Education aux médias
+                    </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/decouverte-des-metiers" title="Découverte des métiers" data-slug="decouverte-des-metiers"
+                       class=" nav-panel__section--link">
+                        Découverte des métiers
+                    </a></li></ul></div><div class="nav-panel__section--container"><span class="nav-panel__section--title subtitle">Et plus</span><ul class="nav-panel__section--list"><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/emissions-lumni" title="Lumni à la télé" data-slug="emissions-lumni"
+                       class=" nav-panel__section--link">
+                        Lumni à la télé
+                    </a></li><li class="nav-panel__section--item" data-attr="ce2"><span title="Activités" data-slug="activites"
+                          class=" has-children nav-panel__section--link">
+                        Activités
+                        <svg class="icon-chevron-right" width="16" height="28" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0.240651 1.18098C-0.0569012 1.45925 -0.0632511 1.92917 0.226674 2.21537L5.49512 7.41623L0.225653 12.6212C-0.0650747 12.9084 -0.0622003 13.3786 0.232016 13.6622C0.516306 13.9362 0.967312 13.9334 1.24808 13.6557L7.17164 7.79831C7.38418 7.58814 7.38375 7.24474 7.17069 7.03511L1.23369 1.19358C0.959571 0.923869 0.521526 0.918311 0.240651 1.18098Z" /></svg></span></li><li class="nav-panel__section--item" data-attr="ce2"><span title="Prendre soin de soi et des autres" data-slug="Prendre soin de soi et des autres"
+                          class=" has-children nav-panel__section--link">
+                        Prendre soin de soi et des autres
+                        <svg class="icon-chevron-right" width="16" height="28" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0.240651 1.18098C-0.0569012 1.45925 -0.0632511 1.92917 0.226674 2.21537L5.49512 7.41623L0.225653 12.6212C-0.0650747 12.9084 -0.0622003 13.3786 0.232016 13.6622C0.516306 13.9362 0.967312 13.9334 1.24808 13.6557L7.17164 7.79831C7.38418 7.58814 7.38375 7.24474 7.17069 7.03511L1.23369 1.19358C0.959571 0.923869 0.521526 0.918311 0.240651 1.18098Z" /></svg></span></li></ul></div></div><div class="nav-panel__children custom-scrollbar"><div class="nav-panel__children--container" data-slug="activites"><button class="nav-panel__children--title"><img src="/images/icons/arrow-right.svg" alt="" class="nav-panel__children--title-arrow" /><img src="/images/icons/cross_slim.svg" alt="" class="nav-panel__children--title-close" /><span>Activités</span></button><ul class="nav-panel__section--list"><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/education-physique-et-sportive" data-slug="activites"
+                   class=" nav-panel__section--link nav-panel__section--link--children">
+                    Sport
+                </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/experiences-scientifiques" data-slug="activites"
+                   class=" nav-panel__section--link nav-panel__section--link--children">
+                    Expériences scientifiques
+                </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/loisirs-creatifs" data-slug="activites"
+                   class=" nav-panel__section--link nav-panel__section--link--children">
+                    Loisirs créatifs
+                </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/magie" data-slug="activites"
+                   class=" nav-panel__section--link nav-panel__section--link--children">
+                    Magie
+                </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/jardinage-cuisine" data-slug="activites"
+                   class=" nav-panel__section--link nav-panel__section--link--children">
+                    Jardinage-cuisine
+                </a></li></ul></div><div class="nav-panel__children--container" data-slug="Prendre soin de soi et des autres"><button class="nav-panel__children--title"><img src="/images/icons/arrow-right.svg" alt="" class="nav-panel__children--title-arrow" /><img src="/images/icons/cross_slim.svg" alt="" class="nav-panel__children--title-close" /><span>Prendre soin de soi et des autres</span></button><ul class="nav-panel__section--list"><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/vivre-ensemble" data-slug="Prendre soin de soi et des autres"
+                   class=" nav-panel__section--link nav-panel__section--link--children">
+                    Vivre ensemble
+                </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/comprendre-les-dangers" data-slug="Prendre soin de soi et des autres"
+                   class=" nav-panel__section--link nav-panel__section--link--children">
+                    Comprendre les dangers
+                </a></li><li class="nav-panel__section--item" data-attr="ce2"><a href="/primaire/ce2/etre-en-bonne-sante" data-slug="Prendre soin de soi et des autres"
+                   class=" nav-panel__section--link nav-panel__section--link--children">
+                    Etre en bonne santé
+                </a></li></ul></div></div></div><div class="navbar-mobile"><nav class="nav-bottom"><ul><li class=""><a href="/primaire/ce2"><img src="/images/icons/bottom-nav-home.svg" alt=""><p>CE2</p></a></li><li class=""><button class="nav-bottom-thematic"><img src="/images/icons/bottom-nav-thematic.svg" alt=""><p>Matières</p></button></li><li class=""><a href="/primaire/ce2/tous-les-jeux"><img src="/images/icons/game.svg" alt=""><p>Jeux</p></a></li><li class=""><a href="/recherche?establishment=primaire&amp;schoolLevel=ce2"><img src="/images/icons/bottom-nav-search.svg" alt=""><p>Recherche</p></a></li></ul></nav></div></nav></div><main id="content" class="content--v2" role="main"><div class="wrapper--with-menu"><div class="wrapper--grid-playlist wrapper--grid-playlist__player"><div class="grid-area--player"><div class="player-sticky" id="player-landscape"><div class="video no-padding"><h2 class="sr-only">Vidéo
+ : C&#039;est quoi une grève ?</h2><div class="player" id="player" data-factoryid="e8836fd0-e2e5-4405-aad5-e239a06322e1"
+         data-startRightsDate="2018-04-03T00:00:00+02:00" data-endRightsDate="2024-12-06T00:00:00+01:00"><div class="player__next-video"><a href="" class="player__next-video__image"><img class="img-play icon-play-position" src="/images/icons/play.svg"
+                     alt="icu.next-video"><svg class="svg-autoplay-ring" height="100" width="100"><circle cx="44" cy="45" r="33" fill="#D3D3D3" fill-opacity="0.3"></circle></svg></a><span class="player__next-bottom"><button type="button" class="cancel-button">Annuler</button></span><div class="player__overlay"></div></div><div class="player__partner"><p class="proposed-by">Contenu proposé par</p><div class="partner-with"><div>
+                            France Télévisions
+                        </div></div></div></div></div></div></div><div class="grid-area--toolbox"><div class="toolbox--v2 save-item" data-type="video" data-slug="c-est-quoi-une-greve"><div class="toolbox--v2__body toolbox--v2__body--center"><button class="favorite btn-save-item   favorite-svg"
+        aria-pressed="false"
+        type="button" data-list="favorite"><svg class="c-button-bookmark__icon" width="34" height="34" viewBox="0 0 34 34" fill="none"
+     xmlns="http://www.w3.org/2000/svg"><path d="M15.4332 5.31911C13.2804 3.76927 11.0523 3.54167 9.91666 3.54169C7.08332 3.54172 1.41666 5.95002 1.41666 12.75C1.41666 19.0446 10.3187 26.8364 15.7622 30.9564C16.4968 31.5124 17.5031 31.5124 18.2379 30.9565C23.6814 26.8387 32.5833 19.0608 32.5833 12.7663C32.5833 5.96627 26.9167 3.55794 24.0833 3.55794C22.946 3.55794 20.7133 3.7757 18.5576 5.32735C18.0279 5.70859 17.5029 6.17035 17 6.72919C16.4941 6.16713 15.966 5.70263 15.4332 5.31911Z"
+          fill="white"></path></svg><span class="toolbox--v2__body__label">
+        Favoris     </span></button><button class="watch-later btn-save-item   watch-later-svg"
+        aria-pressed="false" tabindex="0"
+        type="button" data-list="watchLater"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><g class="Layer_2" data-name="Layer 2"><g class="Layer_1-2" data-name="Layer 1"><circle class="clock-circle" cx="11" cy="11" r="9" fill="white"/><path class="clock-path-1"
+                  d="M9.86,14.06a1,1,0,0,1-1-1V6.84a1,1,0,0,1,2.06,0V12H14a1,1,0,1,1,0,2.06Z"
+                  fill="#000"/><path class="clock-path-2"
+                  d="M11,0A11,11,0,1,0,22,11,11,11,0,0,0,11,0Zm0,19.94A8.94,8.94,0,1,1,19.94,11,8.94,8.94,0,0,1,11,19.94Z"
+                  style="fill:#000;"/></g></g></svg><span class="toolbox--v2__body__label">
+        Voir + tard     </span></button><button class="toolbox__share"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M18 7.5C18.8284 7.5 19.5 6.82843 19.5 6C19.5 5.17157 18.8284 4.5 18 4.5C17.1716 4.5 16.5 5.17157 16.5 6C16.5 6.82843 17.1716 7.5 18 7.5ZM18 9C19.6569 9 21 7.65685 21 6C21 4.34315 19.6569 3 18 3C16.3431 3 15 4.34315 15 6C15 6.24976 15.0305 6.4924 15.088 6.72438L8.19693 10.4571C7.64918 9.86829 6.8676 9.5 6 9.5C4.34315 9.5 3 10.8431 3 12.5C3 14.1569 4.34315 15.5 6 15.5C6.92188 15.5 7.74663 15.0842 8.29695 14.4299L14.5554 17.4231C14.5191 17.6098 14.5 17.8027 14.5 18C14.5 19.6569 15.8431 21 17.5 21C19.1569 21 20.5 19.6569 20.5 18C20.5 16.3431 19.1569 15 17.5 15C16.5781 15 15.7534 15.4158 15.2031 16.0701L8.94458 13.0769C8.98095 12.8902 9 12.6973 9 12.5C9 12.2503 8.96948 12.0076 8.91197 11.7757L15.8031 8.04297C16.3509 8.63172 17.1324 9 18 9ZM7.5 12.5C7.5 13.3284 6.82843 14 6 14C5.17157 14 4.5 13.3284 4.5 12.5C4.5 11.6716 5.17157 11 6 11C6.82843 11 7.5 11.6716 7.5 12.5ZM19 18C19 18.8284 18.3284 19.5 17.5 19.5C16.6716 19.5 16 18.8284 16 18C16 17.1716 16.6716 16.5 17.5 16.5C18.3284 16.5 19 17.1716 19 18Z" fill="#000"/><path fill-rule="evenodd" clip-rule="evenodd" d="M18 7.5C18.8284 7.5 19.5 6.82843 19.5 6C19.5 5.17157 18.8284 4.5 18 4.5C17.1716 4.5 16.5 5.17157 16.5 6C16.5 6.82843 17.1716 7.5 18 7.5ZM7.5 12.5C7.5 13.3284 6.82843 14 6 14C5.17157 14 4.5 13.3284 4.5 12.5C4.5 11.6716 5.17157 11 6 11C6.82843 11 7.5 11.6716 7.5 12.5ZM19 18C19 18.8284 18.3284 19.5 17.5 19.5C16.6716 19.5 16 18.8284 16 18C16 17.1716 16.6716 16.5 17.5 16.5C18.3284 16.5 19 17.1716 19 18Z" fill="transparent"/></svg><span class="toolbox--v2__body__label">Partager</span></button></div></div></div><div class="grid-area--body"><div class="item__qualification"><span>EMC</span><span>01:42</span><span>Publié le 06/04/2018</span></div><div class="item__content" id="page-video-editable"><div class="mb-20"><h1 class="item__title">
+                        
+                        C&#039;est quoi une grève ?
+                    </h1><a href="/marque/1-jour-1-question" id="programTitle" data-program="1-jour-1-question">1 jour, 1 question</a></div><div class="description description-content cke_editable " id="desktopDescription"><button class="description__arrow-mobile description__text" id="arrow" aria-expanded="false" aria-label="Lire la description"><img src="/images/icons/arrow.svg" alt="arrow" class="description__arrow"></button><div class="description__read-more description__read-more--close"><p>C&rsquo;est un arr&ecirc;t de travail d&eacute;cid&eacute; par des personnes pour obtenir certains avantages ou pour protester contre une injustice. Souvent, ce sont des <a href="https://www.lumni.fr/video/c-est-quoi-un-salarie" target="_blank">salari&eacute;s</a> qui s&rsquo;opposent &agrave; leur patron, car ils ne sont pas d&rsquo;accord avec leurs conditions de travail ou leurs salaires. Ou des &eacute;tudiants qui cessent d&rsquo;aller en cours pour contester une loi propos&eacute;e par le gouvernement. Ou encore des gens qui exercent le m&ecirc;me m&eacute;tier et refusent des mesures qui modifient leur travail.&nbsp;</p><h2>Est-ce que la gr&egrave;ve a toujours exist&eacute; ?</h2><p>Oui. La premi&egrave;re remonte &agrave; l&rsquo;&eacute;poque des Egyptiens qui s&#39;&eacute;taient rebell&eacute;s sur leurs conditions de travail lors de la construction du tombeau de Ramses III. La France, quant &agrave; elle, a connu deux gr&egrave;ves colossales en 1936 et 1968 ! Elles avaient compl&egrave;tement paralys&eacute; le pays car des millions de Fran&ccedil;ais s&rsquo;&eacute;taient arr&ecirc;t&eacute;s de travailler en m&ecirc;me temps. Longtemps interdite, la gr&egrave;ve a peu &agrave; peu &eacute;t&eacute; autoris&eacute;e par la loi. En 1946, elle est reconnue comme un droit. Ainsi, le salari&eacute; est libre de faire gr&egrave;ve sans pour autant &ecirc;tre licenci&eacute; ou mal vu par son entreprise. En revanche, il n&#39;est pas pay&eacute; pendant les jours de gr&egrave;ve !</p><p>Encore aujourd&rsquo;hui, il y a des exceptions : les militaires, les gardiens de prison ou les pompiers n&#39;ont pas le droit de faire gr&egrave;ve. Et les salari&eacute;s des transports publics, eux, sont oblig&eacute;s de pr&eacute;venir 48 heures &agrave; l&rsquo;avance de leur intention de faire gr&egrave;ve.&nbsp;</p><p>&nbsp;</p><div class="description__credits"><p>Réalisateur : <i>Jacques Azam</i></p><p>Producteur : <i>Milan Presse, France Télévisions</i></p><p>Année de copyright : <i>2018</i></p><p>Année de production : <i>2018</i></p></div><div class="description__publish"><p>Publié le 06/04/18</p><p>Modifié le 13/04/22</p></div></div><button class="description__text--read-more description__text" aria-expanded="false" aria-label="Lire la description">voir plus</button></div><div class="partner-list-logo-new"><div class="partner"><h2 class="partner__title">Ce contenu est proposé par</h2><div class="partner--logo" aria-label="France Télévisions"><img class="lazy partner--logo__img" alt="France Télévisions"
+         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2NY+vTKfwAH7wNe9ZISOgAAAABJRU5ErkJggg=="
+         data-src="https://medias.lumni.fr/m6DQErMOhlsX1YMnbaevGpO_hQc/0x0:0x0/fit-in/0x50/filters:focal(0x0:0x0):quality(100):max_bytes(120000)/5dcd8a40acbc3c72ec69d412"
+         ></div></div></div></div></div><div class="grid-area--playlist" id="playlistVideo"><div class="hidden playlist"><div class="hidden"><a href="/video/c-est-qui-greta-thunberg"
+               title="C&#039;est qui Greta Thunberg ?">
+                C&#039;est qui Greta Thunberg ?
+            </a><a href="/video/c-est-qui-abdelaziz-bouteflika"
+               title="C&#039;est qui Abdelaziz Bouteflika ?">
+                C&#039;est qui Abdelaziz Bouteflika ?
+            </a><a href="/video/c-est-quoi-une-manifestation-1-jour-1-question"
+               title="C&#039;est quoi une manifestation ?">
+                C&#039;est quoi une manifestation ?
+            </a></div></div></div><div class="grid-area--reco"><div id="recommendation--v2" data-type="quiz" data-slug="c-est-quoi-une-greve"><div class="hidden"><div class="hidden"><a href="/video/c-est-qui-abdelaziz-bouteflika"
+               title="C&#039;est qui Abdelaziz Bouteflika ?">
+                C&#039;est qui Abdelaziz Bouteflika ?
+            </a><a href="/video/c-est-qui-greta-thunberg"
+               title="C&#039;est qui Greta Thunberg ?">
+                C&#039;est qui Greta Thunberg ?
+            </a><a href="/video/c-est-quoi-une-greve"
+               title="C&#039;est quoi une grève ?">
+                C&#039;est quoi une grève ?
+            </a><a href="/video/c-est-quoi-une-manifestation-1-jour-1-question"
+               title="C&#039;est quoi une manifestation ?">
+                C&#039;est quoi une manifestation ?
+            </a></div></div></div><div id="likeAlso" data-type="video" data-slug="c-est-quoi-une-greve"><div class="hidden"><div class="hidden"><a href="/marque/1-jour-1-question"
+               title="1 jour, 1 question">
+                1 jour, 1 question
+            </a><a href="/dossier/les-valeurs-de-la-republique"
+               title="Les valeurs de la République">
+                Les valeurs de la République
+            </a><a href="/dossier/1-jour-1-question-le-travail"
+               title="1 jour, 1 question - Le travail">
+                1 jour, 1 question - Le travail
+            </a></div></div></div></div></div><div class="popup-container " data-active=""><div class="popup__wrapper " data-browser=""><div class="popup" role="dialog" aria-modal="true"><button class="close-cross--popup" title="Fermer la fenêtre de partage"><span class="sr-only">Fermer la fenêtre de partage</span></button><div class="popup-title">Partager
+                    cette video
+            </div><div class="icon-share"><a href="#" id="shareLink" class="social__link" onclick="copyToClipboard()" onmouseout="resetTooltip()"
+           data-url="http://www.lumni.fr/video/c-est-quoi-une-greve" data-zone="popin" data-social="copier_le_lien"><img src="/images/icons/share.svg"
+                 alt="Bouton pour copier le lien dans le presse-papier"><span>Copier le lien</span></a><a href="#" class="social__link" data-url="http://www.lumni.fr/video/c-est-quoi-une-greve"
+           onclick="shareFB({url:this.getAttribute('data-url')});" data-social="facebook" data-zone="popin"><img src="/images/icons/facebook-circle.svg"
+                 alt="Bouton pour partager le contenu sur Facebook"><span>facebook</span></a><a href="#" class="social__link" data-url="https://twitter.com/intent/tweet?url=http://www.lumni.fr/video/c-est-quoi-une-greve"
+           onclick="share({url:this.getAttribute('data-url'), width: 550, height: 450});" data-social="twitter" data-zone="popin"><img src="/images/icons/twitter-circle.svg"
+                 alt="Bouton pour partager le contenu sur Twitter"><span>twitter</span></a></div></div></div><div class="popup-overlay-visible"></div></div></div></main><div class="popup-container " data-active=""><div class="popup__wrapper popup--action" data-browser=""><div class="popup" role="dialog" aria-modal="true"><div class="card__popup save-item" data-type="" data-slug=""><button class="close-cross--popup" title="Fermer la fenêtre d&#039;ajout au favoris et voir plus tard"><span class="sr-only">Fermer la fenêtre d&#039;ajout au favoris et voir plus tard</span></button><p class="card__popup-title">C&#039;est quoi une grève ?</p><div class="card__popup-image"><img alt="" class="default-thumbnail" src="/images/placeholders/default-thumbnail.jpg"
+         title="Image du contenu" width="230"></div><div class="card__popup-hero-image"><div class="card--hero__background" style="--gradient-start: ; --gradient-end: ;"></div><img alt="C&#039;est quoi une grève ?" class="default-thumbnail card__image card--hero__logo" src="/images/placeholders/default-thumbnail.svg" width="230" aria-hidden="true"><img alt="C&#039;est quoi une grève ?" class="default-thumbnail card__image card--hero__perso" src="/images/placeholders/default-thumbnail.svg" width="230" aria-hidden="true"></div><div class="card__popup-action"><button class="favorite btn-save-item   favorite-svg"
+        aria-pressed="false"
+        type="button" data-list="favorite"><svg class="c-button-bookmark__icon" width="34" height="34" viewBox="0 0 34 34" fill="none"
+     xmlns="http://www.w3.org/2000/svg"><path d="M15.4332 5.31911C13.2804 3.76927 11.0523 3.54167 9.91666 3.54169C7.08332 3.54172 1.41666 5.95002 1.41666 12.75C1.41666 19.0446 10.3187 26.8364 15.7622 30.9564C16.4968 31.5124 17.5031 31.5124 18.2379 30.9565C23.6814 26.8387 32.5833 19.0608 32.5833 12.7663C32.5833 5.96627 26.9167 3.55794 24.0833 3.55794C22.946 3.55794 20.7133 3.7757 18.5576 5.32735C18.0279 5.70859 17.5029 6.17035 17 6.72919C16.4941 6.16713 15.966 5.70263 15.4332 5.31911Z"
+          fill="white"></path></svg><span class="card__popup-label">
+        Favoris     </span></button><button class="watch-later btn-save-item   watch-later-svg"
+        aria-pressed="false" tabindex="0"
+        type="button" data-list="watchLater"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><g class="Layer_2" data-name="Layer 2"><g class="Layer_1-2" data-name="Layer 1"><circle class="clock-circle" cx="11" cy="11" r="9" fill="white"/><path class="clock-path-1"
+                  d="M9.86,14.06a1,1,0,0,1-1-1V6.84a1,1,0,0,1,2.06,0V12H14a1,1,0,1,1,0,2.06Z"
+                  fill="#000"/><path class="clock-path-2"
+                  d="M11,0A11,11,0,1,0,22,11,11,11,0,0,0,11,0Zm0,19.94A8.94,8.94,0,1,1,19.94,11,8.94,8.94,0,0,1,11,19.94Z"
+                  style="fill:#000;"/></g></g></svg><span class="card__popup-label">
+        Voir + tard     </span></button></div></div></div></div><div class="popup-overlay-visible"></div></div><div class="popup-container " data-active=""><div class="popup__wrapper popup-pwa" data-browser=""><div class="popup" role="dialog" aria-modal="true"><button class="close-cross--popup" title="Fermer la fenêtre d&#039;ajout à l&#039;écran d&#039;accueil"><span class="sr-only">Fermer la fenêtre d&#039;ajout à l&#039;écran d&#039;accueil</span></button><div class="popup-pwa__header"><div class="popup-pwa__logo"><img src="/images/pwa/lumni-72x72.png" alt=""></div><div class="popup-pwa__title">Ajoute Lumni sur ton écran d’accueil pour un accès plus rapide !</div></div><div class="popup-pwa__short-install"><span class="popup-pwa__text mb-35">Clique sur les icônes</span><div class="popup-pwa__icons"><img src="/images/icons/shape.svg" alt=""><span class="popup-pwa__text">puis</span><img src="/images/icons/exclude.svg" alt=""></div></div><div class="popup-pwa__long-install"><ol><li>Ouvre Safari</li><li>Lance Lumni.fr</li><li>Clique sur <img src="/images/icons/shape.svg" alt=""></li><li>Puis sur <img src="/images/icons/exclude.svg" alt=""></li></ol></div><button class="popup-pwa__btn-install">ça m’intéresse</button><button class="popup-pwa__btn-close">Ne plus afficher</button></div></div><div class="popup-overlay-visible"></div></div><div class="popup-container login-popin" data-active=""><div class="popup__wrapper c-popin " data-browser=""><div class="popup" role="dialog" aria-modal="true"><button class="close-cross--popup" title="Fermer la fenêtre de connexion et d&#039;inscription"><span class="sr-only">Fermer la fenêtre de connexion et d&#039;inscription</span></button><p class="c-popin__text">
+        Connecte-toi pour retrouver tes contenus préférés !
+    </p><ul><li class="c-popin__button c-popin__button--blue"><a href="/connexion" data-action="login">
+                Je me connecte
+            </a></li><li class="c-popin__button c-popin__button--white"><a href="/inscription" data-action="registration">
+                Je crée mon compte
+            </a></li></ul></div></div><div class="popup-overlay-visible"></div></div><div class="containerPopin"></div><div class="updateSchoolLevelSuccess"><div class="popup-container " data-active=""><div class="popup__wrapper popup--back-to-school" data-browser=""><div class="popup" role="dialog" aria-modal="true"><button class="close-cross--popup" title="Fermer la fenêtre de validation de mise à jour du niveau scolaire"><span class="sr-only">Fermer la fenêtre de validation de mise à jour du niveau scolaire</span></button><div class="popup--back-to-school__text"><p>Ton niveau a bien été <br> pris en compte !</p><p>Bienvenue <br> dans l’univers </p></div><button type="button" class="close-popup form__btn popup--back-to-school__form__btn btn-xlarge" tabindex="0">
+        Fermer
+    </button></div></div><div class="popup-overlay-visible"></div></div></div><footer class="hidden" role="contentinfo"><div class="wrapper--with-menu wrapper--bg-footer-theme"><div class="footer-v2"><div class="footer__column "><h4>
+                                            Programmes
+                                    </h4><ul><li class=" "><a class=""
+                                   href="/marque/1-jour-1-question" title="Page Programmes / 1 jour, 1 question">
+                                    1 jour, 1 question 
+                                </a></li><li class=" "><a class=""
+                                   href="/programme/raconte-moi-les-gestes-barrieres" title="Page Programmes / Raconte-moi les gestes barrières">
+                                    Raconte-moi les gestes barrières 
+                                </a></li><li class=" "><a class=""
+                                   href="/programme/scooby-doo-en-europe-a-la-decouverte-des-pays-de-l-union-europeenne" title="Page Programmes / Scooby-Doo en Europe">
+                                    Scooby-Doo en Europe 
+                                </a></li><li class=" "><a class=""
+                                   href="/serie/1-minute-au-musee" title="Page Programmes / 1 minute au musée">
+                                    1 minute au musée 
+                                </a></li><li class=" "><a class=""
+                                   href="/serie/celestin" title="Page Programmes / Célestin">
+                                    Célestin 
+                                </a></li><li class=" "><a class=""
+                                   href="/programme/le-professeur-gamberge" title="Page Programmes / Le professeur Gamberge">
+                                    Le professeur Gamberge 
+                                </a></li><li class=" "><a class=""
+                                   href="/programme/ralph-et-les-dinosaures" title="Page Programmes / Ralph et les dinosaures">
+                                    Ralph et les dinosaures 
+                                </a></li></ul></div><div class="footer__column "><h4>
+                                            Catégories
+                                    </h4><ul><li class=" "><a class=""
+                                   href="/recherche/primaire/les-fondamentaux" title="Page Catégories / Les fondamentaux">
+                                    Les fondamentaux 
+                                </a></li><li class=" "><a class=""
+                                   href="/recherche/primaire/grammaire" title="Page Catégories / Grammaire">
+                                    Grammaire 
+                                </a></li><li class=" "><a class=""
+                                   href="/recherche/primaire/lecture" title="Page Catégories / Lecture">
+                                    Lecture 
+                                </a></li><li class=" "><a class=""
+                                   href="/recherche/primaire/calcul" title="Page Catégories / Calcul">
+                                    Calcul 
+                                </a></li><li class=" "><a class=""
+                                   href="/recherche/primaire/la-planete" title="Page Catégories / La planète">
+                                    La planète 
+                                </a></li><li class=" "><a class=""
+                                   href="/recherche/primaire/les-animaux" title="Page Catégories / Les animaux">
+                                    Les animaux 
+                                </a></li></ul></div><div class="footer__column "><h4>
+                                            Nos contenus
+                                    </h4><ul><li class=" "><a class=""
+                                   href="/primaire/ce2/toutes-les-videos" title="Page Nos contenus / Toutes les vidéos">
+                                    Toutes les vidéos CE2
+                                </a></li><li class=" "><a class=""
+                                   href="/primaire/ce2/tous-les-quiz" title="Page Nos contenus / Tous les quiz">
+                                    Tous les quiz CE2
+                                </a></li><li class=" "><a class=""
+                                   href="/primaire/ce2/tous-les-jeux" title="Page Nos contenus / Tous les jeux">
+                                    Tous les jeux CE2
+                                </a></li><li class=" "><a class=""
+                                   href="/primaire/ce2/tous-les-articles" title="Page Nos contenus / Tous les articles">
+                                    Tous les articles CE2
+                                </a></li><li class=" "><a class=""
+                                   href="/primaire/ce2/toutes-les-series" title="Page Nos contenus / Toutes les séries">
+                                    Toutes les séries CE2
+                                </a></li><li class=" "><a class=""
+                                   href="/primaire/ce2/tous-les-dossiers" title="Page Nos contenus / Tous les dossiers">
+                                    Tous les dossiers CE2
+                                </a></li><li class=" "><a class=""
+                                   href="/primaire/ce2/tous-les-cours-lumni" title="Page Nos contenus / Cours Lumni">
+                                    Cours Lumni CE2
+                                </a></li></ul></div><div class="footer__column "><h4>
+                                            Suivez-nous
+                                    </h4><ul><li class=" "><a class="newsLetterFooter"
+                                   href="#" title="Page Suivez-nous / Inscription Newsletter">
+                                    Inscription Newsletter 
+                                </a></li></ul><ul><li><div class="social-footer"><a href="https://www.facebook.com/Lumnifr" target="_blank" title="Page Facebook LumniFR"><img src="/images/icons/facebook.svg" alt="partager sur facebook" ></a><a href="https://twitter.com/LumniFR" target="_blank" title="Page Twitter LumniFR"><img src="/images/icons/twitter.svg" alt="partager du twitter" ></a><a href="https://www.instagram.com/lumnifr" target="_blank" title="Page Instagram LumniFR"><img src="/images/icons/instagram.svg" alt="partager sur instagram" ></a><a href="https://m.youtube.com/user/francetveducation" target="_blank" title="Page Youtube LumniFR"><img src="/images/icons/youtube.svg" alt="partager sur youtube" ></a></div></li></ul></div><div class="footer__column "><div class="logo-nation"></div><h4><a href="/dossier/nos-partenaires" title="Page Nos partenaires">
+                            Nos partenaires
+                        </a></h4></div></div></div><div class="wrapper--large wrapper--metanav"><div><ul class="metanav-footer-v2"><li><a href="/contact" title="Contactez-nous" target="_blank" rel="noopener">
+                    Contactez-nous
+                </a></li><li><a href="/cgu" title="CGU" target="_blank" rel="noopener">
+                    CGU
+                </a></li><li><a href="javascript:Didomi.preferences.show()" id="gestion_cookies" rel="noopener" title="">
+                    Gérer mes traceurs
+                </a></li><li><a href="/qui-sommes-nous" target="_blank" rel="noopener" title="Qui sommes-nous ?">
+                    Qui sommes-nous ?
+                </a></li><li><a href="/cgu#donnees-personnelles" title="Politique de confidentialité" target="_blank" rel="noopener">
+                    Politique de confidentialité
+                </a></li><li><a href="/mentions-legales" title="Mentions légales" target="_blank" rel="noopener">
+                    Mentions légales
+                </a></li><li><a href="/plan-du-site" title="Plan du site" target="_blank" rel="noopener">
+                    Plan du site
+                </a></li></ul></div></div></footer><div class="overlay-menu"></div></div><div class="card-preview"><div class="card-preview__player"></div><div class="card-preview__card"></div></div><div class='is-hidden' id='js-success_registration'><div class="c-bottom-notification" id="js-bottom-notification"><div class="c-bottom-notification__content-box"><p class="c-bottom-notification__text"><img class="c-bottom-notification__check-img"
+                 alt="coche verte"
+                 src="/images/icons/circle-check-green.svg"
+            >
+                Bienvenue ! Votre compte a bien été créé.
+        </p><button id="js-bottom-notification-button"
+            class="c-bottom-notification__button c-bottom-notification__button--close"
+            tabindex="0">
+        fermer
+    </button></div></div></div><div class='is-hidden' id='js-keep-connect'><div class="keep-connect"><div class="keep-connect__body"><p><img src="/images/icons/key.svg" alt="">
+            Autorises-tu ton navigateur à rester automatiquement connecté à Lumni ?
+        </p><div class="c-input c-switch-button" id="js-security-keepConnect"><span class="c-switch-button__separator" id="js-security-keepConnect-separator"></span><input aria-hidden="true" class="c-switch-button__radio c-switch-button__radio--off" type="radio" value="off" checked="checked"><input class="c-switch-button__radio c-switch-button__radio--yes" type="radio" aria-label="Oui" id="js-security-keepConnect-yes" name="keepConnect_0" required="required" value="true"><label aria-hidden="true" class="c-switch-button__radio-label" id="js-security-keepConnect-label-yes" tabindex="4"> oui </label><input class="c-switch-button__radio c-switch-button__radio--no" type="radio" aria-label="Non" id="js-security-keepConnect-no" name="keepConnect_1" required="required" value="false"><label aria-hidden="true" id="js-security-keepConnect-label-no" tabindex="1" class="c-switch-button__radio-label"> non </label><span class="c-switch-button__shape"></span></div></div></div></div><div class="popup-container " data-active=""><div class="popup__wrapper popup--action" data-browser=""><div class="popup" role="dialog" aria-modal="true"><div class="card__popup save-item" data-type="" data-slug=""><button class="close-cross--popup" title="Fermer la fenêtre d&#039;ajout au favoris et voir plus tard"><span class="sr-only">Fermer la fenêtre d&#039;ajout au favoris et voir plus tard</span></button><p class="card__popup-title">C&#039;est quoi une grève ?</p><div class="card__popup-image"><img alt="" class="default-thumbnail" src="/images/placeholders/default-thumbnail.jpg"
+         title="Image du contenu" width="230"></div><div class="card__popup-hero-image"><div class="card--hero__background" style="--gradient-start: ; --gradient-end: ;"></div><img alt="C&#039;est quoi une grève ?" class="default-thumbnail card__image card--hero__logo" src="/images/placeholders/default-thumbnail.svg" width="230" aria-hidden="true"><img alt="C&#039;est quoi une grève ?" class="default-thumbnail card__image card--hero__perso" src="/images/placeholders/default-thumbnail.svg" width="230" aria-hidden="true"></div><div class="card__popup-action"><button class="favorite btn-save-item   favorite-svg"
+        aria-pressed="false"
+        type="button" data-list="favorite"><svg class="c-button-bookmark__icon" width="34" height="34" viewBox="0 0 34 34" fill="none"
+     xmlns="http://www.w3.org/2000/svg"><path d="M15.4332 5.31911C13.2804 3.76927 11.0523 3.54167 9.91666 3.54169C7.08332 3.54172 1.41666 5.95002 1.41666 12.75C1.41666 19.0446 10.3187 26.8364 15.7622 30.9564C16.4968 31.5124 17.5031 31.5124 18.2379 30.9565C23.6814 26.8387 32.5833 19.0608 32.5833 12.7663C32.5833 5.96627 26.9167 3.55794 24.0833 3.55794C22.946 3.55794 20.7133 3.7757 18.5576 5.32735C18.0279 5.70859 17.5029 6.17035 17 6.72919C16.4941 6.16713 15.966 5.70263 15.4332 5.31911Z"
+          fill="white"></path></svg><span class="card__popup-label">
+        Favoris     </span></button><button class="watch-later btn-save-item   watch-later-svg"
+        aria-pressed="false" tabindex="0"
+        type="button" data-list="watchLater"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><g class="Layer_2" data-name="Layer 2"><g class="Layer_1-2" data-name="Layer 1"><circle class="clock-circle" cx="11" cy="11" r="9" fill="white"/><path class="clock-path-1"
+                  d="M9.86,14.06a1,1,0,0,1-1-1V6.84a1,1,0,0,1,2.06,0V12H14a1,1,0,1,1,0,2.06Z"
+                  fill="#000"/><path class="clock-path-2"
+                  d="M11,0A11,11,0,1,0,22,11,11,11,0,0,0,11,0Zm0,19.94A8.94,8.94,0,1,1,19.94,11,8.94,8.94,0,0,1,11,19.94Z"
+                  style="fill:#000;"/></g></g></svg><span class="card__popup-label">
+        Voir + tard     </span></button></div></div></div></div><div class="popup-overlay-visible"></div></div><div class="popup-container " data-active=""><div class="popup__wrapper popup-pwa" data-browser=""><div class="popup" role="dialog" aria-modal="true"><button class="close-cross--popup" title="Fermer la fenêtre d&#039;ajout à l&#039;écran d&#039;accueil"><span class="sr-only">Fermer la fenêtre d&#039;ajout à l&#039;écran d&#039;accueil</span></button><div class="popup-pwa__header"><div class="popup-pwa__logo"><img src="/images/pwa/lumni-72x72.png" alt=""></div><div class="popup-pwa__title">Ajoute Lumni sur ton écran d’accueil pour un accès plus rapide !</div></div><div class="popup-pwa__short-install"><span class="popup-pwa__text mb-35">Clique sur les icônes</span><div class="popup-pwa__icons"><img src="/images/icons/shape.svg" alt=""><span class="popup-pwa__text">puis</span><img src="/images/icons/exclude.svg" alt=""></div></div><div class="popup-pwa__long-install"><ol><li>Ouvre Safari</li><li>Lance Lumni.fr</li><li>Clique sur <img src="/images/icons/shape.svg" alt=""></li><li>Puis sur <img src="/images/icons/exclude.svg" alt=""></li></ol></div><button class="popup-pwa__btn-install">ça m’intéresse</button><button class="popup-pwa__btn-close">Ne plus afficher</button></div></div><div class="popup-overlay-visible"></div></div><div class="popup-container login-popin" data-active=""><div class="popup__wrapper c-popin " data-browser=""><div class="popup" role="dialog" aria-modal="true"><button class="close-cross--popup" title="Fermer la fenêtre de connexion et d&#039;inscription"><span class="sr-only">Fermer la fenêtre de connexion et d&#039;inscription</span></button><p class="c-popin__text">
+        Connecte-toi pour retrouver tes contenus préférés !
+    </p><ul><li class="c-popin__button c-popin__button--blue"><a href="/connexion" data-action="login">
+                Je me connecte
+            </a></li><li class="c-popin__button c-popin__button--white"><a href="/inscription" data-action="registration">
+                Je crée mon compte
+            </a></li></ul></div></div><div class="popup-overlay-visible"></div></div><div class="containerPopin"></div><div class="updateSchoolLevelSuccess"><div class="popup-container " data-active=""><div class="popup__wrapper popup--back-to-school" data-browser=""><div class="popup" role="dialog" aria-modal="true"><button class="close-cross--popup" title="Fermer la fenêtre de validation de mise à jour du niveau scolaire"><span class="sr-only">Fermer la fenêtre de validation de mise à jour du niveau scolaire</span></button><div class="popup--back-to-school__text"><p>Ton niveau a bien été <br> pris en compte !</p><p>Bienvenue <br> dans l’univers </p></div><button type="button" class="close-popup form__btn popup--back-to-school__form__btn btn-xlarge" tabindex="0">
+        Fermer
+    </button></div></div><div class="popup-overlay-visible"></div></div></div><script src="https://staticftv-a.akamaihd.net/magnetoscope/main.magnetoscope.js" ></script><script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/service-worker.js').then(registration => {
+      }).catch(registrationError => {
+        console.error('SW registration failed: ', registrationError);
+      });
+    });
+  }
+</script><script>
+                  window.LUMNI_CONTEXT = {"route":"video","routeParameters":{"slug":"c-est-quoi-une-greve"},"thematicQueryString":null,"item":{"type":"video","title":"C'est quoi une gr\u00e8ve ?","slug":"c-est-quoi-une-greve"},"qualification":{"establishment":"primaire","schoolLevel":"ce2","schoollevels":"ce2,cp,ce1,cm1,cm2,sixieme","thematic":"enseignement-moral-et-civique","thematicSlug":"label.thematics.moral-and-civic-education","thematics":"enseignement-moral-et-civique","chapters":[{"title":"Construire une culture civique","slug":"construire-une-culture-civique-2","schoolLevel":"ce2","thematic":"enseignement-moral-et-civique"},{"title":"Culture civique","slug":"culture-civique-2","schoolLevel":"sixieme","thematic":"enseignement-moral-et-civique"},{"title":"Construire une culture civique","slug":"construire-une-culture-civique-1","schoolLevel":"ce1","thematic":"enseignement-moral-et-civique"},{"title":"Culture civique","slug":"culture-civique","schoolLevel":"cm1","thematic":"enseignement-moral-et-civique"},{"title":"Culture civique","slug":"culture-civique-1","schoolLevel":"cm2","thematic":"enseignement-moral-et-civique"},{"title":"Construire une culture civique","slug":"construire-une-culture-civique","schoolLevel":"cp","thematic":"enseignement-moral-et-civique"}]}};
+                  window.PLAYER_WEBSERVICE = "//k7.ftven.fr/videos/";
+                  window.BACK_TO_SCHOOL_START = "09-01";
+                  window.BACK_TO_SCHOOL_END = "10-15";
+                  window.DATALAYER_TYPE = "default";
+                </script><script src="/build/app.a12293a2f68121e9542c.js"></script><script>
+    
+    window.currentUniverse = 'student';
+    window.isSearchResult = 0
+
+            window.establishment = 'primaire';
+    
+    
+            window.schoolLevel = 'ce2';
+    
+    
+            window.thematic = 'enseignement-moral-et-civique';
+    
+    
+            window.chapterSlug = 'construire-une-culture-civique-2';
+    
+            window.itemType = 'video';
+    
+    
+    window.utag_data = { };
+</script><script src="/build/dataLayer_lumni.a12293a2f68121e9542c.js"></script><script>
+  const tc_vars = window.utag_data;
+</script><script src="https://cdn.tagcommander.com/5472/tc_FTVLumni_20.js"></script><script>
+  if (window.tC) {
+    tC.event.datalayer(this, { 'id': 'datalayer' });
+  }
+</script><script>
+  window.fbAsyncInit = function () {
+    FB.init({
+      appId: '483074148887671',
+      autoLogAppEvents: true,
+      xfbml: true,
+      version: 'v14.0'
+    });
+  };
+
+  (function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {
+      return;
+    }
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+  function shareFB(shareConfig) {
+    FB.ui({
+      method: 'share',
+      mobile_iframe: true,
+      href: shareConfig.url,
+    }, function (response) {
+    });
+  }
+
+  function share(shareConfig) {
+    window.open(shareConfig.url, "_blank", "height=" + shareConfig.height + ",width=" + shareConfig.width + ",status=yes,toolbar=no,menubar=no,location=no");
+  }
+
+  function copyToClipboard() {
+    const selector = document.querySelector('#shareLink');
+    const link = selector.getAttribute('data-url');
+    const element = document.createElement('textarea');
+
+    element.value = link;
+    document.body.appendChild(element);
+    element.select();
+
+    document.execCommand('copy');
+    document.body.removeChild(element);
+
+    if (document.querySelector('#linkTooltip')) {
+        document.querySelector('#linkTooltip').innerHTML = 'Lien copié';
+    }
+  }
+
+  function resetTooltip() {
+    const tooltip = document.querySelector('#linkTooltip');
+
+    if (tooltip) {
+        tooltip.innerHTML = 'Copier le lien';
+    }
+  }
+</script><script>
+  setTimeout(() => {
+    /*{literal}<![CDATA[*/window.usabilla||function(){var a=window,d=a.document,c={},f=d.createElement("div"),h=!1,a=a.usabilla=function(){(c.a=c.a||[]).push(arguments)};a._=c;c.ids={};f.style.display="none";(function(){if(!d.body)return setTimeout(arguments.callee,100);d.body.insertBefore(f,d.body.firstChild).id="usabilla";h=!0})();a.load=function(a,g,k){if(!c.ids[g]){var e=c.ids={};e.url="//"+a+"/"+g+".js?s1";e.config=k;setTimeout(function(){if(!h)return setTimeout(arguments.callee,100);var b=d.createElement("iframe"),a;b.id="usabilla-"+g;/MSIE[ ]+6/.test(navigator.userAgent)&&(b.src="javascript:false");f.appendChild(b);try{b.contentWindow.document.open()}catch(c){e.domain=d.domain,a="javascript:var d=document.open();d.domain='"+e.domain+"';",b.src=a+"void(0);"}try{var l=b.contentWindow.document;l.write(["<!DOCTYPE html><html><head></head><body onload=\"var d = document;d.getElementsByTagName('head')[0].appendChild(d.createElement('script')).src='",e.url,"'\"></body></html>"].join(""));l.close()}catch(m){b.src=a+'d.write("'+loaderHtml().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}b.contentWindow.config=k;b.contentWindow.SCRIPT_ID=g},0)}}}();
+    window.usabilla.load("w.usabilla.com", "e856e55f5db5");
+    /*]]>{/literal}*/
+  }, 2000);
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"048e346e0d","applicationID":"386790329","transactionName":"NlIHNkNTXhAEVBIKWQ8YJAFFW18NSkEPB1MO","queueTime":0,"applicationTime":383,"atts":"GhUEQAtJTR4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body></html>
