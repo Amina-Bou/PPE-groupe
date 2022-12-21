@@ -1,0 +1,244 @@
+   halt in work production leverages a demand to enforce workers’ rights.
+   Despite this, the UK does not recognise the legal right to withdraw
+   labour. Instead, the UK’s “right to strike” is said to depend on a
+   complex statutory scheme[2].
+
+   This article will analyse a variety of sources, “statutes such as
+   TULRCA 1992, the common law, Convention rights, and relevant case
+   law[3]”, to determine whether the UK’s “right to strike” “is a classic
+   instance of a ‘legislated’ right[4]” or if it is merely a “slogan/legal
+   metaphor[5]”.
+--
+   -
+
+   ‘In truth, the “right to strike” in the UK depends for its realisation
+   on a complex statutory scheme. Even in jurisdictions where the right to
+   strike is specified textually in a constitutional document, such a
+   complex right must be operationalised through labour statutes. It is a
+   classic instance of a “legislated” right. Since the enactment of the
+   Human Rights Act, and the evolving jurisprudence of the ECtHR, UK law
+   may now be described as protecting a right to strike albeit one that is
+   pieced together from a variety of sources: statutes such as TULRCA, the
+   common law, Convention rights, and relevant case law.’[1]
+
+   Does this statement accurately encapsulate the UK law on the ‘right to
+   strike’? How do the different sources of law interact and what factors
+   determine the correct balance to be reached between competing interests
+   in regulating industrial action? Use case law, statute, legal
+--
+   affect innocent third parties (i.e. the general public).^[6] Therefore,
+   in order to appease and ‘bring the labour under control’, the capital
+   would ‘have to make concessions [i.e. comply with the strikers’ new
+   terms], which provoke crises of profitability’.[7] However, the loss
+   suffered by a business^[8] during and after industrial action is
+   justified on two persuasive grounds. The first ground identified by
+   Gwyneth Pitt is the human right aspect.^[9] To restrict the right to
+   strike would be akin to the horrific period of slavery,^[10] where man
+   had no power to withdraw his labour. This justification is recognising
+   the inequalities in bargaining power between employer and
+--
+   of withdrawal of labour is the equilibrium argument. The power of the
+   employer and their actions can only be matched and questioned by a
+   ‘concerted stoppage of work’.^[14] Essentially, the right to strike is
+   more than the withdrawal of labour: it is also the encompassing ‘right
+   to free expression, association, assembly and power’.^[15] Yet there is
+   ‘no positive legal right to strike in the UK’.^[16]
+
+   Instead, ‘the “right to strike” in the UK depends for its realisation
+   on a complex statutory scheme’.^[17] In contrast to its neighbouring
+   European countries’ (Spain and Italy) jurisdictions ‘where the right to
+   strike is specified textually in a constitutional document’, the UK law
+   ‘protects a right to strike … from a variety of sources: statutes such
+   as TULRCA, the common law, Convention rights, and relevant case
+   law’.^[18] The accuracy of Bogg and Dukes’ encapsulation of the UK law
+   on the ‘right to strike’ and how the different sources of law interact
+   will be subsequently discussed.
+
+--
+   Judiciary
+
+   While Spain^[19] and Italy^[20] protect the right to strike by
+   suspending the contract of employment during industrial action, this
+   contract is broken under English law.^[21] This is because the English
+   common law does not confer a right to strike,^[22] hence ‘the rigour of
+   the common law applies in the form of a breach of contract on part of
+   the strikers and economic torts … [for] the organisers and their
+   union’.^[23]
+
+--
+   its torts^[42] to protect ‘already powerful organisations’.^[43] Hence,
+   from the perspective of trade unions and their members, the common
+   law’s (inadequate) protection for the ‘right to strike’ has been,
+   undeniably, very disappointing.
+
+--
+   Railway Co successfully sued the Amalgamated Society of Railway
+   Servants union for £42,000.^[45] This sum is equivalent to
+   £5,196,328.39 today. This verdict, in effect, eliminated ‘the strike as
+   a weapon of organized labour’.[46] Naturally, workers turned to
+   political parties for redress. The concern and advocacy for trade union
+--
+   economists, such as FA Hayek, viewed trade unions as an obstacle to
+   economic growth.^[56] This perception was heightened by the Winter of
+   Discontent (1978-79): a period characterised by widespread of strikes
+   in response to the Labour government’s wage cap (to maintain falling
+   inflation).^[57] Subsequently, Thatcher’s government further justified
+--
+   democracy, rights, and freedom of trade union members; ‘too often in
+   recent years it has seemed that employees have been called out on
+   strike by their unions without proper consultation and sometimes
+   against their express wishes’.^[60] Accordingly, the Thatcher
+   government introduced legislation that prior Conservative governments
+--
+   services’,^[66] 40% of all members entitled to vote must have voted in
+   support of the industrial action. These stringent procedural
+   requirements have to be strictly followed for a strike to be
+   lawful.^[67] Oddly, there was no pressing need to introduce these
+   restrictive measures.^[68] There were no significant problems in
+   industrial relations at the time (ie, Winter of Discontent) nor any
+   significant ‘pressure from business for further laws on strikes’,^[69]
+   but the Conservative government justified these 2016 measures through
+   the findings of Bruce Carr QC and Ed Holmes.^[70] The Government
+--
+   questioned the necessity of protecting industrial action by reflecting
+   on the development of employment tribunals and discussing the economic
+   consequences of strikes. The same ‘free-market economic theory’ that
+   underpinned the MIR’s recommendations ‘drove’ the pragmatically
+   restrictive and economically influenced 2016 statute developments.^[74]
+--
+   developed a three-part test to examine the legality of industrial
+   action. This test encapsulates the substantive and procedural
+   requirements for a lawful strike whilst observing the intertwined and
+   ‘uneasy’ relationship between the common law and statute.^[82] If the
+   industrial action is unlawful at common law, the judiciary asks whether
+--
+   the statutory rules’^[86]; there is a series of High Court instances of
+   injunctions being granted to ‘ever more powerful and well-resourced
+   employers’^[87] owing to invalid strike ballots.^[88] The readily
+   available labour injunctions continued to be the “key piece^[89]” of
+   suppressing collective action until the minor development in 2011.
+--
+   indicated a change in emphasis rather than substance’^[96] (since
+   unions are still burdened with the challenges of exercising a ‘lawful’
+   strike),^[97] this judgment enhanced union’s ability to resist
+   injunction applications (as observed by Balfour Beatty Engineering
+   Services Limited v Unite the Union).^[98] The unbiased interpretation
+--
+   The ECtHR confirmed, in Enerji Yapi-Yol Sen v Turkey,^[100] that
+   Article 11 of the European Convention on Human Rights included
+   protection of the right to strike. This Article, and Article 6 of the
+   European Social Charter^[101] bestow the right to strike for their
+   member states members and due to the UK Human Rights Act 1998, ‘British
+   workers are understood to enjoy a right to strike’.^[102] This, unlike
+   the mere domestic statutory immunities, is the only instance of a
+   ‘legislated’ right to strike in the UK.^[103]
+
+   Under section 3(1) of the Human Rights Act 1998, ‘statutory provisions
+--
+   be the leading precedent on the UK’s provisions of Article 11,^[107]
+   despite the RMT and ASLEF judgment. In RMT and ASLEF, the UK courts
+   acknowledged the ‘clearly protected’^[108] right to strike under ECHR
+   Article 11. However, the court emphasised the importance of a ‘fair
+   balance to be struck between the competing interests of the individual
+--
+   ECtHR (and Human Rights Act 1998) in ‘controversial’ matters such as
+   industrial action. This review has the powerful ability to eliminate
+   the only instance of a legislated right to strike in the UK.^[125]
+
+
+--
+   ‘The notion of lawful industrial action is restrictive’, the procedural
+   requirements are ‘onerous’ and the consequences of unions liability for
+   unlawful strikes are ‘serious’.^[126] Nearly two decades after the
+   European Social Charter’s review,^[127] the UK still does not guarantee
+   the right to strike. The precedent in Metrobus still stands. There
+   continues to be a ‘poorly reasoned and barely consistent’ series of
+   judgments ‘by what looks like a weak, timid’^[128] and politically
+   influenced^[129] judiciary. The enactment of the ‘Human Rights Act and
+   the evolving jurisprudence of the ECtHR’^[130] will not prescribe a
+   right to strike in the UK until the Supreme Court or ECtHR rule UK’s
+   current provisions as incompatible with Article 11.
+
+   In truth, ‘the right to strike [in the UK] has never been much more
+   than a slogan or a legal metaphor’.^[131] This ‘slogan’ is a regime of
+   immunities that are purposely designed upon an overly complex and
+--
+   injunctions, and unfair dismissals.^[134] This system was successfully
+   underlined with the political agenda of deterring trade disputes; the
+   UK’s worker strike total has fallen to its ‘lowest level since
+   1893’.^[135]  The ‘unanimous and hostile’^[136] approach of the
+   legislature and the judiciary towards industrial action exhibits the
+--
+   Workers Union’ (2020) 49 ILJ 477, 478.
+
+   [2] Nicholas Pohl, ‘Political and Economic Factors Influencing Strike
+   Activity During the Recent Economic Crisis: A Study of The Spanish Case
+   Between 2002 And 2013’ (2018) 9 Global Labour Journal 19, 21.
+--
+
+   [4] Harry Smith, ‘How Far Does UK Labour Law Provide for The Effective
+   Exercise of a Right to Strike?’ (2014) 6 The Student Journal of Law
+   <https://sites.google.com/site/349924e64e68f035/issue-6/how-far-does-uk
+   -labour-law-provide-for-the-effective-exercise-of-a-right-to-strike>
+   accessed 15 December 2020.
+
+--
+   [9] Pitt (n 6), 570.
+
+   [10] Manfred Davidmann, ‘The Right to Strike’ (Solhaam, 1996)
+   <www.solhaam.org/articles/right.html> accessed 15 December 2020.
+
+--
+   s246.
+
+   [15] Brian Smart, ‘The Right to Strike and The Right to Work’ (1985) 2
+   Journal of Applied Philosophy 31.
+
+--
+   [49] RMT and ASLEF (n 22) [2].
+
+   [50] Keith Ewing, ‘The Right to Strike: From the Trade Disputes Act
+   1906 To A Trade Union Freedom Bill 2006’ (Institute of Employment
+   Rights, March 2013)
+   <www.ier.org.uk/product/right-strike-trade-disputes-act-1906-trade-unio
+   n-freedom-bill-2006/> accessed 11 December 2020.
+
+--
+   Union Act 2016’ (2020) 45 ILJ 227.
+
+   [64] Bart Cammaerts, ‘The Efforts to Restrict the Freedom to Strike and
+   To Deny A Right to Strike Should Be Resisted Fiercely’ (LSE Blogs, 14
+   September 2015)
+   <https://blogs.lse.ac.uk/politicsandpolicy/the-efforts-to-restrict-the-
+   freedom-to-strike-and-to-deny-a-right-to-strike-should-be-resisted-fier
+   cely/> accessed 11 December 2020.
+
+--
+   [79] Bogg and Dukes (n 1), 492.
+
+   [80] Ruth Dukes, ‘The Right to Strike Under UK Law: Not Much More Than
+   A Slogan? NURMT v SERCO, ASLEF v London & Birmingham Railway Ltd’
+   (2011) 40 ILJ 302, 309.
+--
+   [87] Kalina Arabadjieva, ‘Royal Mail Group Ltd v Communication Workers
+   Union (CWU): Injunctions Preventing Industrial Action and The Right to
+   Strike’ (UK Labour Law, 6 March 2020)
+   <https://uklabourlawblog.com/2020/03/06/royal-mail-group-ltd-v-communic
+   ation-workers-union-cwu-injunctions-preventing-industrial-action-and-th
+   e-right-to-strike-by-kalina-arabadjieva/> accessed 12 December 2020.
+
+   [88] TULRCA 1992, s226.
+--
+   [125] ECHR Art 11.
+
+   [126] Ruth Dukes, The Right to Strike Under UK Law: Something More Than
+   A Slogan? Metrobus v Unite The Union [2009] EWCA Civ 829’ (2010) 39 ILJ
+   1, 7.
+--
+   [134] ibid, 7.
+
+   [135] Richard Partington, ‘UK Worker Strike Total Falls to Lowest Level
+   Since 1893’ (The Guardian, 30 May 2018)
+   <www.theguardian.com/uk-news/2018/may/30/strikes-in-uk-fall-to-lowest-l
+   evel-since-records-began-in-1893#:~:text=The%20number%20of%20workers%20
+   who,Victoria%20was%20on%20the%20throne.> accessed 15 December 2020

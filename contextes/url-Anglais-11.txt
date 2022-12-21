@@ -1,53 +1,61 @@
-    1. Home |
-    2. Latest News |
-    3. What is happening to the right to strike?
+     * Find An Expert
 
-What is happening to the right to strike?
+   The Tube strike resulted in workers having to find alternative routes
+   which in some cases were more convenient.
+   The Tube strike resulted in workers having to find alternative routes
+   which in some cases were more convenient.
 
-
-   We've heard a lot about strikes in the media this year, as the
-   government passed their Trade Union Act in May. And much of the
-   coverage has portrayed ordinary working people with genuine grievances
 --
-   businesses to their knees.
+   Share on Reddit
 
-   The truth is less dramatic. People only ever go on strike as an
-   absolute last resort. Strikes happen where workers feel strongly that
-   they are still being unfairly treated and not listened to – strongly
-   enough to go without pay while on strike, and put themselves through
-   what is often a stressful experience.
+   HomeNewsThe London Tube strike 'brought economic benefits for workers'
 
-   Under UK employment law, workers have the right not to be dismissed or
-   suffer detriment for going on strike, providing some pretty stringent
-   conditions are met. Nevertheless, the government wrote its assault on
-   strikes into law with the Trade Union Act, which puts even tighter
-   limits on what now constitutes legitimate industrial action and, in the
-   words of TUC General Secretary Frances O’Grady, “attacks the right to
-   strike – a fundamental British liberty. It poses a serious threat to
-   good industrial relations and is completely unnecessary.”
+The London Tube strike 'brought economic benefits for workers'
 
-   It hasn't yet been implemented, but the Act's provisions will include
-   minimum turnouts for strike votes (hard to reach as unions are also
-   banned from using online or workplace voting systems), tighter time
-   limits on mandates for strikes, restrictions on
-   picketing and bureacratic changes which will give employers chances to
-   use the courts to stop strikes. Workers will still technically have
-   a right to strike, but the Act makes the right much harder to access.
+   PolicyResearch
 
-The real story of industrial action today
-
-   Just how unnecessary this new Act is is borne out by the latest stats
-   on strike action:
-     * Less than 3 in 100,000 working days were lost to strike action in
-       2015
-     * 81,000 people went on strike last year – the lowest number since
-       records began
-     * Only 106 strikes took place in 2015 – that’s twenty times fewer
-       than in 1975!
-     * Strikes are very rare and seldom last longer than three days
+   New analysis of the London Tube strike in February 2014 finds that it
+   enabled a sizeable fraction of commuters to find better routes to work,
+   and actually produced a net economic benefit due to the number of
 --
-   piece of legislation.
+   Cambridge analysed 20 days’ worth of anonymised Oyster card data,
+   containing more than 200 million data points, in order to see how
+   individual Tube journeys changed during the strike. Since this
+   particular strike only resulted in a partial closure of the Tube
+   network and not all commuters were affected by the strike, a direct
+   comparison was possible. The data enabled the researchers to see
+   whether people chose to go back to their normal commute once the strike
+   was over, or if they found a more efficient route and decided to
+   switch.
 
-   Attacks on the basic right to strike are attacks on the ability of
-   ordinary workers to successfully negotiate fair pay, conditions and
-   practices. Like Deliveroo’s couriers and workers at this London cinema.
+    The researchers found that of the regular commuters affected by the
+   strike, either because certain stations were closed or because travel
+   times were considerably different, a significant fraction – about one
+   in 20 – decided to stick with their new route once the strike was over.
+
+    While the proportion of individuals who ended up changing their routes
+   may sound small, the researchers found that the strike actually ended
+   up producing a net economic benefit. By performing a cost-benefit
+   analysis of the amount of time saved by those who changed their daily
+   commute, the researchers found that the amount of time saved in the
+   longer term actually outweighed the time lost by commuters during the
+   strike.
+
+    The London Tube map itself may have been a reason why many commuters
+   did not find their optimal journey before the strike. In many parts of
+   London, the actual distances between stations are distorted on the
+   iconic map. By digitising the Tube map and comparing it to the actual
+   distances between stations, the researchers found that those commuters
+   living in, or travelling to, parts of London where distortion is
+   greatest were more likely to have learned from the strike and found a
+   more efficient route.  Additionally, since different Tube lines travel
+   at different speeds, those commuters who had been travelling on one of
+   the slower lines were also more likely to switch routes once the strike
+   was over.
+
+--
+
+    According to the authors, being forced to alter a routine, whether
+   that’s due to a Tube strike or government regulation, can often lead to
+   net benefits, as people or corporations are forced to innovate. In
+   economics, this is known as the Porter hypothesis.

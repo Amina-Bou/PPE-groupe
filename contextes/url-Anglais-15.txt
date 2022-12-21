@@ -1,32 +1,89 @@
-     *
+   Advertisement
 
-   Almost half of all UK adults support rail workers going on strike when
-   the dispute is over pay and conditions, according to research by
-   Savanta ComRes.
+strike (v.)
 
-   The polling, published this afternoon amid ongoing strikes as transport
-   workers across the country take part in industrial action to protect
-   their pay, terms and conditions, found strong support among the public
+   Old English strican (past tense strac, past participle stricen) "pass
 --
+   is from mid-14c.; that of "to hit with a missile" is from late 14c.
+   Meaning "to cancel or expunge" (as with the stroke of a pen) is
+   attested from late 14c. A Middle English sense is preserved in strike
+   for "go toward." Sense of "come upon, find" is from 1835 (especially in
+   mining, well-digging, etc., hence strike it rich, 1854). Baseball sense
+   is from 1853. To strike a balance is from the sense "balance accounts"
+   (1530s).
 
-   Commenting on the poll, political research director at Savanta ComRes
-   Chris Hopkins said: “This so-called ‘summer of strikes’ is far from
-   over, and providing unions can get the message across to the public
-   that the pay deals they’ve been offered are not satisfactory, public
 --
-   “Contrarily, though, the public do believe that continued industrial
-   action will have a negative impact on sympathy levels for the sectors
-   balloting for strike action, and therefore there could still be a
-   tipping point where the public have simply had enough and support
-   begins to fade away.”
+   of "make level, smooth."
 
-   The poll comes amid a series of further strike days being taken this
-   week. Rail workers are striking today and Saturday while TfL staff will
-   walk out on Friday.
+   strike (n.)
 
-   Royal Mail employees are due to take further strike action.
-   Communication Workers Union general secretary Dave Ward said last week
-   that workers were being “mugged off” by the Royal Mail Group after the
-   union announced that 115,000 postal staff will take four days of strike
-   action in the coming weeks.
+   1580s, "act of striking," from strike (v.). Meaning "concentrated
+   cessation of work by a body of employees" is from 1810. Baseball sense
+   is first recorded 1841, originally meaning any contact with the ball;
+   modern sense developed by 1890s, apparently from foul strike, which
+   counted against the batter, and as hit came to be used for "contact
+   with the ball" this word was left for "a swing and a miss" that counts
+   against the batter; figurative sense of have two strikes against (of a
+   possible three) is from 1938. Bowling sense attested from 1859. Meaning
+   "sudden military attack" is attested from 1942.
 
+Entries linking to strike
+
+   strigil (n.)
+--
+   prune; lay bare, unsheathe," figuratively "waste, consume, reduce;
+   touch, move, affect, cause pain," from PIE root *strig- "to stroke,
+   rub, press" (source also of Latin striga "stroke, strike, furrow,"
+   stria "furrow, channel;" Old Church Slavonic striga "shear;" Old
+   English stracian "to stroke;" German streichen "to stroke, rub").
+--
+   stroke, line," Old High German, German strich, Gothic striks "a stroke,
+   line"), from PIE root *strig- "to stroke, rub, press" (see strigil;
+   also compare strike (v.), stroke (v.)). Sense of "long, thin mark" is
+   first found 1560s. Meaning "a temporary run (of luck)" is from 1843.
+     * stroke
+--
+     * strick
+     * stricken
+     * striker
+     * striking
+     * struck
+--
+     * See all related words (15) >
+
+Share strike
+
+   ‘cite’
+   Page URL:
+   https://www.etymonline.com/word/strike
+   HTML Link:
+   <a href="https://www.etymonline.com/word/strike">Etymology of strike by
+   etymonline</a>
+   APA style:
+   Harper, D. (n.d.). Etymology of strike. Online Etymology Dictionary.
+   Retrieved $(datetime), from https://www.etymonline.com/word/strike
+   Chicago style:
+   Harper Douglas, “Etymology of strike,” Online Etymology Dictionary,
+   accessed $(datetime), https://www.etymonline.com/word/strike.
+   MLA style:
+   Harper, Douglas. “Etymology of strike.” Online Etymology Dictionary,
+   https://www.etymonline.com/word/strike. Accessed $(datetimeMla).
+   IEEE style:
+   D. Harper. “Etymology of strike.” Online Etymology Dictionary.
+   https://www.etymonline.com/word/strike (accessed $(datetime)).
+
+   updated on February 05, 2018
+--
+   Advertisement
+
+Dictionary entries near strike
+
+   strider
+--
+   strigil
+
+   strike
+
+   striker
+
+   striking

@@ -20,8 +20,10 @@ General strike
    trade unions who strike together in order to force pressure on
    employers to begin negotiations or offer more favourable terms to the
    strikers; though not all strikers may have a material interest in the
-   negotiations.
+   negotiations, they all have a material interest in maintaining and
+   strengthening the collective efficacy of strikes as a bargaining tool.
    [ ]
+
 --
           + 1.2 20th century
                o 1.2.1 Legality
@@ -105,7 +107,7 @@ General strike
    sectors, although the strike was successfully suppressed by the
    government.^[11]^[12]
 
---
+20th centuryEdit
 
    A General Strike or Solidarity Strike was when various trade unions
    would go on strike sympathetically to help another trade union. General
@@ -125,19 +127,31 @@ General strike
      all branches in one trade; for instance the general strike of the
      miners; when helpers and hoisting engineers, etc. are all out. Then
      it is used as: General Strike of a city, i.e., "General Strike in
---
+     Florence", or a General Strike in a whole country or province, for
+     the purpose of gaining political rights, i.e., the right to vote; as
+     in Belgium, or Sweden.^[14] The profoundest conception of the
+     General Strike, however, [is] the one pointing to a thorough change
+     of the present system: a social revolution of the world; an entire
+     new reorganisation; a demolition of the entire old system of all
+     governments...^[14]
+
+   — Stephen Naft, The Social General Strike
 
    Naft's 1905 pamphlet (translated from the German language) traced
    existing sentiment for this goal of the general strike to proletarians
    of Spain and Italy.^[15]
 
---
+     The premise of The Social General Strike is that no matter how
      powerfully the working class organises itself, it still has no
      significant power over a congress, or the executive (which has
      military force at its beck and call). Therefore, a general strike
      called by an "energetic and enthusiastic" minority of workers, might
      be embraced by the mass of workers who remain unorganised. Thus it
 --
+     labour unions of all the means of production...^[16]
+
+   The Social General Strike noted the complexity of modern industry,
+   identifying the many stages in the manufacturing process and geographic
    dispersal of related manufacturing locations as weaknesses of the
    industrial process during any labour dispute.^[16] The pamphlet notes
    the problem of hunger during a general strike, and recommends where
@@ -153,6 +167,9 @@ General strike
    The year 1919 saw a number of general strikes throughout the United
    States and Canada, including two that were considered significant—the
    Seattle General Strike, and the Winnipeg General Strike. While the IWW
+   participated in the Seattle General Strike, that action was called by
+   the Seattle Central Labor Union, affiliated with the American
+   Federation of Labor (AFL, predecessor of the AFL–CIO).^[19]
 --
    In June 1919, the AFL national organisation, in session in Atlantic
    City, New Jersey, passed resolutions in opposition to the general
@@ -367,7 +384,7 @@ Syndicalism and general strikesEdit
      * 1989: Czechoslovakia   Two-hour general strike of all citizens of
        Czechoslovakia during the Velvet Revolution
      * 1988: Spain   Spanish General Strike
---
+     * 1984: Uruguay   Uruguayan General Strike
      * 1978–1979: Iran   Strikes during Iranian Revolution.
      * 1976: Canada   October 14 General Strike^[48]^[49]
      * 1975: Iceland   Icelandic women's strike
@@ -405,7 +422,9 @@ Syndicalism and general strikesEdit
      * 1920: Weimar Republic   General strike in Germany to stop Kapp
        Putsch.
      * 1919: Switzerland   General Strike in Basel and Zurich 1919,
---
+       Switzerland
+     * 1919: United States   Seattle General Strike, Seattle, Washington,
+       U.S.
      * 1919: Canada   Winnipeg General Strike, Winnipeg, Manitoba, Canada
      * 1919: Spain   Barcelona General Strike, Spain
      * 1918: Switzerland   Swiss general strike
@@ -428,14 +447,20 @@ Syndicalism and general strikesEdit
      * 1893: Belgium   Belgian general strike, Belgium
      * 1892: United States   New Orleans General Strike, New Orleans,
        Louisiana, U.S.
---
+     * 1886: Belgium   Walloon jacquerie of 1886 Wallonia
      * 1877: United States   Great Railroad Strike of 1877
      * 1862–1865: Confederate States of America   The plantation general
        strike in the Confederate States of the U.S.
      * 1842: United Kingdom   General strike, Great Britain
      * 1835: United States   Philadelphia General Strike, Pennsylvania
      * 287 BC: A secessio plebis,^[a] Roman Republic, leading to the
+       adoption of the Lex Hortensia
 --
+     * Demonstration (political)
+     * Direct action
+     * Earth Strike
+     * Georges Sorel
+     * Hartal
      * Industrial Workers of the World
      * Industrial unionism
      * List of strikes
@@ -448,6 +473,74 @@ Syndicalism and general strikesEdit
        withholding labour within a wage-system. General strikes in the
        current sense of the term only begin to take place in a context
        where in which labour is treated as a commodity, and wage workers
+--
+
+    1. ^ Carpenter, Niles. William Benbow and the Origin of the General
+       Strike Archived 13 January 2020 at the Wayback Machine. The
+       Quarterly Journal of Economics , Vol. 35, No. 3 (May 1921), pp.
+       491-499. Oxford University Press
+--
+    5. ^ Beer, M (1921). A History of British Socialism. London: G. Bell &
+       Son. OL 23304301M.
+    6. ^ F.C.Mather (1974). "The General Strike of 1842: A Study in
+       Leadership, Organisation and the Threat of Revolution during the
+       Plug Plot Disturbance". web.bham.ac.uk/1848. George Allen & Unwin
+--
+    7. ^ W.E.B. Du Bois, Black Reconstruction in America, 1935 (New York:
+       The Free Press, 1998), 63-4.
+    8. ^ "What do we mean by a General Strike?". Counterfire. Archived
+       from the original on 10 June 2019. Retrieved 16 February 2022.
+    9. ^ Philip S. Foner, History of the Labor Movement in the United
+--
+       Federation of Labor, International Publishers, 1975, pages 116–118
+   10. ^ Ryan, Patrick Spaulding (11 May 2022). "Saving Face Without
+       Words: A Confucian Perspective on The Strike of 1867". SSRN.
+       doi:10.2139/ssrn.4067005. S2CID 248036295. Retrieved 12 May 2022.
+   11. ^ G A. Phillips, The General Strike: The Politics of Industrial
+       Conflict (1976)
+   12. ^ Keith Laybourn, The General Strike of 1926 (1993)
+   13. ^ Chaplin, Ralph (1985). "The General Strike". Industrial Workers
+       of the World. Archived from the original on 6 October 2008.
+       Retrieved 8 April 2011.
+   14. ^ ^a ^b Stephen Naft, The Social General Strike, Debating Club No.
+       1, Chicago, June 1905, pages 5–6, translated from the German
+       language pamphlet of the same name by Arnold Roller
+   15. ^ Stephen Naft, The Social General Strike, Debating Club No. 1,
+       Chicago, June 1905, page 6, translated from the German language
+       pamphlet of the same name by Arnold Roller
+   16. ^ ^a ^b Stephen Naft, The Social General Strike, Debating Club No.
+       1, Chicago, June 1905, page 7, translated from the German language
+       pamphlet of the same name by Arnold Roller
+   17. ^ Stephen Naft, The Social General Strike, Debating Club No. 1,
+       Chicago, June 1905, page 8, translated from the German language
+       pamphlet of the same name by Arnold Roller
+   18. ^ Stephen Naft, The Social General Strike, Debating Club No. 1,
+       Chicago, June 1905, page 9, translated from the German language
+       pamphlet of the same name by Arnold Roller
+   19. ^ "Seattle General Strike". depts.washington.edu. Archived from the
+       original on 27 September 2021. Retrieved 27 September 2021.
+   20. ^ ^a ^b ^c ^d Sheet Metal Workers' Journal, Amalgamated Sheet Metal
+--
+       1919, pages 265-267
+   21. ^ Kelly, Kim (30 January 2022). "Everything You Need to Know About
+       General Strikes". Teen Vogue. Archived from the original on 30
+       January 2022. Retrieved 30 January 2022.
+   22. ^ Milorad M. Drachkovitch, The revolutionary internationals,
+--
+       Workers of the World, University of Illinois Press Abridged, 2000,
+       page 90
+   30. ^ ^a ^b Bill Haywood, The General Strike (Chicago, n.d.), pamphlet,
+       published by Industrial Workers of the World, from a New York City
+       speech delivered March 16, 1911.
+--
+       United States, Vol. 4, The Industrial Workers of the World
+       1905–1917, International Publishers, 1997, page 142
+   34. ^ Donald J. McClurg, The Colorado Coal Strike of 1927—Tactical
+       Leadership of the IWW, Labor History, Vol. 4, No. 1, Winter, 1963,
+       page 71
+   35. ^ Donald J. McClurg, The Colorado Coal Strike of 1927: Tactical
+       Leadership of the IWW, Labor History, Vol. 4, No. 1, Winter, 1963,
+       page 72
 --
        Machine retrieved 9 April 2011
    38. ^ ^a ^b Joy, Shemin (26 November 2020). "At least 25 crore workers
@@ -466,11 +559,21 @@ Syndicalism and general strikesEdit
    45. ^ "Tunisian general strike to cancel international flights, and
        halt land and sea transportation". Middle East Eye. 16 June
        2022.{{cite web}}: CS1 maint: url-status (link)
+   46. ^ Grevatt, Martha (14 January 2019). "All-India General Strike is
+       largest in world history". Archived from the original on 6 February
+       2022. Retrieved 6 February 2022.
 --
+       Congress. 14 October 2018.
+   49. ^ Léger, Raymond. "October 14, 1976 – the Saint John General
        Strike". Frank & Ella Hatheway Labour Exhibit Centre. Archived from
        the original on 9 April 2021. Retrieved 6 May 2017.
    50. ^ "1972: The Quebec general strike". Archived from the original on
        9 April 2021. Retrieved 1 February 2017.
+
+   Further readingEdit
+
+     * Henry L. Slobodin, "The General Strike," International Socialist
+       Review, vol. 17, no. 6 (December 1916), pp. 353–355.
 
 --
 
@@ -480,9 +583,15 @@ Syndicalism and general strikesEdit
      * Chronology of general strikes
      * The Mass Strike by Rosa Luxemburg (1906).
      * General Strike 1842 From chartists.net, downloaded 5 June 2006.
---
+     * From Reflections on Violence
+     * Strike! Famous Worker Uprisings Archived 18 February 2011 at the
+       Wayback Machine—slideshow by Life magazine.
+     * Strikes and You from the National Alliance for Worker and Employer
+       Rights
+     * Seattle General Strike Project
+     * Oakland 1946! Project
 
    Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=General_strike&oldid=111743
-   1432"
+   "https://en.wikipedia.org/w/index.php?title=General_strike&oldid=112508
+   8114"
 
