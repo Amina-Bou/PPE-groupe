@@ -4,24 +4,12 @@ grève
 
    [ ] 27 langues
 --
-     * Euskara
-     * Suomi
-     * Galego
-     * Magyar
-     * Bahasa Indonesia
---
    Définition, traduction, prononciation, anagramme et synonyme sur le
    dictionnaire libre Wiktionnaire.
    Voir aussi : Grève, greve, grevé, gréve
 
 Français[modifier le wikicode]
 --
-          par extension le terme apparaît dans la micro-toponymie des
-          plages de sable, des landes ou des dunes sableuses, des
-          successions de terrasses aux sols graveleux (les Graves en
-          Gironde). Il n’est pas exclu que ces formations plus ou moins
-          imposantes soient aussi influencées par le verbe ancien français
-          graver, dans son sens second de « gravir » (le premier sens
           renvoyant à un déplacement ou enlèvement de matière, par exemple
           ” graver la cire »).
           (Nom commun 2) Première hypothèse (1805) : de faire grève, se
@@ -64,9 +52,6 @@ Français[modifier le wikicode]
             d’amplitude et de durée variables, la grève est occupée par
             des groupements […] constitués essentiellement par des espèces
             amphibies adaptées aux « variations du niveau hydrostatique ».
-            — (Gustave Malcuit, Contributions à l’étude phytosociologique
-            des Vosges méridionales saônoises : les associations végétales
-            de la vallée de la Lanterne, thèse de doctorat, Société
 --
           + Chaque soir, lorsque sonnait le couvre-feu, les chiennetiers
             lâchaient les dogues hors des murs et malheur à qui rôdait
@@ -78,9 +63,6 @@ Français[modifier le wikicode]
             n’usaient de la « grève » – on ne disait pas la plage– que
             parcimonieusement, pour une expédition qui demandait une
             préparation minutieuse et un chargement de provisions et de
-            lainages. — (Mona Ozouf, Composition française, Gallimard,
-            2009, collection Folio, page 82)
-    2. Banc de sable qui se forme dans la Loire, et que le courant porte
 --
 
    Singulier Pluriel
@@ -158,15 +140,6 @@ Dérivés[modifier le wikicode]
      * piquet de grève
 
 Synonymes[modifier le wikicode]
---
-     * Estonien : streik (et)
-     * Finnois : lakko (fi)
-     * Gaélique irlandais : stailc (ga)
-     * Gagaouze : grev (*)
-     * Géorgien : გაფიცვა (ka) gapicva
-     * Grec : απεργία (el) aperyía féminin
-     * Hébreu : שביתה (he) chvitá
-     * Hongrois : sztrájk (hu)
 --
 
    Singulier Pluriel

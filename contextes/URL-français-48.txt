@@ -3,12 +3,6 @@
    commentaires alternate alternate alternate
 
 --
-          + Institutions administratives
-          + Collectivités Territoriales
-          + Grands arrêts du droit administratif
-     * oblig.
-          + Droit des obligations
---
           + Droit des transports
 
 Les conséquences de l’exercice du droit de grève
@@ -169,9 +163,3 @@ Soyez le premier à commenter
      * Les conséquences de l’exercice du droit de grève
      * La responsabilité pénale et civile de l’employeur
      * Contentieux en droit du travail
---
-     * Pénal :Droit pénal, Droit pénal spécial, Procédure pénale
-     * Administratif : Droit administratif,Droit administratif des biens,
-       Collectivités Territoriales, Contentieux administratif, Grands
-       arrêts du droit administratif, Institutions administratives
-     * Constitution : Droit Constitutionnel, Contentieux Constitutionnel,

@@ -61,19 +61,3 @@ Un mouvement collectif
      * Droit de grève d'un salarié du secteur privé
      * Le bulletin de paie : et les mentions interdites ?
 
---
-   Code du travail numérique
-     * Le droit du travail
-     * Glossaire
-     * À propos
-     * Mentions légales
---
-   Aidez-nous à améliorer cet outil
-     * (BUTTON) Contact
-     * Contribuer sur Github
-     * Journal des modifications
-
-   En collaboration avec
-     * La Direction Générale du Travail
-     * La fabrique des Ministères sociaux
-     * beta.gouv.fr

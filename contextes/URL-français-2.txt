@@ -17,13 +17,6 @@ Grève
 
    [ ] 70 langues
 --
-     * Suomi
-     * Frysk
-     * Gaeilge
-     * Galego
-     * עברית
-     * Hrvatski
---
    Page d’aide sur l’homonymie
 
    Pour les articles homonymes, voir Grève (homonymie).
@@ -77,8 +70,6 @@ Canada[modifier | modifier le code]
    « l'histoire américaine des relations de travail est inhabituellement
    violente, beaucoup plus que dans d'autres sociétés industrialisées » et
 --
-   And The Left (1992) qui parle de 700 grévistes tués et des milliers de
-   blessés de 1877 à 1968 alors qu'on ne compte qu'un seul gréviste tué en
    Grande-Bretagne depuis 1911^[9].
 
    Quelques grèves majeures aux États-Unis :
@@ -93,9 +84,6 @@ Canada[modifier | modifier le code]
        mobilisant 340 000 travailleurs avait été lancée. Deux jours plus
        tard, les policiers tuèrent deux grévistes^[11] ce qui déclencha
 --
-     * 1894 : les grévistes des usines de la Pullman Company dénoncèrent
-       les baisses de salaire en 1894. À la suite de la répression
-       organisée par le maire et le président américain Grover
        Cleveland^[14], 12 ouvriers furent tués.
 
      * 11 janvier 1912 : grève dans les usines textiles de l’American
@@ -331,8 +319,6 @@ Types de grève[modifier | modifier le code]
        cas dans une grève au finish réalisée, durant six mois, contre la
        S.A. des Usines à Cuivre et à Zinc de Liège en 1986, conduite par
        la Fédération générale du travail de Belgique (FGTB) et la
-       Confédération des syndicats chrétiens (CSC), décrite volontiers par
-       la suite comme une forme de suicide collectif d'une entreprise et
 --
        fit perdre leur emploi aux 810 personnes qui y travaillaient
        encore. La presse belge se fait encore régulièrement le relais de
@@ -547,8 +533,6 @@ Philosophie[modifier | modifier le code]
        une grève d'ouvrières dans un atelier de couture qui s'est
        réellement déroulée à Troyes.
      * Tout va bien, réalisé en 1972 par Jean-Luc Godard.
-     * Dockers, documentaire de Ken Loach, 1997, 35 mm, couleur,
-       Angleterre
 --
        sur l'affaire Lip, 2007
      * We Want Sex Equality, long métrage britannique de Nigel Cole, 2010.
@@ -577,19 +561,7 @@ Articles connexes[modifier | modifier le code]
      * Briseur de grève
      * Assemblée générale (AG)
      * Droit du travail
-     * Militantisme
 --
-          + Bibliothèque nationale de France (données)
-          + Bibliothèque du Congrès
-          + Gemeinsame Normdatei
-          + Bibliothèque nationale de la Diète
-          + Bibliothèque nationale d’Espagne
---
-          + Encyclopædia Britannica
-          + Encyclopædia Universalis
-          + Gran Enciclopedia Aragonesa
-          + Store norske leksikon
-     * Ressource relative à la santé Voir et modifier les données sur
        Wikidata  :
           + (en) Medical Subject Headings
      * Le droit de grève sur vie-publique.fr (France)
@@ -612,10 +584,6 @@ Notes et références[modifier | modifier le code]
        international, n^o 1530,‎ 27 février-4 mars 2020, p. 47, traduit
        d'un article publié le 6 février dans Historia (Bucarest).
 --
-       Universitaires de France, 2007 (2°éd.) (ISBN 978-2-13-056074 6),
-       p. 274.
-   15. ↑ « An old lesson still holds for unions », The Boston Globe, 31
-       juillet 2006.
    16. ↑ « Unhappy Again », Time Magazine, 6 octobre 1986.
    17. ↑ Le Constitutionnel, 10 mars 1836, page 2, 2^e colonne.
    18. ↑ « La grève, pour éviter de se retrouver sur le sable », sur Le
@@ -673,15 +641,7 @@ Notes et références[modifier | modifier le code]
        continuer la grève jusqu'à ce que la direction accepte leurs
        revendications. » sur google books.
    38. ↑ « Cuivre et Zinc : l'histoire d'un suicide » Par Guy Depas, page
-       5, vendredi 18 juillet 1997 sur le site de archives.lesoir.be.
-   39. ↑ Pacte international relatif aux droits économiques, sociaux et
 --
-       2 BvR 646/15, 2 BvR 1068/14, 2 BvR 1395/13.
-   43. ↑
-       http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI00
-       0006902378&cidTexte=LEGITEXT000006072050&dateTexte=20090126&fastPos
-       =6&fastReqId=162281097&oldAction=rechCodeArticle.
-   44. ↑ Le droit du travail, Alain Supiot, 1^re édition, 2004, p. 98-100.
    45. ↑ Droit civil, les obligations, Terré, Simler, Lequette, 9^e
        édition, 2005, §741 et 742.
    46. ↑ Les grèves de salariés sont antérieures au droit de grève et il
@@ -703,12 +663,6 @@ Notes et références[modifier | modifier le code]
    52. ↑ « Total licencie 900 salariés britanniques en grève », sur
        lemonde.fr, 19 juin 2009
    53. ↑ (en) Robert Booth et Martin Wainwright, « Almost 900 construction
---
-   54. ↑ Constitution fédérale de la Confédération suisse du 18 avril 1999
-       (état le 1^er janvier 2020).
-   55. ↑ Étienne Grisel, Droits fondamentaux : libertés idéales, Stämpfli,
-       coll. « Petite collection juridique », 2008, 205 p.
-       (ISBN 9783727217432), p. 163-164.
 --
 
    Sur les autres projets Wikimedia :

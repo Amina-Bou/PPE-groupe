@@ -5,12 +5,6 @@
           + Auvergne-Rhône-Alpes
           + Bourgogne-Franche-Comté
 --
-          + Centre-Val de Loire
-          + Corse
-          + Grand-Est
-          + Hauts-de-France
-          + Ile de France
---
           + Secteur privé
 
 Cʼest la grève : agenda des grèves en France
@@ -52,11 +46,6 @@ Grèves des transports à Dijon au mois de décembre 2022
    Le syndicat UNSA a dévoilé la liste des journées de grève prévues en
    décembre sur le réseau Divia :
      * Jeudi 8 décembre
-     * Vendredi 9 décembre
-     * Samedi 10 décembre
-     * Samedi 17 décembre (CGT – source).
-     * Samedi 24 décembre
-     * Samedi 31 décembre
 --
    [INS: :INS]
 
@@ -259,9 +248,3 @@ Grève à la SNCF le 7 décembre 2022
    Grève La Poste
    Informations
 
---
-   Politique de confidentialité
-
-   CGU
-
-   Copyright © 2022. Tous droits réservés.

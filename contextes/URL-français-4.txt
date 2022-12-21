@@ -1,36 +1,9 @@
-
-   Dictionnaire Conjugaison Orthographe Expressions Proverbes Littérature
-   Grammaire Linguistique Quiz Dictées Cours orthographe
-
-   La langue française
---
-
-   Dictionnaire Conjugaison Orthographe Expressions Proverbes Littérature
-   Grammaire Linguistique Quiz Dictées Cours orthographe
-   S'abonner
-
---
-   Accueil > Dictionnaire > Définitions du mot « grever »
-
-Grever
-
-   Verbe
---
-Trésor de la Langue Française informatisé
-
-GREVER, verbe trans.
-
    A. − DR. et usuel
    1. Grever qqc.^1
    a) Qqn^1grève qqc^1. (de qqn^2) par/de qqc^2.Faire que (quelque chose)
    supporte la charge, le poids de (quelque chose) de (quelque chose^2).
    Il peut être défendu aux prodigues (...) de grever leurs biens
 --
-   de timbre (Nerval, Filles feu, Angélique, 1854, p. 520).Elle [la
-   commission] n'ose pas grever d'une telle somme le budget de l'État
-   (Goncourt, Journal,1876, p. 1106).Sept ans, enfin, que vous grevez de
-   quatre mille francs le budget du chapitre 1^er(Courteline,
-   Ronds-de-cuir,1893, 4^etabl., 1, p. 131).
    − [Qqc^2. non exprimé] L'État peut obtenir des travaux plus nombreux
    sans grever le budget (Vivien, Ét. admin., t. 1, 1859, p. 55).Ceux qui
    grèvent et immobilisent la propriété rurale seront éliminés par le
@@ -54,7 +27,6 @@ GREVER, verbe trans.
    budget (Tinard, Automob.,1951, p. 367).Les engrais constituaient une
    matière première qui leur coûtait beaucoup trop cher et grevait
 --
-   − [Qqc^2. non exprimé] Tous les biens du gueux sont grevés au-delà de
    leur valeur (Balzac, C. Birotteau,1837, p. 232).
    2. Grever qqn^2
    a) Qqn^1grève qqn^2de qqc^2.Faire supporter (à quelqu'un^2) une lourde
@@ -68,10 +40,7 @@ GREVER, verbe trans.
    b) Qqc^2. grève qqn^2.Constituer une lourde charge financière. Tous les
    impôts qui grevaient le pauvre peuple (Barante, Hist. ducs de Bourg.,
    t. 3, 1821-24, p. 123).
-   − [Au passif] À votre défaut, vos héritiers seront grevés de la même
-   obligation (Gobineau, Pléiades,1874, p. 202).Les parents grevés de
-   cette charge (Jaurès, Ét. soc.,1901, p. 202).
-   B. − Au fig.
+--
    1. Grever qqc^1.Porter atteinte à la valeur, à l'efficacité (de qqc.).
    Synon. hypothéquer.
    a) Qqn^1grève qqc^1. par/de/en qqc.^2L'écrivain (...) se borne à grever
@@ -86,14 +55,7 @@ GREVER, verbe trans.
    préoccupations qui grèvent si dangereusement l'œuvre de Bourget
    (Mauriac, Journal 2,1937, p. 152).
    − [Au passif]
-   ♦ Grevé de. Il m'importe que ma mémoire ne soit pas grevée de mon
-   silence (Chateaubr., Mém., t. 4, 1848, p. 15).Le socialisme procède
-   d'une conception de l'homme, du travail et de la société grevée
 --
-   et les barbarismes dont il était grevé me replongeaient soudain dans le
-   dernier tiers de la classe... A. France, Vie fleur,1922, p. 365.
-   ♦ Grevé par. Le maintien de son indépendance [du pays] grevée par une
-   occupation militaire permanente (Joffre, Mém., t. 2, 1931, p. 376).
    2. Grever qqn^2.Accabler (quelqu'un) d'une charge, la lui imposer sans
    son accord.
    a) Qqn^1grève qqn^2de qqc.^2[Le suj. désigne un inanimé] Il me faut de
@@ -109,14 +71,6 @@ GREVER, verbe trans.
    Prononc. et Orth. : [gʀ əve], (il) grève [gʀ ε:v]. Ds Ac. dep. 1694.
    Conjug. : devant syll. muette change [ə] en [ε]. Étymol. et Hist. 1. Ca
    1160 « accabler, affliger » (Enéas, éd. J.-J. Salverda de Grave, 184);
-   2. 1636 « accabler de charges » (Monet). Empr. au lat.gravare «
-   alourdir » dér. de gravis, grave* avec infl. de grèvis, v. grief (FEW
---
-                      De cette façon, il n’est comprimé ni blessé
-
-    2. Gêner.
-          + M’an irai se il ne vos grieve — (Lancelot, ou le Chevalier de
-            la charrette, manuscrit 794 français de la BnF, 2^e moitié de
 --
 
    grever \Prononciation ?\ intransitif 1^er groupe (voir la conjugaison)
@@ -129,27 +83,13 @@ GREVER, verbe trans.
           + Les frais d’éducation grèvent lourdement le budget d’une
             famille nombreuse.
           + Propriété grevée d’hypothèques.
-          + Grever son budget : s’imposer une lourde dépense.
-          + Être grevé de substitution : être héritier ou légataire à
-            charge de substitution.
 --
-            lois de la République française, 12^e série, tome 60 (n° 2112
-            à 2167), Paris : Imprimerie nationale, 1900, p. 617)
-          + Grever son terrain d'un droit de passage.
-
-   Wiktionnaire - licence Creative Commons attribution partage à
---
-Dictionnaire de l’Académie française, huitième édition (1932-1935)
-
    GREVER. v. tr.
    Faire plier sous un poids trop lourd, en parlant de Charges
    financières. Le pays est grevé d'impôts. Les frais d'éducation grèvent
    lourdement le budget d'une famille nombreuse. Propriété grevée
    d'hypothèques. Fig. et fam., Grever son budget, S'imposer une lourde
-   dépense. En termes de Jurisprudence, Être grevé de substitution, Être
-   héritier ou légataire à charge de substitution.
 --
-Littré (1872-1877)
 
    GREVER (gre-vé. La syllabe gre prend un accent grave, quand la syllabe
    qui suit est muette : je grève, je grèverai) v. a.
@@ -158,22 +98,6 @@ Littré (1872-1877)
        grand prince [Henri IV], voyant le souci qui la grève [la France
        personnifiée], Touché de piété, la prend et la relève", Régnier,
        Épît. I.
-     * 2Charger de contributions, d'hypothèques. Il a beaucoup grevé ses
-       propriétés.
-       Fig. Grever son budget, s'imposer une lourde dépense.
-     * 3Se grever, v. réfl. S'imposer de lourdes dépenses.
-
---
-   Solon, 30. "…Disans estre rompus et grevés [avoir une hernie]", Paré,
-   XIX, 23.
-   Version électronique créée par François Gannaz - http://www.littre.org
-   - licence Creative Commons Attribution
-
-Encyclopédie, 1re édition (1751)
-
-   GREVER, v. act. (Jurisp.) signifie charger quelqu’un de quelque
-   condition ; ce terme s’applique, surtout en matiere de substitution &
-   de fidéi-commis ; on di grever un héritier ou légataire de substitution
 --
           populaire gravare ou grevare (« charger au sens concret, causer
           du dommage, affliger au sens d’actes comptables ou
@@ -184,19 +108,6 @@ Encyclopédie, 1re édition (1751)
           (Verbe 2) Dérivé de grève.
 
    Wiktionnaire - licence Creative Commons attribution partage à
---
-   Wallon, grîver, chagriner ; provenç. grevar, gravar, greviar ; espagn.
-   et portug. gravar ; ital. gravare ; du lat. gravari, être à charge, de
-   gravis, pesant (voy. GRAVE).
-   Version électronique créée par François Gannaz - http://www.littre.org
-   - licence Creative Commons Attribution
-
---
-   IFRAME: ngram_chart
-
-   Source : Google Books Ngram Viewer, application linguistique permettant
-   d’observer l’évolution au fil du temps du nombre d'occurrences d’un ou
-   de plusieurs mots dans les textes publiés.
 --
      *
 
@@ -222,12 +133,6 @@ Encyclopédie, 1re édition (1751)
      leFaso.net, l'actualité au Burkina Faso
      *
 --
-     habituels à cette période de l’année ». Seul écueil, l’établissement
-     n’est pas éligible pour diverses clauses financières au fonds de
-     solidarité, alors que le prêt garanti de l’État (PGE), réclamé sur
-     un an, a été bel est bien validé. , Economie | Un projet à 3,6 M€
-     pour l'hôtel-restaurant du Lac de Madine
---
      pourraient grever durablement le budget de la compagnie, déjà
      endettée. Franceinfo, Réforme des retraites : quel est le coût d'une
      grève ?
@@ -245,21 +150,3 @@ Encyclopédie, 1re édition (1751)
      Une grève générale de 48h prévue les 8 et 9 juillet 2020 -
      leFaso.net, l'actualité au Burkina Faso
      *
---
-   Corse     carricu
-
-   Source : Google Translate API
-
-Synonymes de « grever »
---
-     * E
-     * F
-     * G
-     * H
-     * I
---
-   La langue française © 2022
-
-   Grever
-
-   Retour au sommaire ➦

@@ -7,9 +7,6 @@
    Grève
    Grossesse
    Nom féminin
-   Guérison
-   Nom féminin
-   Quelques définitions
 --
    Nom féminin
 
@@ -20,9 +17,7 @@ Définition de "Grève" - Dictionnaire médical
    Grève nom fém.
    Écouter la piste audio
    [EMBED]
-   Gréviste nom
-   Écouter la piste audio
-   [EMBED]
+--
    Gréviste adj.
 
    La grève ne fait pas partie des habitudes des professions de santé.
@@ -46,9 +41,3 @@ Définition de "Grève" - Dictionnaire médical
    Le public n’a certainement pas oublié la grève des sages-femmes de
    2014, qui a duré 4 mois.
    docThom
---
-   dictionnaire généraliste et présente de ce fait les définitions
-   exclusivement dans leur contexte médical.
-   Index - A - B - C - D - E - F - G - H - I - J - K - L - M - N - O - P -
-   Q - R - S - T - U - V - W - X - Y - Z
-   Copyright Christian Thomsen © 2015 - 2022 - C.G.U. - Mentions légales

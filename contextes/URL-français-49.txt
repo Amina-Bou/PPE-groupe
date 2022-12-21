@@ -1,26 +1,3 @@
-     * Information/Beratung
-     * Vorlesungsverzeichnis
-     * Studien- und Prüfungsordnungen (MUG)
-
-     * Hochschulrechenzentrum
-     * Universitätsbibliothek
-     * Campusplan | Geschosspläne/JLUmaps
-     * Raumvergabe (ZLIS)
-     * Studentenwerk/Mensen
---
-     * Formulare | Rundschreiben
-     * SAP & JustOS (JLU-Online-Shop)
-     * Rechtliche Grundlagen (MUG)
-     * Störungsmeldung
-
-   Karriere, Kultur, Sport, Marketing
-     * Allgemeiner Hochschulsport (ahs)
-     * Botanischer Garten
-     * Career Services
-     * Gender & JLU
-     * Hochschuldidaktik
-     * Justus' Kinderuni
---
      * Impressum
 
    La culture de grève Ici vous trouverez quelques informations sur la
@@ -114,8 +91,6 @@ La culture de grève
 
    En parlant des différences entre la France et l’Allemagne, le journal
 --
-   beaucoup plus timides en ce qui concerne la révolte ouverte: « Und
-   Deutschland? Erinnern wir uns: Die Verabschiedung der Rente mit 67 hat
    zwar so manchen Bürger aufgebracht. Die Gewerkschaften haben jedoch
    nicht zum Streik aufgerufen »[4]. Mais pourquoi la France
    utilise-t-elle si régulièrement son droit de grève au lieu de préférer
@@ -136,11 +111,6 @@ La culture de grève dans le contexte de la Révolution française
    en janvier cette année (2013). En manifestant contre l’accord de
    compétitivité qui prévoit entre autres « 7 500 suppressions nettes
 --
-   noire »[11].
-
-   Source générale : Mai, Manfred (1999), Deutsche Geschichte, Beltz &
-   Gelberg : Basel.
-
 La législation
 
    Même si la culture de grève en France peut être considérée comme une
@@ -185,7 +155,6 @@ La législation
    En Allemagne, le droit de grève est également reconnu par la loi. Dans
    l’article 9, § 3 du Grundgesetz on peut trouver l’information suivante:
 
-   « Das Recht, zur Wahrung und Förderung der Arbeits- und
 --
 
    Selon cette règle, les salariés allemands ont le droit de créer des
@@ -254,16 +223,6 @@ La législation
    des grèves en France : En Allemagne, les syndicats « représentent des
    secteurs entiers de l’économie comme le puissant IG Metall, par
    exemple, qui négocie ainsi pour tous les employés de l’industrie
-   automobile, qu’ils soient cadres ou ouvriers »[25]. Les syndicats en
-   France sont par contre plus petits et n’encadrent qu’une catégorie du
-   personnel : il existe par exemple la Confédération générale des cadres
-   (CGC) qui défend les intérêts des cadres ou le Mouvement des
-   entreprises de France (Medef) qui est un syndicat patronaux. Force
-   ouvrière (FO) est par contre une confédération syndicale d’ouvriers.
-   D’autres confédérations syndicales qui sont à connaître sont la
-   Confédération générale du travail (CGT) et la Confédération française
-   démocratique du travail (CFDT). Pour être puissant malgré le faible
-   nombre de syndicalistes, il faut, toutefois, s’organiser et former des
 --
 
 
@@ -295,10 +254,6 @@ Types de grèves :
    Grève de la faim (Hungerstreik): les grévistes refusent de se nourrir
    pour attirer l’attention des autorités et du public sur un problème
    particulier.
-
-    Source générale : http://www.toupie.org/Dictionnaire/Greves_formes.htm
-   (17.07.2013).
-   _______________________
 --
 
    [3] Hartmann, Isabelle (2013): « Les Français font-ils trop souvent
@@ -311,20 +266,6 @@ Types de grèves :
    grève ? » – Dans: Écoute, n°3, p. 27.
 
    [6] Pendant cette révolution, les 13 colonies britanniques d’Amérique
-   du Nord et la Grande-Bretagne se sont livré une guerre. Résultat : la
-   séparation des colonies de la métropole et la déclaration
-   d’indépendance des Etats-Unis. Avec sa formulation sur les droits de
-   l’homme, cette déclaration comportait déjà des idées assez éclairées.
-
-   [7] Mai, Manfred (1999), Deutsche Geschichte, Beltz & Gelberg : Basel,
-   p. 80.
-
-   [8] Mai, Manfred (1999), Deutsche Geschichte, Beltz & Gelberg : Basel,
-   p. 88.
-
-   [9] Mai, Manfred (1999), Deutsche Geschichte, Beltz & Gelberg : Basel,
-   p. 84.
-
 --
 
    [14] Hartmann, Isabelle (2013): « Les Français font-ils trop souvent
@@ -343,8 +284,6 @@ Types de grèves :
    souvent grève ? » – Dans: Écoute, n°3, p. 25.
 
    [19] http://dejure.org/gesetze/GG/9.html (16.07.2013).
-
-   [20] cf. http://wirtschaftslexikon.gabler.de/Definition/streik.html
 --
 
    [21] Hartmann, Isabelle (2013): « Les Français font-ils trop souvent
@@ -358,34 +297,12 @@ Types de grèves :
 
 
 --
-                         @ Le français en chansons
-                         @ Le petit JLU
-                         @ Guide pour aller vivre en France
-                              - Travail / Stage
                                    = Le monde du travail en France
                                    * La communauté allemande en France
                                    * La culture de grève
                o Christophe Schaumburg
           + Le petit JLU
-          + Guide pour aller vivre en France
-          + Liens utiles
-     * Spanisch
-     * Portugiesisch
-
-          Geschäftsführung des Instituts
-
-          Prof. Dr. Verena Dolle
 --
-
-          Institut für Romanistik
-          Karl-Glöckner-Str. 21 G
-          35394 Gießen
-
-          Lage und Anfahrt
---
-    5. Frédérique Moureaux
-    6. Projets
-    7. Guide pour aller vivre en France
     8. Travail / Stage
     9. Le monde du travail en France
    10. La culture de grève

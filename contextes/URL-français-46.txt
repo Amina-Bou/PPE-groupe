@@ -1,18 +1,7 @@
    #À la Une de 20minutes.fr Droit de grève : Quelles conséquences pour le
    salarié ?
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TPVF9CB
-
-   Retour à l’accueil
 --
-     * Podcasts
-     * En Images
-     * Guide d'achat
-     * Le direct
-     * Jeux
---
-
-   Dans l’actu
      * Guerre en Ukraine
      * Noël
      * Grève à la SNCF
@@ -77,11 +66,3 @@ Le salaire impacté
      * Grève
      * Économie
 
---
-     * Publicité
-     * Mentions légales
-     * CGU
-     * Protection des données personnelles
-     * Gestion des cookies
-     * Supprimer les cookies publicitaires éditeur
-     * Nous contacter

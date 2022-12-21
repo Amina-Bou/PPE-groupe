@@ -166,9 +166,3 @@ Salarié gréviste
        mentionner sur le bulletin de paie l'exercice d'une grève (article
        R3243-4)
 
---
-     * Données personnelles et sécurité
-     * Conditions générales d'utilisation
-     * Gestion des cookies
-
-   Sauf mention contraire, tous les contenus de ce site sont sous licence

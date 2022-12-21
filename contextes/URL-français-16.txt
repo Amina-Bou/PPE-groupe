@@ -67,7 +67,3 @@ Quels sont les effets de la grève sur les salariés ?
    grève :
      * Les CRS
      * Les militaires
---
-   [BUTTON Input] (not implemented)__________
-   Copyright © 2019-2020 Droit-travail-france.fr. Tous droits réservés.
-   Mentions légales Gestion des cookies

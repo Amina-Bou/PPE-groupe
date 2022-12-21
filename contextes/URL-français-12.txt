@@ -153,13 +153,6 @@ wikicode]
    ouvrier·es reprennent en main la production pour leur propre compte
    (autogestion), ou a minima vendent les produits. C'est un point
 --
-   En dehors des grands moments révolutionnaires (Octobre 1917, révolution
-   espagnole de 1936), les exemples historiques sont peu nombreux : Lip en
-   France, la Clyde en 1971 en Angleterre^[3], Glaverbel en 1975 en
-   Belgique...
-
---
-   la circulation de manifestants.
 
    En Belgique, les ouvriers de Gazelco (gaz, électricité) ont longtemps
    appliqué la règle qu’en cas de grève, ils contrôlent eux-mêmes la
@@ -182,7 +175,7 @@ wikicode]
    rapidement politiser ses grèves dans certaines circonstances. Trotski
    décrit par exemple la radicalisation des ouvriers russes pendant la
    Guerre, avec l'avant-garde de Petrograd plus politisée :
-
+--
      « Les industriels se refusaient de plus en plus à faire des
      concessions aux ouvriers et le gouvernement continuait à répondre à
      chaque grève par une rigoureuse répression. Tout cela portait la
@@ -295,16 +288,13 @@ wikicode]
    notamment) se sont appuyés sur l'idée de grève générale révolutionnaire
    pour l'opposer à la ligne des « marxistes », qui étaient en faveur de
    la conquête de bastions ouvriers dans les élections. C'était le début
-   d'une opposition (malheureusement caricaturale) entre voie
-   « politique » et voie « économique ». Ainsi, lors du congrès de Genève
-   de l'AIT en 1873, James Guillaume expose la position bakouniniste,
+--
    tandis qu'Engels lui répond :
 
      « La grève générale est, dans le programme de Bakounine, le levier
      employé à inaugurer la révolution sociale. Un beau matin tous les
      ouvriers de tous les ateliers d'un pays, ou même du monde entier,
 --
-     les ouvriers, en sorte que ceux-ci ont alors le droit de se défendre
      et par la même occasion d'en finir avec la vieille société tout
      entière. (...) Au Congrès des alliancistes à Genève, le 1er
      septembre 1873, la grève universelle joua également un grand rôle,
@@ -344,12 +334,6 @@ wikicode]
    Il s'opposait à l'idée de grève générale comme une chimère trop
    lointaine, tout en mettant de plus en plus exclusivement ses forces
    dans les élections locales et parlementaires, parlant de révolution
---
-
-   La cessation de toute activité productive conduisant obligatoirement à
-   l'effondrement du capitalisme, Georges Sorel en fit l'apologie en
-   1905-1906 en la présentant sous la forme d'un mythe mobilisateur censé
-   remplacer la théorie marxiste de la catastrophe finale du capitalisme,
 --
    titre au centre de la théorie du syndicalisme révolutionnaire et
    considérée comme le prolongement de la politique d'action directe.
@@ -404,9 +388,7 @@ wikicode]
    une grève générale) et met en avant que c’est dans la lutte que les
    travailleurs réalisent les plus grands progrès dans leur organisation
    et donc dans leur auto-émancipation. Il est à noter que Luxemburg
-   contredit nettement les railleries que lançait Guesde 11 ans
-   auparavant.
-
+--
    Lors du Congrès de Stuttgart (1907) de l'Internationale ouvrière, les
    délégués français proposent qu'en cas de guerre, il soit lancé un appel
    à la grève générale. Les Allemands, conduits par Bebel et Vollmar

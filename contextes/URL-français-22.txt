@@ -1,7 +1,3 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MXVC4X4
-
-   Pour L’Éco – Pour agir l’économie compte
---
      * Idées
 
    Grève
@@ -66,19 +62,4 @@ Grève
 
    D'où vient l'expression : « Faire grève » ?
 
-   4 min.
---
-          + (BUTTON) Pour la science
-          + (BUTTON) Cerveau et Psycho
-          + (BUTTON) Gerip
-          + (BUTTON) Première Loges
-          + (BUTTON) humenSciences
---
-     * (BUTTON)
-
-     * Gestion des cookies
-     * Mentions légales
-     * Qui sommes-nous ?
-     * CGU
-     * Politique de confidentialité
-     * Services
+   6 min.

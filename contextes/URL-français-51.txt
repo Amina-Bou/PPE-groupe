@@ -1,9 +1,3 @@
-          + Espace Pro
-          + Devenir annonceur
-          + Grille TV
-          + Jeux concours
-
---
    Economie et Social
 
 INFOGRAPHIES. La France est-elle vraiment le pays qui fait le plus grève?
@@ -15,12 +9,6 @@ INFOGRAPHIES. La France est-elle vraiment le pays qui fait le plus grève?
    A l'aube d'une grève d'ores et déjà annoncée comme historique, la
    France pourrait être à nouveau bloquée pendant plusieurs jours, voire
    plusieurs semaines.
---
-   Une situation qui risque de renforcer l'image de "pays de gréviste"
-   accolée à la France, particulièrement dans les pays anglo-saxons -
-   comme l'illustrent ces articles du Guardian ou du Time. Cette
-   réputation est-elle justifiée?
-
 --
 
    En 2018, de nombreux médias, dont BFMTV, affirmaient que la France
@@ -40,10 +28,6 @@ Difficile de comparer les grèves au niveau international
    ce sont les grèves générales qui sont pas comptabilisées... Enfin,
    certains pays connus pour leurs fortes mobilisations (Italie, Grèce...)
    ne sont tout simplement pas recensés car leurs statistiques ne sont
-   plus fiables selon l'Institut. Un vrai problème quand on sait que les
-   Grecs étaient deux fois plus mobilisés que les Français durant les
-   années 2000 selon d'autres études...
-
 --
    compte les débrayages qui se comptent en heures...
 
@@ -89,27 +73,9 @@ Alors, la France est-elle le pays faisant le plus la grève au monde?
 Grève SNCF: les TER et Intercités, une solution de repli face aux
 suppressions de TGV?
     3.
-
---
-    4.
-
-"C'était emmerdant": Geneviève de Fontenay filmée par sa petite-fille devant
-Miss France 2023
-    5.
-
-Pourquoi Get 27 disparait des rayons de Carrefour et Système U
-
-     * BFMTV
 --
 A la Une
 
    Grève SNCF: les TER et Intercités, une solution de repli face aux
    suppressions de TGV?
-
-   (BUTTON)
---
-     * Données personnelles
-     * Cookies
-     * CGU
-     * Charte de déontologie
 
