@@ -1,0 +1,6 @@
+   Quantcast
+
+   googletag.cmd.push(function() {
+   googletag.display('div-gpt-ad-1666876694056-0') })
+   googletag.cmd.push(function() {
+   googletag.display('div-gpt-ad-1666876745004-0') })

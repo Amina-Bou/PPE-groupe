@@ -1,118 +1,258 @@
-   #prev next
+   #News
 
-   Jump to content
+   Skip to main content
 
-   Worksmart Logo
-   Get started
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TDB29T
 
-   About
-   Blog
-   Get Started
-     * Work rights advice
-     * Health advice
-     * Career advice
-     * Tools
-     * Join a union
+   Home Home
 
-   Facebook Icon Instagram Icon
-   Join a union
+     * Admissions
+          + Undergraduate
+          + Graduate
+          + Continuing education
+     * Research
+          + Engage with us
+          + Support for researchers
+          + Using research to engage
+          + Recognition
+     * News & Events
+          + Events
+          + Features
+          + Oxford profiles
+          + Oxford and coronavirus
+          + Ukraine
+          + News releases for journalists
+          + Filming in Oxford
+          + Find An Expert
+     * About
+          + Organisation
+          + Facts and figures
+          + Oxford people
+          + Oxford Access
+          + International Oxford
+          + Building Our Future
+          + Jobs
+          + 牛津大学
 
-You are here
+   Search ______________________________
+   Search
 
-    1. Home |
-    2. Latest News |
-    3. What is happening to the right to strike?
+News & Events
 
-What is happening to the right to strike?
+     * Events
+          + Regular events in the University Year
+          + University Events Office
+     * Features
+     * Oxford profiles
+     * Oxford and coronavirus
+     * Ukraine
+     * News releases for journalists
+     * Filming in Oxford
+     * Find An Expert
 
+   The Tube strike resulted in workers having to find alternative routes
+   which in some cases were more convenient.
+   The Tube strike resulted in workers having to find alternative routes
+   which in some cases were more convenient.
 
-   We've heard a lot about strikes in the media this year, as the
-   government passed their Trade Union Act in May. And much of the
-   coverage has portrayed ordinary working people with genuine grievances
-   who dare to demand fair treatment as mischief-makers, bringing
-   businesses to their knees.
+   Shutterstock images
 
-   The truth is less dramatic. People only ever go on strike as an
-   absolute last resort. Strikes happen where workers feel strongly that
-   they are still being unfairly treated and not listened to – strongly
-   enough to go without pay while on strike, and put themselves through
-   what is often a stressful experience.
+   Published
+   15 Sep 2015
 
-   Under UK employment law, workers have the right not to be dismissed or
-   suffer detriment for going on strike, providing some pretty stringent
-   conditions are met. Nevertheless, the government wrote its assault on
-   strikes into law with the Trade Union Act, which puts even tighter
-   limits on what now constitutes legitimate industrial action and, in the
-   words of TUC General Secretary Frances O’Grady, “attacks the right to
-   strike – a fundamental British liberty. It poses a serious threat to
-   good industrial relations and is completely unnecessary.”
+Share This
 
-   It hasn't yet been implemented, but the Act's provisions will include
-   minimum turnouts for strike votes (hard to reach as unions are also
-   banned from using online or workplace voting systems), tighter time
-   limits on mandates for strikes, restrictions on
-   picketing and bureacratic changes which will give employers chances to
-   use the courts to stop strikes. Workers will still technically have
-   a right to strike, but the Act makes the right much harder to access.
+   Tweet
+   Share on Facebook
+   Share on LinkedIn
+   Share on Reddit
 
-The real story of industrial action today
+   HomeNewsThe London Tube strike 'brought economic benefits for workers'
 
-   Just how unnecessary this new Act is is borne out by the latest stats
-   on strike action:
-     * Less than 3 in 100,000 working days were lost to strike action in
-       2015
-     * 81,000 people went on strike last year – the lowest number since
-       records began
-     * Only 106 strikes took place in 2015 – that’s twenty times fewer
-       than in 1975!
-     * Strikes are very rare and seldom last longer than three days
+The London Tube strike 'brought economic benefits for workers'
 
-   Trade unions were joined by Liberty, Amnesty International, the
-   Equality and Human Rights Commission, and the devolved Scottish and
-   Welsh governments in their opposition to the legislation. We won many
-   important concessions and changes in the final Trade Union Act, killing
-   most of its most damaging proposals, but it's still a thoroughly bad
-   piece of legislation.
+   PolicyResearch
 
-   Attacks on the basic right to strike are attacks on the ability of
-   ordinary workers to successfully negotiate fair pay, conditions and
-   practices. Like Deliveroo’s couriers and workers at this London cinema.
-   Without the last-resort of the right to withold our labour, the balance
-   of power in the working relationship is stacked even more heavily
-   against working people.
+   New analysis of the London Tube strike in February 2014 finds that it
+   enabled a sizeable fraction of commuters to find better routes to work,
+   and actually produced a net economic benefit due to the number of
+   people who found more efficient ways to get to work.
 
-   At the TUC we’re committed to fighting to uphold fair pay and
-   conditions for the UK’s workers wherever they are under threat and we
-   will be watching how the Act is implemented carefully over the coming
-   months. The campaign is certainly not over yet.
-   Share This:
-   Facebook Icon Twitter Icon LinkedIn Icon Email Icon
-     * Previous
-     * Next
+    The researchers from the University of Oxford and the University of
+   Cambridge analysed 20 days’ worth of anonymised Oyster card data,
+   containing more than 200 million data points, in order to see how
+   individual Tube journeys changed during the strike. Since this
+   particular strike only resulted in a partial closure of the Tube
+   network and not all commuters were affected by the strike, a direct
+   comparison was possible. The data enabled the researchers to see
+   whether people chose to go back to their normal commute once the strike
+   was over, or if they found a more efficient route and decided to
+   switch.
 
-What is WorkSmart?
+    The researchers found that of the regular commuters affected by the
+   strike, either because certain stations were closed or because travel
+   times were considerably different, a significant fraction – about one
+   in 20 – decided to stick with their new route once the strike was over.
 
-A career coach that works for everyone.
+    While the proportion of individuals who ended up changing their routes
+   may sound small, the researchers found that the strike actually ended
+   up producing a net economic benefit. By performing a cost-benefit
+   analysis of the amount of time saved by those who changed their daily
+   commute, the researchers found that the amount of time saved in the
+   longer term actually outweighed the time lost by commuters during the
+   strike.
 
-   GET STARTED
-   Hourglass
+    The London Tube map itself may have been a reason why many commuters
+   did not find their optimal journey before the strike. In many parts of
+   London, the actual distances between stations are distorted on the
+   iconic map. By digitising the Tube map and comparing it to the actual
+   distances between stations, the researchers found that those commuters
+   living in, or travelling to, parts of London where distortion is
+   greatest were more likely to have learned from the strike and found a
+   more efficient route.  Additionally, since different Tube lines travel
+   at different speeds, those commuters who had been travelling on one of
+   the slower lines were also more likely to switch routes once the strike
+   was over.
 
-   Enjoy bite-sized activities delivered to you every week.
-   Lightbulb brain
+    'One of the things we’re looking at is whether consumers usually make
+   the best decision, but it’s never been empirically tested using a large
+   consumer dataset such as this one,' said co-author Dr Ferninand Rauch
+   from Oxford’s Department of Economics. 'Our findings illustrate that
+   people might get stuck with suboptimal decisions because they don’t
+   experiment enough.'
 
-   Equip yourself with essential skills to be the best you yet.
-   Certificate
+   'Given that a significant fraction of commuters on the London
+   underground failed to find their optimal route until they were forced
+   to experiment, perhaps we should not be too frustrated that we can’t
+   always get what we want, or that others sometimes take decisions for
+   us,' said co-author Dr Tim Willems, also from Oxford’s Department of
+   Economics. 'If we behave anything like London commuters and experiment
+   too little, hitting such constraints may very well be to our long-term
+   advantage.'
 
-   Get the guidance you need to stay focused and reach your goals.
-   Worksmart circle
-   Worksmart Circle Worksmart Circle Worksmart Circle Worksmart Circle
-   Worksmart Circle
-   Worksmart Logo
-   About Blog Terms
-   Privacy Policy Your Data
+    According to the authors, being forced to alter a routine, whether
+   that’s due to a Tube strike or government regulation, can often lead to
+   net benefits, as people or corporations are forced to innovate. In
+   economics, this is known as the Porter hypothesis.
 
-   Stay up to date with the TUC and get the latest news and get early
-   access.
-   Get started
-   Instagram Icon Facebook Icon
-   © WorkSmart
+    'For the small fraction of commuters who found a better route, when
+   multiplied over a longer period of time, the benefit to them actually
+   outweighs the inconvenience suffered by many more,' said co-author Dr
+   Shaun Larcom of Cambridge’s Department of Land Economy. 'The net gains
+   came from the disruption itself.'
+
+   Subscribe to News
+
+Latest
+
+     * Professor Teresa Lambe receives the Irish Abroad award from Irish
+       President Michael D. Higgins - photo by Maxwell Photography Oxford
+       vaccinologist Teresa Lambe honoured with Irish Abroad award
+       20 Dec 2022
+     * Oxford experiment in space Oxford students successfully send an
+       experiment into space
+       20 Dec 2022
+     * New study finds logged tropical forests are surprisingly vibrant
+       and need protection New study finds logged tropical forests are
+       surprisingly vibrant and need protection
+       19 Dec 2022
+     * A herd of African elephants walking in single file. Image credit
+       Shutterstock. Satellite imagery reveals that wild African elephants
+       choose paths leading directly to their favourite food
+       16 Dec 2022
+     * Ebola vaccine offers long-lasting immunity Oxford Ebola vaccine
+       manufactured and shipped in record time by SII
+       15 Dec 2022
+
+Further information
+
+     * Working paper study
+     * Oxford Department of Economics
+
+DISCOVER MORE
+
+     * Support Oxford's research
+     * Partner with Oxford on research
+     * Study at Oxford
+     * Research jobs at Oxford
+
+ALL NEWS
+
+   You can view all news or browse by category
+
+   All news
+   Media coverage
+   Financial Times
+   The Times
+   Economist
+   The Independent
+
+Share This
+
+   Tweet
+   Share on Facebook
+   Share on LinkedIn
+   Share on Reddit
+
+Connect with us
+
+     * iTunes
+     * YouTube
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Weibo
+     * Instagram
+     * Medium
+     * The Conversation
+
+Information About
+
+     * Oxford University
+     * Strategic plan
+     * Oxford's research
+     * Course fees and funding
+     * Libraries
+     * Museums and collections
+     * Open days
+     * Oxford glossary
+     * Freedom of speech statement
+     * Statement on Modern Slavery
+     * Data privacy / GDPR
+     * Sport at Oxford
+     * Conferences at Oxford
+     * 牛津大学
+
+Information For
+
+     * Prospective undergraduates
+     * Prospective graduate students
+     * Prospective Continuing Education students
+     * Prospective online/distance learning students
+     * Current Oxford students
+     * Current Oxford staff
+     * Oxford residents/Community
+     * Visitors/Tourists
+     * Media
+     * Alumni
+     * Teachers
+     * Parliamentarians
+     * Businesses/Partnerships
+
+Quick Links
+
+     * Any questions?
+     * Jobs and vacancies
+     * Term dates
+     * Map
+     * Nexus365 email
+     * Giving to Oxford
+     * Oxford University Images
+
+     * © University of Oxford 2022
+     * Contact us
+     * About this site
+     * Legal
+     * Privacy policy
+     * Cookie settings
+     * Accessibility Statement

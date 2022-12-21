@@ -1,0 +1,35 @@
+   guce
+
+Your information, your experience
+
+   We, Yahoo, are part of the Yahoo family of brands.
+
+   By clicking ‘Accept all’ you agree that Yahoo and our partners will
+   process your personal information, and use technologies such as
+   cookies, to display personalised ads and content, for ad and content
+   measurement, audience insights, and product development.
+
+The personal information that may be used
+
+     * Information about your device and internet connection, like your IP
+       address
+     * Browsing and search activity while using Yahoo websites and apps
+     * Your precise location
+
+   By clicking "Reject all" you reject all non-essential cookies and
+   similar technologies, but Yahoo will continue to use essential cookies
+   and similar technologies. Select 'Manage settings' to manage your
+   choices.
+
+   Find out more about how we use your information in our Privacy Policy
+   and Cookie Policy, and change your choices at any time by visiting Your
+   Privacy Controls.
+   (agree) Accept all (reject) Reject all Manage settings
+   (BUTTON) Go to end
+
+   [beacon?tag&#x3D;TCF2&amp;step&#x3D;Layer1-View&amp;brandDomain&#x3D;uk
+   .news.yahoo.com&amp;brandBid&#x3D;&amp;userType&#x3D;nonreg&amp;sdk&#x3
+   D;false&amp;tos&#x3D;en-GB&amp;country&#x3D;FR&amp;sessionId&#x3D;3_cc-
+   session_dd28d23b-d109-47a3-a602-43e32f6a2003]
+   [beacon?tag=code72&step=Layer1-View&sessionId=3_cc-session_dd28d23b-d10
+   9-47a3-a602-43e32f6a2003]

@@ -1,268 +1,1464 @@
-   #News
+   #Edit Wiktionary (en)
 
-   Skip to main content
+   [ ] Open main menu
+     * Home
+     * Random
+     * Nearby
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TDB29T
+     * Log in
 
-   Home Home
+     * Settings
 
-     * Admissions
-          + Undergraduate
-          + Graduate
-          + Continuing education
-     * Research
-          + Engage with us
-          + Support for researchers
-          + Using research to engage
-          + Recognition
-     * News & Events
-          + Events
-          + Features
-          + Oxford profiles
-          + Oxford and coronavirus
-          + Ukraine
-          + News releases for journalists
-          + Filming in Oxford
-          + Find An Expert
-     * About
-          + Organisation
-          + Facts and figures
-          + Oxford people
-          + Oxford Access
-          + International Oxford
-          + Building Our Future
-          + Jobs
-          + 牛津大学
+     * Donations
 
-   Search ______________________________
-   Search
+     * About Wiktionary
+     * Disclaimers
 
-News & Events
+   Wiktionary
+   ____________________
+   (BUTTON) Search
 
-     * Events
-          + Regular events in the University Year
-          + Black History Month at Oxford
-          + University Events Office
-     * Features
-     * Oxford profiles
-     * Oxford and coronavirus
-     * Ukraine
-     * News releases for journalists
-     * Filming in Oxford
-     * Find An Expert
+strike
 
-   The Tube strike resulted in workers having to find alternative routes
-   which in some cases were more convenient.
-   The Tube strike resulted in workers having to find alternative routes
-   which in some cases were more convenient.
+     * Language
+     * Watch
+     * Edit
 
-   Shutterstock images
+   See also: Strike
+   [ ]
 
-   Published
-   15 Sep 2015
+Contents
 
-Share This
+     * 1 English
+          + 1.1 Etymology
+          + 1.2 Pronunciation
+          + 1.3 Verb
+               o 1.3.1 Usage notes
+               o 1.3.2 Derived terms
+               o 1.3.3 Translations
+          + 1.4 Noun
+               o 1.4.1 Derived terms
+               o 1.4.2 Descendants
+               o 1.4.3 Translations
+          + 1.5 References
+          + 1.6 Further reading
+          + 1.7 Anagrams
+     * 2 French
+          + 2.1 Pronunciation
+          + 2.2 Noun
+               o 2.2.1 Derived terms
+               o 2.2.2 Related terms
+     * 3 Italian
+          + 3.1 Noun
+     * 4 Portuguese
+          + 4.1 Etymology
+          + 4.2 Pronunciation
+          + 4.3 Noun
+     * 5 Spanish
+          + 5.1 Etymology
+          + 5.2 Pronunciation
+          + 5.3 Noun
+               o 5.3.1 Usage notes
 
-   Tweet
-   Share on Facebook
-   Share on LinkedIn
-   Share on Reddit
+   EnglishEdit
 
-   HomeNewsThe London Tube strike 'brought economic benefits for workers'
+EtymologyEdit
 
-The London Tube strike 'brought economic benefits for workers'
+   From Middle English stryken, from Old English strīcan, from Proto-West
+   Germanic *strīkan, from Proto-Germanic *strīkaną, from
+   Proto-Indo-European *streyg- (“to stroke, rub, press”).
 
-   PolicyResearch
+   Cognate with Dutch strijken, German streichen, Danish stryge, Icelandic
+   strýkja, strýkva.
 
-   New analysis of the London Tube strike in February 2014 finds that it
-   enabled a sizeable fraction of commuters to find better routes to work,
-   and actually produced a net economic benefit due to the number of
-   people who found more efficient ways to get to work.
+PronunciationEdit
 
-    The researchers from the University of Oxford and the University of
-   Cambridge analysed 20 days’ worth of anonymised Oyster card data,
-   containing more than 200 million data points, in order to see how
-   individual Tube journeys changed during the strike. Since this
-   particular strike only resulted in a partial closure of the Tube
-   network and not all commuters were affected by the strike, a direct
-   comparison was possible. The data enabled the researchers to see
-   whether people chose to go back to their normal commute once the strike
-   was over, or if they found a more efficient route and decided to
-   switch.
+     * (Received Pronunciation, General American) IPA^(key): /stɹaɪk/
+     *
 
-    The researchers found that of the regular commuters affected by the
-   strike, either because certain stations were closed or because travel
-   times were considerably different, a significant fraction – about one
-   in 20 – decided to stick with their new route once the strike was over.
+       Audio (US) (file)
+     * Rhymes: -aɪk
 
-    While the proportion of individuals who ended up changing their routes
-   may sound small, the researchers found that the strike actually ended
-   up producing a net economic benefit. By performing a cost-benefit
-   analysis of the amount of time saved by those who changed their daily
-   commute, the researchers found that the amount of time saved in the
-   longer term actually outweighed the time lost by commuters during the
-   strike.
+VerbEdit
 
-    The London Tube map itself may have been a reason why many commuters
-   did not find their optimal journey before the strike. In many parts of
-   London, the actual distances between stations are distorted on the
-   iconic map. By digitising the Tube map and comparing it to the actual
-   distances between stations, the researchers found that those commuters
-   living in, or travelling to, parts of London where distortion is
-   greatest were more likely to have learned from the strike and found a
-   more efficient route.  Additionally, since different Tube lines travel
-   at different speeds, those commuters who had been travelling on one of
-   the slower lines were also more likely to switch routes once the strike
-   was over.
+   strike (third-person singular simple present strikes, present
+   participle striking, simple past struck or (see usage notes) striked or
+   (all obsolete) stroke or strook or strake, past participle struck or
+   (see usage notes) stricken or (obsolete) strucken)
+    1. (transitive, sometimes with out or through) To delete or cross out;
+       to scratch or eliminate.
 
-    'One of the things we’re looking at is whether consumers usually make
-   the best decision, but it’s never been empirically tested using a large
-   consumer dataset such as this one,' said co-author Dr Ferninand Rauch
-   from Oxford’s Department of Economics. 'Our findings illustrate that
-   people might get stuck with suboptimal decisions because they don’t
-   experiment enough.'
+                Please strike the last sentence.
 
-   'Given that a significant fraction of commuters on the London
-   underground failed to find their optimal route until they were forced
-   to experiment, perhaps we should not be too frustrated that we can’t
-   always get what we want, or that others sometimes take decisions for
-   us,' said co-author Dr Tim Willems, also from Oxford’s Department of
-   Economics. 'If we behave anything like London commuters and experiment
-   too little, hitting such constraints may very well be to our long-term
-   advantage.'
+    2. (physical) To have a sharp or sudden effect.
+         1. (transitive) To hit.
 
-    According to the authors, being forced to alter a routine, whether
-   that’s due to a Tube strike or government regulation, can often lead to
-   net benefits, as people or corporations are forced to innovate. In
-   economics, this is known as the Porter hypothesis.
+                      Strike the door sharply with your foot and see if it
+                      comes loose.  A bullet struck him.  The ship struck
+                      a reef.
 
-    'For the small fraction of commuters who found a better route, when
-   multiplied over a longer period of time, the benefit to them actually
-   outweighs the inconvenience suffered by many more,' said co-author Dr
-   Shaun Larcom of Cambridge’s Department of Land Economy. 'The net gains
-   came from the disruption itself.'
+               o c. 1606–1607, William Shakespeare, “The Tragedie of
+                 Anthonie and Cleopatra”, in Mr. William Shakespeares
+                 Comedies, Histories, & Tragedies […] (First Folio),
+                 London: […] Isaac Iaggard, and Ed[ward] Blount, published
+                 1623, OCLC 606515358, [Act III, scene xi], page 356,
+                 column 1:
 
-   Subscribe to News
+                            […] he at Philippi kept / His ſword e'ne like
+                            a dancer, while I ſtrooke / The leane and
+                            wrinkled Caſſius, […]
 
-Latest
+               o 2021 December 29, “Network News: RAIB: tighten up
+                 supervision after 27mph train sideswipe incident”, in
+                 RAIL, number 947, page 8:
 
-     * Interior shot of exhibition inside the Weston Library Artworks
-       reflect on artefacts from the Bodleian Libraries’ colonial
-       collections in a new exhibition
-       30 Nov 2022
-     * Ice Shelf in the Weddell Sea, seen from The SA Agulhas II research
-       vessel during the field research. Image credit: Nekton 2022.
-       Synthetic fibres discovered in Antarctic samples show the
-       ‘pristine’ continent is now a sink for plastic pollution
-       25 Nov 2022
-     * An image of Oxford in the Summer, across the rooftops, August 2020
-       Scholarship scheme for graduates displaced by the war in Ukraine
-       receives funding to continue
-       24 Nov 2022
-     * The new National Thin-Film Cluster Facility for Advanced Functional
-       Materials, part of the University of Oxford’s Department of
-       Physics. The image shows the main cluster glovebox where all
-       substrates and masks are loaded, filled with high purity nitrogen
-       New research facility launches to develop the next generation of
-       advanced functional materials
-       24 Nov 2022
-     * As the international community continues to struggle with the
-       impact of COVID-19, conflict and climate change, the latest report
-       from the Young Lives project shows a long-running upward trend in
-       young people’s well-being has been sharply reversed alongsid Young
-       lives under pressure as global crises hits mental health and
-       well-being – report
-       23 Nov 2022
+                            The 0812 Huddersfield-Sheffield service struck
+                            the stabiliser leg of a lorry being used to
+                            take away portable toilets after local repair
+                            work.
 
-Further information
+         2. (transitive) To give, as a blow; to impel, as with a blow; to
+            give a force to; to dash; to cast.
+               o 1611, The Holy Bible, […] (King James Version), London:
+                 […] Robert Barker, […], OCLC 964384981, Exodus 12:7,
+                 column 2:
 
-     * Working paper study
-     * Oxford Department of Economics
+                            And they ſhall take of the blood and ſtrike it
+                            on the two ſide poſtes, […]
 
-DISCOVER MORE
+               o 1812, Lord Byron, “Canto II”, in Childe Harold’s
+                 Pilgrimage. A Romaunt, London: Printed for John
+                 Murray, […]; William Blackwood, Edinburgh; and John
+                 Cumming, Dublin; by Thomas Davison, […], OCLC 22697011,
+                 stanza LXXV, page 102:
 
-     * Support Oxford's research
-     * Partner with Oxford on research
-     * Study at Oxford
-     * Research jobs at Oxford
+                            Who would be free themselves must strike the
+                            blow?
 
-ALL NEWS
+         3. (intransitive) To deliver a quick blow or thrust; to give
+            blows.
 
-   You can view all news or browse by category
+                      A hammer strikes against the bell of a clock.
 
-   All news
-   Media coverage
-   Financial Times
-   The Times
-   Economist
-   The Independent
+               o 1591 (date written), William Shakespeare, “The Second
+                 Part of Henry the Sixt, […]”, in Mr. William Shakespeares
+                 Comedies, Histories, & Tragedies. […] (First Folio),
+                 London: […] Isaac Iaggard, and Ed[ward] Blount, published
+                 1623, OCLC 606515358, [Act V, scene i], page 168, column
+                 2:
 
-Share This
+                            Nay when? ſtrike now, or elſe the Iron cooles.
 
-   Tweet
-   Share on Facebook
-   Share on LinkedIn
-   Share on Reddit
+         4. (transitive) To manufacture, as by stamping.
 
-Connect with us
+                      We will strike a medal in your honour.
 
-     * iTunes
-     * YouTube
-     * Facebook
-     * Twitter
-     * LinkedIn
-     * Weibo
-     * Instagram
-     * Medium
-     * The Conversation
+               o 1977, Jaques Heyman, Equilibrium of Shell Structures,
+                 Clarendon Press, Oxford, page 107:
 
-Information About
+                            [I]n practice, small deformations will occur
+                            in the shell on striking the shuttering, or...
+                            alternatively, some small deformations are due
+                            to slightly imperfect placing of the original
+                            formwork.
 
-     * Oxford University
-     * Strategic plan
-     * Oxford's research
-     * Course fees and funding
-     * Libraries
-     * Museums and collections
-     * Open days
-     * Oxford glossary
-     * Freedom of speech statement
-     * Statement on Modern Slavery
-     * Data privacy / GDPR
-     * Sport at Oxford
-     * Conferences at Oxford
-     * 牛津大学
+         5. (intransitive, dated) To run upon a rock or bank; to be
+            stranded; to run aground.
 
-Information For
+                      The ship struck in the night.
 
-     * Prospective undergraduates
-     * Prospective graduate students
-     * Prospective Continuing Education students
-     * Prospective online/distance learning students
-     * Current Oxford students
-     * Current Oxford staff
-     * Oxford residents/Community
-     * Visitors/Tourists
-     * Media
-     * Alumni
-     * Teachers
-     * Parliamentarians
-     * Businesses/Partnerships
+         6. (transitive) To cause to sound by one or more beats; to
+            indicate or notify by audible strokes. Of a clock, to announce
+            (an hour of the day), usually by one or more sounds.
 
-Quick Links
+                      The clock struck twelve.  The drums strike up a
+                      march.
 
-     * Any questions?
-     * Jobs and vacancies
-     * Term dates
-     * Map
-     * Nexus365 email
-     * Giving to Oxford
-     * Oxford University Images
+         7. (intransitive) To sound by percussion, with blows, or as if
+            with blows.
+               o 1816, Lord Byron, “Canto III”, in Childe Harold’s
+                 Pilgrimage. Canto the Third, London: Printed for John
+                 Murray, […], OCLC 1015450009, stanza XXI, page 13:
 
-     * © University of Oxford 2022
-     * Contact us
-     * About this site
-     * Legal
+                            But hush! hark! a deep sound strikes like a
+                            rising knell!
+
+         8. (transitive) To cause or produce by a stroke, or suddenly, as
+            by a stroke.
+
+                      to strike a light
+
+               o 1629, John Milton, “On the Morning of Christs Nativity”,
+                 in Poems of Mr. John Milton, […], London: […] Ruth
+                 Raworth for Humphrey Mosely, […], published 1646, OCLC
+                 606951673, The Hymn, stanza III, page 3:
+
+                            And waving wide her mirtle wand / She ſtrikes
+                            a univerſall Peace through Sea and Land.
+
+                                  And waving wide her myrtle wand, / She
+                                  strikes a universal peace through sea
+                                  and land.
+
+         9. (transitive) To cause to ignite by friction.
+
+                      to strike a match
+
+    3. (transitive) To thrust in; to cause to enter or penetrate.
+
+                A tree strikes its roots deep.
+
+    4. (personal, social) To have a sharp or severe effect.
+         1. (transitive) To punish; to afflict; to smite.
+               o 1611, The Holy Bible, […] (King James Version), London:
+                 […] Robert Barker, […], OCLC 964384981, Proverbs 17:26,
+                 column 2:
+
+                            Alſo to puniſh the iuſt is not good, nor to
+                            ſtrike princes for equitie.
+
+         2. (intransitive) To carry out a violent or illegal action.
+               o 1920, Mary Roberts Rinehart; Avery Hopwood, “The Shadow
+                 of the Bat”, in The Bat: A Novel from the Play (Dell
+                 Book; 241), New York, N.Y.: Dell Publishing Company, OCLC
+                 20230794, page 6:
+
+                            The Bat—they called him the Bat. Like a bat he
+                            chose the night hours for his work of rapine;
+                            like a bat he struck and vanished, pouncingly,
+                            noiselessly; like a bat he never showed
+                            himself to the face of the day.
+
+         3. (intransitive) To act suddenly, especially in a violent or
+            criminal way.
+
+                      The bank robber struck on the 2nd and 5th of May.
+
+         4. (transitive, figuratively) To impinge upon.
+
+                      The first thing to strike my eye was a beautiful
+                      pagoda.  Tragedy struck when his brother was killed
+                      in a bush fire.
+
+               o 1897 December (indicated as 1898), Winston Churchill,
+                 chapter I, in The Celebrity: An Episode, New York, N.Y.:
+                 The Macmillan Company; London: Macmillan & Co., Ltd.,
+                 OCLC 222716698, page 1:
+
+                            In the old days, to my commonplace and
+                            unobserving mind, he gave no evidences of
+                            genius whatsoever. He never read me any of his
+                            manuscripts, […], and therefore my lack of
+                            detection of his promise may in some degree be
+                            pardoned. But he had then none of the oddities
+                            and mannerisms which I hold to be inseparable
+                            from genius, and which struck my attention in
+                            after days when I came in contact with the
+                            Celebrity.
+
+         5. (intransitive) To stop working as a protest to achieve better
+            working conditions.
+
+                      Synonym: strike work
+
+               o 1889, New York (State). Dept. of Labor. Bureau of
+                 Statistics, Annual Report (part 2, page 127)
+
+                            Two men were put to work who could not set
+                            their looms; a third man was taken on who
+                            helped the inefficients to set the looms. The
+                            other weavers thought this was a breach of
+                            their union rules and 18 of them struck […]
+
+         6. (transitive, dated) To quit (one's job).
+               o 1887, Harriet W. Daly, Digging, Squatting, and Pioneering
+                 Life in the Northern Territory of South Australia, page
+                 227:
+
+                            It appears that a compositor had been engaged
+                            for the Northem Territory Times, and for a
+                            considerable time the editor seems to have led
+                            a comparatively unruffled existence; till in
+                            an evil hour the compositor was smitten with
+                            gold fever, and struck work.
+
+         7. (transitive) To impress, seem or appear (to).
+
+                      Golf has always struck me as a waste of time.
+
+               o 1895 May 7, H[erbert] G[eorge] Wells, “The Palace of
+                 Green Porcelain”, in The Time Machine: An Invention, New
+                 York, N.Y.: Henry Holt and Company, OCLC 4701980, page
+                 163:
+
+                            I fancied at first the stuff was paraffin wax,
+                            and smashed the jar accordingly. But the odor
+                            of camphor was unmistakable. It struck me as
+                            singularly odd, that among the universal
+                            decay, this volatile substance had chanced to
+                            survive, perhaps through many thousand years.
+
+         8. (transitive) To create an impression.
+
+                      The news struck a sombre chord.
+
+               o 1963, Margery Allingham, “Eye Witness”, in The China
+                 Governess: A Mystery, London: Chatto & Windus, OCLC
+                 483591931, page 249:
+
+                            The story struck the depressingly familiar
+                            note with which true stories ring in the tried
+                            ears of experienced policemen. No one queried
+                            it. It was in the classic pattern of human
+                            weakness, mean and embarrassing and sad.
+
+         9. (sports) To score a goal.
+               o 2010 December 28, Marc Vesty, “Stoke 0-2 Fulham”, in BBC:
+
+                            Defender Chris Baird struck twice early in the
+                            first half to help Fulham move out of the
+                            relegation zone and ease the pressure on
+                            manager Mark Hughes.
+
+        10. To make a sudden impression upon, as if by a blow; to affect
+            with some strong emotion.
+
+                      to strike the mind with surprise;  to strike
+                      somebody with wonder, alarm, dread, or horror
+
+               o 1734, Francis Atterbury, “A Sermon Preached at the Rolls,
+                 December 24, 1710: The Baptist's Message to Jesus, and
+                 Jesus's Answer Explained”, in Sermons on Several
+                 Occasions, volume I, published from the originals by
+                 Thomas Moore, new edition, London; reprinted in Sermons
+                 and Discourses on Several Subjects and Occasions, volume
+                 II, London, 1820, page 25:
+
+                            In like manner the writings of mere men […]
+                            strike and surprise us most upon our first
+                            perusal of them […].
+
+               o 1734, Alexander Pope, An Epistle To The Right Honourable
+                 Richard Lord Viscount Cobham; reprinted in Henry W.
+                 Boynton, editor, The Complete Poetical Works of Alexander
+                 Pope (The Cambridge Edition of the Poets), Boston; New
+                 York: Houghton Mifflin Company, 1903, lines 141–144, page
+                 159:
+
+                            Court-virtues bear, like gems, the highest
+                            rate, / Born where Heav'n's influence scarce
+                            can penetrate. / In life's low vale, the soil
+                            the virtues like, / They please as beauties,
+                            here as wonders strike.
+
+        11. To affect by a sudden impression or impulse.
+
+                      The proposed plan strikes me favourably.  May the
+                      Lord strike down those sinners!  I was struck dumb
+                      with astonishment.
+
+        12. (intransitive, UK, obsolete, slang) To steal or rob; to take
+            forcibly or fraudulently.
+               o 1567, Thomas Harman, “The vpright Coſe cateth to the
+                 Roge. [The Upright Man speaketh to the Rogue.]”, in 'A
+                 Caveat or Warning for Common Cursitors, vulgarly called
+                 vagabonds'; reprinted in Charles Hindley, editor, A
+                 Caveat or Warning for Common Cursetors, Vulgarly called
+                 Vagabonds, London: Reeves and Turner, 1871, page 119:
+
+                            Now we haue well bousd, let vs strike some
+                            chete.
+
+                                  Now we have well drunk, let us steal
+                                  something.
+
+               o 1591, Robert Greene, “A discourse, or rather discovery of
+                 the Nip and the Foist, laying open the nature of the
+                 Cutpurse and Pick-pocket.”, in 'The Second Part of
+                 Conny-catching', London: John Wolfe; reprinted in
+                 Alexander B. Grosart, editor, 'The Life and Complete
+                 Works in Prose and Verse of Robert Greene', volume 10,
+                 London; Aylesbury: Hazell, Watson and Viney, 1881, page
+                 112:
+
+                            Hee being thus duſted with meale, intreated
+                            the meale man to wipe it out of his necke, and
+                            ſtoopte downe his head: the meale man laughing
+                            to ſee him ſo rayed and whited, was willing to
+                            ſhake off the meal, and the whilſt, while hee
+                            was buſie about that, the Nippe had ſtroken
+                            the purſe and done his feate, and both
+                            courteouſly thanked the meale man and cloſely
+                            / went away with his purchaſe.
+
+                                  He being thus dusted with meal,
+                                  entreated the meal-man to wipe it out of
+                                  his neck, and stooped down his head, the
+                                  meal-man laughing to see him so arrayed
+                                  and whited, was willing to shake off the
+                                  meal, and while he was busy about that,
+                                  the nip had stroken the purse and done
+                                  his feat, and both courteously thanked
+                                  the meal-man and closely went away with
+                                  his purchase.^[1]
+
+        13. (slang, archaic) To borrow money from; to make a demand upon.
+               o 1655, James Shirley, 'The Gentleman of Venice'; reprinted
+                 in William Gifford; Alexander Dyce, editors, 'The
+                 Dramatic Works and Poems of James Shirley', volume 5,
+                 London: John Murray, 1833, page 6:
+
+                            I must borrow money, / And that some call a
+                            striking; [...]
+
+    5. To touch; to act by appulse.
+          + 1689 (indicated as 1690), [John Locke], “Some Farther
+            Considerations Concerning Our Simple Ideas”, in An Essay
+            Concerning Humane Understanding. […], London: […] Eliz[abeth]
+            Holt, for Thomas Basset, […], OCLC 153628242, book II, § 19,
+            page 58:
+
+                      Let us conſider the red and white colours in
+                      Porphyre: Hinder light, but from ſtriking on it, and
+                      its Colours vaniſh […].
+
+    6. (transitive) To take down, especially in the following contexts.
+         1. (nautical) To haul down or lower (a flag, mast, etc.)
+         2. (by extension) To capitulate; to signal a surrender by hauling
+            down the colours.
+
+                      The frigate has struck, sir! We've beaten them, the
+                      lily-livers!
+
+               o 1724, [Gilbert] Burnet, “Book III. Of the Rest of King
+                 Charles II’s Reign, from the Year 1673 to the Year 1685,
+                 in which He Died.”, in [Gilbert Burnet Jr.], editor,
+                 Bishop Burnet’s History of His Own Time. […], volume I,
+                 London: […] Thomas Ward […], OCLC 863504080, pages
+                 396–397:
+
+                            He [King Charles II] ſent him [the Earl of
+                            Essex] Embaſſador to Denmark, where his
+                            behaviour in the affair of the flag gained him
+                            much reputation: […] Lord Eſſex's firſt
+                            buſineſs was to juſtify his behaviour in
+                            refuſing to ſtrike. […] And he found very good
+                            materials to juſtify his conduct; ſince by
+                            formal treaties it had been expreſſly
+                            ſtipulated, that the Engliſh ſhips of war
+                            ſhould not ſtrike in the Daniſh ſeas.
+
+         3. To dismantle and take away (a theater set; a tent; etc.).
+               o 1851 November 14, Herman Melville, “Merry Christmas”, in
+                 Moby-Dick; or, The Whale, 1st American edition, New York,
+                 N.Y.: Harper & Brothers; London: Richard Bentley, OCLC
+                 57395299, page 113:
+
+                            “Strike the tent there!”—was the next order.
+                            As I hinted before, this whalebone marquee was
+                            never pitched except in port; and on board the
+                            Pequod, for thirty years, the order to strike
+                            the tent was well known to be the next thing
+                            to heaving up the anchor.
+
+               o 1979, Texas Monthly (volume 7, number 8, page 109)
+
+                            The crew struck the set with a ferocity
+                            hitherto unseen, an army more valiant in
+                            retreat than advance.
+
+         4. To unfasten, to loosen (chains, bonds, etc.).
+               o 1817 December​, Percy Bysshe Shelley, “The Revolt of
+                 Islam. […]”, in [Mary] Shelley, editor, The Poetical
+                 Works of Percy Bysshe Shelley. […], volume I, London:
+                 Edward Moxon […], published 1839, OCLC 1000449192, page
+                 217:
+
+                            He struck my chains, and gently spake and
+                            smiled:
+                            As they were loosened by that Hermit old,
+                            Mine eyes were of their madness half beguiled,
+                            To answer those kind looks.
+
+    7. (intransitive) To set off on a walk or trip.
+
+                They struck off along the river.
+
+          + 1913, Joseph C. Lincoln, chapter 1, in Mr. Pratt's Patients:
+
+                      I stumbled along through the young pines and
+                      huckleberry bushes. Pretty soon I struck into a sort
+                      of path that, I cal'lated, might lead to the road I
+                      was hunting for. It twisted and turned, and, the
+                      first thing I knew, made a sudden bend around a
+                      bunch of bayberry scrub and opened out into a big
+                      clear space like a lawn.
+
+    8. (intransitive) To pass with a quick or strong effect; to dart; to
+       penetrate.
+          + 1611, The Holy Bible, […] (King James Version), London: […]
+            Robert Barker, […], OCLC 964384981, Proverbs 7:23, column 2:
+
+                      Til a dart ſtrike through his liuer, […]
+
+          + 1681, John Dryden, The Spanish Fryar: Or, the Double
+            Discovery. […], London: […] Richard Tonson and Jacob
+            Tonson, […], OCLC 6484883, Act I, page 11:
+
+                      For if either the Story move us, or the Actor help
+                      the lameneſs of it with his performance, or now and
+                      then a glittering beam of wit or paſſion ſtrike
+                      through the obſcurity of the Poem, any of theſe are
+                      ſufficient to effect a preſent liking […].
+
+    9. (dated) To break forth; to commence suddenly; with into.
+
+                to strike into reputation;  to strike into a run
+
+   10. (intransitive) To become attached to something; said of the spat of
+       oysters.
+   11. To make and ratify.
+
+                to strike a bargain
+
+   12. To level (a measure of grain, salt, etc.) with a straight
+       instrument, scraping off what is above the level of the top.
+   13. (masonry) To cut off (a mortar joint, etc.) even with the face of
+       the wall, or inward at a slight angle.
+   14. To hit upon, or light upon, suddenly.
+
+                My eye struck a strange word in the text.  They soon
+                struck the trail.
+
+   15. (sugar-making, obsolete) To lade thickened sugar cane juice from a
+       teache into a cooler.
+          + 1793, Bryan Edwards, The History, Civil and Commercial, of the
+            British Colonies in the West Indies, volume II, London: John
+            Stockdale; republished in volume III, englarged and corrected
+            edition, Philadelphia: James Humphreys, 1806, page 46:
+
+                      In the teache the subject is still further
+                      evaporated, till it is judged sufficiently boiled to
+                      be removed from the fire. This operation is usually
+                      called striking; (i.e.) lading the liquor, now
+                      exceedingly thick, into the cooler.
+
+   16. To stroke or pass lightly; to wave.
+          + 1611, The Holy Bible, […] (King James Version), London: […]
+            Robert Barker, […], OCLC 964384981, 2 Kings 5:11, columns 2–1:
+
+                      […] Beholde, I thought, He will […] ſtrike his hand
+                      ouer the place, and recouer the leper.
+
+   17. (obsolete) To advance; to cause to go forward; used only in the
+       past participle.
+          + c. 1593 (date written), William Shakespeare, “The Tragedy of
+            Richard the Third: […]”, in Mr. William Shakespeares Comedies,
+            Histories, & Tragedies […] (First Folio), London: […] Isaac
+            Iaggard, and Ed[ward] Blount, published 1623, OCLC 606515358,
+            [Act I, scene i], page 174, column 1:
+
+                      […] Well ſtrooke in yeares, […]
+
+   18. To balance (a ledger or account).
+   19. To discover a source of something, often a buried raw material such
+       as ore (especially gold) or crude oil.
+          + 1998, “A Gold Rush Timeline”, in The Brasher Bulletin^[1],
+            volume 10, number 2, page 5:
+
+                      Howard Franklin and Henry Madison strike gold on the
+                      Fortymile River...
+
+Usage notesEdit
+
+     * Longman Dictionary of Contemporary English: "In everyday English,
+       people usually say hit rather than strike."
+     * The simple past is almost always struck, but it is often avoided by
+       using the verb hit (even more than in other tenses) or other verbs
+       and expressions. This is especially true in the sense of stopped
+       working in protest, about which many native speakers have strong
+       opinions concerning the use or appropriateness of struck or
+       striked. These strong opinions and criticism of different usage by
+       other people are partly due to regional differences but mostly due
+       to the verb actually being essentially defective (not used in all
+       tenses) in this sense, although apparently no dictionary except
+       Wiktionary mentions this. The expressions workers went on strike
+       and workers were on strike are much more common than workers struck
+       and workers striked, which sound weird, dated, or wrong to many
+       native speakers.
+     * The past participle is usually struck (e.g. He'd struck it rich, or
+       When the clock had struck twelve, etc.). The form stricken is
+       significantly rarer. However, it is still found in the sense of "to
+       delete, cross out", as in The Court has stricken the statement from
+       the record. Moreover, it is used in the passive in the sense of
+       "afflicted", as in The city was stricken with/by disease. In other
+       contexts it is literary or archaic.
+
+Derived termsEdit
+
+     * awestruck
+     * counterstrike
+     * cunt-struck
+     * double-struck
+     * dumbstruck
+     * flystruck
+     * fuckstruck
+     * gobstruck
+     * grief-stricken
+     * heartstricken
+     * horror-struck
+     * lightning never strikes twice in the same place
+     * light-struck
+     * love-struck
+     * misstrike
+     * moonstruck
+     * outstrike
+     * overstrike
+     * panic-stricken
+     * planet-struck
+     * poverty-stricken
+     * restrike
+     * stagestruck
+     * star-struck
+     * strike a balance
+     * strike a bargain
+     * strikeable
+     * strike a blow
+     * strike a chord
+     * strike a false note
+     * strike a jury
+     * strike a lead
+     * strike a light
+     * strike a medium
+     * strike a nerve
+     * strike a stroke
+     * strike back
+     * strike down
+     * strike dumb
+     * strikee
+     * strikefire
+     * strike gold
+     * strike hands
+     * strike in
+     * strike it lucky
+     * strike it rich
+     * strike lucky
+     * strike me pink
+     * strike off
+     * strike oil
+     * strike one's flag
+     * strike out
+     * striker
+     * strike sail
+     * strike tallies
+     * strike the colors
+     * strike through
+     * strike up
+     * strike while the iron is hot
+     * strike work
+     * striking distance
+     * sunstricken
+     * sunstrike
+     * terror-stricken
+     * thunderstruck
+     * wonderstruck
+
+
+TranslationsEdit
+
+   to delete
+     * Afrikaans: uitwis
+     * Armenian: ջնջել (hy) (ǰnǰel)
+     * Assamese: কাটি পেলোৱা (kati pelüa)
+     * Azerbaijani: silmək (az)
+     * Bengali: কেটে ফেলা (keṭe phela)
+     * Bulgarian: задрасквам (bg) (zadraskvam)
+     * Danish: overstrege, gennemstrege
+     * Dutch: doorstrepen (nl), uitwissen (nl), wissen (nl)
+     * Finnish: poistaa (fi)
+     * French: biffer (fr), rayer (fr), barrer (fr)
+     * Galician: riscar, cancelar (gl), borrar (gl)
+     * Georgian: გადახაზვა (gadaxazva)
+     * German: streichen (de)
+     * Greek: διαγράφω (el) (diagráfo)
+     * Hungarian: kitöröl (hu)
+     * Italian: cancellare (it)
+     * Japanese: 消す (ja) (kesu)
+
+     * Malayalam: വെട്ടുക (ml) (veṭṭuka)
+     * Maori: muru, muku
+     * Norwegian: stryke
+     * Occitan: escafar (oc), cancelar, esfaçar (oc)
+     * Persian:
+     * Portuguese: eliminar (pt), deletar (pt), excluir (pt)
+     * Russian: вычёркивать (ru) impf (vyčórkivatʹ), вы́черкнуть (ru) pf
+       (výčerknutʹ), зачёркивать (ru) impf (začórkivatʹ),
+       зачеркну́ть (ru) pf (začerknútʹ)
+     * Sotho: hlakola (st)
+     * Spanish: tachar (es), borrar (es)
+     * Swedish: stryka (sv)
+     * Ukrainian: закре́слювати (zakrésljuvaty), викре́слювати
+       (vykrésljuvaty)
+
+   to hit
+     * Afrikaans: slaan (af)
+     * Albanian:dëkoj (sq), zhdëp (sq), mëshoj (sq) m
+     * Akkadian: 𒉺 (maḫāṣu, SÌG)
+     * Arabic: ضَرَبَ (ar) (ḍaraba)
+     * Armenian: խփել (hy) (xpʿel), հարվածել (hy) (harvacel)
+     * Assamese: কোবোৱা (kübüa), পিটা (pita)
+     * Azerbaijani: vurmaq (az), çaxmaq (az), qaxmaq, çalmaq (az), çırpmaq
+     * Belarusian: біць impf (bicʹ), пабі́ць pf (pabícʹ), удара́ць impf
+       (udarácʹ), ўдара́ць impf (ŭdarácʹ), уда́рыць pf (udárycʹ),
+       ўда́рыць pf (ŭdárycʹ)
+     * Bengali: আঘাত (bn) (aghat)
+     * Bikol Central: uragan
+     * Bulgarian: у́дрям (bg) (údrjam), бия (bg) (bija)
+     * Cherokee: ᎬᏂᎭ (gvniha)
+     * Chinese:
+
+                Mandarin: 打擊 (zh), 打击 (zh) (dǎjī)
+
+     * Dutch: slaan (nl), treffen (nl), raken (nl)
+     * Esperanto: frapi (eo), bati (eo), trafi (eo)
+     * Finnish: iskeä (fi), lyödä (fi)
+     * French: frapper (fr), battre (fr)
+     * Galician: golpear (gl), bater (gl), zoscar, zorregar, zoupar,
+       apancar (gl), bourar (gl)
+     * German: schlagen (de)
+     * Greek: χτυπώ (el) (chtypó)
+
+                Ancient: τύπτω (túptō), πλήσσω (plḗssō), παίω (paíō)
+
+     * Hebrew: הִכַּה (he) (hikká)
+     * Hungarian: üt (hu)
+     * Ido: frapar (io), batar (io)
+     * Indonesian: menabrak (id), tabrak (id)
+     * Irish: buail, failp, smiot
+
+                Old Irish: benaid
+
+     * Italian: colpire (it)
+     * Jamaican Creole: lick
+     * Japanese: 打つ (ja) (utsu), 攻撃する (kōgeki suru)
+     * Kalmyk: цокх (tsokh)
+     * Khmer: វាយ (km) (viəy)
+     * Korean: please add this translation if you can
+
+     * Lao: please add this translation if you can
+     * Latin: feriō, cūdō, pulsō, plangō
+     * Low German:
+
+                German Low German: slaan
+
+     * Malayalam: അടിയ്ക്കുക (aṭiykkuka)
+     * Maori: tiu (with a weapon), pāike (with a tool e.g. a hammer),
+       whakaruke
+     * Middle English: stryken, swyngen
+     * Mongolian: please add this translation if you can
+     * Nepali: ठोक्नु (ṭhoknu)
+     * Norman: porter un coup (Jersey)
+     * Norwegian: slå (no), ramme (no)
+     * Old Prussian: buktun
+     * Persian: زدن (fa) (zadan)
+     * Polish: trafiać (pl) impf
+     * Portuguese: acertar (pt), golpear (pt)
+     * Romanian: bate (ro)
+     * Russian: бить (ru) impf (bitʹ), ударя́ть (ru) impf (udarjátʹ),
+       уда́рить (ru) pf (udáritʹ)
+     * Sanskrit: तुदति (sa) (tudati)
+     * Scottish Gaelic: buail
+     * Serbo-Croatian:
+
+                Cyrillic: у̀дарити
+                Roman: ùdariti (sh)
+
+     * Sorbian:
+
+                Lower Sorbian: biś
+
+     * Sotho: shapa (st)
+     * Spanish: golpear (es), pegar (es)
+     * Swedish: slå (sv)
+     * Thai: please add this translation if you can
+     * Ugaritic: 𐎎𐎃𐎕 (mḫṣ)
+     * Ukrainian: би́ти (uk) (býty), вда́рити (vdáryty)
+     * Vietnamese: đánh (vi)
+     * Welsh: taro (cy)
+     * Yiddish: שלאָגן (shlogn)
+
+   transitive: to give, as a blow; to give force to
+     * Finnish: iskeä (fi)
+
+     * Swedish: slå (sv), träffa (sv)
+
+   intransitive: to deliver a quick blow or thrust
+     * Bulgarian: удрям (bg) (udrjam)
+     * Finnish: iskeä (fi), hakata (fi), takoa (fi)
+     * French: frapper (fr)
+
+     * Greek: πλήττω (el) (plítto)
+     * Swedish: slå (sv)
+
+   to manufacture by stamping
+     * Afrikaans: slaan (af)
+     * Bulgarian: чеканя (čekanja), щамповам (štampovam)
+     * Dutch: slaan (nl)
+     * Finnish: lyödä (fi)
+     * French: frapper (fr)
+     * German: prägen (de)
+
+     * Italian: coniare (it)
+     * Russian: чека́нить (ru) impf (čekánitʹ), отчека́нить (ru) pf
+       (otčekánitʹ)
+     * Spanish: acuñar (es)
+     * Swedish: slå (sv)
+
+   dated: to run upon a rock or bank
+     * Finnish: ajaa karille
+
+   to cause to sound by one or more beats
+     * Finnish: lyödä (fi)
+     * French: battre (fr) (drums)
+
+     * Swedish: slå (sv), anslå (sv)
+
+   to sound by percussion
+     * Finnish: lyödä (fi)
+
+     * Swedish: anslå (sv)
+
+   to cause or produce by a stroke
+     * Finnish: räväyttää
+
+   to cause to ignite by friction
+     * Bulgarian: драсвам (bg) (drasvam)
+     * Finnish: raapaista
+
+   to thrust in; to cause to enter or penetrate
+     * Bulgarian: пронизвам (bg) (pronizvam)
+     * Finnish: tunkea (fi)
+
+   to punish; to afflict; to smite
+     * Bulgarian: поразявам (bg) (porazjavam)
+     * Finnish: lyödä (fi)
+
+   to carry out a violent or illegal action
+     * Finnish: iskeä (fi)
+
+   to act suddenly
+     * Finnish: iskeä (fi)
+
+     * Swedish: slå till (sv)
+
+   to impinge upon
+     * Bulgarian: попадам (popadam)
+     * Finnish: iskeä (fi), koskettaa (fi); kiinnittää huomiota (to strike
+       attention)
+
+     * French: frapper (fr)
+
+   to stop working as a form of protest
+     * Afrikaans: staak
+     * Bulgarian: стачкувам (stačkuvam)
+     * Czech: stávkovat
+     * Dutch: staken (nl)
+     * Esperanto: striki (eo)
+     * Finnish: lakkoilla (fi)
+     * French: faire grève (fr)
+     * Georgian: გაფიცვა (gapicva)
+     * German: streiken (de)
+     * Greek: απεργώ (el) (apergó)
+     * Irish: dul ar stailc
+     * Italian: scioperare (it)
+     * Japanese: ストライキを起こす (sutoraiki o okosu)
+     * Khmer: បះ (km) (bah), ធ្វើកូដកម្ម (thvəə koudaʼkam)
+     * Maori: auporo, porotū
+     * Norwegian: streike
+
+     * Polish: strajkować (pl)
+     * Portuguese: parar (pt), paralizar
+     * Romanian: grevă (ro)
+     * Russian: бастова́ть (ru) impf (bastovátʹ), забастова́ть (ru) pf
+       (zabastovátʹ)
+     * Serbo-Croatian:
+
+                Cyrillic: штра̏јкати
+                Roman: štrȁjkati (sh)
+
+     * Slovak: štrajkovať
+     * Sotho: seteraeka
+     * Spanish: parar el trabajo (es), hacer la huelga
+     * Swedish: strejka (sv)
+     * Ukrainian: страйкува́ти (strajkuváty)
+     * Welsh: streicio (cy)
+
+   to impress, seem, appear
+     * Bulgarian: изглеждам (bg) (izgleždam)
+     * Czech: připadnout (cs)
+     * Dutch: schijnen (nl)
+     * Finnish: vaikuttaa (fi)
+     * French: frapper (fr)
+     * German: scheinen (de)
+     * Greek: εντυπωσιάζω (el) (entyposiázo)
+     * Italian: sembrare (it)
+     * Norwegian: slå (no)
+
+     * Portuguese: parecer (pt)
+     * Russian: поража́ть (ru) impf (poražátʹ), порази́ть (ru) pf
+       (porazítʹ), потряса́ть (ru) impf (potrjasátʹ), потрясти́ (ru) pf
+       (potrjastí)
+     * Scottish Gaelic: buail air
+     * Spanish: ocurrirse (es), parecer (es)
+     * Swedish: slå (sv)
+     * Ukrainian: вража́ти (vražáty)
+
+   to create an impression
+     * Bulgarian: правя впечатление (pravja vpečatlenie)
+     * Finnish: vaikuttaa (fi)
+
+     * French: frapper (fr)
+
+   to score
+     * Finnish: iskeä (fi)
+
+   slang, obsolete: to steal money
+     * Finnish: varastaa (fi)
+
+   to take forcibly or fraudulently
+     * Finnish: ryöstää (fi)
+
+   to make a sudden impression upon, as if by a blow; to affect with some
+   strong emotion
+     * Bulgarian: идва ми на ум (idva mi na um)
+     * Finnish: koskettaa (fi)
+     * French: frapper (fr)
+
+     * Swedish: slå (sv)
+
+   to affect by a sudden impression or impulse
+     * Finnish: yllättää (fi); lyödä maahan (strike down); mykistää (fi),
+       pysäyttää (fi) (strike dumb)
+
+   slang, archaic: to borrow money from; to make a demand upon
+     * Finnish: vipata (fi) (to borrow)
+
+   to touch; to act by appulse
+     * Finnish: koskea (fi)
+
+   nautical: to take down
+     * Bulgarian: спускам (bg) (spuskam), прибирам (bg) (pribiram)
+     * Finnish: laskea (fi)
+     * French: affaler (fr)
+
+     * Russian: спусти́ть (ru) impf (spustítʹ), спуска́ть (ru) pf
+       (spuskátʹ), убира́ть (ru) impf (ubirátʹ), убра́ть (ru) pf (ubrátʹ)
+
+   nautical: to surrender
+     * Dutch: de vlag strijken
+     * Finnish: laskea lippu
+     * French: baisser pavillon (fr), amener (fr)
+     * German: die Fahne streichen
+     * Greek: υποστέλλω (el) (ypostéllo)
+
+     * Italian: arrendersi (it)
+     * Portuguese: impressionar (pt), parecer (pt)
+     * Russian: сдава́ться (ru) impf (sdavátʹsja), сда́ться (ru) pf
+       (sdátʹsja)
+     * Spanish: arriar (es), bajar (es)
+
+   to dismantle and take away
+     * Finnish: purkaa (fi)
+
+   to set off on a walk or trip
+     * Finnish: lähteä kulkemaan
+
+   to pass with a quick or strong effect; to dart; to penetrate
+     * Finnish: lävistää (fi)
+
+   dated: to break forth
+     * Finnish: rynnistää
+
+   of oysters: to become attached to something
+     * Finnish: kiinnittyä (fi)
+
+   to make and ratify
+     * Finnish: sopia (fi)
+
+   to level measure with a straight instrument
+     * Finnish: tasata (fi)
+
+   masonry: to cut off even with the face of the wall
+     * Finnish: iskeä (fi)
+
+   to hit upon, or light upon, suddenly
+     * Finnish: sattua (fi)
+
+   to lade into a cooler
+     * Finnish: laittaa (fi)
+
+   to stroke or pass lightly; to wave
+     * Finnish: liikuttaa (fi)
+
+   obsolete: to advance; to cause to go forward
+   to balance, as a ledger or account
+     * Finnish: tasata (fi)
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables. See instructions at
+          Wiktionary:Entry layout § Translations.
+
+   Translations to be checked
+     * Dutch: (1) ^(please verify) doorhalen (nl), (2) ^(please verify)
+       slaan (nl), (2) ^(please verify) toeslaan (nl)
+     * Esperanto: (1) ^(please verify) forigi (eo), (2) ^(please verify)
+       frapi (eo), (2) ^(please verify) bati (eo), (3) ^(please verify)
+       striki (eo)
+     * Indonesian: ^(please verify) menubruk (id), ^(please verify)
+       menyerang (id)
+
+     * Irish: ^(please verify) smiot
+     * Norman: ^(please verify) capuchi (Jersey), ^(please verify) satchi
+       (Jersey)
+     * Old English: ^(please verify) hnossian (2)
+
+NounEdit
+
+   strike (plural strikes)
+    1.
+    2. (baseball) A status resulting from a batter swinging and missing a
+       pitch, or not swinging at a pitch when the ball goes in the strike
+       zone, or hitting a foul ball that is not caught.
+          + 1996, Lyle Lovett, "Her First Mistake" on The Road to
+            Ensenada:
+
+                      It was then I knew I had made my third mistake. Yes,
+                      three strikes right across the plate, and as I
+                      hollered "Honey, please wait" she was gone.
+
+    3. (bowling) The act of knocking down all ten pins in on the first
+       roll of a frame.
+    4.
+    5. A work stoppage (or otherwise concerted stoppage of an activity) as
+       a form of protest.
+
+                Synonym: walkout
+                Antonyms: industrial peace, lockout, non-strike, nonstrike
+
+    6. A blow or application of physical force against something.
+          + 1990, Chris Traish; Leigh Olsson, An Overview of Martial Arts,
+            page 14:
+
+                      Thus hand strikes now include single knuckle
+                      strikes, knife hand strikes, finger strikes, ridge
+                      hand strikes etc., and leg strikes include front
+                      kicks, knee strikes, axe kicks, […]
+
+          + 1996, Annie Proulx, Accordion Crimes
+
+                      […] and they could hear the rough sound, could hear
+                      too the first strikes of rain as though called down
+                      by the music.
+
+          + 2008, Lich King (band), "Attack of the Wrath of the War of the
+            Death of the Strike of the Sword of the Blood of the Beast",
+            Toxic Zombie Onslaught
+
+                      He's got machine guns and hatchets and swords / And
+                      some missiles and foods with trans-fats / He will
+                      unleash mass destruction, you're dead / You just got
+                      smashed... by the ¶ Attack of the Wrath of the / War
+                      of the Death of the / Strike of the Sword of the /
+                      Blood... of the Beast
+
+    7. (finance) In an option contract, the price at which the holder buys
+       or sells if they choose to exercise the option.
+    8. (historical) An old English measure of corn equal to the bushel.
+          + 1882, James Edwin Thorold Rogers, A History of Agriculture and
+            Prices in England, volume 4, page 207:
+
+                      The sum is also used for the quarter, and the strike
+                      for the bushel.
+
+    9. (cricket) The status of being the batsman that the bowler is
+       bowling at.
+
+                The batsmen have crossed, and Dhoni now has the strike.
+
+   10. The primary face of a hammer, opposite the peen.
+   11. (geology) The compass direction of the line of intersection between
+       a rock layer and the surface of the Earth.
+   12. An instrument with a straight edge for levelling a measure of
+       grain, salt, etc., scraping off what is above the level of the top;
+       a strickle.
+   13. (obsolete) Fullness of measure; hence, excellence of quality.
+          + 1820, Walter Scott, chapter X, in Ivanhoe; a Romance. […],
+            volume III, Edinburgh: […] Archibald Constable and Co.;
+            London: Hurst, Robinson, and Co. […], OCLC 230694662, pages
+            266–267:
+
+                      […] our cellarer shall have orders to deliver to
+                      thee a butt of sack, a runlet of Malvesie, and three
+                      hogsheads of ale of the first strike, yearly—If that
+                      will not quench thy thirst, thou must come to court,
+                      and become acquainted with my butler.
+
+   14. An iron pale or standard in a gate or fence.
+   15. (ironworking) A puddler's stirrer.
+   16. (obsolete) The extortion of money, or the attempt to extort money,
+       by threat of injury; blackmail.
+   17. The discovery of a source of something.
+          + 2013 August 3, “Yesterday’s fuel”, in The Economist^[2],
+            volume 408, number 8847:
+
+                      The dawn of the oil age was fairly recent. Although
+                      the stuff was used to waterproof boats in the Middle
+                      East 6,000 years ago, extracting it in earnest began
+                      only in 1859 after an oil strike in Pennsylvania.
+                      The first barrels of crude fetched $18 (around $450
+                      at today’s prices).
+
+   18. The strike plate of a door.
+   19. (fishing) A nibble on the bait by a fish.
+          + 2014, Michael Gorman, Effective Stillwater Fly Fishing (page
+            87)
+
+                      I must admit that my focus was divided, which
+                      limited my fishing success. I made a few casts, then
+                      arranged my inanimate subjects and took photos. When
+                      my indicator went down on my first strike, I cleanly
+                      missed the hook up.
+
+Derived termsEdit
+
+     * airstrike
+     * alpha strike
+     * birdstrike, bird strike
+     * bridge strike
+     * checkerboard strike
+     * deadbolt strike
+     * decapitation strike
+     * first strike
+     * general strike
+     * hunger strike
+     * latch strike
+     * lightning strike
+     * on strike
+     * rent strike
+     * second strike
+     * sit-down strike
+     * splendid first strike
+     * strike action
+     * strike jamb
+     * strike plate
+     * striker
+     * tailstrike
+     * third strike
+     * three strikes
+     * wildcat strike
+
+
+DescendantsEdit
+
+     * German: streiken
+
+TranslationsEdit
+
+   in baseball
+     * Chinese:
+
+                Mandarin: 好球 (zh) (hǎoqiú)
+
+     * Dutch: slag (nl) m
+     * Esperanto: trafo
+     * Finnish: palo (fi)
+
+     * German: Strike (de) m
+     * Russian: страйк (ru) m (strajk)
+     * Spanish: strike (es) m
+     * Swedish: strike (sv) c
+
+   in bowling
+     * Catalan: ple (ca) m
+     * Danish: strike (da) c
+     * Dutch: strike (nl) m
+     * Finnish: kaato (fi)
+     * French: strike (fr) m
+     * German: Strike (de) m
+
+     * Japanese: ストライク (ja) (sutoraiku)
+     * Korean: 스트라이크 (ko) (seuteuraikeu)
+     * Portuguese: strike (pt) m
+     * Russian: страйк (ru) m (strajk)
+     * Swedish: strike (sv) c
+
+   work stoppage
+     * Afrikaans: staking
+     * Albanian: grevë (sq) f
+     * Arabic: إِضْرَاب m (ʾiḍrāb)
+     * Armenian: գործադուլ (hy) (gorcadul)
+     * Asturian: güelga (ast) f
+     * Azerbaijani: tətil (az)
+     * Basque: greba (eu)
+     * Belarusian: забасто́ўка f (zabastóŭka), страйк m (strajk),
+       ста́чка f (stáčka), штрайк m (štrajk)
+     * Bengali: ধর্মঘট (dhôrmghôṭ)
+     * Breton: harz-labour (br)
+     * Bulgarian: ста́чка (bg) f (stáčka)
+     * Burmese: သပိတ် (my) (sa.pit)
+     * Catalan: vaga (ca) f
+     * Chinese:
+
+                Mandarin: 罷工 (zh), 罢工 (zh) (bàgōng)
+
+     * Czech: stávka (cs) f
+     * Danish: strejke (da) c
+     * Dutch: staking (nl) f
+     * Esperanto: striko (eo)
+     * Estonian: streik (et)
+     * Finnish: lakko (fi)
+     * French: grève (fr) f
+     * Galician: folga (gl) f, paro (gl) m
+     * Georgian: გაფიცვა (gapicva), აქცია (akcia)
+     * German: Streik (de) m
+     * Greek: απεργία (el) f (apergía)
+     * Hebrew: שְׁבִיתָה (he) f (sh'vitá)
+     * Hindi: हड़ताल (hi) f (haṛtāl)
+     * Hungarian: sztrájk (hu), munkabeszüntetés (hu)
+     * Icelandic: verkfall
+     * Ido: striko (io)
+     * Indonesian: mogok (id), pemogokan (id)
+     * Irish: stailc f
+     * Italian: sciopero (it) m
+     * Japanese: ストライキ (ja) (sutoraiki) (general), スト (ja) (suto),
+       同盟罷業 (ja) (どうめいひぎょう, dōmei higyō) (law), 罷工 (ja) (ひこう, hikō)
+     * Kazakh: ереуіл (kk) (ereuıl)
+     * Khmer: កូដកម្ម (km) (koudaʼkam)
+     * Korean: 파업(罷業) (ko) (pa'eop)
+     * Kurdish:
+
+                Northern Kurdish: grev (ku)
+
+     * Kyrgyz: забастовка (ky) (zabastovqa), иш таштоо (iş taştoo),
+       стачка (ky) (staçqa)
+     * Lao: ການນັດຢຸດງານ (kān nat yut ngān)
+     * Latin: operistitium (la) n
+     * Latvian: streiks m
+
+     * Lithuanian: streikas m
+     * Macedonian: штрајк m (štrajk)
+     * Malay: mogok
+
+                Jawi: موݢوق (muguk)
+
+     * Malayalam: സമരം (ml) (samaraṃ)
+     * Maori: auporo, porotū
+     * Mongolian:
+
+                Cyrillic: ажил хаялт (mn) (ažil xajalt)
+                Mongolian: ᠠᠵᠢᠯ
+                ᠬᠠᠶᠠᠯᠲᠠ (aǰil qayalta)
+
+     * Norwegian:
+
+                Bokmål: streik m
+                Nynorsk: streik m
+
+     * Pashto: اعتصاب (ps) m (e'tesãb), هرټال m (harṭãl), هړتال m (harṭāl)
+     * Persian: اعتصاب (fa) (e'tesâb)
+     * Polish: strajk (pl) m
+     * Portuguese: greve (pt) f
+     * Romanian: grevă (ro) f
+     * Russian: забасто́вка (ru) f (zabastóvka), ста́чка (ru) (stáčka)
+     * Scottish Gaelic: stailc f
+     * Serbo-Croatian:
+
+                Cyrillic: штра̏јк m
+                Roman: štrȁjk (sh) m
+
+     * Slovak: štrajk m
+     * Slovene: stavka (sl) f
+     * Sotho: seteraeke
+     * Spanish: huelga (es) f
+     * Swahili: mgomo (sw)
+     * Swedish: strejk (sv) c
+     * Tagalog: aklas (tl), aklasan (tl), welga
+     * Tamil: வேலைநிறுத்தம் (ta) (vēlainiṟuttam)
+     * Telugu: సమ్మె (te) (samme)
+     * Thai: นัดหยุดงาน (nát-yùt-ngaan), การนัดหยุดงาน
+       (gaan-nát-yùt-ngaan)
+     * Turkish: grev (tr)
+     * Turkmen: iş taşlaýyş, zabastowka, staçka
+     * Ukrainian: страйк m (strajk), забасто́вка f (zabastóvka)
+     * Urdu: ہڑتال f (haṛtāl)
+     * Uyghur: ئىش تاشلاش (ish tashlash)
+     * Uzbek: zabastovka (uz), ish tashlash, stachka (uz)
+     * Vietnamese: đình công (vi) (停工), sự bãi công (vi)
+     * Welsh: streic (cy) f
+     * Yiddish: סטרײַק m (strayk), זאַבאָסטאָווקע f (zabostovke) (Litvish)
+
+   physical blow
+     * Armenian: please add this translation if you can
+     * Azerbaijani: zərbə (az), vuruş
+     * Bulgarian: удар (bg) (udar)
+     * Chinese:
+
+                Mandarin: 打擊 (zh), 打击 (zh) (dǎjī, dǎjí)
+
+     * Danish: slag (da) n
+     * Dutch: klap (nl) m, slag (nl) m, stoot (nl) m
+     * Esperanto: frapo, bato
+     * Finnish: isku (fi)
+     * French: coup (fr) m, frappe (fr) f
+     * German: Schlag (de) m
+     * Gothic: 𐍃𐌻𐌰𐌷𐍃 m (slahs)
+     * Greek: χτύπημα (el) n (chtýpima)
+     * Ido: frapo (io)
+     * Japanese: please add this translation if you can
+
+     * Khmer: ការវាយប្រហារ (kaaviəyprɑɑhaa)
+     * Korean: please add this translation if you can
+     * Latin: plāga (la) f
+     * Maltese: daqqa f
+     * Mongolian: please add this translation if you can
+     * Plautdietsch: Schlach m
+     * Polish: uderzenie (pl) n
+     * Portuguese: ataque (pt) m
+     * Russian: уда́р (ru) m (udár)
+     * Scottish Gaelic: bualadh m
+     * Spanish: please add this translation if you can
+     * Swedish: slag (sv) n
+     * Thai: please add this translation if you can
+
+   compass direction of the line of intersection between a rock layer and
+   the surface of the Earth
+     * Finnish: kulku (fi)
+
+     * Irish: treo (ga) m
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables. See instructions at
+          Wiktionary:Entry layout § Translations.
+
+   Translations to be checked
+     * Esperanto: ^(please verify) maltrafo (1), ^(please verify)
+       plentrafo (2)
+
+     * Luxembourgish: ^(please verify) Streik
+
+ReferencesEdit
+
+    1. ^ Modernised spelling via Greene, Robert (2017), “A discourse, or
+       rather discovery of the Nip and the Foist, laying open the nature
+       of the Cutpurse and Pick-pocket.”, in Ex-Classics Project,
+       retrieved 2019-12-12, The Complete Cony-Catching by Robert Greene
+
+Further readingEdit
+
+     * strike in Webster’s Revised Unabridged Dictionary, G. & C. Merriam,
+       1913
+     * Farmer, John Stephen (1904) Slang and Its Analogues^[3], volume 7,
+       page 12
+
+AnagramsEdit
+
+     * Kister, kiters, trikes
+     __________________________________________________________________
+
+   FrenchEdit
+
+PronunciationEdit
+
+     * IPA^(key): /stʁajk/
+
+NounEdit
+
+   strike m (plural strikes)
+    1. (bowling) a strike
+
+Derived termsEdit
+
+     * striker
+
+Related termsEdit
+
+     * spare
+     __________________________________________________________________
+
+   ItalianEdit
+
+NounEdit
+
+   strike m (invariable)
+    1. strike (in baseball and ten-pin bowling)
+     __________________________________________________________________
+
+   PortugueseEdit
+
+EtymologyEdit
+
+   Unadapted borrowing from English strike.
+
+PronunciationEdit
+
+
+     * (Brazil) IPA^(key): /ˈstɾajk/ [ˈstɾaɪ̯k], /isˈtɾaj.ki/
+       [isˈtɾaɪ̯.ki], /esˈtɾaj.ki/ [esˈtɾaɪ̯.ki]
+
+     * (Brazil) IPA^(key): /ˈstɾajk/ [ˈstɾaɪ̯k], /isˈtɾaj.ki/
+       [isˈtɾaɪ̯.ki], /esˈtɾaj.ki/ [esˈtɾaɪ̯.ki]
+          + (Rio de Janeiro) IPA^(key): /ˈstɾajk/ [ˈstɾaɪ̯k], /iʃˈtɾaj.ki/
+            [iʃˈtɾaɪ̯.ki], /eʃˈtɾaj.ki/ [eʃˈtɾaɪ̯.ki]
+          + (Southern Brazil) IPA^(key): /ˈstɾajk/ [ˈstɾaɪ̯k],
+            /esˈtɾaj.ke/ [esˈtɾaɪ̯.ke]
+
+NounEdit
+
+   strike m (plural strikes)
+    1. (bowling) strike (the act of knocking down all pins)
+    2. (baseball) strike (the act of missing a swing at the ball)
+     __________________________________________________________________
+
+   SpanishEdit
+
+EtymologyEdit
+
+   Unadapted borrowing from English strike.
+
+PronunciationEdit
+
+     * IPA^(key): /ˈstɾaik/ [ˈst̪ɾai̯k], /esˈtɾaik/ [esˈt̪ɾai̯k]
+     * Rhymes: -aik
+
+NounEdit
+
+   strike m (plural strikes)
+    1. (baseball) strike
+
+                ¡Tres strikes y estás fuera! ― Three strikes, you're out!
+
+    2. (bowling) strike
+
+Usage notesEdit
+
+   According to Royal Spanish Academy (RAE) prescriptions, unadapted
+   foreign words should be written in italics in a text printed in roman
+   type, and vice versa, and in quotation marks in a manuscript text or
+   when italics are not available. In practice, this RAE prescription is
+   not always followed.
+   Retrieved from
+   "https://en.wiktionary.org/w/index.php?title=strike&oldid=70556170"
+
+   Last edited on 21 December 2022, at 03:34
+   Wiktionary
+     * This page was last edited on 21 December 2022, at 03:34.
+     * Content is available under CC BY-SA 3.0 unless otherwise noted.
+
      * Privacy policy
-     * Cookie settings
-     * Accessibility Statement
+     * About Wiktionary
+     * Disclaimers
+     * Terms of Use
+     * Desktop
+     * Developers
+     * Statistics
+     * Cookie statement

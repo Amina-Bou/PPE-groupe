@@ -1,0 +1,194 @@
+Tell us whether you accept cookies
+
+   We would like to use cookies to collect information about how you use
+   ons.gov.uk.
+
+   We use this information to make the website work as well as possible
+   and improve our services.
+   (BUTTON) Accept all cookies
+   Set cookie preferences
+
+   You’ve accepted all cookies. You can change your cookie settings at any
+   time. (BUTTON) Hide
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MBCBVQS
+
+   Skip to main content
+
+   /employmentandlabourmarket/peopleinwork/workplacedisputesandworkingcond
+   itions/articles/fivefactsaboutstrikes/2016-08-12
+
+   Office for National Statistics logo - Homepage
+   English (EN) | Cymraeg (CY)
+     * Release calendar
+     * Methodology
+     * Media
+     * About
+     * Blog
+
+     * Menu
+     * Search
+
+     * Home
+     * Business, industry and trade
+          + Business
+          + Changes to business
+          + Construction industry
+          + IT and internet industry
+          + International trade
+          + Manufacturing and production industry
+          + Retail industry
+          + Tourism industry
+     * Economy
+          + Economic output and productivity
+          + Environmental accounts
+          + Government, public sector and taxes
+          + Gross Domestic Product (GDP)
+          + Gross Value Added (GVA)
+          + Inflation and price indices
+          + Investments, pensions and trusts
+          + National accounts
+          + Regional accounts
+     * Employment and labour market
+          + People in work
+          + People not in work
+     * People, population and community
+          + Armed forces community
+          + Births, deaths and marriages
+          + Crime and justice
+          + Cultural identity
+          + Education and childcare
+          + Elections
+          + Health and social care
+          + Household characteristics
+          + Housing
+          + Leisure and tourism
+          + Personal and household finances
+          + Population and migration
+          + Well-being
+     * Taking part in a survey?
+     * English (EN) | Cymraeg (CY)
+
+   Search for a keyword(s) or time series ID ____________________ (BUTTON)
+   Search
+
+   Data and analysis from Census 2021
+
+    1. Home
+    2. Employment and labour market
+    3. People in work
+    4. Workplace disputes and working conditions
+    5. Five facts about... strikes
+
+Five facts about... strikes
+
+   12 August 2016
+
+   As rail staff at Eurostar suspend two strikes this month for talks in a
+   dispute over their work-life balance, and discussions between unions
+   and management at Southern continue, we look at recent and historic
+   statistics on industrial action in the UK.
+
+1. The number of working days lost due to strikes in 2015 was 170,000
+compared with 788,000 in 2014
+
+   The 2015 figure was the second-lowest annual total since records began
+   in 1891.
+
+Working days lost (WDL), UK, 1891 to 2015
+
+   Embed code
+   Embed this interactive <iframe width="100%" (BUTTON) Copy
+   Download the data
+
+2. The number of stoppages has fallen broadly over the last eight years
+
+   However, the number of working days lost has remained broadly flat.
+   This means large-scale stoppages have become more common.
+
+Stoppages, UK, 1996 to 2015
+
+   Embed code
+   Embed this interactive <iframe width="100%" (BUTTON) Copy
+   Download the data
+
+3. From 2006 to 2015, public sector strikes accounted for 85% of all strikes
+on average
+
+Working days lost (WDL) by public and private split, UK, 2006 to 2015
+
+   Embed code
+   Embed this interactive <iframe width="100%" (BUTTON) Copy
+   Download the data
+
+4. 81,000 people were involved in strikes in 2015, the fewest people since
+records began in 1893
+
+   Four years earlier more than 1.5 million people went on strike – the
+   highest number since the mid-1980s.
+
+Labour disputes annual estimates, UK, 1891 to 2015
+
+   Embed code
+   Embed this interactive <iframe width="100%" (BUTTON) Copy
+   Download the data
+
+5. The Public Administration sector, Education sector and the Transport,
+Storage, Information and Communication sector have seen the most working days
+lost to strikes per 1,000 employees since 2006
+
+   This is mainly because disputes in this group tend to be large.
+   Education has also seen a large strike rate. This industry group has a
+   large number of labour disputes, but the disputes are usually small. A
+   full list of sectors and the numbers of working days lost to strikes in
+   2015 can be seen here.
+
+Working days lost per 1,000 employees by industry (United Kingdom, not
+seasonally adjusted)
+
+   Embed code
+   Embed this interactive <iframe width="100%" (BUTTON) Copy
+   Download the data
+
+   For more information, please contact Labour.Disputes@ons.gov.uk
+
+You might also be interested in
+
+     * Labour Disputes in the UK, 2015
+     * The history of strikes in the UK
+
+Contact
+
+
+    digitalcontent@ons.gov.uk
+
+Footer links
+
+Help
+
+     * Accessibility
+     * Cookies
+     * Privacy
+     * Terms and conditions
+
+About ONS
+
+     * What we do
+     * Careers
+     * Contact us
+     * News
+     * Freedom of Information
+
+Connect with us
+
+     * Twitter
+     * Facebook
+     * LinkedIn
+     * Consultations
+     * Discussion forums
+     * Email alerts
+
+   OGL
+
+   All content is available under the Open Government Licence v3.0, except
+   where otherwise stated

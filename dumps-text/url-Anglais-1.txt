@@ -19,46 +19,42 @@ Cookies on GOV.UK
 
 Navigation menu
 
-   (BUTTON) Menu
-     * Topics (BUTTON) Topics
+   Menu (BUTTON) Menu
 
-Find information and services
-          + Benefits
-          + Births, death, marriages and care
-          + Business and self-employed
-          + Childcare and parenting
-          + Citizenship and living in the UK
-          + Cost of living support
-          + Crime, justice and the law
-          + Disabled people
-          + Driving and transport
-          + Education and learning
-          + Employing people
-          + Environment and countryside
-          + Housing and local services
-          + Money and tax
-          + Passports, travel and living abroad
-          + Visas and immigration
-          + Working, jobs and pensions
-     * Government activity (BUTTON) Government activity
+Topics
 
-Search for a department and find out what the government is doing
-          + Departments
-            Departments, agencies and public bodies
-          + News
-            News stories, speeches, letters and notices
-          + Guidance and regulation
-            Detailed guidance, regulations and rules
-          + Research and statistics
-            Reports, analysis and official statistics
-          + Policy papers and consultations
-            Consultations and strategy
-          + Transparency
-            Data, Freedom of Information releases and corporate reports
-         ______________________________________________________________
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Cost of living support
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
-          + How government works
-          + Get involved
+Government activity
+
+     * Departments
+       Departments, agencies and public bodies
+     * News
+       News stories, speeches, letters and notices
+     * Guidance and regulation
+       Detailed guidance, regulations and rules
+     * Research and statistics
+       Reports, analysis and official statistics
+     * Policy papers and consultations
+       Consultations and strategy
+     * Transparency
+       Data, Freedom of Information releases and corporate reports
 
    (BUTTON) Search GOV.UK ×
 

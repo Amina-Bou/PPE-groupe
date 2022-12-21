@@ -1,230 +1,174 @@
-   [labourlist-logo-noto_2ddcd651.svg]
+   #Etymonline Search
 
-   Home [labourlist-logo-marque-red_5e895720.svg]
-     * News
-     * Comment
-     * Video
-     * Unions
-     * Local
-     * Scotland
-     * Wales
-     * Selections
+   Etymology
+   ____________________
+   Submit
+   Advertisement
 
-   (BUTTON) Menu
-   (BUTTON) Search
+strike (v.)
 
-   (BUTTON) × Close [labourlist-logo-marque-red_5e895720.svg]
-     * News
-     * Comment
-     * Video
-     * Unions
-     * Local
-     * Scotland
-     * Wales
-     * Selections
+   Old English strican (past tense strac, past participle stricen) "pass
+   lightly over, stroke, smooth, rub," also "go, move, proceed," from
+   Proto-Germanic *strikan- (source also of Old Norse strykva "to stroke,"
+   Old Frisian strika, Middle Dutch streken, Dutch strijken "to smooth,
+   stroke, rub," Old High German strihhan, German streichen), from PIE
+   root *strig- "to stroke, rub, press" (see strigil). Related to streak
+   and stroke, and perhaps influenced in sense development by cognate Old
+   Norse striuka.
 
-   Search for: ____________________ (BUTTON) Search
+   Sense of "to deal a blow" developed by early 14c.; meaning "to collide"
+   is from mid-14c.; that of "to hit with a missile" is from late 14c.
+   Meaning "to cancel or expunge" (as with the stroke of a pen) is
+   attested from late 14c. A Middle English sense is preserved in strike
+   for "go toward." Sense of "come upon, find" is from 1835 (especially in
+   mining, well-digging, etc., hence strike it rich, 1854). Baseball sense
+   is from 1853. To strike a balance is from the sense "balance accounts"
+   (1530s).
 
-   18th August, 2022, 5:04 pm
+   Meaning "refuse to work to force an employer to meet demands" is from
+   1768, perhaps from notion of striking or "downing" one's tools, or from
+   sailors' practice of striking (lowering) a ship's sails as a symbol of
+   refusal to go to sea (1768), which preserves the verb's original sense
+   of "make level, smooth."
 
-48% of Brits support rail workers striking over pay and conditions, poll
-finds
+   strike (n.)
 
-   Elliot Chappell
-   Elliot Chappell
-   © Ceri Breeze/Shutterstock.com
-   Share this article:
-     *
-     *
-     *
-     *
+   1580s, "act of striking," from strike (v.). Meaning "concentrated
+   cessation of work by a body of employees" is from 1810. Baseball sense
+   is first recorded 1841, originally meaning any contact with the ball;
+   modern sense developed by 1890s, apparently from foul strike, which
+   counted against the batter, and as hit came to be used for "contact
+   with the ball" this word was left for "a swing and a miss" that counts
+   against the batter; figurative sense of have two strikes against (of a
+   possible three) is from 1938. Bowling sense attested from 1859. Meaning
+   "sudden military attack" is attested from 1942.
 
-   Almost half of all UK adults support rail workers going on strike when
-   the dispute is over pay and conditions, according to research by
-   Savanta ComRes.
+Entries linking to strike
 
-   The polling, published this afternoon amid ongoing strikes as transport
-   workers across the country take part in industrial action to protect
-   their pay, terms and conditions, found strong support among the public
-   for workers doing so.
+   strigil (n.)
 
-   According to the survey, which asked respondents whether they would
-   support or oppose different occupations striking, 48% of the public
-   reported that they support rail workers taking such action where the
-   dispute concerns their pay and conditions. Just a third of those
-   surveyed, 31%, said they would be opposed.
+   "ancient tool for scraping the skin after a bath," 1580s, from Latin
+   strigilis "scraper, horse-comb," from stringere (1) "draw along a
+   surface, graze, touch lightly; strip off, pluck off, cut away; clip,
+   prune; lay bare, unsheathe," figuratively "waste, consume, reduce;
+   touch, move, affect, cause pain," from PIE root *strig- "to stroke,
+   rub, press" (source also of Latin striga "stroke, strike, furrow,"
+   stria "furrow, channel;" Old Church Slavonic striga "shear;" Old
+   English stracian "to stroke;" German streichen "to stroke, rub").
 
-   Three in five (59%) of adults told researchers that they are supportive
-   of workers striking more generally, with that figure rising to 70% for
-   those aged 18-34 and 73% for those currently working in the public
-   sector.
+   Etymologists dispute over whether this is connected to Latin stringere
+   (2) "to tie, tighten," root of strain (v.). Based on the sense
+   differences, de Vaan writes, "It appears that a merger occurred of two
+   different PIE verbs, *strig- 'to brush, strip' and *strengh- 'to tie'."
+   streak (n.)
 
-   The research, which gave as an example a scenario in which a workforce
-   or union does not believe that the pay rise offered is satisfactory,
-   showed that the public were most likely to support nurses (61%) taking
-   industrial action, followed by bus drives (53%), refuse collectors,
-   teachers and postal workers (51% each).
+   Old English strica "line of motion, stroke of a pen" (related to
+   strican "pass over lightly"), from Proto-Germanic *strikon- (source
+   also of Middle Dutch streke, Dutch streek, Middle Low German streke "a
+   stroke, line," Old High German, German strich, Gothic striks "a stroke,
+   line"), from PIE root *strig- "to stroke, rub, press" (see strigil;
+   also compare strike (v.), stroke (v.)). Sense of "long, thin mark" is
+   first found 1560s. Meaning "a temporary run (of luck)" is from 1843.
+     * stroke
+     * awestruck
+     * dumbstruck
+     * lovestruck
+     * moonstruck
+     * outstrip
+     * stage-struck
+     * strick
+     * stricken
+     * striker
+     * striking
+     * struck
+     * trickle
+     * See all related words (15) >
 
-   The study also found that half (50%) of those surveyed think that
-   striking has a positive impact on the chance of getting better pay,
-   although 45% said that it has a negative impact on how the public feel
-   about their industry.
+Share strike
 
-   Commenting on the poll, political research director at Savanta ComRes
-   Chris Hopkins said: “This so-called ‘summer of strikes’ is far from
-   over, and providing unions can get the message across to the public
-   that the pay deals they’ve been offered are not satisfactory, public
-   support is likely to remain high.
+   ‘cite’
+   Page URL:
+   https://www.etymonline.com/word/strike
+   HTML Link:
+   <a href="https://www.etymonline.com/word/strike">Etymology of strike by
+   etymonline</a>
+   APA style:
+   Harper, D. (n.d.). Etymology of strike. Online Etymology Dictionary.
+   Retrieved $(datetime), from https://www.etymonline.com/word/strike
+   Chicago style:
+   Harper Douglas, “Etymology of strike,” Online Etymology Dictionary,
+   accessed $(datetime), https://www.etymonline.com/word/strike.
+   MLA style:
+   Harper, Douglas. “Etymology of strike.” Online Etymology Dictionary,
+   https://www.etymonline.com/word/strike. Accessed $(datetimeMla).
+   IEEE style:
+   D. Harper. “Etymology of strike.” Online Etymology Dictionary.
+   https://www.etymonline.com/word/strike (accessed $(datetime)).
 
-   “Contrarily, though, the public do believe that continued industrial
-   action will have a negative impact on sympathy levels for the sectors
-   balloting for strike action, and therefore there could still be a
-   tipping point where the public have simply had enough and support
-   begins to fade away.”
+   updated on February 05, 2018
+   Advertisement[INS: :INS]
+   Advertisement
 
-   The poll comes amid a series of further strike days being taken this
-   week. Rail workers are striking today and Saturday while TfL staff will
-   walk out on Friday.
+Dictionary entries near strike
 
-   Royal Mail employees are due to take further strike action.
-   Communication Workers Union general secretary Dave Ward said last week
-   that workers were being “mugged off” by the Royal Mail Group after the
-   union announced that 115,000 postal staff will take four days of strike
-   action in the coming weeks.
+   strider
 
-   Further industrial action is set to take place over the coming months
-   across a range of sectors as government pay offers to teachers, nurses,
-   police officers and other key public sector industries have been
-   rejected or criticised by unions.
+   stridor
 
-   400,000 people have signed up to the Enough is Enough campaign to
-   pressure the government to take action on the cost-of-living crisis.
-   The campaign, launched just over a week ago on August 9th, received
-   150,000 signatories in the first two days.
+   stridulous
 
-Related
+   strife
 
-   Tags: Transport / Strikes / Rail / Trains / Poll / Savanta ComRes /
-   Industrial action /
-   Elliot Chappell
+   strigil
 
-Elliot Chappell
+   strike
 
-   Elliot Chappell is editor of LabourList.
-   @elliot_chappell View all articles by Elliot Chappell
+   striker
 
-Labour List Daily email
+   striking
 
-   Everything Labour.
-   Every weekday morning.
+   string
 
-   ____________________ ____________________
+   stringency
 
-   By clicking ‘subscribe’ you confirm you have read and agree to our
-   privacy policy
-   Subscribe
-   Leave this field empty if you're human: ____________________
+   stringent
+     * A
+     * B
+     * C
+     * D
+     * E
+     * F
+     * G
+     * H
+     * I
+     * J
+     * K
+     * L
+     * M
+     * N
+     * O
+     * P
+     * Q
+     * R
+     * S
+     * T
+     * U
+     * V
+     * W
+     * X
+     * Y
+     * Z
 
-Value our free and unique service?
+   links
+   HomepageFull List of SourcesLinks
 
-   LabourList has more readers than ever before - but we need your
-   support. Our dedicated coverage of Labour's policies and personalities,
-   internal debates, selections and elections relies on donations from our
-   readers.
+   products
+   iOS AppAndroid AppChrome Extension
 
-   Support LabourList
+   about
+   Who Did ThisIntroduction and ExplanationFollow on Facebook
 
-More from LabourList
-
-   Comment
-
-Sam Dixon: City of Chester by-election is “our poll of polls on Rishi Sunak”
-
-   The City of Chester by-election has got a lot less attention than it
-   probably would have done if…
-   Katie Neame
-   30th November, 2022, 6:56 pm
-   Comment
-
-PMQs: Missteps from Sunak leave him on the back foot against Starmer
-
-   During today’s Prime Minister’s Questions, Keir Starmer took advantage
-   of the sudden obsession with Labour’s long-standing plans to…
-   Katie Neame
-   30th November, 2022, 1:32 pm
-   Daily email
-
-NEC makes controversial decision on BAME and disabled members’ structures
-
-   Labour’s national executive committee (NEC) met in Newcastle on Tuesday
-   for an away day. The party faced criticism…
-   Katie Neame
-   30th November, 2022, 11:02 am
-   Donate to fund our journalism
-
-Labour List Daily email
-
-   Everything Labour.
-   Every weekday morning.
-
-   ____________________ ____________________
-
-   By clicking ‘subscribe’ you confirm you have read and agree to our
-   privacy policy
-   Subscribe
-   Leave this field empty if you're human: ____________________
-
-Top stories
-
-Our rolling list of Labour parliamentary candidate selections
-
-   Katie Neame
-   31st October, 2022, 1:51 pm
-
-UNISON president expelled for sharing articles from proscribed organisation
-
-   Elliot Chappell
-   18th November, 2022, 4:01 pm
-
-Exclusive: Byrne files “official notification” over alleged intimidation
-
-   Katie Neame
-   17th November, 2022, 4:29 pm
-
-Wealth taxes are the alternative to Conservative austerity 2.0
-
-   Richard Burgon
-   17th November, 2022, 8:00 am
-
-These are the straightforward, fairer choices Labour would make on Thursday
-
-   James Murray
-   16th November, 2022, 8:00 am
-
-Book review: Out of the Blue by James Heale and Harry Cole
-
-   Morgan Jones
-   18th November, 2022, 4:20 pm
-
-   [labourlist-logo-marque_7f7391c5.svg]
-     * About
-     * Contact
-     * LabourList relies on the support of its readers – please donate
-     * Events
-     * Write for LabourList
-     * Cookie policy
-     * Privacy policy
-     * Legal
-
-   Unite the Union Community – for a better working world Fire Brigades
-   Union – The professional voice of your firefighters
-
-   Donate to fund our journalism
-
-   or
-
-   Subscribe to our Daily Email
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MQPB4T6
-
-   Quantcast
+   support
+   Donate with PayPalYe Olde Swag ShoppeSupport on Patreon
+   Terms of Service | Privacy Policy
+   © 2001-2022 Douglas Harper
