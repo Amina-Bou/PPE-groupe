@@ -1,304 +1,192 @@
-     * Aller au contenu principal
-     * Choisir un niveau
-     * Rechercher un contenu
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MXVC4X4
 
-     * Retour à la page précédente
-     * Retour à l'accueil
-     * ENSEIGNEMENT
-     * ÉDUCATEURS & MÉDIATEURS
+   Pour L’Éco – Pour agir l’économie compte
+   L’éclairage économique pour comprendre l’actualité
+   (BUTTON)
+   Découvrir La School
+   (BUTTON)
+   (BUTTON) Rechercher
+   (BUTTON) Le Mag et les Hors-séries
+   (BUTTON) Data
+   (BUTTON) Vidéos
+   (BUTTON) Opinions
+   (BUTTON) Plus
+   (BUTTON) S'abonner
+   (BUTTON) Recherche
+   (BUTTON) Newsletter
+   (BUTTON) Se connecter (BUTTON) S'abonner
+     * Politique économique
+     * Entreprise
+     * Finance
+     * Environnement
+     * Consommation
+     * Futur et Tech
+     * Monde
+     * Idées
 
-   (BUTTON) CE2
-     *
-     *
-          + Mes favoris
-          + Mon historique
-          + Mon profil
-          + Déconnexion
+   Grève
+    1. Accueil
+    2. Dico de l'éco
+    3. Grève
+
+   Dico de l'éco
+
+Grève
 
    (BUTTON)
-   (BUTTON) Fermer la fenêtre d'information sur la reprise de lecture
-   Nouveau :
-   Reprise de lecture
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Le 30 mai 2019, modifié le 25 novembre 2020
 
-   Crée ton compte pour reprendre la lecture de cette vidéo facilement !
+   Action de stopper de manière manifeste le travail afin de réclamer plus
+   de droits. Un salarié n'est pas payé lorsqu'il est en grève mais en
+   France il est protégé et ne peut être sanctionné pour cela par son
+   employeur. Le droit de grève a été obtenu par les salariés après de
+   longs combats sociaux.
 
-   Retrouve cette vidéo dans Mon historique pour reprendre sa lecture
-   quand tu le souhaites !
-   (BUTTON) Fermer la fenêtre d’information sur l’ajout aux favoris
-   Mes favoris !
+   L'histoire du droit de grève en 6 dates
 
-   Retrouve cette vidéo sur
-   ta page « Mes favoris »
+1791
 
-   Envie d'y mettre plus de 3 contenus ? Rien de plus simple, il suffit de
-   créer ton compte !
-   Tu as atteint le maximum de 3 favoris. Maintenant, il est temps de
-   créer ton compte !
-   J'ai déjà un compte
-     * Accueil
-     * Primaire
-          + Primaire
-          + Maternelle
-          + CP
-          + CE1
-          + CE2
-          + CM1
-          + CM2
-     * Collège
-          + Collège
-          + Sixième
-          + Cinquième
-          + Quatrième
-          + Troisième
-     * Lycée
-          + Lycée
-          + Seconde
-          + Première
-          + Terminale
-     * Étudiant
+   La loi Le Chapelier proscrit les organisations ouvrières comme
+   patronales, notamment les corporations des métiers, essentiellement
+   catholiques, mais également les rassemblements paysans et ouvriers
+   ainsi que le compagnonnage.
 
-   Rechercher sur le site Lumni.fr
-   ____________________
-     * Mes favoris
-     * Connexion
-          + Mes favoris
-          + Mon historique
-          + Mon profil
-          + Déconnexion
+1864
 
-     * Maternelle
-     * CP
-     * CE1
-     * CE2
-     * CM1
-     * CM2
-     * Sixième
-     * Cinquième
-     * Quatrième
-     * Troisième
-     * Seconde
-     * Première
-     * Terminale
-     * Étudiant
-     * Enseignement
-     * Éducateurs & Médiateurs
+   Abrogation du délit de coalition et instauration du droit de grève par
+   Napoléon III avec la loi Ollivier.
 
-   Primaire CE2 EMC C'est quoi une grève ?
-   CE2
-   Matières
-     * Accueil
-     * Maths
-     * Français
-     * Anglais
-     * Questionner le monde
-     * EMC
-     * Enseignements artistiques
-     * Education aux médias
-     * Découverte des métiers
+1884
 
-   Et plus
-     * Lumni à la télé
-     * Activités
-     * Prendre soin de soi et des autres
+   La loi Waldeck-Rousseau autorise les syndicats en France.
 
-   (BUTTON) Activités
-     * Sport
-     * Expériences scientifiques
-     * Loisirs créatifs
-     * Magie
-     * Jardinage-cuisine
+1946
 
-   (BUTTON) Prendre soin de soi et des autres
-     * Vivre ensemble
-     * Comprendre les dangers
-     * Etre en bonne santé
+   Le droit de grève est pleinement reconnu dans la Constitution  : « Le
+   droit de grève s’exerce dans le cadre des lois qui le réglementent »,
+   alinéa 7 du préambule. Ce droit n’est, en principe, autorisé qu’aux
+   salariés du secteur privé.
 
-     * CE2
+1950
+
+   Le Conseil d’État considère que la grève est possible pour les
+   fonctionnaires, mais qu’elle peut être encadrée. D’une part, certaines
+   catégories de fonctionnaires demeurent exclues (police nationale, CRS,
+   magistrats, militaires, administration pénitentiaire). D’autre part, un
+   service minimum doit être mis en place (fonction publique hospitalière,
+   agents de la navigation aérienne ; service d’accueil dans les écoles
+   maternelles et élémentaires).
+
+2000
+
+   Le droit de grève est inscrit dans la Charte des droits fondamentaux de
+   l’Union européenne.
+
+Pour aller plus loin
+
+   3 min.
+   Sélection abonnés
+
+   Pourquoi fait-on encore grève ?
+
+   7 min.
+   Sélection abonnés
+
+   Situation économique et grève sont-elles nécessairement lié...
+
+   4 min.
+   Sélection abonnés
+
+   Ces 7 inventions françaises qui ont trouvé copieurs ailleurs
+
+   1 min.
+
+   D'où vient l'expression : « Faire grève » ?
+
+   4 min.
+   Sélection abonnés
+
+   En Outre-mer, l’État est-il trop absent… ou trop présent ?
+
+   4 min.
+   Sélection abonnés
+
+   Pourquoi les filles pratiquent moins le foot que les garçons...
+
+   4 min.
+   Sélection abonnés
+
+   Des loteries pour doper la croissance ?
+
+   6 min.
+   Sélection abonnés
+
+   La France dans l’étau des hauts taux
+
+   9 min.
+   Sélection abonnés
+
+   En Chine, la crise du contrat social
+   Pour L’Éco – Pour agir l’économie compte
+     * (BUTTON) S'abonner
+     * (BUTTON) Se connecter
+     * (BUTTON) Lire les mags en ligne
+     * (BUTTON) Nous contacter
+
+     * Thématiques
+          + (BUTTON) Politique économique
+          + (BUTTON) Entreprise
+          + (BUTTON) Finance
+          + (BUTTON) Environnement
+          + (BUTTON) Consommation
+          + (BUTTON) Futur et Tech
+          + (BUTTON) Monde
+          + (BUTTON) Idées
+     * Formats
+          + (BUTTON) Vidéos
+          + (BUTTON) Data
+          + (BUTTON) Opinions
+          + (BUTTON) Dico de l'Éco
+          + (BUTTON) Portraits d'Économistes
+          + (BUTTON) Services
+     * Boutique
+          + (BUTTON) Abonnements
+          + (BUTTON) Tous les numéros / Hors-séries
+          + (BUTTON) Espace client
+          + (BUTTON) FAQ
+     * Les sites du groupe Humensis
+          + (BUTTON) Belin Education
+          + (BUTTON) Belin Editeur
+          + (BUTTON) Editions Le Pommier
+          + (BUTTON) PUF
+          + (BUTTON) Que sais-je
+          + (BUTTON) Pour la science
+          + (BUTTON) Cerveau et Psycho
+          + (BUTTON) Gerip
+          + (BUTTON) Première Loges
+          + (BUTTON) humenSciences
+          + (BUTTON) Passés Composés
+          + (BUTTON) Classica
+          + (BUTTON) Pianiste
+
+   Recevez nos newsletters :
+   (BUTTON) S'inscrire gratuitement
+   Suivez-nous sur :
      * (BUTTON)
-       Matières
-     * Jeux
-     * Recherche
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
 
-Vidéo : C'est quoi une grève ?
-
-   icu.next-video (BUTTON) Annuler
-
-   Contenu proposé par
-   France Télévisions
-   (BUTTON) Favoris (BUTTON) Voir + tard (BUTTON) Partager
-   EMC01:42Publié le 06/04/2018
-
-C'est quoi une grève ?
-
-   1 jour, 1 question
-   (BUTTON) arrow
-
-   C’est un arrêt de travail décidé par des personnes pour obtenir
-   certains avantages ou pour protester contre une injustice. Souvent, ce
-   sont des salariés qui s’opposent à leur patron, car ils ne sont pas
-   d’accord avec leurs conditions de travail ou leurs salaires. Ou des
-   étudiants qui cessent d’aller en cours pour contester une loi proposée
-   par le gouvernement. Ou encore des gens qui exercent le même métier et
-   refusent des mesures qui modifient leur travail.
-
-Est-ce que la grève a toujours existé ?
-
-   Oui. La première remonte à l’époque des Egyptiens qui s'étaient
-   rebellés sur leurs conditions de travail lors de la construction du
-   tombeau de Ramses III. La France, quant à elle, a connu deux grèves
-   colossales en 1936 et 1968 ! Elles avaient complètement paralysé le
-   pays car des millions de Français s’étaient arrêtés de travailler en
-   même temps. Longtemps interdite, la grève a peu à peu été autorisée par
-   la loi. En 1946, elle est reconnue comme un droit. Ainsi, le salarié
-   est libre de faire grève sans pour autant être licencié ou mal vu par
-   son entreprise. En revanche, il n'est pas payé pendant les jours de
-   grève !
-
-   Encore aujourd’hui, il y a des exceptions : les militaires, les
-   gardiens de prison ou les pompiers n'ont pas le droit de faire grève.
-   Et les salariés des transports publics, eux, sont obligés de prévenir
-   48 heures à l’avance de leur intention de faire grève.
-
-
-   Réalisateur : Jacques Azam
-
-   Producteur : Milan Presse, France Télévisions
-
-   Année de copyright : 2018
-
-   Année de production : 2018
-
-   Publié le 06/04/18
-
-   Modifié le 13/04/22
-   (BUTTON) voir plus
-
-Ce contenu est proposé par
-
-   France Télévisions
-   C'est qui Greta Thunberg ? C'est qui Abdelaziz Bouteflika ? C'est quoi
-   une manifestation ?
-   C'est qui Abdelaziz Bouteflika ? C'est qui Greta Thunberg ? C'est quoi
-   une grève ? C'est quoi une manifestation ?
-   1 jour, 1 question Les valeurs de la République 1 jour, 1 question - Le
-   travail
-   (BUTTON) Fermer la fenêtre de partage
-   Partager cette video
-   Bouton pour copier le lien dans le presse-papier Copier le lien Bouton
-   pour partager le contenu sur Facebook facebook Bouton pour partager le
-   contenu sur Twitter twitter
-   (BUTTON) Fermer la fenêtre d'ajout au favoris et voir plus tard
-
-   C'est quoi une grève ?
-   C'est quoi une grève ? C'est quoi une grève ?
-   (BUTTON) Favoris (BUTTON) Voir + tard
-   (BUTTON) Fermer la fenêtre d'ajout à l'écran d'accueil
-   Ajoute Lumni sur ton écran d’accueil pour un accès plus rapide !
-   Clique sur les icônes
-   puis
-    1. Ouvre Safari
-    2. Lance Lumni.fr
-    3. Clique sur
-    4. Puis sur
-
-   (BUTTON) ça m’intéresse (BUTTON) Ne plus afficher
-   (BUTTON) Fermer la fenêtre de connexion et d'inscription
-
-   Connecte-toi pour retrouver tes contenus préférés !
-     * Je me connecte
-     * Je crée mon compte
-
-   (BUTTON) Fermer la fenêtre de validation de mise à jour du niveau
-   scolaire
-
-   Ton niveau a bien été
-   pris en compte !
-
-   Bienvenue
-   dans l’univers
-   (BUTTON) Fermer
-
-Programmes
-
-     * 1 jour, 1 question
-     * Raconte-moi les gestes barrières
-     * Scooby-Doo en Europe
-     * 1 minute au musée
-     * Célestin
-     * Le professeur Gamberge
-     * Ralph et les dinosaures
-
-Catégories
-
-     * Les fondamentaux
-     * Grammaire
-     * Lecture
-     * Calcul
-     * La planète
-     * Les animaux
-
-Nos contenus
-
-     * Toutes les vidéos CE2
-     * Tous les quiz CE2
-     * Tous les jeux CE2
-     * Tous les articles CE2
-     * Toutes les séries CE2
-     * Tous les dossiers CE2
-     * Cours Lumni CE2
-
-Suivez-nous
-
-     * Inscription Newsletter
-
-     * partager sur facebook partager du twitter partager sur instagram
-       partager sur youtube
-
-Nos partenaires
-
-     * Contactez-nous
-     * CGU
-     * Gérer mes traceurs
-     * Qui sommes-nous ?
-     * Politique de confidentialité
+     * Gestion des cookies
      * Mentions légales
-     * Plan du site
+     * Qui sommes-nous ?
+     * CGU
+     * Politique de confidentialité
+     * Services
 
-   coche verte Bienvenue ! Votre compte a bien été créé.
-   (BUTTON) fermer
-
-   Autorises-tu ton navigateur à rester automatiquement connecté à Lumni ?
-   (*) (*) oui (*) non
-
-   (BUTTON) Fermer la fenêtre d'ajout au favoris et voir plus tard
-
-   C'est quoi une grève ?
-   C'est quoi une grève ? C'est quoi une grève ?
-   (BUTTON) Favoris (BUTTON) Voir + tard
-
-   (BUTTON) Fermer la fenêtre d'ajout à l'écran d'accueil
-   Ajoute Lumni sur ton écran d’accueil pour un accès plus rapide !
-   Clique sur les icônes
-   puis
-    1. Ouvre Safari
-    2. Lance Lumni.fr
-    3. Clique sur
-    4. Puis sur
-
-   (BUTTON) ça m’intéresse (BUTTON) Ne plus afficher
-
-   (BUTTON) Fermer la fenêtre de connexion et d'inscription
-
-   Connecte-toi pour retrouver tes contenus préférés !
-     * Je me connecte
-     * Je crée mon compte
-
-   (BUTTON) Fermer la fenêtre de validation de mise à jour du niveau
-   scolaire
-
-   Ton niveau a bien été
-   pris en compte !
-
-   Bienvenue
-   dans l’univers
-   (BUTTON) Fermer
+   2020 © Pour l’Éco

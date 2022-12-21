@@ -1,452 +1,615 @@
-   Javascript est desactivé dans votre navigateur.
+   #alternate Modifier Wikipédia (fr)
 
-     * Contenu
-     * Menu
-     * Recherche
-     * Pied de page
+   Aller au contenu
+   [ ]
 
-   République
-   Française
+   Afficher / masquer la barre latérale Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________ Rechercher Lire
 
-   (BUTTON) Ouvrir la recherche (BUTTON) Ouvrir le menu
+     * Créer un compte
 
-   Service-Public.fr
+   [ ] Outils personnels
+   Créer un compte
+   Se connecter
 
-   Le site officiel de l’administration française
-     * Se connecter
-     * Donner son avis avec Services Publics +
-     * Accéder au site pour les entreprises
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Discussion
+     * Contributions
 
-   (BUTTON) Fermer
-   Recherche ____________________ (BUTTON) Rechercher
-   (BUTTON) Fermer
+   Navigation
      * Accueil
-     * Actualités
-     * Comment faire si ?
-     * (BUTTON) Fiches pratiques par thème
-          + Papiers - Citoyenneté - Élections
-          + Famille - Scolarité
-          + Social - Santé
-          + Travail - Formation
-          + Logement
-          + Transports - Mobilité
-          + Argent - Impôts - Consommation
-          + Justice
-          + Étranger - Europe
-          + Loisirs - Sports - Culture
-          + Associations
-     * (BUTTON) Démarches et outils
-          + Démarches en ligne
-          + Simulateurs
-          + Modèles de lettres
-          + Formulaires administratifs (cerfas)
-          + Outils de recherche
-     * Annuaire de l’administration
-     * Une question ?
-
-   Accéder au site pour les entreprises
-
-   J'aide les services publics à s'améliorer : je donne mon avis avec
-   services publics +
-
-   (BUTTON) Voir le fil d'ariane
-    1. Accueil
-    2. Travail - Formation
-    3. Conflits du travail dans le secteur privé
-    4. Droit de grève d'un salarié du secteur privé
-
-     * (BUTTON)
-     * (BUTTON)
-     * (BUTTON) (BUTTON)
-     * (BUTTON) Focus
-
-   La sélection d'une langue déclenchera automatiquement la traduction du
-   contenu de la page.
-   [Françaiss]
-   (BUTTON)
-
-   Partager la page
-     * Facebook
-     * Twitter
-     * Linkedin
-     * Email
-     * (BUTTON) Copier le lien
-       Lien copié
-
-   (BUTTON)
-
-   Votre abonnement a bien été pris en compte
-
-   Vous serez alerté(e) par email dès que la page « Droit de grève d'un
-   salarié du secteur privé » sera mise à jour significativement.
-
-   Vous pouvez à tout moment supprimer votre abonnement dans votre compte
-   service-public.fr .
-   (BUTTON)
-
-   Votre abonnement n’a pas pu être pris en compte.
-
-   Vous devez vous connecter à votre espace personnel afin de vous abonner
-   à la mise à jour de cette page.
-   (BUTTON)
-
-   Être alerté(e) en cas de changement
-
-   Ce sujet vous intéresse ?
-   Connectez-vous à votre compte et recevez une alerte par email dès que
-   l’information de la page « Droit de grève d'un salarié du secteur privé
-   » est mise à jour.
-   S’abonner
-
-   Pour vous abonner aux mises à jour des pages service-public.fr, vous
-   devez activer votre espace personnel.
-
-   Vous serez alerté(e) par courriel dès que la page « Droit de grève d'un
-   salarié du secteur privé » sera mise à jour significativement.
-
-   (BUTTON) ACTIVER MON ESPACE PERSONNEL
-
-Le lien vers cette page a été envoyé avec succès aux destinataires.
-
-Droit de grève d'un salarié du secteur privé
-
-   Vérifié le 24 juin 2021 - Direction de l'information légale et
-   administrative (Premier ministre)
-
-   Le droit de grève est un droit reconnu à tout salarié dans
-   l'entreprise, sous conditions. La grève est définie comme étant la
-   cessation collective et concertée du travail en vue d'appuyer des
-   revendications professionnelles. Elle entraîne une retenue sur le
-   salaire du salarié gréviste (sauf exceptions).
-   (BUTTON) Tout déplier
-
-(BUTTON) Salariés concernés
-
-   Tout salarié d'une entreprise peut utiliser son droit de grève.
-
-   Il n'est pas nécessaire que tous les salariés ou la majorité des
-   salariés de l'entreprise participent à la grève.
-
-   La grève est un droit individuel, mais qui s'exerce collectivement.
-
-   Pour être qualifié de grève, le mouvement doit être suivi par au moins
-   2 salariés.
-
-   Toutefois, un salarié peut faire grève seul dans les conditions
-   suivantes :
-     * Soit le salarié accompagne un appel à la grève lancé au niveau
-       national
-     * Soit il est l'unique salarié dans l'entreprise
-
-(BUTTON) Conditions
-
-   Pour être valable, la grève doit réunir les 3 conditions suivantes :
-     * Un arrêt total du travail
-     * Un arrêt collectif du travail par l'ensemble des salariés grévistes
-       (l'appel d'un syndicat à faire grève n'est pas nécessaire)
-     * Des revendications professionnelles (revendications salariales,
-       portant sur les conditions de travail ou la défense de l'emploi par
-       exemple)
-
-(BUTTON) Exceptions au droit de grève
-
-   Le mouvement de grève n'est pas valable dans l'un des cas suivants :
-     * Grève dite perlée, c'est-à-dire en raison d'un travail effectué au
-       ralenti ou dans des conditions volontairement défectueuses par le
-       salarié
-     * Grève limitée à une obligation particulière du contrat de travail
-       des salariés (sur les heures d'astreinte par exemple)
-     * Actions successives menant au blocage de l'entreprise sans arrêt
-       collectif et concerté du travail
-     * Grève fondée uniquement sur des motifs politiques
-
-   Le salarié participant à un mouvement illicite n'est pas protégé par le
-   droit de grève. Il risque une sanction disciplinaire et peut être
-   licencié.
-
-   À savoir
-
-   une convention ou un accord collectif ne peut pas limiter ou
-   réglementer l'exercice du droit de grève.
-
-(BUTTON) Procédure
-
-   Dans le secteur privé, un mouvement de grève peut être déclenché à tout
-   moment.
-
-   Les salariés qui veulent utiliser leur droit de grève n'ont pas à
-   respecter de préavis.
-
-   Une grève est légale même si elle n'a pas été précédée d'un
-   avertissement ou d'une tentative de conciliation avec l'employeur.
-
-   Les salariés ne sont pas obligés de respecter un délai de prévenance
-   avant d'entamer la grève.
-
-   L'employeur doit cependant connaître les revendications
-   professionnelles des salariés au moment du déclenchement de la grève.
-
-   Les salariés ne sont pas obligés d'attendre le refus de leur employeur
-   de satisfaire à leurs revendications pour entamer la grève.
-
-   Le salarié gréviste n'est pas obligé d'informer son employeur de son
-   intention d'exercer son droit de grève.
-
-   Attention
-
-   des règles particulières s'appliquent aux entreprises chargées d'un
-   service public de transport de voyageurs ou dans le transport aérien.
-
-(BUTTON) Durée
-
-   Il n’existe aucune durée légale minimale ou maximale.
-
-   La grève peut être de courte durée (1 heure ou même moins) ou bien se
-   poursuivre pendant une longue période (plusieurs jours ou semaines).
-
-   Elle peut être répétée.
-
-   Exemple :
-
-   Un arrêt total et concerté du travail d'1/4 d'heure toutes les heures
-   pendant 10 jours relève d'un exercice normal du droit de grève.
-
-(BUTTON) Respect de la volonté des non-grévistes
-
-   Les grévistes doivent respecter le travail des non-grévistes.
-
-   Le blocage de l'accès à un site ou bien l'occupation des locaux dans
-   l'intention d'empêcher le travail des non-grévistes sont des actes
-   abusifs.
-
-   Il en va de même de la dégradation des locaux ou des matériels.
-
-   De telles actions sont illégales et peuvent donc être sanctionnées
-   pénalement, tout comme les actes de violence à l'encontre de la
-   direction ou du personnel de l'entreprise.
-
-   Les syndicats et les grévistes sont responsables des abus commis
-   pendant une grève.
-
-   L'employeur et les non-grévistes peuvent demander réparation en
-   justice, notamment devant le conseil de prud'hommes et/ou le juge pénal
-   compétent.
-
-(BUTTON) Conséquences
-
-     * (BUTTON) Salarié gréviste
-     * (BUTTON) Salarié non-gréviste
-
-Salarié gréviste
-
-   La grève suspend: titleContent le contrat de travail, mais ne le rompt
-   pas.
-
-   Aucun salarié ne peut être sanctionné, ni faire l'objet d'une
-   discrimination (par exemple en matière d'augmentation de salaire) pour
-   avoir fait grève.
-
-   Aucun salarié ne peut être licencié pour avoir fait grève.
-
-   Toutefois, en cas de faute lourde du salarié (participation personnelle
-   et active à des actes illégaux, notamment), le salarié peut être
-   licencié.
-
-   L'employeur retient sur la paie du salarié une part du salaire et de
-   ses éventuels accessoires (indemnité de déplacement, par exemple).
-
-   La retenue sur la rémunération doit être proportionnelle à la durée de
-   l'arrêt de travail. Toute retenue supérieure est interdite.
-
-   Toutefois, dans certains cas, l'employeur doit payer son salaire au
-   gréviste (si la grève a pour origine un manquement grave et délibéré de
-   l'employeur à ses obligations ou si un accord de fin de grève l'a
-   prévu).
-
-   À noter
-
-   l'exercice du droit de grève ne doit pas être mentionné sur le bulletin
-   de paie du gréviste.
-
-Salarié non-gréviste
-
-   L'employeur doit fournir du travail au salarié non-gréviste et le
-   rémunérer, sauf s'il peut prouver qu'il a été dans l'impossibilité de
-   faire fonctionner l'entreprise.
-
-   En cas de piquet de grève ou d'occupation des locaux par exemple, le
-   salarié non-gréviste peut se trouver dans l'impossibilité de
-   travailler. L'employeur peut alors être dispensé de son obligation de
-   payer le salarié non-gréviste.
-
-(BUTTON) Textes de loi et références
-
-     * Code du travail : articles L1132-1 à L1132-4Interdiction de toute
-       sanction, discrimination ou de licenciement en cas d'exercice
-       normal du droit de grève (article L1132-2)
-     * Code du travail : article L2511-1Conséquences de l'exercice du
-       droit de grève
-     * Code du travail : articles R3243-1 à R3243-9Interdiction de
-       mentionner sur le bulletin de paie l'exercice d'une grève (article
-       R3243-4)
-
-Cette page vous a-t-elle été utile ?
-
-     * (BUTTON) 1Pas du toutCette page ne pas m'a pas du tout été utile
-     * (BUTTON) 2Un peuCette page m'a été un peu utile
-     * (BUTTON) 3MoyenCette page m'a été moyennement utile
-     * (BUTTON) 4BeaucoupCette page m'a été très utile
-     * (BUTTON) 5Parfait !Cette page m'a été parfaitement utile
-
-Cette page vous a-t-elle été utile ?
-
-     * 1
-     * 2
-     * 3
-     * 4
-     * 5
-
-   Pas du tout
-
-   Un peu
-
-   Moyen
-
-   Beaucoup
-
-   Parfait !
-
-   L’équipe service-public.fr vous remercie pour votre réponse
-
-   Vous avez noté 1 sur 5 : Pas du tout
-
-   Vous avez noté 2 sur 5 : Un peu
-
-   Vous avez noté 3 sur 5 : Moyen
-
-   Vous avez noté 4 sur 5 : Beaucoup
-
-   Vous avez noté 5 sur 5 : Parfait !
-
-   L’équipe service-public.fr vous remercie pour vos remarques utiles à
-   l'amélioration du site.
-
-   Pour des raisons de sécurité, nous ne pouvons valider ce formulaire
-   suite à une trop longue période d’inactivité. Merci de recharger la
-   page si vous souhaitez le soumettre à nouveau.
-
-   Une erreur technique s'est produite. Merci de réessayer ultérieurement.
-
-Pouvez-vous nous en dire plus ?
-
-La page est-elle facile à comprendre ?
-
-   (*) Pas du tout
-   ( ) Moyen
-   ( ) Parfait !
-
-L’information a-t-elle été utile ?
-
-   (*) Pas du tout
-   ( ) Moyen
-   ( ) Parfait !
-
-Quelle difficulté avez-vous rencontrée ?
-
-   [ ] Il y a  trop  d’informations
-   [ ] Cette page  ne correspond pas  à ma situation
-   [ ] Je ne suis  pas satisfait(e)  de cette démarche ou réglementation
-   [ ] Il  manque des informations
-   [ ] Les informations ne sont  pas claires
-   [ ] Les informations me semblent  fausses
-
-   (BUTTON) Envoyer
-
-Recevoir la lettre de Service-Public.fr
-
-   Abonnement hebdomadaire gratuit
-   S’abonner
-     * Lire la dernière lettre
-     * Voir toutes les lettres
-
-Suivez-nous
-sur les réseaux sociaux
-
-     * twitter
-     * facebook
-     * youtube
-
-   Fiches pratiques par thèmes
-     * Papiers - Citoyenneté - Élections
-     * Famille - Scolarité
-     * Social - Santé
-     * Travail - Formation
-     * Logement
-     * Transports - Mobilité
-     * Argent - Impôts - Consommation
-     * Justice
-     * Étranger - Europe
-     * Loisirs - Sports - Culture
-     * Associations
-
-   Démarches et outils
-     * Démarches en ligne
-     * Formulaires administratifs (cerfas)
-     * Simulateurs
-     * Modèles de lettres
-     * Outils de recherche
-     * Allo Service Public
-     * Annuaire de l'administration
-
-   Nous connaître
-     * Missions
-     * Service-Public.fr en chiffres
-     * Mise à disposition des données
-     * Engagements et qualité
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
      * Aide
-     * Vous êtes une administration ?
-     * Vous êtes journaliste ?
-     * Une question à l'équipe Service-Public.fr ?
+     * Communauté
+     * Modifications récentes
+     * Faire un don
 
-   République
-   Française
+   Outils
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Élément Wikidata
 
-   Service Public vous informe et vous oriente vers les services qui
-   permettent de connaître vos obligations, d’exercer vos droits et de
-   faire vos démarches du quotidien.
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
 
-   Il est édité par la Direction de l’information légale et administrative
-   et réalisé en partenariat avec les administrations nationales et
-   locales.
-     * legifrance.gouv.fr
-     * gouvernement.fr
-     * data.gouv.fr
+   Langues
+   Sur cette version linguistique de Wikipédia, les liens interlangues
+   sont placés en haut à droite du titre de l’article.
+   Aller en haut.
+   [ ]
 
-   Nos partenaires
-   Your Europe
-     * Vie publique, au cœur du débat public
-     * Entreprendre.Service-Public.fr
+Sommaire
 
-     * Plan du site
-     * Accessibilité : totalement conforme
-     * Accessibilité des services en ligne
-     * Mentions légales
-     * Données personnelles et sécurité
-     * Conditions générales d'utilisation
-     * Gestion des cookies
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1Histoire
+     * 2Prérequis
+       (BUTTON) Afficher / masquer la sous-section Prérequis
+          + 2.1Grève dans la fonction publique
+     * 3Les conséquences de la grève
+       (BUTTON) Afficher / masquer la sous-section Les conséquences de la
+       grève
+          + 3.1À l’égard des grévistes
+          + 3.2À l’égard de l’employeur
+     * 4Dans les transports
+     * 5Limites au droit de grève
+     * 6Notes et références
+     * 7Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 7.1Articles connexes
+          + 7.2Bibliographie
+          + 7.3Liens externes
 
-   Sauf mention contraire, tous les contenus de ce site sont sous licence
-   etalab-2.0
+   Basculer la table des matières
+   [ ]
 
-   (BUTTON) Fermer
+Droit de grève en France
 
-Baromètre
+   [ ] Ajouter des langues
 
-Votre avis nous intéresse !
+   Ajouter des liens
 
-   Quelle est votre expérience du site service-public.fr ?
+     * Article
+     * Discussion
 
-   Aidez-nous à concevoir un site adapté à vos besoins en répondant à
-   notre questionnaire.
-     * (BUTTON) Fermer
-     * Je donne mon avis
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Plus
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour les autres articles nationaux ou selon les autres juridictions,
+   voir Droit de grève.
+
+   Le droit de grève en France est un droit à valeur constitutionnelle
+   (alinéa 7 du Préambule de la Constitution de la IV^e République) depuis
+   la décision Liberté d'association rendue le 16 juillet 1971 par le
+   Conseil constitutionnel (reconnaissance de la valeur constitutionnelle
+   du Préambule de la Constitution de 1958). Ce droit, dans le secteur
+   privé, n'est, en principe, autorisé qu'aux salariés^[1].
+
+   Dans un arrêt en date du 2 février 2006, la Chambre sociale de la Cour
+   de cassation l'a défini comme la cessation collective, concertée et
+   totale du travail en vue de présenter à l'employeur des revendications
+   professionnelles^[2].
+
+Histoire[modifier | modifier le code]
+
+     * 14 juin 1791 : instauration du délit de coalition par la loi Le
+       Chapelier.
+     * 12 février 1810 : le Code pénal interdit explicitement toute grève
+       ouvrière dans son article 415
+     * 25 mai 1864 : le délit de coalition est abrogé par Napoléon III
+       avec la loi Ollivier qui autorise certaines formes de la grève.
+     * 1884, loi Waldeck-Rousseau.
+     * 27 octobre 1946 : le droit de grève est pleinement reconnu dans la
+       Constitution (« Le droit de grève s'exerce dans le cadre des lois
+       qui le réglementent », alinéa 7 du préambule).
+     * 3 janvier 1966 : art. 8 du Pacte international relatif aux droits
+       économiques, sociaux et culturels.
+     * 7 décembre 2000 : art. 28 de la Charte des droits fondamentaux de
+       l'Union européenne.
+
+Prérequis[modifier | modifier le code]
+
+   Pour être licite et pour que le gréviste soit protégé, une grève doit
+   remplir certaines conditions :
+     * le mouvement de grève doit être collectif et concerté : à partir de
+       deux personnes dans une entreprise quand cette dernière est seule
+       concernée, ou à partir d'une personne dans le cadre d'un mouvement
+       dépassant la seule entreprise ;
+     * le salarié en grève doit cesser totalement le travail ;
+     * des revendications d'ordre professionnel doivent être posées, par
+       exemple l'amélioration des conditions de travail ou du salaire.
+
+   La grève n'a pas de durée légale — elle peut se tenir sur moins d'une
+   journée comme sur plusieurs mois.
+
+   Le salarié n'a pas à être syndiqué pour faire usage de son droit de
+   grève.
+
+Grève dans la fonction publique[modifier | modifier le code]
+
+   Historiquement, le droit de grève est refusé aux agents de la fonction
+   publique en France. Sans qu'aucun texte particulier ne vînt régir ce
+   domaine, le Conseil d'État a estimé dans son arrêt Winkell, en 1909 que
+   cette pratique devait être proscrite. Avec l'évolution juridique et
+   l'apparition du Préambule de la Constitution de 1946 qui garantit le
+   droit de grève à son alinéa sept, le juge administratif assouplit sa
+   jurisprudence. Dans son arrêt Dehaene du 7 juillet 1950 (du nom d'un
+   chef de bureau de la préfecture d'Indre et-Loire^[3], Charles Dehaene,
+   qui avait participé à une grève en juillet 1948 interdite par le
+   ministère de l'Intérieur^[4]), le Conseil d'État considère que la grève
+   est possible pour les fonctionnaires mais qu'elle peut être encadrée,
+   de manière à « opérer la conciliation nécessaire entre la défense des
+   intérêts professionnels dont la grève constitue une modalité et la
+   sauvegarde de l'intérêt général auquel elle peut être de nature à
+   porter atteinte »^[3]. D'une part, certaines catégories de
+   fonctionnaires demeurent exclues : les personnels des services actifs
+   de la police nationale, les membres des compagnies républicaines de
+   sécurité (CRS), les magistrats judiciaires, les militaires, les
+   personnels des services extérieurs de l'administration pénitentiaire,
+   les personnels des transmissions du Ministère de l'Intérieur. Dans
+   d'autres cas, un service minimum doit être mis en place (fonction
+   publique hospitalière, agents de la navigation aérienne ; service
+   d'accueil dans les écoles maternelles et élémentaires). En outre,
+   l'État peut réquisitionner ses agents ; cette décision peut faire
+   l'objet d'un recours devant le tribunal administratif. À cette
+   occasion, le juge est attentif à ce que les mesures de réquisition
+   n'entraînent pas la suppression de fait de l'exercice d'un droit
+   constitutionnellement garanti (Conseil d'État, 9 décembre 2003, Mme
+   Aguillon et autres : la réquisition de l'ensemble du personnel gréviste
+   de manière à assurer un service complet et non un simple service
+   minimum est illégal)^[5].
+
+   Le Conseil constitutionnel a pris une décision équivalente en matière
+   d'encadrement du droit de grève dans les services publics. Ainsi, dans
+   sa décision n°79-105 DC du 25 juillet 1979 relative à la continuité du
+   service public dans le secteur audiovisuel, il consacre la continuité
+   du service public comme Objectif à valeur constitutionnelle qui
+   justifie que des aménagements soient apportées au droit de grève :
+
+   « la reconnaissance du droit de grève ne saurait avoir pour effet de
+   faire obstacle au pouvoir du législateur d'apporter à ce droit les
+   limitations nécessaires en vue d'assurer la continuité du service
+   public qui, tout comme le droit de grève, a le caractère d'un principe
+   de valeur constitutionnelle ; que ces limitations peuvent aller jusqu'à
+   l'interdiction du droit de grève aux agents dont la présence est
+   indispensable pour assurer le fonctionnement des éléments du service
+   dont l'interruption porterait atteinte aux besoins essentiels du
+   pays »^[6].
+
+   L'encadrement du droit de grève est de la compétence du législateur. En
+   l'absence d'interventions de celui-ci, il appartient au gouvernement ou
+   aux organes dirigeants des établissements publics (ou des organismes
+   privés chargés d'une mission de service public), de prendre la
+   réglementation applicable à la grève, conformément aux principes tirés
+   de l'arrêt Jamart du 7 février 1936 (les ministres et autres chefs de
+   services n'ont pas de pouvoir réglementaire sauf pour l'organisation de
+   leurs services).
+
+   Par ailleurs, un préavis de grève précis doit être envoyé cinq jours
+   francs (hors fêtes et week-end) auparavant aux autorités hiérarchiques.
+   Il en va de même dans les services publics (articles L.521-2 à L.521-6
+   du code du travail) et cela qu'ils soient assurés par des entreprises
+   tant publiques que privées (les transports urbains par exemple,
+   relevant du statut d'EPIC). Aucun préavis n'est requis pour les autres
+   entreprises du privé.
+
+   Enfin, outre les retenues sur salaire, les périodes de grève ne sont
+   pas prises en compte pour le calcul des droits à la retraite.
+
+Les conséquences de la grève[modifier | modifier le code]
+
+À l’égard des grévistes[modifier | modifier le code]
+
+   Elles portent sur l’emploi du salarié, et sur le salaire.
+     * Le contrat qui traduit l’emploi du salarié, l’emploi est maintenu
+       car le contrat de travail n’est que suspendu (L 2511-1) et maintenu
+       avec l’ancienneté et le salarié à la même qualification
+       professionnelle. L'article L 1132-1 renforce cette protection.
+
+   Le contrat de travail est suspendu, cela veut dire que toutes les
+   obligations des parties respectives sont également suspendues. Si un
+   accident survient pendant la grève, ce sera un accident de droit
+   commun. Si c’est un accident du travail, la caisse d’assurance maladie
+   indemnise mieux la victime que si c’était un autre type d’accident.
+
+   L’employeur n’est plus le commettant du salarié (art 1384 du CC), si le
+   gréviste commet un dommage à un tiers, l’employeur ne sera pas
+   responsable au nom de son salarié.
+
+   Si la grève dure, l’employeur ne peut pas embaucher des CDD, en
+   revanche il pourrait embaucher du personnel de remplacement avec un
+   CDI. De la même manière, les congés payés s’acquièrent mois par mois à
+   raison de 2 jours et demi par mois.
+     * La grève et le salaire : Le salaire est lui aussi suspendu par la
+       grève. Dans le secteur privé, la retenue sur salaire est
+       strictement proportionnelle à la durée du temps de travail. En
+       outre, la retenue sur salaire pour fait de grève ne doit pas
+       figurer sur le bulletin de paie. Dans le secteur public, les règles
+       de la législation pour retenue sur salaire sont parfois différentes
+       (retenue d'un vingtième du mois dans un cas contre un trentième
+       dans l'autre).
+
+   Mais il peut arriver que l’employeur ne paie pas le salaire parce qu’il
+   a des difficultés ou qu’il le paie en retard. Du point de vue du droit
+   des obligations, il commet une faute contractuelle, en conséquence des
+   grévistes qui feraient grève en riposte à un employeur qui n’aurait pas
+   payé les salaires, seraient en droit de demander en justice soit le
+   paiement des salaires, ou bien s'il ne paie pas, des dommages-intérêts
+   correspondant au paiement des journées de grèves. La Cour de Cassation
+   juge que les salariés sont dans une situation contraignante (valant
+   substitut à la force majeure).
+
+   Toutefois, dans un arrêt en date du 28 octobre 1997 (n^o 3861), la
+   chambre sociale de la Cour de cassation a énoncé le principe selon
+   lequel le non-paiement des salaires ne justifiait pas le recours à la
+   grève lorsque l'employeur rencontrait des difficultés économiques (en
+   l'espèce, un redressement judiciaire). Il s'agit d'une limite majeure à
+   l'exception au principe de soustraction du salaire en cas de cessation
+   du travail. D'ailleurs, cette jurisprudence a été confirmée par la
+   haute juridiction judiciaire dans un arrêt du 26 janvier 2000.
+
+   Bien que le salaire soit suspendu, le salarié gréviste conserve ses
+   droits à la sécurité sociale, maladie… De la même manière, il peut dans
+   certaines conditions, bénéficier d’une indemnité, aide financière de la
+   part du comité d’entreprise à titre de secours, car ce dernier agi
+   alors dans le cadre de ses activités sociales. Mais l’employeur ne peut
+   pas demander aux salariés de récupérer les heures de grève (L 3121-52)
+   sauf s'il y a une majoration pour heure supplémentaire prévue dans le
+   protocole de fin de grève, on parle alors de rattrapage.
+     * La question des primes d’assiduité : le salaire est le seul bien
+       propre du salarié, autrement dit c’est un droit alimentaire. Pour
+       éviter les grèves, les employeurs ont inventé les primes
+       d’assiduité au travail, elles sont réglementées d’une part par L
+       2512-1 (Il ne doit pas y avoir de discrimination en matière de
+       rémunération), d’autre part par L 1331-2 (qui interdit les
+       amendes). Les primes peuvent être versées aux salariés à condition
+       que ce soit à l’ensemble des salariés, et non aux seuls
+       non-grévistes, sinon il y a discrimination à l’égard des grévistes.
+
+À l’égard de l’employeur[modifier | modifier le code]
+
+   L’employeur va subir plusieurs conséquences. Pendant la grève, il peut
+   fournir du travail aux non-grévistes. Il est de plus tenu de payer ce
+   travail. Par contre, il n'a pas le droit d'avoir recours au travail
+   temporaire ou à un contrat à durée déterminée pour remplacer un salarié
+   gréviste^[7].
+
+   En ce qui concerne les non-grévistes, ils doivent percevoir leur
+   salaire parce que par principe l’employeur est tenu de leur fournir du
+   travail (ne serait-ce qu’au nom de la liberté du travail). C’est une
+   obligation qui découle du contrat. Même si le non-gréviste n’a pas pu
+   travailler (par exemple quand le lieu de travail est occupé),
+   l’employeur doit le rémunérer.
+
+   Il y a une exception : c’est le cas de force majeure, qui n’est pas
+   facile à établir par l’employeur car son caractère est imprévisible. La
+   Cour de cassation a admis une porte de sortie : l’hypothèse de la
+   situation contraignante. Si l’employeur l'invoque, il déclare que le
+   fonctionnement de son entreprise n’est pas impossible mais devient
+   difficile voire dangereux.
+
+   Ainsi de la grève des bouchons (blocage d’un point sur une chaîne de
+   production) : la situation contraignante a été admise dans ce cas, bien
+   que l’employeur doive la démontrer.
+
+   Il y a aussi situation contraignante pour des raisons de sécurité comme
+   lors d'une séquestration de cadres.
+
+   Il est difficile de faire la différence entre le préjudice normal dû à
+   la grève et le surcoût qui pourrait en résulter. La Cour de cassation
+   admet rarement cette argumentation.
+
+   Arrêt Soc Goodyear du 4.10.2000 : « Attendu que l’employeur tenu de
+   fournir un travail aux salariés non grévistes, à défaut de toute
+   situation contraignante, ne peut, sous le prétexte qu’il les affecte à
+   un travail différent de celui habituellement accompli, diminuer leur
+   rémunération contractuelle ».
+
+   En 1982, le Conseil constitutionnel censura l'art. 8 de la loi relative
+   au développement des institutions représentatives du personnel
+   promulguée par le gouvernement Mauroy, lequel prévoyait (un peu sur le
+   modèle du Trade Union Act 1913 (en)), de limiter les actions en
+   Dommages et intérêts^[8].
+
+Dans les transports[modifier | modifier le code]
+
+   Avant d'effectuer le dépôt de préavis, il doit être établi un dialogue
+   social pour prévenir de certains conflits. Le dépôt de préavis de grève
+   n'intervient qu'après cette négociation.
+
+   L'autorité organisatrice fixe les dessertes prioritaires si une
+   perturbation du trafic est prévisible.
+
+   Elle détermine différents niveaux de services en fonction du niveau de
+   la perturbation. Pour chaque niveau de service elle détermine des
+   fréquences et des plages horaires, ceci dans le but d'éviter des
+   atteintes disproportionnées aux libertés définies par la loi. Elle
+   essaie donc de couvrir au maximum les besoins de la population.
+
+   L'entreprise quant à elle élabore un plan de transport adapté (PTA) aux
+   priorités définies par l'autorité organisatrice. Elle dresse également
+   un plan d'information aux usagers (PIU).
+
+   Si la grève est supérieure à 8 jours, une consultation est ouverte aux
+   salariés pour tenter de savoir le motif et la poursuite de la grève. Le
+   résultat de cette consultation n'affecte pas le droit de grève.
+
+Limites au droit de grève[modifier | modifier le code]
+
+   Le droit de grève n'est pas absolu. La grève elle-même peut être jugée
+   abusive (abus de droit)^[9]^,^[10] ou illicite, ou bien seulement des
+   actes commis par les grévistes à l'occasion de cette grève (des actions
+   de contrainte exercée sur des non-grévistes) peuvent être considérés
+   comme une action illégitime^[11]. Selon Les Échos il faudra sanctionner
+   l'abus de droit de grève^[12].
+
+   La grève est notamment considérée illicite si elle ne porte aucune
+   revendication professionnelle, et en particulier si elle porte
+   exclusivement des revendications politiques : les participants
+   s'exposent alors aux mêmes sanctions disciplinaires qu'un salarié
+   absent sans motif dans les mêmes conditions, avec un éventuel
+   licenciement en cas de récidive. Concernant une grève aux
+   revendications mixtes (professionnelles et politiques), la Chambre
+   sociale de la Cour de cassation, selon son arrêt du 10 mars 1961,
+   considère qu'elle est licite seulement si les revendications politiques
+   sont accessoires ; de son côté, la Chambre criminelle considère qu'elle
+   est licite si elle contient, notamment, des revendications précises de
+   nature professionnelle ou sociale (arrêt du 23 octobre
+   1969)^[13]^,^[14]. Par un arrêt du 15 février 2006, la chambre sociale
+   de la Cour de cassation a considéré que le soutien d'un mot d'ordre
+   national visant la défense des retraites était bien une revendication à
+   caractère professionnel, et donc licite^[15].
+
+   La grève du 24 avril 1961, faisant suite au putsch des généraux et à
+   l'appel du président de la République Charles de Gaulle, soutenu par
+   les organisations syndicales et ouvrières, a néanmoins fait exception :
+   dans son arrêt du 19 juin 1963, la Cour de cassation n’évoque pas le
+   terme de « grève », mais un « arrêt général de travail organisé par
+   toutes les organisations syndicales en réponse à un appel du chef de
+   l’État pour protester contre le mouvement insurrectionnel d’Alger » ;
+   elle considère que le mouvement auquel avait participé le salarié
+   incriminé correspondait, dans ces conditions, « à un sentiment élevé du
+   devoir », et qu'il ne pouvait donc être sanctionné^[13]^,^[14].
+
+Notes et références[modifier | modifier le code]
+
+    1. ↑ « Code du travail », sur Légifrance, 18 novembre 2016 (consulté
+       le 10 décembre 2016)
+    2. ↑ Alain-Christian Monkam, "Vers une règlementation du droit de
+       grève dans le secteur privé", Jurisprudence Sociale Lamy n^o 314 et
+       315 (26 janvier et 9 février 2012)
+       http://www.wk-rh.fr/Recherche/Produits/JSL?deplies=4,4.3&selectionn
+       es=4.3.2
+    3. ↑ ^a et b « Conseil d'État, Assemblée, du 7 juillet 1950, 01645,
+       publié au recueil Lebon », Légifrance (consulté le 22 octobre 2015)
+    4. ↑ "Conseil d'État, 7 juillet 1950, Dehaene" sur le site de la cour
+       administrative d'appel de Douai.
+    5. ↑ « Conseil d'État, 1^re et 2^e sous-sections réunies, du 9
+       décembre 2003, 262186, publié au recueil Lebon », Légifrance
+       (consulté le 22 octobre 2015)
+    6. ↑ « Décision n° 79-105 DC du 25 juillet 1979 », Conseil
+       constitutionnel (France) (consulté le 22 octobre 2015)
+    7. ↑ art. L1242-6 et art. L12515-10 du Code du travail
+    8. ↑ Décision n° 82-144 DC du 22 octobre 1982
+    9. ↑ [1]
+   10. ↑ Pierre Gattaz, Grèves : du droit à l'abus, Les Échos, 16 avril
+       2018
+   11. ↑ [2]
+   12. ↑ Les Échos, 21 mars 2018
+   13. ↑ ^a et b Jean-Emmanuel Ray, « La grève pour le climat est-elle
+       licite ? », sur lemonde.fr, 16 octobre 2019 (consulté le 18 octobre
+       2019).
+   14. ↑ ^a et b Jean-Claude Javillier, Les Conflits du travail, Presses
+       universitaires de France, coll. « Que sais-je ? », 1981, 128 p.
+       (lire en ligne).
+   15. ↑ pourvoi 04-45738 du 15 février 2006.
+
+Voir aussi[modifier | modifier le code]
+
+Articles connexes[modifier | modifier le code]
+
+     * Droit de grève
+     * Grève
+     * Conditions de travail
+     * Chronologie du syndicalisme en France
+     * Lock-out
+     * droit de retrait
+
+Bibliographie[modifier | modifier le code]
+
+     * Jean-Emmanuel Ray, Les pouvoirs de l'employeur à l'occasion de la
+       grève, Librairies techniques, 1985, 428 p.
+
+Liens externes[modifier | modifier le code]
+
+     * Droit de grève dans le privé
+     * Droit de grève dans la fonction publique
+
+   v · m
+   Droit du travail en France
+   Sources du droit du travail
+   Internationales et étatiques
+     * OIT
+     * UE
+     * Constitution
+     * Loi
+     * Règlement
+     * Jurisprudence
+
+   Professionnelles
+     * Convention collective
+     * Usage
+     * engagement unilatéral
+     * Règlement intérieur
+
+   Relations individuelles
+   Contrats de travail
+     * … à durée indéterminée
+     * … à durée déterminée
+     * … temporaire
+     * [+]
+     * Clauses du contrat de travail
+
+   Exécution du contrat
+     * Modifications du contrat
+     * Transfert d'entreprise
+
+   Durée du travail
+     * Heures supplémentaires
+     * Travail à temps partiel
+     * Convention de forfait
+
+   Conditions de travail
+     * Accident du travail
+     * Danger grave et imminent
+     * Droit de retrait
+     * Registre spécial
+     * Santé au travail
+     * Coordination SPS
+     * Plan général de coordination
+     * Plan particulier de sécurité et de protection de la santé
+
+   Rupture du contrat de travail
+   Hors licenciement
+     * Démission
+     * Retraite
+     * Rupture conventionnelle
+
+   Licenciement
+     * Procédure individuelle
+          + entretien préalable
+          + Salarié protégé
+          + Conseiller du salarié
+     * Procédure collective
+          + Licenciement collectif
+               o Plan social
+     * Nullité du licenciement
+     * Motifs
+          + cause réelle et sérieuse
+          + … personnel
+               o … fautes disciplinaires
+                    # simple
+                    # grave
+                    # lourde
+               o … non disciplinaire
+                    # ex. Insuffisance professionnelle
+          + … économique
+
+   Relations collectives
+   Syndicalisme
+     * Liberté syndicale
+     * Représentativité syndicale
+     * Élection professionnelle
+
+   Instances représentatives du personnel
+     * Comité social et économique
+     * Délégué syndical
+     * Représentant syndical
+     * Délégué du personnel (obsolète)
+     * Comité d'entreprise (obsolète)
+     * Délégation unique du personnel (obsolète)
+     * CHSCT (obsolète)
+     * Comité de groupe
+     * Administrateur salarié
+
+              Dialogue social
+     * Conventions collectives
+     * Accord collectif
+
+              Conflits sociaux
+     * Grève
+     * Lock-out
+
+   Justice du travail
+   Inspection du travail
+     * Direccte
+     * DGT
+
+   Conseil de prud'hommes
+     * Procès prud'homal
+     * Cour nationale de l'incapacité
+
+   Voir aussi
+   Accès à l'emploi
+     * Droit au travail
+     * Recrutement
+     * Embauche
+     * Période d'essai
+
+    Indemnisation
+     * Fonds d'indemnisation des victimes de l'amiante
+
+     * Travail
+     * Emploi
+     * Chômage
+
+     * icône décorative Portail du syndicalisme
+     * icône décorative Portail du droit du travail en France
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Droit_de_grève_en_France&o
+   ldid=195432363 ».
+   Catégories :
+     * Principe en droit du travail
+     * Grève en France
+     * Droit du travail en France
+
+   Catégories cachées :
+     * Article contenant un appel à traduction en anglais
+     * Portail:Droit du travail en France/Articles liés
+     * Portail:Syndicalisme/Articles liés
+     * Portail:Entreprises/Articles liés
+     * Portail:Droit français/Articles liés
+     * Portail:Droit/Articles liés
+     * Portail:France/Articles liés
+     * Portail:Europe/Articles liés
+
+     * La dernière modification de cette page a été faite le 19 juillet
+       2022 à 08:46.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Version mobile
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

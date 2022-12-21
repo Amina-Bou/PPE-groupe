@@ -1,345 +1,376 @@
-   #C'est la grève » Flux
-
-     * Choix par région
-          + Toutes les grèves
-          + Auvergne-Rhône-Alpes
-          + Bourgogne-Franche-Comté
-          + Bretagne
-          + Centre-Val de Loire
-          + Corse
-          + Grand-Est
-          + Hauts-de-France
-          + Ile de France
-          + Normandie
-          + Nouvelle-Aquitaine
-          + Occitanie
-          + Outre-Mer
-          + Pays de la Loire
-          + Provence-Alpes-Côte d’Azur
-     * Choix par secteur d’activité
-          + Transports
-          + Education
-          + Services publics
-          + Secteur privé
-
-Cʼest la grève : agenda des grèves en France
-
-   Ce site référence les grèves qui se déroulent en France, ainsi que les
-   perturbations qu'elles engendrent pour les usagers.
-
-   Les grèves en cours Les prochaines grèves Les grèves terminées
-   récemment
-
-Les grèves en cours
-
-Grève des éboueurs de Nancy dès le 19 décembre 2022
-
-   Le ramassage est des ordures est impacté.
-
-   Source : actu.fr
-
-Grève des transports TaM de Montpellier du 17 décembre au 3 janvier 2023
-
-   La liste des lignes de bus et trams impactées par le mouvement social
-   sera disponible jour après jour sur le site du réseau TaM.
-
-   Source : actu.fr
-   [INS: :INS]
-
-Grève à la SNCF en Lorraine dès le 11 décembre 2022
-
-   La liste des lignes perturbées par le mouvement social sera annoncée 1
-   à 2 jours à l’avance sur le site régional de la SNCF.
-
-   Source : francebleu.fr
-
-Grève des transports de Pau chaque vendredi et samedi du 9 au 31 décembre
-2022
-
-   La liste des lignes impactées par le mouvement social sera disponible
-   au fur et à mesure sur le site internet du réseau Idélis.
-
-   Source : francebleu.fr
-
-Grèves des transports à Dijon au mois de décembre 2022
-
-   Le syndicat UNSA a dévoilé la liste des journées de grève prévues en
-   décembre sur le réseau Divia :
-     * Jeudi 8 décembre
-     * Vendredi 9 décembre
-     * Samedi 10 décembre
-     * Samedi 17 décembre (CGT – source).
-     * Samedi 24 décembre
-     * Samedi 31 décembre
-
-   La liste des lignes de bus et de trams impactées à chaque journée de
-   mobilisation sera disponible 1 à 2 jours à l’avance sur le site de
-   Divia.
-
-   Source : unsadivia.net
-   [INS: :INS]
-
-Grèves des transports du Mans pour le mois de décembre 2022
-
-   Le site d’Ouest France a indiqué la liste des journées de grève prévues
-   en décembre sur le réseau Setram :
-     * Lundi 5 décembre
-     * Vendredi 9 décembre
-     * Vendredi 23 décembre
-     * Samedi 24 décembre
-     * Samedi 31 décembre
-
-   La liste des lignes de bus et de trams impactées à chaque journée de
-   mobilisation sera disponible 1 à 2 jours à l’avance sur le site du
-   réseau Setram.
-
-   Source : ouest-france.fr
-
-Grève des transports de Brest du 14 novembre au 30 décembre 2022
-
-   La liste des lignes impactées par le mouvement social est disponible
-   jour après jour sur le site du réseau Bibus.
-
-   Source : letelegramme.fr
-
-Grève à La Poste de Bordeaux dès le 2 novembre 2022
-
-   Ce mouvement social concerne deux plateformes de distribution de colis.
-
-   La distribution des colis risque d’être impactée.
-
-   Source : francebleu.fr
-
-Grève des bus d’Aix-en-Provence dès le 10 octobre 2022
-
-   La liste des lignes impactées par le mouvement social est disponible
-   jour après jour sur le site du réseau Aix En Bus.
-
-   Source : francebleu.fr
-
-Les prochaines grèves
-
-Grève chez Air France du 22 décembre 2022 au 2 janvier 2023
-
-   La compagnie aérienne devrait prévenir individuellement les voyageurs
-   dont le vol est impacté par le mouvement social.
-
-   Vous pourrez aussi vérifier le statut de votre vol quelques jours avant
-   le début de la mobilisation sur le site d’Air France.
-
-   Source : sudouest.fr
-
-Grève à la compagnie aérienne French Bee du 22 au 25 décembre 2022
-
-   Le mouvement concerne les hôtesses et stewards.
-
-   La compagnie aérienne devrait prévenir individuellement les voyageurs
-   dont le vol est impacté par le mouvement social.
-   Vous pourrez aussi vérifier le statut de votre vol sur le site de
-   French Bee.
-
-   Source : lefigaro.fr
-
-Grève à la SNCF du 23 au 26 décembre 2022
-
-   Précision : ce préavis, concernant les contrôleurs, avait été déposé en
-   amont par la CGT-Cheminots et SUD Rail.
-   Finalement, les deux syndicats ont décidé de ne pas appeler à la grève
-   mais ils ont quand même maintenu leur préavis laissant ainsi la
-   possibilité aux agents de se mobiliser. Si des perturbations ont lieu,
-   elles seront probablement locales.
-
-   La liste des lignes perturbées par le mouvement social sera diffusée 1
-   à 2 jours à l’avance.
-   Voici comment savoir si votre train sera impacté par cette grève.
-
-   Source : liberation.fr
-
-Grève à l’aéroport Clermont-Ferrand Auvergne du 24 au 25 décembre 2022
-
-   Les compagnies aériennes devraient prévenir individuellement les
-   voyageurs dont le vol est impacté par le mouvement social.
-   Vous pourrez aussi vérifier le statut de votre vol site de l’aéroport.
-
-   Source : lamontagne.fr
-
-Grève illimitée des médecins généralistes dès le 26 décembre 2022
-
-   Mobilisation à l’initiative du collectif « Médecins pour demain ».
-
-   Certains médecins libéraux pourraient fermer leur cabinet.
-
-   Source : bfmtv.com
-
-Grève à la SNCF du 30 décembre au 2 janvier 2023
-
-   Précision : ce préavis, concernant les contrôleurs, avait été déposé en
-   amont par la CGT-Cheminots et SUD Rail.
-   Finalement, les deux syndicats ont décidé de ne pas appeler à la grève
-   mais ils ont quand même maintenu leur préavis laissant ainsi la
-   possibilité aux agents de se mobiliser. Si des perturbations ont lieu,
-   elles seront probablement locales.
-
-   La liste des lignes perturbées par le mouvement social sera diffusée 1
-   à 2 jours à l’avance.
-   Voici comment savoir si votre train sera impacté par cette grève.
-
-   Source : liberation.fr
-
-Grève à l’aéroport de Clermont-Ferrand Auvergne du 31 décembre au 1 janvier
-2023
-
-   Les compagnies aériennes devraient prévenir individuellement les
-   voyageurs dont le vol est impacté par le mouvement social.
-   Vous pourrez aussi vérifier le statut de votre vol site de l’aéroport.
-
-   Source : lamontagne.fr
-
-Grève dans l’éducation le 17 janvier 2023
-
-   Mobilisation des personnels de l’éducation à l’initiative du syndicat
-   FSU.
-
-   Selon l’ampleur de la mobilisation des enseignants, l’accueil des
-   enfants et la tenue des cours pourront être perturbés.
-   Les écoles maternelles et primaires devraient être en mesure de vous
-   indiquer un peu à l’avance les conditions d’accueil puisque les
-   professeurs du premier degré doivent se déclarer gréviste au préalable.
-   Les collèges et les lycées ne savent pas les enseignants qui seront
-   absents car ils n’ont pas l’obligation de se déclarer gréviste à
-   l’avance.
-
-   Source : fsu.fr
-
-Les grèves terminées récemment
-
-Grève des transports TBM de Bordeaux dès le 8 décembre 2022
-
-   La liste des lignes de bus et trams impactées par le mouvement social
-   est disponible sur le site du réseau TBM.
-
-   Source : sudouest.fr
-
-   Mise à jour : la grève continue
-     * Le lundi 12 et le mardi 13 décembre (source).
-     * Le vendredi 16 et le samedi 17 décembre (source).
-
-   Mise à jour : suite à un accord, la grève s’est arrêtée le 19/12/2022.
-   (source).
-
-Grève à la SNCF du 15 au 19 décembre 2022
-
-   Le préavis concerne les aiguilleurs et s’étend du jeudi 15 décembre 20
-   heures au lundi 19 décembre 8 heures.
-
-   La liste des lignes perturbées par le mouvement social sera diffusée 1
-   à 2 jours à l’avance.
-   Voici comment savoir si votre train sera impacté par cette grève.
-
-   Source : tf1info.fr
-
-[ANNULÉE] Grève de la compagnie aérienne Corsair du 16 au 22 décembre 2022
-
-   Le préavis de grève concerne les pilotes.
-
-   La compagnie aérienne devrait prévenir individuellement les voyageurs
-   dont le vol est impacté par le mouvement social.
-   Vous pourrez aussi vérifier le statut de votre vol quelques jours avant
-   le début de la mobilisation sur le site de Corsair.
-
-   Source : bfmtv.com
-
-   Mise à jour : la grève est annulée (source).
-   Grève de la compagnie aérienne Corsair du 16 au 22 décembre 2022"
-   description="Toutes les informations sur la [ANNULÉE] Grève de la
-   compagnie aérienne Corsair du 16 au 22 décembre 2022"
-   buttons="facebook,twitter,linkedin"]
-
-Grève des bus de Toulon du 12 au 13 décembre 2022
-
-   La liste des lignes impactées par le mouvement social est disponible
-   sur le site du réseau Mistral.
-
-   Source : varmatin.com
-
-Grève des laboratoires d’analyses médicale dès le 14 novembre 2022
-
-   Les laboratoires participant au mouvement seront fermés. Les
-   prélèvements urgents seront réalisés par des infirmiers libéraux, en
-   clinique ou en hôpital.
-
-   Source : europe1.fr
-
-   Mise à jour : la grève est suspendue depuis le 16/11/2022. (source).
-
-   Mise à jour : la grève reprendra dès le 01/12/2022 (source).
-
-   Mise à jour du 09/12/2022 : aucune information n’est disponible sur la
-   poursuite ou non de cette grève..
-
-[ANNULÉE] Grève à l’aéroport d’Ajaccio dès le 8 décembre 2022
-
-   La mobilisation concerne les agents de sûreté.
-
-   Cela peut engendrer des attentes plus longues pour passer les contrôles
-   de sécurités.
-
-   Source : corsenetinfos.corsica
-
-   Mise à jour : la grève est finalement annulée (source).
-   Grève à l’aéroport d’Ajaccio dès le 8 décembre 2022"
-   description="Toutes les informations sur la [ANNULÉE] Grève à
-   l’aéroport d’Ajaccio dès le 8 décembre 2022"
-   buttons="facebook,twitter,linkedin"]
-
-Grève à la SNCF le 7 décembre 2022
-
-   Le préavis couvre la période du 6 décembre 20h00 au 8 décembre 8h00.
-
-   La liste des lignes perturbées par le mouvement social sera diffusée 1
-   à 2 jours à l’avance.
-   Voici comment savoir si votre train sera impacté par cette grève.
-
-   Préavis : sudrail.fr
-   Voir les grèves sous la forme d'un calendrier et accéder aux archives
-
-   Les services publics de transport, d’éducation, ou même quelques
-   entreprises du secteur privé, s’arrêtent parfois de travailler et vous
-   n’êtes pas toujours au courant de ces différentes grèves qui touchent
-   notre pays.
-   Grâce à notre service, finis les imprévus. Vous ne resterez plus bloqué
-   à attendre votre train, et pourrez prévoir une solution de secours !
-   Vous saurez à l’avance et dans n’importe quelle région de France,
-   quelles sont les grèves prévues ou en cours.
-   Notre calendrier est actualisé en temps réel, ce qui vous garantit
-   d’avoir les toutes dernières informations et de pouvoir vous adapter en
-   fonction des différents mouvements sociaux qui pourraient vous
-   affecter.
-   Nous recoupons toutes nos informations pour éviter tout risque
-   d’erreur, afin de vous garantir les meilleures indications possibles.
-   Restez connecté à notre site et soyez paré !
-   Restez informé des prochaines grèves
-
-   Recherche par lieu / secteur d’activités
-   [Partout en France____________________________]
-   [Tous les secteurs d’activités__s..] Rechercher
-   [INS: :INS]
-
-   Top recherche
-
-   Grève SNCF
-
-   Grève école
-
-   Grève La Poste
-   Informations
-
-   Contact
-
-   Mentions légales
-
-   Politique de confidentialité
-
-   CGU
-
-   Copyright © 2022. Tous droits réservés.
+   #alternate
+
+   IFRAME:
+   https://www.googletagmanager.com/ns.html?id=GTM-5QNLTGR&gtm_auth=XWh1Nl
+   Oe7Udt_V-KXeCUVQ&gtm_preview=env-2&gtm_cookies_win=x
+
+   Le Parisien : Actualités en direct et info en continu
+   Le Parisien : Actualités en direct et info en continu
+     *
+     *
+     *
+     *
+     * S’abonner
+     * S’abonner
+
+     * Faits divers
+     * Île-de-France & Oise
+
+     * Paris
+     * Essonne
+     * Hauts-de-Seine
+     * Seine-Saint-Denis
+     * Val-d'Oise
+     * Val-de-Marne
+     * Seine-et-Marne
+     * Yvelines
+     * Oise
+     * Transports IDF
+
+     PSG
+
+     Sports
+     * Ligue 1 Uber Eats
+     * Football
+     * Coupe du monde 2022
+     * JO 2024
+     * Cyclisme
+     * Rugby
+     * Tennis
+     * Hippisme
+
+     Politique
+     * Résultats élections
+     * Présidentielle
+     * Législatives
+     * Élections
+
+     Pouvoir d'achat
+
+     Immobilier
+
+     Environnement
+
+     Économie
+     * Consommation
+     * Emploi
+     * Impôts
+     * Entreprises & start-up
+     * Retraites
+     * Automobile
+
+     Vie de bureau
+
+     Enquête
+
+     Société
+     * Covid-19
+     * Santé
+     * Animaux
+     * Sciences
+     * Météo
+     * Sentinelles
+     * High tech
+     * Intime
+
+     International
+
+     Culture & loisirs
+     * Sorties IDF & Oise
+     * Cinéma
+     * Séries
+     * Télévision & médias
+     * Livres
+     * Musique
+
+     En région
+     * Calvados
+     * Charente-Maritime
+     * Eure
+     * Eure-et-Loir
+     * Finistère
+     * Haute-Garonne
+     * Loiret
+     * Marne
+     * Martinique
+     * Pyrénées-Orientales
+     * Seine-Maritime
+
+     Bien manger
+
+     Le Parisien Étudiant
+     * Orientation
+     * Examens
+     * Jobs Stages
+     * Vie étudiante
+     * Agenda sorties
+     * Réveillon 2023
+
+     Newsletters
+
+     Podcasts
+
+     Vidéos
+     * Biclou
+     * Vidéos Crime story
+     * Food-checking
+
+     Jeux gratuits
+
+     Annonces
+     * Offres d’emploi
+     * Immobilier commercial
+     * Avis de décès
+     * Annonces légales
+     * Marchés publics
+
+     Services
+     * Nos applications
+     * Le Parisien Le Guide
+     * Comparateurs
+     * Jeux Concours
+     * Codes promo
+     * Téléchargements
+     * Billetterie
+     * Programme TV
+     * Enchères publiques
+
+   Économie
+
+SNCF : préavis de grève maintenu pour les fêtes, des perturbations à prévoir
+
+Divisé, le collectif des contrôleurs a décidé ce lundi 19 décembre de
+conserver son préavis de grève sans appeler à cesser le travail les week-ends
+du 24 et 30 décembre. Un entre-deux étonnant qui devrait engendrer des
+perturbations sur les lignes TGV.
+
+   10
+   Par Vincent Vérier
+   Le 19 décembre 2022 à 13h53, modifié le 20 décembre 2022 à 08h40
+
+   Attention, bazar ! Les contrôleurs de la SNCF ont annoncé ce lundi, à
+   la mi-journée, le maintien des préavis de grève pour les week-ends de
+   Noël et du Nouvel An, via un communiqué diffusé par SUD-Rail, tout en
+   n’appelant pas à cesser le travail. Une subtilité, incompréhensible
+   pour les voyageurs, qui vise à ménager la chèvre et le chou.
+
+   Car en interne, au sein du « collectif national ASCT » (CNA) qui réunit
+   les contrôleurs grévistes en dehors de tout cadre syndical, aucune
+   position majoritaire n’est sortie. En clair, certains cheminots
+   voulaient poursuivre la grève, d’autres non. Cette décision, pour le
+   moins ambiguë, permet à chaque contrôleur de prendre ses
+   responsabilités sans devoir suivre un mot d’ordre national.
+     __________________________________________________________________
+
+   À lire aussiGrève SNCF : pourquoi un train ne peut pas circuler sans
+   contrôleur
+     __________________________________________________________________
+
+   Reste désormais à savoir quelles seront les conditions de circulation
+   pour les deux prochains week-ends ? Lors de leur précédent mouvement
+   social, début décembre, la grève avait été très suivie parmi les 10 000
+   chefs de bord, avec 60 % des TGV et des Intercités annulés. Cette
+   fois-ci, divisés, ils devraient être moins nombreux à cesser le
+   travail. Le mouvement devrait principalement toucher les TGV. C’est en
+   effet sur les lignes à grande vitesse que le mécontentement est le plus
+   important. Si les contrôleurs des TER, et notamment les plus jeunes,
+   estiment avoir été entendus par la direction de la SNCF, ce n’est pas
+   le cas de ceux des TGV.
+
+   Dans un communiqué, Christophe Fanichet, PDG de SNCF Voyageurs regrette
+   le maintien des préavis « alors que des mesures concrètes et
+   conséquentes étaient sur la table au terme de plusieurs semaines de
+   négociations, même si nous prenons acte du choix des organisations
+   syndicales de ne pas appeler à la grève ».
+
+   Lors d’une rencontre avec les grévistes, le 8 décembre, la SNCF a
+   notamment proposé d’augmenter la prime de travail des contrôleurs de
+   600 euros par an, dont une partie serait intégrée au salaire en 2024,
+   ainsi qu’une indemnité supplémentaire de 600 euros bruts par an.
+   D’autres mesures spécifiques pour l’avancement ont été mises sur la
+   table afin de faciliter le déroulement de carrière des chefs de bord.
+
+   « Nous avons tout fait pour trouver une issue favorable et éviter un
+   conflit qui sera pénalisant pour les voyageurs, assure Christophe
+   Fanichet. Nous espérons que l’absence d’appel à la grève sera entendue
+   par chaque chef de bord, à une période de l’année où les Français
+   comptent tant sur nous pour les faire voyager ».
+
+Le plan transport connu à partir de mardi
+
+   Désormais, les contrôleurs qui souhaitent se mettre en grève ont
+   jusqu’à mercredi soir pour informer la direction. Mais dès ce mardi, la
+   SNCF assure qu’un premier plan de transport sera communiqué afin que
+   les voyageurs puissent anticiper. Il sera affiné les jours suivants.
+   Ces préavis sont une très mauvaise nouvelle pour la SNCF. Les deux
+   week-ends qui encadrent les fêtes de fin d’année sont
+   traditionnellement parmi les plus chargés.
+
+   En interne, chez les contrôleurs, c’est la soupe à la grimace. « On
+   voit les limites d’un mouvement construit hors des syndicats », souffle
+   un cheminot. Alors que le collectif CNA devait consulter ses membres
+   via sa page Facebook forte de ses 3 500 inscrits, le référendum a
+   tourné court. Assez rapidement, les organisateurs ont constaté qu’ils
+   avaient été piratés. Plusieurs inscrits n’étaient pas contrôleurs,
+   voire cheminots.
+
+   « On va voir comment le mouvement, sans appel à la grève claire, sera
+   suivi, analyse un cadre de la SNCF. Ce qui est sûr, c’est qu’il y a
+   toujours un fort mécontentement chez les contrôleurs ». Pour preuve,
+   alors que moins de 30 % d’entre eux avaient jusqu’à présent annoncé à
+   la direction leur intention de se mettre en grève pour les deux
+   prochains week-ends, ce chiffre ne cesse d’augmenter depuis la réunion
+   organisée ce lundi matin entre les grévistes.
+
+   Selon la CFDT, qui maintient son préavis comme SUD Rail, sur les deux
+   week-ends « des zones d’ombre persistent sur les propositions avancées
+   par la direction. L’entreprise porte la responsabilité des blocages ».
+   Il faut dire que la situation est complexe pour la compagnie. Faut-il
+   sauver Noël en répondant aux exigences financières des contrôleurs au
+   risque de voir les autres catégories de cheminots réclamer la même
+   chose ? D’autant qu’à une prime brut à deux chiffres avancée par la
+   direction, les chefs de bord exigent un nombre à trois chiffres,
+   notamment ceux des TGV et des Intercités.
+   Dans la rubrique
+   Économie
+   Go Sport : report de la décision, le dossier réexaminé le 16 janvier
+   VIDÉO. «C’est de l’or en pellets» : face à la flambée des prix, Yves
+   fabrique ses propres granulés de bois
+   Abonnés
+   Je n’aime pas Noël, comment ne pas plomber l’ambiance au boulot ? La
+   réponse du psy
+
+   (BUTTON) VOIR LES COMMENTAIRES
+   Les plus lus
+   Un octogénaire se présente avec un obus dans le rectum, l’hôpital de
+   Toulon évacué par précaution
+   1
+   L’Europe connaît la grippe aviaire « la plus dévastatrice » de son
+   histoire, selon les autorités sanitaires
+   2
+   Incendie mortel de Vaulx-en-Velin : la piste du chauffage d’appoint
+   3
+   «Où est maman ? Où sont les enfants ?» : à Vaulx-en-Velin, les destins
+   brisés des victimes de l’incendie
+   4
+   Insultes, photo brûlée, nouveau dérapage de Martinez... Kylian Mbappé
+   dans le viseur des supporters en Argentine
+   5
+   Journal du jour
+   21 décembre 2022
+   [lp75_vignette_une.jpeg]
+   Lire le journal
+
+   Économie
+   Paris, le 19 décembre. Le magasin Go Sport de la place de la République
+   (XIe). L'enseigne emploie 2 160 salariés dans 234 magasins. LP/Thomas
+   Hubert
+   Go Sport : report de la décision, le dossier réexaminé le 16 janvier
+   En Alsace, Yves produit lui-même ses pellets dans son garage. LP/Jeanne
+   Hutin
+   VIDÉO. «C’est de l’or en pellets» : face à la flambée des prix, Yves
+   fabrique ses propres granulés de bois
+   A défaut de trouver un train de susbtitution, les usagers touchés par
+   le mouvement de grève peuvent réclamer le remboursement à 200 % du prix
+   de leur billet initial. Stéphane de Sakutin/AFP
+   Grève à la SNCF : remboursement, bon d’achat... à quoi avez-vous le
+   droit si votre train est annulé ?
+   Le Get 27 n'est plus vendu dans les magasins Carrefour et U.
+   (Illustration) LP/Olivier Boitet
+   Le Get 27 n’est plus vendu dans les magasins U et Carrefour
+   À Noël, si les cadeaux entre collègues sont de plus en plus courants,
+   tout le monde ne partage pas le même intérêt pour cette période de
+   l'année. (Illustration) LP/Delphine Goldsztejn.
+   AbonnésJe n’aime pas Noël, comment ne pas plomber l’ambiance au
+   boulot ? La réponse du psy
+   Illustration. La gare de Paris Gare de Lyon en 2019.
+   Grève à la SNCF : des remboursements de billets de train à hauteur de
+   «200 %», annonce le PDG de SNCF Voyageurs
+   En partie à cause de la hausse des prix de l'énergie, le foie gras
+   s'achète désormais entre 145 et plus de 200 euros le kilo. LP/Olivier
+   Arandel
+   AbonnésAvec 70% d’augmentation en un an, le foie gras «redevient un
+   produit de luxe»
+   Rungis (Val-de-Marne), le 6 décembre 2022. La cheffe parisienne
+   Alessandra Montagne propose ce carpaccio de Saint-Jacques en entrée, «
+   cela revient à 1,50 euro par personne environ ». LP/Olivier Arandel
+   AbonnésRepas de fêtes sans se ruiner : saint-jacques, poulet, bûche…
+   Inspirez-vous des recettes de ces chefs
+
+   Guide Shopping Le Parisien
+     * Amazon cartonne avec cette doudoune Columbia imperméable et légère
+       à -41%
+     * Leroy Merlin : cette perceuse à percussion DeWalt est encore à prix
+       dingue pour quelques jours
+     * Cdiscount casse les prix sur le vin et le champagne : remplissez
+       votre cave !
+     * Freshly cosmetics : ce qu’il faut retenir sur les avis clients
+     * Sélection shopping
+
+   Jeux Gratuits
+     * [BZKNCAICXRFGNOCFRH4DOEFELE.png] [BZKNCAICXRFGNOCFRH4DOEFELE.png]
+       Mots fléchés
+     * [AVGPR2WDX5GGNHLS7BKSHCF5MI.png] [AVGPR2WDX5GGNHLS7BKSHCF5MI.png]
+       Mots coupés
+     * [RXIMFLPYZZA67OM6E427V5HB6E.png] [RXIMFLPYZZA67OM6E427V5HB6E.png]
+       Mots croisés
+     * [EMTERX2ITJGVNJ7TR6Y7DOSMYE.png] [EMTERX2ITJGVNJ7TR6Y7DOSMYE.png]
+       Mots mêlés
+     * [AH4OYIWTKVFG3NMLXODVQ52BOM.png] [AH4OYIWTKVFG3NMLXODVQ52BOM.png]
+       Kakuro
+     * [NL33EXRAL5D63ATCW5UOHASETE.png] [NL33EXRAL5D63ATCW5UOHASETE.png]
+       Sudoku
+     * Une sélection complète de jeux
+     * Voir
+
+   Codes promo
+     * Codes promo Cdiscount
+     * Codes Promo Oscaro
+     * Codes promo Hotels.com
+     * Codes promo Ouigo
+     * Codes promo Emma Matelas
+     * Codes Promo Nike
+     * Codes promo Le Matelas Vert
+     * Codes promo Disney+
+     * Codes promo Amazon
+     * Codes promo GoPro
+     * Codes promo See Tickets
+     * Plus de 2000 marchands
+     * Voir
+
+   Services
+     * Programme TV
+     * Mots fléchés, sudoku
+     * Dictionnaires
+     * Comparateur
+     * Offres d'emploi
+     * Citations et proverbes
+     * Annonces auto
+     * Blog de vin
+     * Avis de décès
+     * Annonces légales
+     * Marchés publics
+     * Immobilier commercial
+     * Tous les services
+     * Voir
+
+   Profitez des avantages de l’offre numérique
+     * L’intégralité des articles et vidéos
+     * L’info locale qui vous concerne
+     * Le journal numérique dès 22h30 la veille de sa parution
+     * Une navigation sans publicité
+     * Des offres privilèges avec le Club Le Parisien
+
+   Je m'abonne
+
+   Centre Français d’Exploitation du Droit de Copie
+   Archives
+   2022202120202019201820172016
+   Réveillon 2023
+   Codes de réduction
+   Résultats élections
+
+   © Le Parisien
+   Nous écrireQui sommes nous ?Charte de l'égalitéÉthiqueCGUEspace
+   ProPolitique de confidentialitéEspace PressePolitique relative aux
+   cookies
