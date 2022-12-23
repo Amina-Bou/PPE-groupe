@@ -1,61 +1,60 @@
-.menu {
-        display: flex;
-        padding: 20;
-        background-color: #6FA1C7;
-        justify-content: center
-        }
-
-.menu li {
-        list-style-type: none;
-        }
-
-.menu a {
-        display:block;
-        min-width: 190px;
-        }
-.menu a:hover {
-        background-color: #6FA1C7;
-        color: #E6FFFF;
-        border-color: #6FA1C7;
-        }
-.menu a.actif {
-        background-color: #000;
-        color: #1ABC9C;
-        border-color: #1ABC9C;
-
-.menu a:hover
-.menu a:hover.actif {
-        background-color: #ed2794;
-        color: #ffe843;
-        border-color: #ffe843;
-    }
-
-    
-###
- 	
-
- 	
- 	
- 	
- 	
- 	
- 	
 
 	
- 	
-.stal{	
+.dropdownmenu {
+	background-color: #3E8AB0;
+	display: flex;
+	justify-content: space-around;
+	}
+		
+.dropdownmenu ul {
+	display: none;
+	}
+
+.dropdownmenu,
+.dropdownmenu ul {
+	list-style: none;
+	margin: 0px;
+	padding 0px;
+	}
 	
-	font-family: "Times New Roman", Times, serif;
-	font-size: 200px;
-	letter-spacing: 0.8px;
-	word-spacing: -0.2px;
+.dropdownmenu a {
+	display: block;
+	min-width: 250px;
+	height: 55px;
+	line-height: 55px;
 	color: #000000;
+	background-color: #3E8AB0;
+	text-decoration: none; 
+	
+	text-align: center;
+	padding: 3px 10px;
+	transition: all 0.65s;
+	}
+	
+.dropdownmenu > li > a {
+	font-size: 24px;
+        font-weight: 700;
+        border-left: 2px solid #fff;
+        }
+        
+.dropdownmenu > li a:hover {
+	background-color: #F0F8FF;
+	}
+	
+.dropdownmenu li {
+	position: relative;
 	font-weight: 700;
-	text-decoration: rgb(68, 68, 68);
-	font-style: normal;
-	font-variant: normal;
-	text-transform: capitalize;
- 	}
- 	
- 	
- 	
+	}
+	
+.dropdownmenu li:hover ul {
+	display: block;
+	position: absolute; 
+	top: 41px
+	left: 0px
+	z-index: 100;
+	}
+	
+.dropdownmenu ul a:hover{
+	background-color: #F0F8FF;
+	}
+	
