@@ -1,6 +1,6 @@
 .menu {
         display: flex;
-        padding:0;
+        padding: 20;
         background-color: #6FA1C7;
         justify-content: center
         }
@@ -11,7 +11,7 @@
 
 .menu a {
         display:block;
-        min-width: 120px;
+        min-width: 190px;
         }
 .menu a:hover {
         background-color: #6FA1C7;
@@ -23,9 +23,39 @@
         color: #1ABC9C;
         border-color: #1ABC9C;
 
-.menu a:hover,
+.menu a:hover
 .menu a:hover.actif {
         background-color: #ed2794;
         color: #ffe843;
         border-color: #ffe843;
     }
+
+    
+###
+ 	
+
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+
+	
+ 	
+.stal{	
+	
+	font-family: "Times New Roman", Times, serif;
+	font-size: 200px;
+	letter-spacing: 0.8px;
+	word-spacing: -0.2px;
+	color: #000000;
+	font-weight: 700;
+	text-decoration: rgb(68, 68, 68);
+	font-style: normal;
+	font-variant: normal;
+	text-transform: capitalize;
+ 	}
+ 	
+ 	
+ 	
