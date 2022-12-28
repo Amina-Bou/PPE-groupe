@@ -189,6 +189,8 @@ text-decoration: none;
 font-style: normal;
 font-variant: normal;
 text-transform: none;
+margin-right: 10px;
+margin-left: 10px;
 }
 img {
   display: block;
