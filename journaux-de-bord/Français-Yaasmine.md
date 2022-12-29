@@ -8,7 +8,7 @@ Journal de bord Yaas
 
 → 12/22 : Aujourd'hui, j'ai rempli mes dossiers dump-text, aspirations, concordances, etc
 
-→ 12/22 : Aujourd'hui, j'ai écrit le contenu de notre page d'accueil. Elle contient la présentation de notre mot : sa signification, le choix du mot, le choix des langues, le contexte de ce mot selon le pays et la problématique. Nous voulions aussi mettre l'étymologie du mot dans chaque langue mais finalement nous n'avons pas trouvé ça pertinent. 
+→ 12/22 : Aujourd'hui, j'ai commencé à écrire le contenu de notre page d'accueil. Elle contient la présentation de notre mot : sa signification, le choix du mot, le choix des langues, le contexte de ce mot selon le pays et la problématique. Nous voulions aussi mettre l'étymologie du mot dans chaque langue mais finalement nous n'avons pas trouvé ça pertinent. 
 Je n’arrive pas à : 
 - faire des petits blocs et les mettre où je veux dans la page. 
 - redimensionner la largeur d'une image sur html : normalement c'est avec width=... mais ça ne fonctionne pas!
