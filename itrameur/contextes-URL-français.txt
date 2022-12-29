@@ -785,8 +785,6 @@ Quels sont les effets de la grève sur les salariés ?
     2. Conflits au travail et contrôle de la réglementation
     3. Grève
 
-   (BUTTON) (BUTTON)
-   (BUTTON)
 
    Grève
 
@@ -839,7 +837,6 @@ Un mouvement collectif
    de tout ou partie du salaire des grévistes.
 
 --
-   (BUTTON) Non (BUTTON) Oui
    Articles liés :
      * Droit de grève d'un salarié du secteur privé
      * Le bulletin de paie : et les mentions interdites ?
@@ -851,7 +848,6 @@ Un mouvement collectif
      * Conflits collectifs
      * Grève et revendications professionnelles
 
-   (BUTTON)
 --
    Recommander
 
@@ -933,7 +929,6 @@ Grève et revendications professionnelles
 
 Vidéo : C'est quoi une grève ?
 
-   icu.next-video (BUTTON) Annuler
 --
    EMC01:42Publié le 06/04/2018
 
@@ -969,18 +964,11 @@ Est-ce que la grève a toujours existé ?
    1 jour, 1 question Les valeurs de la République 1 jour, 1 question - Le
    travail
 --
-   (BUTTON) Fermer la fenêtre d'ajout au favoris et voir plus tard
+
 
    C'est quoi une grève ?
    C'est quoi une grève ? C'est quoi une grève ?
-   (BUTTON) Favoris (BUTTON) Voir + tard
-   (BUTTON) Fermer la fenêtre d'ajout à l'écran d'accueil
---
-   (BUTTON) Fermer la fenêtre d'ajout au favoris et voir plus tard
 
-   C'est quoi une grève ?
-   C'est quoi une grève ? C'est quoi une grève ?
-   (BUTTON) Favoris (BUTTON) Voir + tard
 </text>
 </page> §
 <page="URL-français-17">
@@ -1126,7 +1114,6 @@ Comment la France est devenue une championne de la grève
 
 Grève
 
-   (BUTTON)
 --
 
    Action de stopper de manière manifeste le travail afin de réclamer plus
@@ -2050,7 +2037,6 @@ de fin d'année
 
    Les syndicats avaient jusqu'à ce lundi pour formuler une réponse aux
 --
-   (BUTTON) Accepter les cookiesouRefuser et s'abonner
 
    «On est dégoûtés» : les Français désemparés face à une énième grève à
    la SNCF pour Noël
@@ -2454,7 +2440,7 @@ chariot de nourriture»
    raffineries mobilisées.
 
    GrèvesCrise des carburantsPrix de l'énergieInflation
-   (BUTTON) (BUTTON)
+
    Dans la même rubrique
 --
    Politique20 déc. 2022abonnés
@@ -2618,7 +2604,6 @@ Grève et faute lourde :
     3. Conflits du travail dans le secteur privé
     4. Droit de grève d'un salarié du secteur privé
 
-     * (BUTTON)
 --
    Votre abonnement a bien été pris en compte
 
@@ -2650,7 +2635,7 @@ Droit de grève d'un salarié du secteur privé
    cessation collective et concertée du travail en vue d'appuyer des
    revendications professionnelles. Elle entraîne une retenue sur le
 --
-(BUTTON) Salariés concernés
+Salariés concernés
 
    Tout salarié d'une entreprise peut utiliser son droit de grève.
 
@@ -2668,7 +2653,7 @@ Droit de grève d'un salarié du secteur privé
        national
      * Soit il est l'unique salarié dans l'entreprise
 --
-(BUTTON) Conditions
+Conditions
 
    Pour être valable, la grève doit réunir les 3 conditions suivantes :
      * Un arrêt total du travail
@@ -2678,7 +2663,7 @@ Droit de grève d'un salarié du secteur privé
        portant sur les conditions de travail ou la défense de l'emploi par
        exemple)
 
-(BUTTON) Exceptions au droit de grève
+Exceptions au droit de grève
 
    Le mouvement de grève n'est pas valable dans l'un des cas suivants :
      * Grève dite perlée, c'est-à-dire en raison d'un travail effectué au
@@ -2699,7 +2684,7 @@ Droit de grève d'un salarié du secteur privé
    une convention ou un accord collectif ne peut pas limiter ou
    réglementer l'exercice du droit de grève.
 
-(BUTTON) Procédure
+Procédure
 
    Dans le secteur privé, un mouvement de grève peut être déclenché à tout
    moment.
@@ -2734,7 +2719,7 @@ Droit de grève d'un salarié du secteur privé
    Un arrêt total et concerté du travail d'1/4 d'heure toutes les heures
    pendant 10 jours relève d'un exercice normal du droit de grève.
 
-(BUTTON) Respect de la volonté des non-grévistes
+Respect de la volonté des non-grévistes
 --
 
    Les syndicats et les grévistes sont responsables des abus commis
@@ -2947,12 +2932,12 @@ Réglementation et droit du travail
           + 1.4Suisse
           + 1.5Eurogrève
      * 2Économie
-       (BUTTON) Afficher / masquer la sous-section Économie
+       Économie
           + 2.1Coût économique des grèves
           + 2.2Nombre de journées non travaillées
      * 3Types de grève
      * 4Droit de grève dans le monde
-       (BUTTON) Afficher / masquer la sous-section Droit de grève dans le
+      Droit de grève dans le
        monde
           + 4.1Allemagne
 --
@@ -3647,7 +3632,7 @@ Notes et références[modifier | modifier le code]
 
    Accueil - Actualités - Le droit de grève en France
 
-   (BUTTON)
+
 --
        ligne
 
@@ -3888,10 +3873,10 @@ Définition de "Grève" - Dictionnaire médical
 <page="URL-français-33">
 <text>
      * 2Prérequis
-       (BUTTON) Afficher / masquer la sous-section Prérequis
+       Prérequis
           + 2.1Grève dans la fonction publique
      * 3Les conséquences de la grève
-       (BUTTON) Afficher / masquer la sous-section Les conséquences de la
+       Les conséquences de la
        grève
           + 3.1À l’égard des grévistes
           + 3.2À l’égard de l’employeur
@@ -4325,7 +4310,7 @@ généralisée"
      * Le cabinet
      * Expertise
 --
-   (BUTTON) Recherche
+ Recherche
 
 Comment savoir si une grève est licite ?
 
@@ -4532,7 +4517,7 @@ Droit de grève : Quelles conséquences pour le salarié ?
    façon pour les travailleurs de se faire entendre. L’exercice de ce
    droit constitutionnel a toutefois des répercussions financières
 --
-     * (BUTTON) Sauvegarder l'article
+     Sauvegarder l'article
 
    L'exercice du droit de grève est légal à condition de respecter un
    certain cadre.
@@ -5458,17 +5443,17 @@ Types de grèves :
 </page> §
 <page="URL-français-43">
 <text>
-   (BUTTON)
+  
 
 Grève : la France, championne d’Europe ?
 
    Si des chiffres montrent bien une propension toute française à recourir
    à ce mode de contestation, il n’est pas aussi évident qu'il n'y paraît
    de parler de « culture de la grève » en France.
-   (BUTTON) Lire plus tard
-   (BUTTON) Commenter
+   Lire plus tard
+   Commenter
 --
-   (BUTTON) Partager
+   Partager
    Allemagne
    Grèves
    021987555873_web.jpg
@@ -5883,9 +5868,6 @@ Publications
     2. Conflits au travail et contrôle de la réglementation
     3. Grève
 
-   (BUTTON) (BUTTON)
-   (BUTTON)
-
    Grève
 
 Grève des transports : quels droits pour le salarié ?
@@ -5920,7 +5902,7 @@ Le salarié peut-il quitter son travail plus tôt en cas de grève des
 transports ?
 
 --
-   (BUTTON) Non (BUTTON) Oui
+  Oui
    Articles liés :
      * Droit de grève d'un salarié du secteur privé
      * La grève : qu’est ce qu’une grève ?
