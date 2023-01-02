@@ -18,7 +18,7 @@ then
 	echo "Ce programme demande exactement trois arguments."
 	exit
 fi
-mot=$3 # à modifier -fait 
+mot=$3 # expression régulière du mot cible
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
