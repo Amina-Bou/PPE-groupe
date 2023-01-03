@@ -1,0 +1,381 @@
+   #alternate
+
+     * Luật sư
+     * Trang chủ
+     * Thương mại quốc tế
+     * Thành lập doanh nghiệp
+     * Thay đổi đăng ký kinh doanh
+     * Bảo hộ nhãn hiệu
+     * Bảo hộ kiểu dáng sáng chế
+     * Bảo hộ bản quyền tác giả
+     * Giấy phép Công thương
+     * Giấy phép Y tế - Văn Hóa
+     * Thư viện pháp luật
+
+   (BUTTON)
+
+   Công ty luật TNHH Hà Đô
+     * Giới thiệu
+     * Cơ hội nghề nghiệp
+     * Liên hệ
+     * ____________________
+     * [vni.png] [eng.png]
+
+   Hado Firm Logo
+     * Trang chủ
+     * Luật sư
+          + Tư vấn
+               o Đầu tư nước ngoài
+               o Quản trị và tuân thủ pháp luật
+               o Dân sự, hôn nhân gia đình
+               o Pháp luật lao động, công đoàn
+               o Xây dựng, kinh doanh bất động sản
+               o Tài chính, chứng khoán
+          + Tranh tụng
+               o Các vụ án kinh tế
+               o Các vụ án dân sự
+               o Các vụ án lao động
+               o Các vụ án hình sự
+               o BV đương sự tại Trung tâm Trọng tài
+     * Thương mại quốc tế
+          + Xúc tiến thương mại quốc tế
+          + Tư vấn Hợp đồng thương mại quốc tế
+          + Tư vấn nghiệp vụ Xuất- Nhập khẩu
+          + Vận tải, giao nhận quốc tế
+          + Tư vấn áp mã hàng hóa (HS) XNK
+          + Thủ tục thanh toán quốc tế
+          + Điều kiện thanh toán quốc tế
+          + Điều kiện giao hàng trong XNK
+          + Giải quyết tranh chấp thương mại QTế
+     * Doanh nghiệp
+          + Thành lập công ty
+               o Tư vấn loại hình doanh nghiệp
+               o Tư vấn thành lập doanh nghiệp trọn gói
+               o Thủ tục thành lập công ty TNHH
+               o Thủ tục thành lập công ty Cổ phần
+               o Thành lập cty liên doanh, 100% vốn NN
+               o Thành lập Văn phòng đại diện tại VN
+               o Thủ tục giải thể doanh nghiệp
+               o Thủ tục phá sản doanh nghiệp
+          + Thay đổi ĐK kinh doanh
+               o Chuyển đổi loại hình doanh nghiệp
+               o Thay đổi người đại diện theo pháp luật
+               o Thay đổi thành viên công ty
+               o Thay đổi tên công ty
+               o Thay đổi ngành nghề kinh doanh
+               o Sửa đổi giấy phép đăng ký kinh doanh
+               o Thủ tục bổ sung giấy phép đầu tư
+               o Thay đổi giấy chứng nhận đầu tư
+          + Dịch vụ hỗ trợ khác
+               o Thay đổi địa chỉ trụ sở công ty
+               o Dịch vụ kế toán, kê khai thuế
+               o Công bố tiêu chuẩn chất lượng Sphẩm
+               o Tư vấn doanh nghiệp thường xuyên
+               o Tư vấn XNK, khai báo hải quan
+               o Xin giấy phép nhập khẩu tự động
+               o Thủ tục cấp giấy chứng nhận xuất xứ
+     * Sở hữu trí tuệ
+          + Nhãn hiệu
+               o Đăng ký bảo hộ nhãn hiệu trong nước
+               o Đăng ký bảo hộ nhãn hiệu quốc tế
+               o Đăng ký bảo hộ nhãn hiệu tập thể
+               o Giải quyết tranh chấp về nhãn hiệu
+          + ĐK kiểu dáng, sáng chế
+               o ĐK bảo hộ kiểu dáng công nghiệp
+               o Đăng ký bảo hộ giải pháp hữu ích
+               o Đăng ký bảo hộ sáng chế
+               o Giải quyết tranh chấp về kiểu dáng, SC
+          + Bản quyền tác giả
+               o Đăng ký bản quyền tác giả
+               o Đăng ký bản quyền phần mềm
+               o Đăng ký bảo hộ quyền liên quan
+               o Giải quyết tranh chấp về quyền tác giả
+     * Giấy phép
+          + Bộ/Sở Y tế/Văn hóa
+               o Công bố tiêu chuẩn chất lượng
+               o Công bố lưu hành mỹ phẩm
+               o Nhập khẩu thiết bị y tế
+               o Giấy chứng nhận an toàn VSTP
+               o Giấy phép nhập khẩu văn hóa phẩm
+          + Bộ/Sở Công thương
+               o Nhập khẩu máy móc thiết bị đã qua sử dụng > 10 năm
+               o Giấy phép nhập khẩu hóa chất
+               o Xuất nhập khẩu khoáng sản
+               o Xuất nhập khẩu gỗ
+               o Xin giấy phép nhập khẩu tự động
+     * Thư viện pháp luật
+          + Hiến pháp
+          + Hành Chính
+          + Dân Sự
+          + Pháp luật hình sự
+          + Sở Hữu Trí Tuệ
+          + Đất đai
+          + Điều ước quốc tế
+          + Luật kinh doanh
+          + Hải quan
+          + Luật Doanh nghiệp
+     * Tư vấn pháp luật
+          + Tư vấn pháp luật trực tuyến
+          + Tư vấn pháp luật theo giờ
+          + Tư vấn pháp luật thường xuyên
+          + Tư vấn pháp luật theo vụ việc
+
+   Cầu long biên Hồ gươm Thương mại quốc tế Luật sư Thư viện pháp luật
+    1.   Trang chủ
+    2. tin tức và sự kiện
+    3. ĐÌNH CÔNG VÀ HẬU QUẢ CỦA ĐÌNH CÔNG TRÁI PHÁP LUẬT...
+
+   Danh mục
+     * Giới thiệu
+     * Thương mại quốc tế
+     * Luật Sư
+     * Doanh nghiệp
+     * Giấy phép
+     * Sở hữu trí tuệ
+     * Thư viện pháp luật
+     * Cơ hội nghề nghiệp
+     * Hỏi đáp pháp luật
+     * tin tức và sự kiện
+     * Tư vấn pháp luật
+     * Tư vấn pháp luật
+     * Tư vấn dự án
+
+Bài viết nổi bật
+
+   VAI TRÒ CỦA THƯƠNG HIỆU
+
+VAI TRÒ CỦA THƯƠNG HIỆU
+
+   Những thay đổi lớn tại Bộ Luật lao động 2019
+
+Những thay đổi lớn tại Bộ Luật lao động 2019
+
+   LAO ĐỘNG NỮ TĂNG THÊM ĐẶC QUYỀN TỪ 01/01/2021
+
+LAO ĐỘNG NỮ TĂNG THÊM ĐẶC QUYỀN TỪ 01/01/2021
+
+   Nội quy lao động
+
+Nội quy lao động
+
+   MÃI MÃI TINH THẦN KHỞI NGHIỆP
+
+MÃI MÃI TINH THẦN KHỞI NGHIỆP
+
+   Đặt tên doanh nghiệp - Khó hay dễ
+
+Đặt tên doanh nghiệp - Khó hay dễ
+
+   Liên hệ với chúng tôi
+
+   Công Ty Luật TNHH Hà Đô
+
+   Tổng Đài Tư Vấn Pháp Luật:  1900 62 80
+
+   Địa chỉ: A2008 Xuân Mai Tower, Tô Hiệu, Hà Đông, Hà Nội.
+
+   Điện thoại: (+84-024) 730.86.999
+
+   Email: infor@hado-law.com
+
+   Luật Sư: Lê Minh Tuấn - 090 45 45 299
+
+   IFRAME:
+   https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1566.479793265941
+   7!2d105.77273199256972!3d20.963040962980475!2m3!1f0!2f0!3f0!3m2!1i1024!
+   2i768!4f13.1!3m3!1m2!1s0x313452d6d154365f%3A0x93edb3e72369d373!2sChung%
+   20C%C6%B0%20Xu%C3%A2n%20Mai%20Tower!5e0!3m2!1svi!2s!4v1589962466825!5m2
+   !1svi!2s
+
+ĐÌNH CÔNG VÀ HẬU QUẢ CỦA ĐÌNH CÔNG TRÁI PHÁP LUẬT
+
+   Đình công là sự ngừng việc tạm thời, tự nguyện và có tổ chức của tập
+   thể lao động nhằm đạt được yêu cầu trong quá trình giải quyết tranh
+   chấp lao động. Việc đình công chỉ được tiến hành đối với các tranh chấp
+   lao động tập thể về lợi ích và sau thời hạn nhất định theo quy định của
+   pháp luật. Hiện nay hầu hết, các cuộc đình công diễn ra đều là đình
+   công bất hợp pháp, đa phần đều do bột phát mà không tuân theo trình tự,
+   thủ tục, quy trình nhất định của pháp luật
+
+   Những trường hợp đình công bất hợp pháp bao gồm:
+
+   1. Không phát sinh từ tranh chấp lao động tập thể về lợi ích.
+
+   2. Tổ chức cho những người lao động không cùng làm việc cho một người
+   sử dụng lao động đình công.
+
+   3. Khi vụ việc tranh chấp lao động tập thể chưa được hoặc đang được cơ
+   quan, tổ chức, cá nhân giải quyết theo quy định pháp luật.
+
+   4. Tiến hành tại doanh nghiệp không được đình công thuộc danh mục do
+   Chính phủ quy định.
+
+   5. Khi đã có quyết định hoãn hoặc ngừng đình công.
+
+   Đây là một trong các hình thức để bảo vệ quyền và lợi ích hợp pháp của
+   người lao động khi có sự xâm phạm về mặt lợi ích như tiền lương, thời
+   giờ làm việc, và các khoản hỗ trợ, điều kiện làm việc không đảm bảo.
+   Tuy nhiên, điều kiện để đình công hợp pháp phải được diễn ra một cách
+   có tổ chức và do Ban chấp hành công đoàn lãnh đạo, thực hiện theo trình
+   tự, thủ tục nhất định , phải được tiến hành hòa giải trước,…
+
+   Về mặt bản chất, thì đình công là một biện pháp hữu hiệu tuy nhiên nếu
+   lợi dụng đình công để thực hiện mục đích không chính đáng hoặc không
+   tuân theo quy định của pháp luật thì đình công có thể đem lại hệ lụy
+   cho chính những người tham gia đình công và những người có quyền và lợi
+   ích liên quan.
+
+   Hậu quả của đình công trái pháp luật:
+
+    Thứ nhất,  Khi đã có quyết định của Toà án về cuộc đình công là bất
+   hợp pháp mà người lao động không ngừng đình công, không trở lại làm
+   việc, thì tuỳ theo mức độ vi phạm có thể bị xử lý kỷ luật lao động theo
+   quy định của pháp luật về lao động.
+
+   Trong trường hợp cuộc đình công là bất hợp pháp mà gây thiệt hại cho
+   người sử dụng lao động thì tổ chức công đoàn Người sử dụng lao động xác
+   định giá trị thiệt hại do cuộc đình công bất hợp pháp gây ra bao gồm:
+
+   a)     Thiệt hại về máy móc, thiết bị, nguyên, nhiên vật liệu, bán
+   thành phẩm, thành phẩm hư hỏng sau khi trừ đi giá trị thu hồi do thanh
+   lý, tái chế (nếu có);
+
+   b)      Chi phí khắc phục hậu quả do đình công bất hợp pháp gây ra gồm:
+   Vận hành máy móc thiết bị theo yêu cầu công nghệ; sửa chữa, thay thế
+   máy móc, thiết bị bị hư hỏng; tái chế nguyên nhiên vật liệu, bán thành
+   phẩm, thành phẩm bị hư hỏng; bảo quản nguyên, nhiên vật liệu, bán thành
+   phẩm, thành phẩm trong thời gian diễn ra đình công; vệ sinh môi trường;
+   bồi thường khách hàng hoặc phạt vi phạm hợp đồng do đình công xảy ra.
+   lãnh đạo đình công phải bồi thường thiệt hại theo quy định của pháp
+   luật.
+
+   Thứ hai, đối với Người lợi dụng đình công gây mất trật tự công cộng,
+   làm tổn hại máy, thiết bị, tài sản của người sử dụng lao động; người có
+   hành vi cản trở thực hiện quyền đình công, kích động, lôi kéo, ép buộc
+   người lao động đình công; người có hành vi trù dập, trả thù người tham
+   gia đình công, người lãnh đạo cuộc đình công thì tuỳ theo mức độ vi
+   phạm, có thể bị xử lý vi phạm hành chính hoặc truy cứu trách nhiệm hình
+   sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+   Mức độ xử phạt vi phạm hành chính căn cứ vào Nghị định 95/2013/NĐ- CP.
+   author
+
+   Về tác giả: Lê Minh Tuấn
+
+   Luật sư, Giám đốc / Lawyer, Director
+
+   Tư vấn thương mại quốc tế / International Trade Consultant
+
+   Điện thoại: (024) 730 86 999 / Mobi: 090 45 45 299
+
+   Email: infor@hado-law.com / Email: infor.ssv@gmail.com
+
+   Đánh giá 9.8 / 10 bởi hơn 200 khách hàng lớn tại Việt Nam
+
+Bài viết khác:
+
+     * 26/10/2015 - Bạo lực gia đình
+     * 06/10/2015 - Bước ngoặt đối với xuất nhập khẩu hàng hóa
+     * 29/09/2015 - Phần thưởng khi sinh con một bề "gái"
+     * 18/09/2015 - Làm nhục người khác có tội không?
+     * 18/09/2015 - Đại diện theo ủy quyền và những điểm cần lưu ý
+     * 08/09/2015 - Sự khác nhau giữa thế chấp và bảo lãnh
+     * 07/09/2015 - Doanh nghiệp xã hội
+     * 04/09/2015 - Xâm phạm hình ảnh cá nhân
+     * 06/08/2015 - Bảo lãnh nhà ở hình thành trong tương lai: Mừng ít lo
+       nhiều!
+     * 31/07/2015 - Giải đáp vướng mắc gặp phải khi thực thi Luật doanh
+       nghiệp 2014
+
+   Thương mại quốc tế Thương mại quốc tế
+
+   Tư vấn thương mại quốc tế chuyên nghiệp
+     * Tư vấn hợp đồng
+     * Tư vấn giao nhận vận tải
+     * Tư vấn thanh toán quốc tế
+     * Giải quyết tranh chấp thương mại quốc tế
+
+   Doanh nghiệp Doanh nghiệp
+
+   Tư vấn kinh doanh hiệu quả, chi phí thấp
+     * Tư vấn chuyển đổi kinh doanh
+     * Tư vấn thay đổi thành viên công ty
+     * Tư vấn thành lập công ty cổ phần
+     * Tư vấn thay đổi người đại diện theo pháp luật
+
+   Tư vấn pháp luật Tư vấn pháp luật
+
+   Tư vấn trực tiếp từ Luật sư
+     * Luật sư tư vấn trực tuyến
+     * Luật sư tư vấn trực tiếp theo giờ
+     * Luật sư tư vấn theo vụ việc
+     * Luật sư tư vấn thường xuyên
+
+   Tin tức & Sự kiện
+     * ĐĂNG KÝ KHAI SINH CHO CON TẠI NƠI BỐ MẸ TẠM TRÚ
+     * DOANH NGHIỆP TẠM NGỪNG KINH DOANH
+     * THỦ TỤC ĐĂNG KÝ TIẾP TỤC KINH DOANH TRƯỚC THỜI HẠN ĐÃ THÔNG BÁO
+     * Dịch vụ thay đổi đăng ký kinh doanh uy tín, giá rẻ - Luật Hà Đô
+
+   Thư viện pháp luật
+     * Hiến pháp
+     * Điều ước quốc tế
+     * Các bộ luật Dân sự, Hình sự, Đất đai và Hành chính
+     * Luật kinh doanh, Hải quan
+
+   Hoạt động của Luật Hà Đô
+     * Tư vấn dự án
+     * Tư vấn thương mại quốc tế, xuất nhập khẩu
+     * Hoạt động tranh tụng tòa án
+     * Hoạt động khác
+
+Khách hàng và đối tác
+
+     * Đối tác JICS
+     * Đối tác Công ty TNHH Toa Việt Nam
+     * Đối tác Denso
+     * Đối tác Keng nam
+     * Đối tác Dynapac
+     * Đối tác SumiDenso
+     * Đối tác Vinacco
+     * Đối tác Nam Cường
+     * Đối tác Nomura
+     * Đối tác MTTS
+     * Đối tác HC Globak
+     * Đối tác ABCD
+     * Đối tác Hitech
+     * Đối tác DVC
+     * Đối tác Phan Gia Phúc
+     * Đối tác Hoàng Linh
+     * Đối tác Tây trường sơn
+     * Đối tác Jupiter
+     * Đối tác Denyo
+     * Đối tác Toyota
+     * Đối tác Hamaden
+     * Đối tác Jaguar
+     * Đối tác Panasinic
+     * Đối tác Đông Nam Á
+     * Đối tác Jupiter paci
+
+   Luật sư có nghĩa vụ giữ bí mật thông tin của khách hàng khi thực hiện
+   dịch vụ pháp lý và cả khi đã kết thúc dịch vụ đó, trừ trường hợp được
+   khách hàng đồng ý hoặc theo quy định của pháp luật.
+
+   Luật sư độc lập, trung thực, tôn trọng sự thật khách quan, không vì lợi
+   ích vật chất, tinh thần hoặc bất kỳ áp lực nào khác để làm trái pháp
+   luật và đạo đức nghề nghiệp.
+
+   Liên kết hữu ích
+     * Tra cứu kiểu dáng công nghiệp
+     * Khai thuế qua mạng
+     * Tra cứu nhãn hiệu
+     * Liên đoàn luật sư Việt Nam
+
+   Công Ty Luật TNHH Hà Đô
+
+   Tổng đài tư vấn pháp luật: 1900 62 80
+
+   A2008 Xuân Mai Tower,Tô Hiệu,Hà Đông, HN.
+
+   Email: infor@hado-law.com
+
+   Bản quyền © 2011 bởi luathado.com
