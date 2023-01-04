@@ -1,0 +1,234 @@
+
+.dropdownmenu {
+	background-color: #000000;
+	display: flex;
+	position: fixed;
+	margin-top: 0px;
+	margin:0 auto;
+	width: 100%;
+	justify-content: space-around;
+	}
+
+		
+.dropdownmenu ul {
+	display: none;
+	}
+
+.dropdownmenu,
+.dropdownmenu ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	}
+	
+.dropdownmenu a {
+	display: block;
+	min-width: 150px;
+	height: 65px;
+	line-height: 65px;
+	color: #FFFFFF;
+	background-color: #000000;
+ 	text-align: center;
+ 	text-decoration: none;
+	padding: 3px 10px;
+	transition: all 0.65s;
+	}
+	
+.dropdownmenu > li > a {
+	font-size: 24px;
+        font-weight: 700;
+        border-left: 2px solid #fff;
+	}
+
+.dropdownmenu,
+.dropdownmenu ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	}
+
+        
+.dropdownmenu > li a:hover {
+	background-color: #F0F8FF;
+	}
+	
+.dropdownmenu li {
+	letter-spacing: 2.2px;
+	font-weight: 700;
+	}
+	
+.dropdownmenu li:hover ul {
+	display: block;
+	position: absolute; 
+	top: 41px
+	left: 0px
+	z-index: 100;
+	}
+	
+.dropdownmenu ul a:hover{
+	background-color: #F0F8FF;
+	}
+	
+
+	
+#titrestyle {
+	font-family: Georgia, serif;
+	font-size: 60px;
+	word-spacing: 1px;
+	color: #000000;
+	font-weight: 700;
+	text-decoration: none;
+	font-style: italic;
+	font-variant: normal;
+	text-transform: capitalize;
+	text-align: center;
+	}	
+		
+
+	
+#backgroundcouleur {
+	background: #FFFFFF;
+	}
+	
+	
+	
+	
+	
+.footer-basic {
+  padding:40px 0;
+  background-color:#282d32;;
+  color:#f0f9ff;
+}
+
+.footer-basic ul {
+  padding:0;
+  list-style:none;
+  text-align:center;
+  font-size:18px;
+  line-height:1.6;
+  margin-bottom:0;
+}
+
+.footer-basic li {
+  padding:0 10px;
+}
+
+.footer-basic ul a {
+  color:inherit;
+  text-decoration:none;
+  opacity:0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity:1;
+}
+
+.footer-basic .social {
+  text-align:center;
+  padding-bottom:25px;
+}
+
+.footer-basic .social > a {
+  font-size:24px;
+  width:30px;
+  height:30px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #ccc;
+  margin:0 18px;
+  color:inherit;
+  opacity:0.75;
+}
+
+.footer-basic .social > a:hover {
+  opacity:0.9;
+}
+
+.footer-basic .copyright {
+  margin-top:15px;
+  text-align:center;
+  font-size:13px;
+  color:#aaa;
+  margin-bottom:0;
+}
+ 
+ 
+.boxed {
+-webkit-box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0,0,0,0);
+background: #FFFFFF;
+}
+body#tinymce {
+background: #FFFFFF
+}
+ 
+.stitre1 {
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 24px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: bold;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+text-align: center;
+}
+ 
+.contenupage {
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 20px;
+letter-spacing: 0px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+margin-right: 10px;
+margin-left: 10px;
+}
+img {
+  display: block;
+  width: 30%;
+  margin: auto;
+}
+
+.stitre2 {
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 20px;
+letter-spacing: 0px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+text-align: center;
+}
+
+.titre {
+font-family: "Times New Roman", Helvetica, sans-serif;
+font-size: 80px;
+letter-spacing: 0px;
+word-spacing: 2px;
+color: #202c2d;
+text-shadow: 0 1px #808d93, -1px 0 #cdd2d5, -1px 2px #808d93, -2px 1px #cdd2d5, -2px 3px #808d93, -3px 2px #cdd2d5, -3px 4px #808d93, -4px 3px #cdd2d5, -4px 5px #808d93, -5px 4px #cdd2d5, -5px 6px #808d93, -6px 5px #cdd2d5, -6px 7px #808d93, -7px 6px #cdd2d5, -7px 8px #808d93, -8px 7px #cdd2d5;
+color: #202c2d;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+text-align: center;
+}
+
+        }))
+
+        #8AFFDC
+ 
