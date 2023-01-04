@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
 
 #===============================================================================
+# VOUS DEVEZ MODIFIER CE BLOC DE COMMENTAIRES.
+# Ici, on décrit le comportement du programme.
+# Indiquez, entre autres, comment on lance le programme et quels sont
+# les paramètres.
+# La forme est indicative, sentez-vous libres d'en changer !
+# Notamment pour quelque chose de plus léger, il n'y a pas de norme en bash.
 #===============================================================================
 
 
@@ -20,7 +26,7 @@ basename=$(basename -s .txt $fichier_urls)
 echo "<html><head><link rel="stylesheet" href="style.css"></head><body>" > $fichier_tableau
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
-echo "<table class="greyGridTable">" >> $fichier_tableau
+echo "<table>" >> $fichier_tableau
 echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>dump_html</th><th>dump_text</th><th>occurrences</th><th>contextes</th><th>concordances</th></tr>" >> $fichier_tableau
 
 lineno=1;
