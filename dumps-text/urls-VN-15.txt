@@ -220,5 +220,3 @@ Nội
      * Đài truyền hình kỹ thuật số VTC
 
    [INS: :INS]
-
-   IFRAME: https://vtcnews.vn

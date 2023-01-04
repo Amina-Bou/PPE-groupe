@@ -30,7 +30,6 @@
      * Multimedia
      * Ảnh
      * Toàn văn
-     * Echip
      * Dân tộc - Tôn giáo
      * Giảm nghèo bền vững
      * Thị trường tiêu dùng
@@ -61,7 +60,7 @@
 
 vetnamnet
 
-   #Năm mới 2023
+   #AFF Cup 2022
 
      *
 
@@ -173,132 +172,146 @@ Biểu tình rầm rộ ở Paris phản đối giá cả leo thang
      * biểu tình
      * Paris
 
+   Tết quý mão
+     * Dự báo thời tiết
+     * Lời chúc tết ý nghĩa
+
 Tin nổi bật
 
-   Hoàng tử Harry bày tỏ mong muốn về mối quan hệ với cha và anh trai
+   Video phi công Ukraine mặc đồ 'ông già Noel' phóng tên lửa từ máy bay
+
+Video phi công Ukraine mặc đồ 'ông già Noel' phóng tên lửa từ máy bay
+
+   Thế giới
+   Bức ảnh hiếm chụp được toàn bộ hành tinh trong hệ Mặt trời
+
+Bức ảnh hiếm chụp được toàn bộ hành tinh trong hệ Mặt trời
+
+   Thế giới
+
+   Mỹ cam kết bảo vệ Hàn Quốc trước mọi hành động thù địch
+
+Mỹ cam kết bảo vệ Hàn Quốc trước mọi hành động thù địch
+
+   Thế giới
+
+   Số phận thảm thương của những đứa trẻ bị gắn mác 'phù thủy' ở Nigeria
    [video.svg]
 
-Hoàng tử Harry bày tỏ mong muốn về mối quan hệ với cha và anh trai
+Số phận thảm thương của những đứa trẻ bị gắn mác 'phù thủy' ở Nigeria
 
    Video
-   Ukraine - EU hội đàm hỗ trợ quân sự, cựu tướng NATO dự đoán thời điểm
-   ngừng bắn
 
-Ukraine - EU hội đàm hỗ trợ quân sự, cựu tướng NATO dự đoán thời điểm ngừng
-bắn
+   Ukraine công bố thiệt hại kinh tế, Anh hứa giao vũ khí mới
 
-   Thế giới
-   Những kỷ lục Guinness thế giới kỳ lạ về đôi mắt
-   [video.svg]
-
-Những kỷ lục Guinness thế giới kỳ lạ về đôi mắt
-
-   Video
-   Hình ảnh người vô gia cư Ấn Độ run rẩy trong cái lạnh 'cắt da thịt'
-
-Hình ảnh người vô gia cư Ấn Độ run rẩy trong cái lạnh 'cắt da thịt'
+Ukraine công bố thiệt hại kinh tế, Anh hứa giao vũ khí mới
 
    Thế giới
-   Mỹ bác tin thảo luận tập trận hạt nhân chung với Hàn Quốc
 
-Mỹ bác tin thảo luận tập trận hạt nhân chung với Hàn Quốc
+   Iran dọa trả thù những người đứng sau vụ ám sát Tướng Soleimani
 
-   Thế giới
-   Bỉ kiểm tra nước thải máy bay tới từ Trung Quốc để tìm biến thể
-   Covid-19
-
-Bỉ kiểm tra nước thải máy bay tới từ Trung Quốc để tìm biến thể Covid-19
+Iran dọa trả thù những người đứng sau vụ ám sát Tướng Soleimani
 
    Thế giới
-   Ukraine nói Nga sẽ tập kích dài ngày bằng UAV, lộ diện điểm nóng mới ở
-   miền đông
 
-Ukraine nói Nga sẽ tập kích dài ngày bằng UAV, lộ diện điểm nóng mới ở miền
-đông
+   Số ca nhiễm Covid-19 đạt đỉnh ở tỉnh miền đông Trung Quốc
 
-   Thế giới
-   Những vụ giải cứu trẻ em rơi xuống giếng sâu trên thế giới
-
-Những vụ giải cứu trẻ em rơi xuống giếng sâu trên thế giới
+Số ca nhiễm Covid-19 đạt đỉnh ở tỉnh miền đông Trung Quốc
 
    Thế giới
-   Mối nguy khó lường từ thiết bị điện tử sử dụng trên chiến trường
 
-Mối nguy khó lường từ thiết bị điện tử sử dụng trên chiến trường
+   Tổng thống Philippines muốn đưa quan hệ với Trung Quốc lên 'mức cao
+   hơn'
 
-   Thế giới
-   Video súng bắn tỉa công phá Nga lọt vào tay binh sĩ Ukraine
-
-Video súng bắn tỉa công phá Nga lọt vào tay binh sĩ Ukraine
+Tổng thống Philippines muốn đưa quan hệ với Trung Quốc lên 'mức cao hơn'
 
    Thế giới
-   Nga tố Ukraine tập kích cơ sở năng lượng, Kiev nói Moscow sắp hết tên
-   lửa
 
-Nga tố Ukraine tập kích cơ sở năng lượng, Kiev nói Moscow sắp hết tên lửa
+   Ba Lan tố Đức từ chối đàm phán bồi thường thiệt hại trong Thế chiến II
 
-   Thế giới
-   Trực thăng va chạm trên không ở Australia, 4 người thiệt mạng
-
-Trực thăng va chạm trên không ở Australia, 4 người thiệt mạng
+Ba Lan tố Đức từ chối đàm phán bồi thường thiệt hại trong Thế chiến II
 
    Thế giới
-   Kiev bị UAV tập kích, NATO cáo buộc Nga muốn kéo dài xung đột
 
-Kiev bị UAV tập kích, NATO cáo buộc Nga muốn kéo dài xung đột
+   Nổ lớn ở thành phố miền nam Ukraine, Nga tập kích tổ hợp HIMARS
 
-   Thế giới
-   Lý do Morocco áp lệnh cấm nhập cảnh đối với du khách đến từ Trung Quốc
-
-Lý do Morocco áp lệnh cấm nhập cảnh đối với du khách đến từ Trung Quốc
+Nổ lớn ở thành phố miền nam Ukraine, Nga tập kích tổ hợp HIMARS
 
    Thế giới
-   Người dân thế giới đã làm gì trong ngày đầu năm mới?
 
-Người dân thế giới đã làm gì trong ngày đầu năm mới?
+   Thủ tướng Campuchia dọa cách chức cháu trai vì ngoại tình
+
+Thủ tướng Campuchia dọa cách chức cháu trai vì ngoại tình
 
    Thế giới
+
+   Hạ viện Mỹ chưa chọn được chủ tịch mới
+
+Hạ viện Mỹ chưa chọn được chủ tịch mới
+
+   Thế giới
+
+   Bộ Quốc phòng Nga thông báo số binh sĩ tử vong trong vụ tấn công đêm
+   giao thừa
+
+Bộ Quốc phòng Nga thông báo số binh sĩ tử vong trong vụ tấn công đêm giao
+thừa
+
+   Thế giới
+
+   EU đề nghị tặng vắc xin ngừa Covid-19 cho Trung Quốc
+
+EU đề nghị tặng vắc xin ngừa Covid-19 cho Trung Quốc
+
+   Thế giới
+
+   Ô tô lao xuống vách đá từ độ cao 76m, người trên xe đều sống sót
+
+Ô tô lao xuống vách đá từ độ cao 76m, người trên xe đều sống sót
+
+   Thế giới
+
    (BUTTON) Xem thêm icon-loading
 
 Quân sự
 
    [loading.svg]
 
-Mối nguy khó lường từ thiết bị điện tử sử dụng trên chiến trường
+Video phi công Ukraine mặc đồ 'ông già Noel' phóng tên lửa từ máy bay
 
+   Mối nguy khó lường từ thiết bị điện tử sử dụng trên chiến trường Mối
+   nguy khó lường từ thiết bị điện tử sử dụng trên chiến trường
    Video súng bắn tỉa công phá Nga lọt vào tay binh sĩ Ukraine Video súng
    bắn tỉa công phá Nga lọt vào tay binh sĩ Ukraine
    Video lính Nga dùng lựu pháo D-20 phá hủy các mục tiêu ở Ukraine Video
    lính Nga dùng lựu pháo D-20 phá hủy các mục tiêu ở Ukraine
-   Video lính Nga sử dụng tên lửa chống tăng ‘vòi nước’ tham chiến ở
-   Ukraine Video lính Nga sử dụng tên lửa chống tăng ‘vòi nước’ tham chiến
-   ở Ukraine
 
 Thế giới đó đây
 
    [loading.svg]
 
-Người dân thế giới đã làm gì trong ngày đầu năm mới?
+Bức ảnh hiếm chụp được toàn bộ hành tinh trong hệ Mặt trời
 
-   Xem pháo hoa rực rỡ mừng năm mới tại Australia và New Zealand Xem pháo
-   hoa rực rỡ mừng năm mới tại Australia và New Zealand
-   Chùm ảnh người dân khắp thế giới trang hoàng lộng lẫy đón giao thừa
-   Chùm ảnh người dân khắp thế giới trang hoàng lộng lẫy đón giao thừa
-   Hình ảnh thế giới rộn ràng chuẩn bị đón năm mới 2023 Hình ảnh thế giới
-   rộn ràng chuẩn bị đón năm mới 2023
+   Tổng thống Philippines muốn đưa quan hệ với Trung Quốc lên 'mức cao
+   hơn' Tổng thống Philippines muốn đưa quan hệ với Trung Quốc lên 'mức
+   cao hơn'
+   Thủ tướng Campuchia dọa cách chức cháu trai vì ngoại tình Thủ tướng
+   Campuchia dọa cách chức cháu trai vì ngoại tình
+   Người dân thế giới đã làm gì trong ngày đầu năm mới? Người dân thế giới
+   đã làm gì trong ngày đầu năm mới?
 
 Bình luận quốc tế
 
    [loading.svg]
 
-Các xu hướng định hình thế giới năm 2023
+Năm 2023 sẽ đầy thách thức với ông Trump
 
+   Các xu hướng định hình thế giới năm 2023 Các xu hướng định hình thế
+   giới năm 2023
    Những sự kiện quốc tế lớn chờ câu trả lời trong năm 2023 Những sự kiện
    quốc tế lớn chờ câu trả lời trong năm 2023
    Nhìn lại một năm thử tên lửa kỷ lục của Triều Tiên Nhìn lại một năm thử
    tên lửa kỷ lục của Triều Tiên
-   Vì sao chuyến đi bất ngờ đến Mỹ của Tổng thống Ukraine rất quan trọng?
-   Vì sao chuyến đi bất ngờ đến Mỹ của Tổng thống Ukraine rất quan trọng?
 
 Chân dung
 
@@ -315,25 +328,26 @@ Người đàn ông Mỹ cứu sống hàng chục người mắc kẹt giữa b
 
 [mucvideo.svg] video
 
-   IFRAME: https://embed.vietnamnet.vn/v/006FMD.html
+   IFRAME: https://embed.vietnamnet.vn/v/006FPL.html
 
-TP.HCM: Du khách nô nức tham quan vườn hoa hướng dương 12000 m2
-
-   video 16x9 [play-button.svg]
-
-TP.HCM: Phát hiện thi thể bé gái sơ sinh trên vỉa hè
+Văn Lâm ráo riết tìm bố trên sân Mỹ Đình sau chiến thắng trước Myanmar
 
    video 16x9 [play-button.svg]
 
-Trước giờ Việt Nam đấu Myanmar: Không khí ảm đạm, 'cò vé' ế ẩm
+Số phận thảm thương của những đứa trẻ bị gắn mác 'phù thủy' ở Nigeria
 
    video 16x9 [play-button.svg]
 
-Những kỷ lục Guinness thế giới kỳ lạ về đôi mắt
+Thầy trò tuyển Việt Nam ăn vội trên xe, tức tốc ra sân bay ngay sau trận
+thắng Myanmar
 
    video 16x9 [play-button.svg]
 
-Hoàng tử Harry bày tỏ mong muốn về mối quan hệ với cha và anh trai
+Mẹ bầu cần đặc biệt lưu ý những gì khi bị cảm, cúm?
+
+   video 16x9 [play-button.svg]
+
+HLV Park không 'ngại' CĐV Indonesia, tin tuyển Việt Nam thắng bán kết
 
      * vpremium-menu-logo
      * Chính trị
@@ -359,7 +373,6 @@ Hoàng tử Harry bày tỏ mong muốn về mối quan hệ với cha và anh t
      * Multimedia
      * Ảnh
      * Toàn văn
-     * Echip
      * Dân tộc - Tôn giáo
      * Giảm nghèo bền vững
      * Thị trường tiêu dùng

@@ -1,3 +1,5 @@
+#!/bin/python3
+
 from pyvi import ViTokenizer
 import errno
 import fileinput

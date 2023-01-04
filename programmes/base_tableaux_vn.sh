@@ -36,7 +36,7 @@ lineno=1;
 while read -r URL; do
 
 	#récupération des pages web utilisées en format html
-	curl $URL > "./aspirations/$basename-$lineno.html"
+	aspirations=$(curl $URL > "./aspirations/$basename-$lineno.html")
 	
 	echo -e "\tURL : $URL";
 	# la façon attendue, sans l'option -w de cURL
@@ -62,10 +62,8 @@ while read -r URL; do
 		dump=$(lynx -dump -nolist -assume_charset=$charset -display_charset=$charset $URL)
 		if [[ $charset -ne "UTF-8" && -n "$dump" ]]
 		then
-			dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)	
-
-			python3.9 Tokenizer/Tokenizer_VN.py ./dumps-text/$basename-$lineno.txt $dump > ./dumps-text/$basename-$lineno.txt
-
+			dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)
+			# dump_vn=$(echo "$dump" | python3.9 Tokenizer/Tokenizer_VN.py)
 		fi
 	else
 		echo -e "\tcode différent de 200 utilisation d'un dump vide"
@@ -73,20 +71,20 @@ while read -r URL; do
 		charset=""
 	fi
 
-
 	# Compte des occurrences 
-	compte=$(echo $dump | grep -o -i -P "$mot" | wc -l)
+	compte=$(echo $dump_vn | grep -o -i -P "$mot" | wc -l)
 
 	echo "$dump" > "./dumps-text/$basename-$lineno.txt"
+	dump_vn=$(cat "./dumps-text/$basename-$lineno.txt" | python3.9 Tokenizer/Tokenizer_VN.py > "./dumps-tokenize/$basename-$lineno.txt")
 	
 	# construction du contexte 
-	echo "$dump" | grep -P -A2 -B2 $mot  > "./contextes/$basename-$lineno.txt"
+	echo "$dump_vn" | grep -P -A2 -B2 $mot  > "./contextes/$basename-$lineno.txt"
 	
 	# construction des concordances
 
  	bash programmes/concordance.sh ./dumps-text/$basename-$lineno.txt $mot > ./concordances/$basename-$lineno.html
 
-	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$basename-$lineno.txt">contextes</a></td><td><a href="../concordances/$basename-$lineno.html">concordance</a></td></tr>" >> $fichier_tableau
+	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-tokenize/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$basename-$lineno.txt">contextes</a></td><td><a href="../concordances/$basename-$lineno.html">concordance</a></td></tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 done < $fichier_urls

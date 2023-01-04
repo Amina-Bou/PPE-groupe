@@ -30,7 +30,6 @@
      * Multimedia
      * Ảnh
      * Toàn văn
-     * Echip
      * Dân tộc - Tôn giáo
      * Giảm nghèo bền vững
      * Thị trường tiêu dùng
@@ -61,7 +60,7 @@
 
 vetnamnet
 
-   #Năm mới 2023
+   #AFF Cup 2022
 
      *
 
@@ -183,89 +182,109 @@ Nghìn công nhân giày Tam Cường đình công, yêu cầu tăng tiền bữ
      * công nhân đình công
      * Tăng lương
 
+   Tết quý mão
+     * Dự báo thời tiết
+     * Lời chúc tết ý nghĩa
+
 Tin nổi bật
 
-   Phó Chủ tịch Đồng Tháp: Sẽ thực hiện nội soi để xác định vị trí của bé
-   trai
+   Cục Đăng kiểm nói về việc giám đốc trung tâm đăng kiểm 'không biết chữ'
 
-Phó Chủ tịch Đồng Tháp: Sẽ thực hiện nội soi để xác định vị trí của bé trai
-
-   Thời sự
-   Giải cứu bé trai 10 tuổi, đề nghị hỗ trợ thiết bị quan sát trong lòng
-   ống
-
-Giải cứu bé trai 10 tuổi, đề nghị hỗ trợ thiết bị quan sát trong lòng ống
+Cục Đăng kiểm nói về việc giám đốc trung tâm đăng kiểm 'không biết chữ'
 
    Thời sự
-   Kinh tế-xã hội phục hồi tích cực, đạt nhiều kết quả khá toàn diện
+   Hà Nội thu hồi danh hiệu ‘Công dân Thủ đô ưu tú’ đối với 2 cá nhân
 
-Kinh tế-xã hội phục hồi tích cực, đạt nhiều kết quả khá toàn diện
+Hà Nội thu hồi danh hiệu ‘Công dân Thủ đô ưu tú’ đối với 2 cá nhân
+
+   Thời sự
+
+   Xử nghiêm minh các vụ án tham nhũng, tiêu cực, không chịu bất kỳ sức ép
+   nào
+
+Xử nghiêm minh các vụ án tham nhũng, tiêu cực, không chịu bất kỳ sức ép nào
 
    Chính trị
-   Khắp các ngả đường TP.HCM kẹt cứng ngày đầu đi làm
 
-Khắp các ngả đường TP.HCM kẹt cứng ngày đầu đi làm
+   Truyền thông quốc tế nói về nỗ lực của Việt Nam giải cứu cháu bé rơi
+   xuống trụ bê tông
 
-   Thời sự
-   Hội nghị Chính phủ với các địa phương tổng kết công tác năm 2022, triển
-   khai nhiệm vụ 2023
-
-Hội nghị Chính phủ với các địa phương tổng kết công tác năm 2022, triển khai
-nhiệm vụ 2023
+Truyền thông quốc tế nói về nỗ lực của Việt Nam giải cứu cháu bé rơi xuống
+trụ bê tông
 
    Chính trị
-   Cháu bé 10 tuổi rơi xuống ống: Trụ bê tông sắp được kéo lên
 
-Cháu bé 10 tuổi rơi xuống ống: Trụ bê tông sắp được kéo lên
+   Tạm đình chỉ 20 ngày tài xế vừa lái xe vừa nhắn tin ở Đắk Lắk
 
-   Thời sự
-   Dự báo thời tiết 3/1: Bắc Bộ tiếp tục rét, miền Trung sắp mưa lớn kéo
-   dài
-
-Dự báo thời tiết 3/1: Bắc Bộ tiếp tục rét, miền Trung sắp mưa lớn kéo dài
+Tạm đình chỉ 20 ngày tài xế vừa lái xe vừa nhắn tin ở Đắk Lắk
 
    Thời sự
-   Bộ Công an từng cảnh báo sớm về đường dây lừa đảo 'việc nhẹ lương cao'
 
-Bộ Công an từng cảnh báo sớm về đường dây lừa đảo 'việc nhẹ lương cao'
-
-   Thời sự
-   Lực lượng chống khủng bố khổ luyện trong thời tiết rét buốt
-
-Lực lượng chống khủng bố khổ luyện trong thời tiết rét buốt
-
-   Thời sự
-   Bên trong hệ thống một cửa cấp huyện như 'khách sạn 5 sao' ở Bắc Giang
-
-Bên trong hệ thống một cửa cấp huyện như 'khách sạn 5 sao' ở Bắc Giang
-
-   Thời sự
-   Yêu thương và chia sẻ sẽ truyền cảm hứng, tạo ra năng lượng diệu kỳ
-
-Yêu thương và chia sẻ sẽ truyền cảm hứng, tạo ra năng lượng diệu kỳ
-
-   Thời sự
-   Vụ tiêu cực đăng kiểm xe cơ giới: Lộ diện ‘ông trùm’ đứng sau
-
-Vụ tiêu cực đăng kiểm xe cơ giới: Lộ diện ‘ông trùm’ đứng sau
-
-   Thời sự
-   Bộ GTVT hỗ trợ cứu cháu bé rơi xuống ống trụ bê tông
-
-Bộ GTVT hỗ trợ cứu cháu bé rơi xuống ống trụ bê tông
-
-   Thời sự
-   Hơn 60 giờ chờ phép màu trong vụ giải cứu bé trai rơi xuống ống trụ bê
+   Phó Chủ tịch Đồng Tháp nói về vị trí bé trai gặp nạn trong ống trụ bê
    tông
 
-Hơn 60 giờ chờ phép màu trong vụ giải cứu bé trai rơi xuống ống trụ bê tông
+Phó Chủ tịch Đồng Tháp nói về vị trí bé trai gặp nạn trong ống trụ bê tông
+[icon-video.svg]
 
    Thời sự
-   Người đàn ông bất ngờ bị đâm chết khi nằm võng
 
-Người đàn ông bất ngờ bị đâm chết khi nằm võng
+   Cây cầu cạn có trụ cao 83m sừng sững giữa núi rừng Lào Cai
+
+Cây cầu cạn có trụ cao 83m sừng sững giữa núi rừng Lào Cai
 
    Thời sự
+
+   Bắt buộc lắp cabin điện tử, chi phí học lái xe sẽ tăng
+
+Bắt buộc lắp cabin điện tử, chi phí học lái xe sẽ tăng
+
+   Thời sự
+
+   Bắt đầu gắn cáp kéo ống trụ bê tông cứu bé trai
+
+Bắt đầu gắn cáp kéo ống trụ bê tông cứu bé trai
+
+   Thời sự
+
+   Dự báo thời tiết ngày 4/1: Mưa trải từ Bắc vào Trung Bộ, trời rét đậm
+
+Dự báo thời tiết ngày 4/1: Mưa trải từ Bắc vào Trung Bộ, trời rét đậm
+
+   Thời sự
+
+   Những dự án giao thông lớn sẽ khởi công trong năm 2023
+
+Những dự án giao thông lớn sẽ khởi công trong năm 2023
+
+   Thời sự
+
+   Lý do phải liên tục thay đổi phương án cứu nạn cháu bé 10 tuổi
+
+Lý do phải liên tục thay đổi phương án cứu nạn cháu bé 10 tuổi
+[icon-video.svg]
+
+   Thời sự
+
+   Khoan xoáy nước để đẩy nhanh tiến độ cứu nạn cháu bé rơi xuống ống bê
+   tông
+
+Khoan xoáy nước để đẩy nhanh tiến độ cứu nạn cháu bé rơi xuống ống bê tông
+[icon-video.svg]
+
+   Thời sự
+
+   2 bé gái ở TP.HCM mất tích được tìm thấy tại Cà Mau
+
+2 bé gái ở TP.HCM mất tích được tìm thấy tại Cà Mau
+
+   Thời sự
+
+   ‘Không thể điều chỉnh giá điện như chu kỳ giá xăng’
+
+‘Không thể điều chỉnh giá điện như chu kỳ giá xăng’
+
+   Thời sự
+
    (BUTTON) Xem thêm icon-loading
 
 Quốc phòng
@@ -326,25 +345,26 @@ Giảm thuế bảo vệ môi trường đối với xăng xuống 2.000 đồng
 
 [mucvideo.svg] video
 
-   IFRAME: https://embed.vietnamnet.vn/v/006DRS.html
+   IFRAME: https://embed.vietnamnet.vn/v/006FPL.html
 
-TP.HCM: Cứu thoát 2 người mắc kẹt trong đám cháy xưởng sản xuất mây tre đan
-
-   video 16x9 [play-button.svg]
-
-Quang Hải đặt mục tiêu ghi bàn trong trận đối đầu Myanmar trên sân Mỹ Đình
+Văn Lâm ráo riết tìm bố trên sân Mỹ Đình sau chiến thắng trước Myanmar
 
    video 16x9 [play-button.svg]
 
-HLV Myanmar ao ước có một thủ thành như Đặng Văn Lâm
+Số phận thảm thương của những đứa trẻ bị gắn mác 'phù thủy' ở Nigeria
 
    video 16x9 [play-button.svg]
 
-Tắm nước lạnh vào mùa đông có an toàn không?
+Thầy trò tuyển Việt Nam ăn vội trên xe, tức tốc ra sân bay ngay sau trận
+thắng Myanmar
 
    video 16x9 [play-button.svg]
 
-Rima Thanh Vy: ‘Muốn được đóng phim quốc tế, dù nhỏ cũng được’
+Mẹ bầu cần đặc biệt lưu ý những gì khi bị cảm, cúm?
+
+   video 16x9 [play-button.svg]
+
+HLV Park không 'ngại' CĐV Indonesia, tin tuyển Việt Nam thắng bán kết
 
      * vpremium-menu-logo
      * Chính trị
@@ -370,7 +390,6 @@ Rima Thanh Vy: ‘Muốn được đóng phim quốc tế, dù nhỏ cũng đư�
      * Multimedia
      * Ảnh
      * Toàn văn
-     * Echip
      * Dân tộc - Tôn giáo
      * Giảm nghèo bền vững
      * Thị trường tiêu dùng
