@@ -52,115 +52,11 @@ Strikes
 
    Strikes are planned which will affect TfL services.
 
-National rail strikes - 24 to 27 December 2022
-
-   Strikes will affect national rail services nationwide. Most
-   TfL services, including most of the Tube, will continue to run.
-   However, we expect some disruption on the following lines:
-     * Elizabeth line
-     * London Overground
-     * Bakerloo line between Queen's Park and Harrow & Wealdstone
-     * Circle line
-     * District line between
-          + Richmond and Turnham Green
-          + Wimbledon and Parsons Green
-
-   If you are travelling between 24 and 27 December:
-     * Plan ahead and check your travel
-     * For more information on how national rail services are affected,
-       see the National Rail website
-
-Christmas and New Year travel
-
-   From Friday 23 December 2022 to Monday 2 January 2023, there are
-   planned works and service changes for the Christmas and New Year
-   period. For details of how services not affected by strikes are
-   running, see our Christmas and New Year travel web pages.
-
-Saturday 24 December (Christmas Eve)
-
-Tube
-
-   Complete journeys on the following lines by 15:00
-     * District line between
-          + Wimbledon and Parsons Green
-          + Richmond and Turnham Green
-     * Bakerloo line between Queen's Park and Harrow & Wealdstone
-
-   There may be a reduced service in the afternoon on the Circle line.
-
-London Overground
-
-   Complete journeys on the following lines by 11:00
-     * Stratford to Richmond/Clapham Junction
-     * Gospel Oak to Barking
-     * Romford to Upminster
-
-   Complete journeys on the following lines by 13:00
-     * Euston to Watford Junction
-     * Highbury & Islington to Clapham Junction/Crystal Palace/West
-       Croydon/New Cross
-     * Liverpool Street to Enfield Town/Chingford/Cheshunt
-
-Elizabeth line
-
-     * Complete journeys by 14:00
-
-Other services
-
-   For details of what time services will finish on lines not affected by
-   the strikes, visit our Christmas Eve travel web page.
-
-Sunday 25 December (Christmas Day)
-
-   The only transport running on Christmas Day will be taxi and private
-   hire services, Santander Cycles, coaches, Dial-a-Ride (for registered
-   members only) and electric scooter rental trials in some London
-   Boroughs.
-
-   For more details, see our Christmas Day travel web page.
-
-Monday 26 December (Boxing Day)
-
-Tube
-
-   No service expected all day between:
-     * Wimbledon and Parsons Green
-     * Richmond and Turnham Green
-     * Queen's Park and Harrow & Wealdstone
-
-   There will be a reduced service on the Circle line.
-
-Elizabeth line
-
-     * No service
-
-London Overground
-
-     * No service
-
-Other services
-
-   For details of how services not affected by strikes are running, see
-   our Boxing Day travel web page
-
-Tuesday 27 December
-
-   Services affected by strikes are expected to experience some
-   disruption. This may continue until the afternoon.
-     * Plan ahead and check your travel.
-
-Other services
-
-   For details of Elizabeth line and London Overground planned works, and
-   for details of how services not affected by strikes are running, see
-   our 27 December travel web page.
-
 National rail strikes - January 2023
 
    Strikes will affect national rail services nationwide. Most
    TfL services, including most of the Tube, will continue to run.
-   However, there will be some disruption on London Overground, the
+   However, there is some disruption expected on London Overground, the
    Elizabeth line, the Circle line and parts of the District and Bakerloo
    lines.
 
@@ -186,7 +82,7 @@ Tube
 
 District line
 
-   Limited services will run 07:30-18:30 (no services outside these
+   Limited services will run 07:30-18:00 (no services outside these
    times) between:
      * Wimbledon and Parsons Green
      * Richmond and Turnham Green
@@ -226,7 +122,7 @@ Paddington - Heathrow and Reading
 London Overground
 
      * Reduced service
-     * Services will run 07:30-18:30
+     * Services will run 07:30-18:00
      * Night Overground will not run on strike days
 
 Richmond/Clapham Junction - Stratford
@@ -316,22 +212,6 @@ School routes
    671
      __________________________________________________________________
 
-My Buses
-
-   (BUTTON) Edit
-
-Find a bus
-
-   Search for Bus route or stop name ____________________
-   Search
-
-Find a bus stop or route
-
-   For live bus arrivals, status and timetables.
-   Look for the star to favourite
-   Search for stations, stops and piers (e.g. Bank) ____________________
-   Go
-
 Use our travel tools
 
    Check before you travel and plan ahead using our travel tools. To keep
@@ -357,6 +237,22 @@ Accessibility
    to offer Turn Up and Go assistance. However, if trains are too full and
    this is not possible, we'll assist with alternative routes or will
    provide a taxi.
+
+My Buses
+
+   (BUTTON) Edit
+
+Find a bus
+
+   Search for Bus route or stop name ____________________
+   Search
+
+Find a bus stop or route
+
+   For live bus arrivals, status and timetables.
+   Look for the star to favourite
+   Search for stations, stops and piers (e.g. Bank) ____________________
+   Go
 
 About TfL
 

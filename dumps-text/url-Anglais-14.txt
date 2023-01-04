@@ -596,73 +596,8 @@ Usage notesEdit
 
 Derived termsEdit
 
-     * awestruck
-     * counterstrike
-     * cunt-struck
-     * double-struck
-     * dumbstruck
-     * flystruck
-     * fuckstruck
-     * gobstruck
-     * grief-stricken
-     * heartstricken
-     * horror-struck
-     * lightning never strikes twice in the same place
-     * light-struck
-     * love-struck
-     * misstrike
-     * moonstruck
-     * outstrike
-     * overstrike
-     * panic-stricken
-     * planet-struck
-     * poverty-stricken
-     * restrike
-     * stagestruck
-     * star-struck
-     * strike a balance
-     * strike a bargain
-     * strikeable
-     * strike a blow
-     * strike a chord
-     * strike a false note
-     * strike a jury
-     * strike a lead
-     * strike a light
-     * strike a medium
-     * strike a nerve
-     * strike a stroke
-     * strike back
-     * strike down
-     * strike dumb
-     * strikee
-     * strikefire
-     * strike gold
-     * strike hands
-     * strike in
-     * strike it lucky
-     * strike it rich
-     * strike lucky
-     * strike me pink
-     * strike off
-     * strike oil
-     * strike one's flag
-     * strike out
-     * striker
-     * strike sail
-     * strike tallies
-     * strike the colors
-     * strike through
-     * strike up
-     * strike while the iron is hot
-     * strike work
-     * striking distance
-     * sunstricken
-     * sunstrike
-     * terror-stricken
-     * thunderstruck
-     * wonderstruck
-
+   Lua error in Module:collation at line 97: attempt to index upvalue
+   'custom_sort_function' (a nil value)
 
 TranslationsEdit
 
@@ -684,7 +619,7 @@ TranslationsEdit
      * Hungarian: kitöröl (hu)
      * Italian: cancellare (it)
      * Japanese: 消す (ja) (kesu)
-
+     *
      * Malayalam: വെട്ടുക (ml) (veṭṭuka)
      * Maori: muru, muku
      * Norwegian: stryke
@@ -744,7 +679,7 @@ TranslationsEdit
      * Kalmyk: цокх (tsokh)
      * Khmer: វាយ (km) (viəy)
      * Korean: please add this translation if you can
-
+     *
      * Lao: please add this translation if you can
      * Latin: feriō, cūdō, pulsō, plangō
      * Low German:
@@ -789,14 +724,14 @@ TranslationsEdit
 
    transitive: to give, as a blow; to give force to
      * Finnish: iskeä (fi)
-
+     *
      * Swedish: slå (sv), träffa (sv)
 
    intransitive: to deliver a quick blow or thrust
      * Bulgarian: удрям (bg) (udrjam)
      * Finnish: iskeä (fi), hakata (fi), takoa (fi)
      * French: frapper (fr)
-
+     *
      * Greek: πλήττω (el) (plítto)
      * Swedish: slå (sv)
 
@@ -807,7 +742,7 @@ TranslationsEdit
      * Finnish: lyödä (fi)
      * French: frapper (fr)
      * German: prägen (de)
-
+     *
      * Italian: coniare (it)
      * Russian: чека́нить (ru) impf (čekánitʹ), отчека́нить (ru) pf
        (otčekánitʹ)
@@ -816,46 +751,52 @@ TranslationsEdit
 
    dated: to run upon a rock or bank
      * Finnish: ajaa karille
+     *
 
    to cause to sound by one or more beats
      * Finnish: lyödä (fi)
      * French: battre (fr) (drums)
-
+     *
      * Swedish: slå (sv), anslå (sv)
 
    to sound by percussion
      * Finnish: lyödä (fi)
-
+     *
      * Swedish: anslå (sv)
 
    to cause or produce by a stroke
      * Finnish: räväyttää
+     *
 
    to cause to ignite by friction
      * Bulgarian: драсвам (bg) (drasvam)
      * Finnish: raapaista
+     *
 
    to thrust in; to cause to enter or penetrate
      * Bulgarian: пронизвам (bg) (pronizvam)
      * Finnish: tunkea (fi)
+     *
 
    to punish; to afflict; to smite
      * Bulgarian: поразявам (bg) (porazjavam)
      * Finnish: lyödä (fi)
+     *
 
    to carry out a violent or illegal action
      * Finnish: iskeä (fi)
+     *
 
    to act suddenly
      * Finnish: iskeä (fi)
-
+     *
      * Swedish: slå till (sv)
 
    to impinge upon
      * Bulgarian: попадам (popadam)
      * Finnish: iskeä (fi), koskettaa (fi); kiinnittää huomiota (to strike
        attention)
-
+     *
      * French: frapper (fr)
 
    to stop working as a form of protest
@@ -875,7 +816,7 @@ TranslationsEdit
      * Khmer: បះ (km) (bah), ធ្វើកូដកម្ម (thvəə koudaʼkam)
      * Maori: auporo, porotū
      * Norwegian: streike
-
+     *
      * Polish: strajkować (pl)
      * Portuguese: parar (pt), paralizar
      * Romanian: grevă (ro)
@@ -903,7 +844,7 @@ TranslationsEdit
      * Greek: εντυπωσιάζω (el) (entyposiázo)
      * Italian: sembrare (it)
      * Norwegian: slå (no)
-
+     *
      * Portuguese: parecer (pt)
      * Russian: поража́ть (ru) impf (poražátʹ), порази́ть (ru) pf
        (porazítʹ), потряса́ть (ru) impf (potrjasátʹ), потрясти́ (ru) pf
@@ -916,41 +857,47 @@ TranslationsEdit
    to create an impression
      * Bulgarian: правя впечатление (pravja vpečatlenie)
      * Finnish: vaikuttaa (fi)
-
+     *
      * French: frapper (fr)
 
    to score
      * Finnish: iskeä (fi)
+     *
 
    slang, obsolete: to steal money
      * Finnish: varastaa (fi)
+     *
 
    to take forcibly or fraudulently
      * Finnish: ryöstää (fi)
+     *
 
    to make a sudden impression upon, as if by a blow; to affect with some
    strong emotion
      * Bulgarian: идва ми на ум (idva mi na um)
      * Finnish: koskettaa (fi)
      * French: frapper (fr)
-
+     *
      * Swedish: slå (sv)
 
    to affect by a sudden impression or impulse
      * Finnish: yllättää (fi); lyödä maahan (strike down); mykistää (fi),
        pysäyttää (fi) (strike dumb)
+     *
 
    slang, archaic: to borrow money from; to make a demand upon
      * Finnish: vipata (fi) (to borrow)
+     *
 
    to touch; to act by appulse
      * Finnish: koskea (fi)
+     *
 
    nautical: to take down
      * Bulgarian: спускам (bg) (spuskam), прибирам (bg) (pribiram)
      * Finnish: laskea (fi)
      * French: affaler (fr)
-
+     *
      * Russian: спусти́ть (ru) impf (spustítʹ), спуска́ть (ru) pf
        (spuskátʹ), убира́ть (ru) impf (ubirátʹ), убра́ть (ru) pf (ubrátʹ)
 
@@ -960,7 +907,7 @@ TranslationsEdit
      * French: baisser pavillon (fr), amener (fr)
      * German: die Fahne streichen
      * Greek: υποστέλλω (el) (ypostéllo)
-
+     *
      * Italian: arrendersi (it)
      * Portuguese: impressionar (pt), parecer (pt)
      * Russian: сдава́ться (ru) impf (sdavátʹsja), сда́ться (ru) pf
@@ -969,40 +916,54 @@ TranslationsEdit
 
    to dismantle and take away
      * Finnish: purkaa (fi)
+     *
 
    to set off on a walk or trip
      * Finnish: lähteä kulkemaan
+     *
 
    to pass with a quick or strong effect; to dart; to penetrate
      * Finnish: lävistää (fi)
+     *
 
    dated: to break forth
      * Finnish: rynnistää
+     *
 
    of oysters: to become attached to something
      * Finnish: kiinnittyä (fi)
+     *
 
    to make and ratify
      * Finnish: sopia (fi)
+     *
 
    to level measure with a straight instrument
      * Finnish: tasata (fi)
+     *
 
    masonry: to cut off even with the face of the wall
      * Finnish: iskeä (fi)
+     *
 
    to hit upon, or light upon, suddenly
      * Finnish: sattua (fi)
+     *
 
    to lade into a cooler
      * Finnish: laittaa (fi)
+     *
 
    to stroke or pass lightly; to wave
      * Finnish: liikuttaa (fi)
+     *
 
    obsolete: to advance; to cause to go forward
+     *
+
    to balance, as a ledger or account
      * Finnish: tasata (fi)
+     *
 
           The translations below need to be checked and inserted above
           into the appropriate translation tables. See instructions at
@@ -1016,7 +977,7 @@ TranslationsEdit
        striki (eo)
      * Indonesian: ^(please verify) menubruk (id), ^(please verify)
        menyerang (id)
-
+     *
      * Irish: ^(please verify) smiot
      * Norman: ^(please verify) capuchi (Jersey), ^(please verify) satchi
        (Jersey)
@@ -1131,32 +1092,8 @@ NounEdit
 
 Derived termsEdit
 
-     * airstrike
-     * alpha strike
-     * birdstrike, bird strike
-     * bridge strike
-     * checkerboard strike
-     * deadbolt strike
-     * decapitation strike
-     * first strike
-     * general strike
-     * hunger strike
-     * latch strike
-     * lightning strike
-     * on strike
-     * rent strike
-     * second strike
-     * sit-down strike
-     * splendid first strike
-     * strike action
-     * strike jamb
-     * strike plate
-     * striker
-     * tailstrike
-     * third strike
-     * three strikes
-     * wildcat strike
-
+   Lua error in Module:collation at line 97: attempt to index upvalue
+   'custom_sort_function' (a nil value)
 
 DescendantsEdit
 
@@ -1172,7 +1109,7 @@ TranslationsEdit
      * Dutch: slag (nl) m
      * Esperanto: trafo
      * Finnish: palo (fi)
-
+     *
      * German: Strike (de) m
      * Russian: страйк (ru) m (strajk)
      * Spanish: strike (es) m
@@ -1185,7 +1122,7 @@ TranslationsEdit
      * Finnish: kaato (fi)
      * French: strike (fr) m
      * German: Strike (de) m
-
+     *
      * Japanese: ストライク (ja) (sutoraiku)
      * Korean: 스트라이크 (ko) (seuteuraikeu)
      * Portuguese: strike (pt) m
@@ -1244,7 +1181,7 @@ TranslationsEdit
      * Lao: ການນັດຢຸດງານ (kān nat yut ngān)
      * Latin: operistitium (la) n
      * Latvian: streiks m
-
+     *
      * Lithuanian: streikas m
      * Macedonian: штрајк m (štrajk)
      * Malay: mogok
@@ -1315,7 +1252,7 @@ TranslationsEdit
      * Greek: χτύπημα (el) n (chtýpima)
      * Ido: frapo (io)
      * Japanese: please add this translation if you can
-
+     *
      * Khmer: ការវាយប្រហារ (kaaviəyprɑɑhaa)
      * Korean: please add this translation if you can
      * Latin: plāga (la) f
@@ -1333,7 +1270,7 @@ TranslationsEdit
    compass direction of the line of intersection between a rock layer and
    the surface of the Earth
      * Finnish: kulku (fi)
-
+     *
      * Irish: treo (ga) m
 
           The translations below need to be checked and inserted above
@@ -1343,7 +1280,7 @@ TranslationsEdit
    Translations to be checked
      * Esperanto: ^(please verify) maltrafo (1), ^(please verify)
        plentrafo (2)
-
+     *
      * Luxembourgish: ^(please verify) Streik
 
 ReferencesEdit

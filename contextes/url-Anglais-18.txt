@@ -6,45 +6,11 @@ Strikes
 
    Strikes are planned which will affect TfL services.
 
-National rail strikes - 24 to 27 December 2022
-
-   Strikes will affect national rail services nationwide. Most
-   TfL services, including most of the Tube, will continue to run.
-   However, we expect some disruption on the following lines:
---
-   From Friday 23 December 2022 to Monday 2 January 2023, there are
-   planned works and service changes for the Christmas and New Year
-   period. For details of how services not affected by strikes are
-   running, see our Christmas and New Year travel web pages.
-
---
-
-   For details of what time services will finish on lines not affected by
-   the strikes, visit our Christmas Eve travel web page.
-
-Sunday 25 December (Christmas Day)
---
-Other services
-
-   For details of how services not affected by strikes are running, see
-   our Boxing Day travel web page
-
-Tuesday 27 December
-
-   Services affected by strikes are expected to experience some
-   disruption. This may continue until the afternoon.
-     * Plan ahead and check your travel.
---
-
-   For details of Elizabeth line and London Overground planned works, and
-   for details of how services not affected by strikes are running, see
-   our 27 December travel web page.
-
 National rail strikes - January 2023
 
    Strikes will affect national rail services nationwide. Most
    TfL services, including most of the Tube, will continue to run.
-   However, there will be some disruption on London Overground, the
+   However, there is some disruption expected on London Overground, the
 --
    lines.
 
@@ -65,7 +31,7 @@ After strikes
      * A good service is expected by late morning
 --
      * Reduced service
-     * Services will run 07:30-18:30
+     * Services will run 07:30-18:00
      * Night Overground will not run on strike days
 
 Richmond/Clapham Junction - Stratford

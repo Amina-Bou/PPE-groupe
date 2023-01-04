@@ -165,81 +165,18 @@ VerbEdit
        native speakers.
      * The past participle is usually struck (e.g. He'd struck it rich, or
 --
-
-     * awestruck
-     * counterstrike
-     * cunt-struck
-     * double-struck
---
-     * heartstricken
-     * horror-struck
-     * lightning never strikes twice in the same place
-     * light-struck
-     * love-struck
-     * misstrike
-     * moonstruck
-     * outstrike
-     * overstrike
-     * panic-stricken
-     * planet-struck
-     * poverty-stricken
-     * restrike
-     * stagestruck
-     * star-struck
-     * strike a balance
-     * strike a bargain
-     * strikeable
-     * strike a blow
-     * strike a chord
-     * strike a false note
-     * strike a jury
-     * strike a lead
-     * strike a light
-     * strike a medium
-     * strike a nerve
-     * strike a stroke
-     * strike back
-     * strike down
-     * strike dumb
-     * strikee
-     * strikefire
-     * strike gold
-     * strike hands
-     * strike in
-     * strike it lucky
-     * strike it rich
-     * strike lucky
-     * strike me pink
-     * strike off
-     * strike oil
-     * strike one's flag
-     * strike out
-     * striker
-     * strike sail
-     * strike tallies
-     * strike the colors
-     * strike through
-     * strike up
-     * strike while the iron is hot
-     * strike work
-     * striking distance
-     * sunstricken
-     * sunstrike
-     * terror-stricken
-     * thunderstruck
---
    to impinge upon
      * Bulgarian: попадам (popadam)
      * Finnish: iskeä (fi), koskettaa (fi); kiinnittää huomiota (to strike
        attention)
-
+     *
 --
 
    to affect by a sudden impression or impulse
      * Finnish: yllättää (fi); lyödä maahan (strike down); mykistää (fi),
        pysäyttää (fi) (strike dumb)
+     *
 
-   slang, archaic: to borrow money from; to make a demand upon
 --
 NounEdit
 
@@ -319,38 +256,9 @@ NounEdit
                       my indicator went down on my first strike, I cleanly
                       missed the hook up.
 
-Derived termsEdit
-
-     * airstrike
-     * alpha strike
-     * birdstrike, bird strike
-     * bridge strike
-     * checkerboard strike
-     * deadbolt strike
-     * decapitation strike
-     * first strike
-     * general strike
-     * hunger strike
-     * latch strike
-     * lightning strike
-     * on strike
-     * rent strike
-     * second strike
-     * sit-down strike
-     * splendid first strike
-     * strike action
-     * strike jamb
-     * strike plate
-     * striker
-     * tailstrike
-     * third strike
-     * three strikes
-     * wildcat strike
-
-
 --
      * Finnish: palo (fi)
-
+     *
      * German: Strike (de) m
      * Russian: страйк (ru) m (strajk)
      * Spanish: strike (es) m
@@ -363,7 +271,7 @@ Derived termsEdit
      * Finnish: kaato (fi)
      * French: strike (fr) m
      * German: Strike (de) m
-
+     *
      * Japanese: ストライク (ja) (sutoraiku)
      * Korean: 스트라이크 (ko) (seuteuraikeu)
      * Portuguese: strike (pt) m

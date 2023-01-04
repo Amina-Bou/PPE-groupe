@@ -1,6 +1,71 @@
-   Quantcast
+   We use cookies to make this service simpler. Find out more about
+   cookies
 
-   googletag.cmd.push(function() {
-   googletag.display('div-gpt-ad-1666876694056-0') })
-   googletag.cmd.push(function() {
-   googletag.display('div-gpt-ad-1666876745004-0') })
+   Petitions
+
+   UK Government and Parliament
+
+     Petition Withdraw the Transport Strikes (Minimum Service Levels) Bill
+
+   We want the Government to withdraw the Transport Strikes (Minimum
+   Service Levels) Bill. We believe this legislation would unjustifiably
+   restrict the right of workers to withdraw their labour, which is a
+   fundamental human right.
+
+   More details
+
+   We are also concerned that the passage of this legislation could pave
+   the way for "Minimum Service Levels" being imposed for teachers, refuse
+   workers, nurses, and other workers?
+
+   We believe the imposition of minimum service agreements will undermine
+   workers and unions. We ask that the Government withdraw this Bill and
+   not impose any other restrictions on rights to strike.
+
+   Sign this petition
+
+   7,326 signatures
+
+   Show on a map
+
+   10,000
+
+At 10,000 signatures...
+
+   At 10,000 signatures, government will respond to this petition
+
+At 100,000 signatures...
+
+   At 100,000 signatures, this petition will be considered for debate
+   in Parliament
+
+Share this petition
+
+     * Facebook
+     * Email
+     * Twitter
+     * Whatsapp
+
+     * Created by James Cooper
+     * Deadline 8 May 2023 All petitions run for 6 months
+     * Get petition data (json format) About petition data
+       The data shows the number of people who have signed the petition by
+       country as well as in the constituency of each Member of
+       Parliament. This data is available for all petitions on the site.
+       It is not a list of people who have signed the petition. The only
+       name that is shared on the site is that of the petition creator.
+
+     * Home
+     * All petitions
+     * Start a petition
+     * How petitions work
+     * Privacy
+     * Cookies
+     * Feedback
+     * Accessibility statement
+
+   Open Government Licence
+
+   All content is available under the Open Government Licence v3.0, except
+   where otherwise stated
+   © Crown copyright

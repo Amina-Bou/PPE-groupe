@@ -25,14 +25,15 @@
           + Middle East & North Africa
           + Australia & NZ
        Most Read
-          + Vladimir Putin warns war in Ukraine becoming ‘extremely
-            complicated’
-          + US House committee votes to release Donald Trump’s tax records
-          + Union chief resigns in EU-Qatar bribery scandal
-          + Billionaire Oleg Deripaska’s Sochi hotel complex seized after
-            Russian court order
-          + Volodymyr Zelenskyy to meet Joe Biden in Washington as fresh
-            US aid granted
+          + Kevin McCarthy loses three rounds of votes to be US House
+            Speaker
+          + ‘Untrainable’: Russian army faces backlash over conscripts’
+            death in Ukraine attack
+          + Russia admits to deadly outcome of Ukrainian strike on
+            military barracks
+          + ECB rate rises expose fears for Italy as eurozone’s weakest
+            link
+          + German inflation drops more than expected to 9.6%
      * US
      * Companies
        Sections
@@ -48,14 +49,13 @@
           + Telecoms
           + Transport
        Most Read
-          + Media groups shed $500bn in value as shares head for historic
-            drop
-          + Tesla share slide sends valuation below ExxonMobil
-          + Bitter medicine: private equity moves into hospital ERs
-          + Exam cheating at audit firms uncovered by UK accounting
-            regulator
-          + Sam Bankman-Fried signs documents paving way for US
-            extradition
+          + Asset managers brace for tough year of cost-cutting in 2023
+          + University of California invests $4bn in Blackstone’s real
+            estate fund
+          + Cineworld to seek buyers for all its assets
+          + Business trends, risks and people to watch in 2023
+          + Decade-long spending boom on original TV content expected to
+            slow
      * Tech
      * Markets
        Sections
@@ -72,12 +72,14 @@
           + Moral Money
           + ETF Hub
        Most Read
-          + Media groups shed $500bn in value as shares head for historic
-            drop
-          + Live news: US consumer confidence rebounds to eight-month high
-          + Bank of Japan stuns markets with yield control policy change
-          + Tesla share slide sends valuation below ExxonMobil
-          + US bitcoin miner Core Scientific files for bankruptcy
+          + A new world energy order is taking shape
+          + Tesla shares slide on delivery fears as Apple’s value dips
+            below $2tn
+          + Asset managers brace for tough year of cost-cutting in 2023
+          + Live news updates from January 3: Bankman-Fried pleads not
+            guilty, McCarthy loses three Speaker votes
+          + University of California invests $4bn in Blackstone’s real
+            estate fund
      * Climate
      * Opinion
        Sections
@@ -89,12 +91,11 @@
           + Obituaries
           + Letters
        Most Read
-          + Glimmers of light in a terrible year
-          + The west’s axis of prudence risks a Kremlin victory by default
-            in Ukraine
-          + The meaning of Ron DeSantis
-          + Private equity’s debt tower is teetering
-          + Now is the time to boost financial literacy
+          + A new world energy order is taking shape
+          + ‘Overboarding’: why it has become a hot issue for companies
+          + Stopping China’s growth cannot be a goal for the west
+          + Venture capital’s reckoning looms closer
+          + Turning the tide in Russia’s war on Ukraine
      * Work & Careers
        Sections
           + Work & Careers Home
@@ -105,9 +106,8 @@
           + Business Books
           + Business Travel
        Most Read
-          + Nouriel Roubini: ‘I hope I didn’t depress you too much’
-          + Pay transparency: how salary secrecy is being challenged
-          + FT business books: what to read in the New Year
+          + Make work better in 2023
+          + Home Depot’s Bernie Marcus: ‘I’m worried about capitalism’
      * Life & Arts
        Sections
           + Life & Arts Home
@@ -120,12 +120,12 @@
           + Travel
           + FT Globetrotter
        Most Read
-          + 10 coffee-table books to give a culture lover
-          + 12 extraordinary interiors we loved this year
-          + Best TV shows of 2022
-          + Vardy v Rooney: A Courtroom Drama — Michael Sheen brings
-            bravado to Wagatha Christie story
-          + The HTSI holiday food and drink guide
+          + From Vermeer to Joni Mitchell: hot tickets for 2023
+          + Ask Adeela: Should you be using retinol?
+          + The big hotel openings of 2023
+          + The world’s best restaurants for vegans: the readers’ picks
+          + Carlsen performs a treble triple as Norway’s chess world No 1
+            excels at speed
      * HTSI
 
    MenuSearch
@@ -266,7 +266,7 @@ Community & Events
 More from the FT Group
 
    Markets data delayed by at least 15 minutes. © THE FINANCIAL TIMES LTD
-   2022. FT and ‘Financial Times’ are trademarks of The Financial Times
+   2023. FT and ‘Financial Times’ are trademarks of The Financial Times
    Ltd.
    The Financial Times and its journalism are subject to a self-regulation
    regime under the FT Editorial Code of Practice.

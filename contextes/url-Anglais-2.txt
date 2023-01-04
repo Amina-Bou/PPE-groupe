@@ -22,8 +22,8 @@ General strike
    strikers; though not all strikers may have a material interest in the
    negotiations, they all have a material interest in maintaining and
    strengthening the collective efficacy of strikes as a bargaining tool.
-   [ ]
 
+   [ ]
 --
           + 1.2 20th century
                o 1.2.1 Legality
@@ -34,7 +34,7 @@ General strike
      * 4 See also
      * 5 References
 --
-19th centuryEdit
+  19th centuryEdit
 
    The general strike action only became a feature of the political
    landscape with the onset of the Industrial Revolution. For the first
@@ -97,6 +97,7 @@ General strike
    result of the political convulsions caused by the First World War—in
    Germany, Belfast, Seattle and Winnipeg.
 
+
    The 1905 general strike in Tampere, Grand Duchy of Finland
 
    The Russian Revolution of 1905 saw a massive wave of social unrest
@@ -107,7 +108,7 @@ General strike
    sectors, although the strike was successfully suppressed by the
    government.^[11]^[12]
 
-20th centuryEdit
+  20th centuryEdit
 
    A General Strike or Solidarity Strike was when various trade unions
    would go on strike sympathetically to help another trade union. General
@@ -210,7 +211,7 @@ General strike
 
    Debates on general strikesEdit
 
-Socialists versus anarchistsEdit
+  Socialists versus anarchistsEdit
 --
    and early 20th century anarchists from socialists: electoral politics,
    which the socialists embraced, but anarchists generally opposed; and,
@@ -258,7 +259,7 @@ Socialists versus anarchistsEdit
      suitability of the general strike as a decisively revolutionary
      action.^[27]
 
-Syndicalism and general strikesEdit
+  Syndicalism and general strikesEdit
 
    The Industrial Workers of the World (IWW) began to fully embrace the
    general strike in 1910–1911.^[28] The ultimate goal of the general
@@ -450,7 +451,7 @@ Syndicalism and general strikesEdit
      * 1886: Belgium   Walloon jacquerie of 1886 Wallonia
      * 1877: United States   Great Railroad Strike of 1877
      * 1862–1865: Confederate States of America   The plantation general
-       strike in the Confederate States of the U.S.
+       strike in the Confederate States of the U.S.^[51]
      * 1842: United Kingdom   General strike, Great Britain
      * 1835: United States   Philadelphia General Strike, Pennsylvania
      * 287 BC: A secessio plebis,^[a] Roman Republic, leading to the
@@ -569,7 +570,10 @@ Syndicalism and general strikesEdit
        the original on 9 April 2021. Retrieved 6 May 2017.
    50. ^ "1972: The Quebec general strike". Archived from the original on
        9 April 2021. Retrieved 1 February 2017.
-
+   51. ^ Mount, Guy Emerson (28 December 2015). "When Slaves Go on Strike:
+       W.E.B. Du Bois's Black Reconstruction 80 Years Later". Black
+       Perspectives. Archived from the original on 1 January 2023.
+--
    Further readingEdit
 
      * Henry L. Slobodin, "The General Strike," International Socialist
@@ -592,6 +596,6 @@ Syndicalism and general strikesEdit
      * Oakland 1946! Project
 
    Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=General_strike&oldid=112508
-   8114"
+   "https://en.wikipedia.org/w/index.php?title=General_strike&oldid=113136
+   9359"
 
