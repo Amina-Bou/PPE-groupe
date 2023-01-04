@@ -1,134 +1,194 @@
-   #Support Home Page Search
+Tell us whether you accept cookies
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-T2SNRD
+   We would like to use cookies to collect information about how you use
+   ons.gov.uk.
 
-   [tr?id=208660786162366&ev=PageView&noscript=1]
-   [tr?id=208660786162366&ev=PageView&noscript=1]
+   We use this information to make the website work as well as possible
+   and improve our services.
+   (BUTTON) Accept all cookies
+   Set cookie preferences
 
-UCU logo
+   You’ve accepted all cookies. You can change your cookie settings at any
+   time. (BUTTON) Hide
 
-   My UCU
-   Join today
-   Contact us
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MBCBVQS
 
-   ____________________ Submit
+   Skip to main content
 
-     * My UCU Home page
-     * Popular answers
+   /employmentandlabourmarket/peopleinwork/workplacedisputesandworkingcond
+   itions/articles/fivefactsaboutstrikes/2016-08-12
 
-What is secondary (or sympathy) industrial action and is it unlawful?
+   Office for National Statistics logo - Homepage
+   English (EN) | Cymraeg (CY)
+     * Release calendar
+     * Methodology
+     * Media
+     * About
+     * Blog
 
-   Secondary action (or sympathy strikes as they are sometimes known)
-   would occur if a trade union induces its members to take industrial
-   action against their employer in support of fellow union members
-   employed by a different employer where a trade dispute exists. For
-   example, union members are in a dispute with their employer ("A") and
-   in order to exert industrial pressure to settle the dispute the union
-   calls upon its members employed by a different employer ("B") who is a
-   supplier of services to A to refuse to handle supplies of those
-   services to A.
+     * Menu
+     * Search
 
-   Secondary action is rendered unalwful in the UK by section 224 of the
-   Trade Union and Labour Relations (Consolidation) Act 1992.
+     * Home
+     * Business, industry and trade
+          + Business
+          + Changes to business
+          + Construction industry
+          + IT and internet industry
+          + International trade
+          + Manufacturing and production industry
+          + Retail industry
+          + Tourism industry
+     * Economy
+          + Economic output and productivity
+          + Environmental accounts
+          + Government, public sector and taxes
+          + Gross Domestic Product (GDP)
+          + Gross Value Added (GVA)
+          + Inflation and price indices
+          + Investments, pensions and trusts
+          + National accounts
+          + Regional accounts
+     * Employment and labour market
+          + People in work
+          + People not in work
+     * People, population and community
+          + Armed forces community
+          + Births, deaths and marriages
+          + Crime and justice
+          + Cultural identity
+          + Education and childcare
+          + Elections
+          + Health and social care
+          + Household characteristics
+          + Housing
+          + Leisure and tourism
+          + Personal and household finances
+          + Population and migration
+          + Well-being
+     * Taking part in a survey?
+     * English (EN) | Cymraeg (CY)
 
-   Recently, the RMT union asked the European Court of Human Rights to
-   determine whether the UK's ban on trade unions to call for secondary
-   action was consistent with Article 11 of the Convention (the freedom of
-   assembly and association).
+   Search for a keyword(s) or time series ID ____________________ (BUTTON)
+   Search
 
-   In a judgment handed down in April 2014 the Court decided that although
-   industrial action was protected by Article 11, including secondary
-   action, it would be permissible for a government to ban secondary
-   action if it could show that by doing so it was pursuing a legitimate
-   aim and to be necessary in a democratic society to achieve those aims.
+   Data and analysis from Census 2021
 
-   The Court concluded that the UK did have a legitimate aim in protecting
-   the rights and freedoms of parties who were not a party to the
-   industrial dispute ("B" in the example above). As regards whether the
-   ban on secondary action can be regarded as neccesary in a democratic
-   society, the Court considered that in the UK had been able to show that
-   in insituting the ban it was operating with the "wide margin of
-   appreciation" afforded to governments, and that the ban was a
-   proportionate means of protecting the rights and freedoms of those not
-   directly involved in the trade dispute.
+    1. Home
+    2. Employment and labour market
+    3. People in work
+    4. Workplace disputes and working conditions
+    5. Five facts about... strikes
 
-   Was the answer helpful to you?
-     * (BUTTON) Yes
-     * (BUTTON) No
+Five facts about... strikes
 
-Answers others found helpful
+   12 August 2016
 
-Published Answers
+   As rail staff at Eurostar suspend two strikes this month for talks in a
+   dispute over their work-life balance, and discussions between unions
+   and management at Southern continue, we look at recent and historic
+   statistics on industrial action in the UK.
 
-     * Will participating in strike action affect my pension?
-     * Action short of strike and deduction from pay
-     * Participation in strikes and the right to take parental leave.
-     * Ending your membership
-     * Retired membership
+1. The number of working days lost due to strikes in 2015 was 170,000
+compared with 788,000 in 2014
 
-Previously viewed answers
+   The 2015 figure was the second-lowest annual total since records began
+   in 1891.
 
-   Share
-     * Facebook
+Working days lost (WDL), UK, 1891 to 2015
+
+   Embed code
+   Embed this interactive <iframe width="100%" (BUTTON) Copy
+   Download the data
+
+2. The number of stoppages has fallen broadly over the last eight years
+
+   However, the number of working days lost has remained broadly flat.
+   This means large-scale stoppages have become more common.
+
+Stoppages, UK, 1996 to 2015
+
+   Embed code
+   Embed this interactive <iframe width="100%" (BUTTON) Copy
+   Download the data
+
+3. From 2006 to 2015, public sector strikes accounted for 85% of all strikes
+on average
+
+Working days lost (WDL) by public and private split, UK, 2006 to 2015
+
+   Embed code
+   Embed this interactive <iframe width="100%" (BUTTON) Copy
+   Download the data
+
+4. 81,000 people were involved in strikes in 2015, the fewest people since
+records began in 1893
+
+   Four years earlier more than 1.5 million people went on strike – the
+   highest number since the mid-1980s.
+
+Labour disputes annual estimates, UK, 1891 to 2015
+
+   Embed code
+   Embed this interactive <iframe width="100%" (BUTTON) Copy
+   Download the data
+
+5. The Public Administration sector, Education sector and the Transport,
+Storage, Information and Communication sector have seen the most working days
+lost to strikes per 1,000 employees since 2006
+
+   This is mainly because disputes in this group tend to be large.
+   Education has also seen a large strike rate. This industry group has a
+   large number of labour disputes, but the disputes are usually small. A
+   full list of sectors and the numbers of working days lost to strikes in
+   2015 can be seen here.
+
+Working days lost per 1,000 employees by industry (United Kingdom, not
+seasonally adjusted)
+
+   Embed code
+   Embed this interactive <iframe width="100%" (BUTTON) Copy
+   Download the data
+
+   For more information, please contact Labour.Disputes@ons.gov.uk
+
+You might also be interested in
+
+     * Labour Disputes in the UK, 2015
+     * The history of strikes in the UK
+
+Contact
+
+
+    digitalcontent@ons.gov.uk
+
+Footer links
+
+Help
+
+     * Accessibility
+     * Cookies
+     * Privacy
+     * Terms and conditions
+
+About ONS
+
+     * What we do
+     * Careers
+     * Contact us
+     * News
+     * Freedom of Information
+
+Connect with us
+
      * Twitter
+     * Facebook
      * LinkedIn
-     * Reddit
+     * Consultations
+     * Discussion forums
+     * Email alerts
 
-   Print
-   Email this page
-   Recipient Email * ____________________ Your Email *
-   ____________________ Your Name * ____________________
-   Notify Me
-   Quickly log in or create an account using an existing service
-   Yahoo
-   Log in using Yahoo
-   What will happen: When you click n this button, you will be taken to
-   Yahoo. Once you log in, Yahoo will verify you and send you back here
-   where you'll be logged in!
-   Log In or Create an AccountOpens new dialog
-   Please log in to continue, Username ____________________ Password
-   ____________________
-   Address
-   ____________________
-   Login
-   ____________________
-   Display Name *
-   ____________________
-   NewPassword * Required
-   ____________________ Must be at least 8 characters with at least one
-   upper, one lower case letter and one number
-   Re-enter a value for the field 'NewPassword' * Required
-   ____________________
-   Must match NewPassword
-   First
-   ____________________
-   Last
-   ____________________
-   (BUTTON) Submit [ ]
-   Forgot your password?
-   The page will refresh upon submission. Any pending input will be lost.
-     * Membership FAQs
-     * Legal scheme FAQs
-     * Search FAQs
-     * Give feedback
-       Email * ____________________ Institution *
-       [Select____________________________________________________]
-       Full Name * ____________________ Membership Number
-       ____________________ Your Feedback *
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
+   OGL
 
-   UCU logo
-     * Terms
-     * Stay updated
-     * Get in touch
-
-     * Twitter : This link opens in a new window
-     * Facebook : This link opens in a new window
-
-   UCU | University and College Union, Carlow Street, London NW1 7LH
-   Telephone: 0207 756 2500
-
-   © Copyright UCU 2021
+   All content is available under the Open Government Licence v3.0, except
+   where otherwise stated

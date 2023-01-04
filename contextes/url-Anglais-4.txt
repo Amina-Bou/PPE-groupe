@@ -9,11 +9,11 @@
    rail.html
      * (BUTTON) Give this articleGive this articleGive this article
 --
-U.S. Railroad Labor Dispute
+     * (BUTTON)
 
-     * Averting a Strike
-     * Why Congress Was Involved
-     * How Rail Workers Feel
+Strikes in the U.K.
+
+     * What to Know
 --
    Continue reading the main story
 

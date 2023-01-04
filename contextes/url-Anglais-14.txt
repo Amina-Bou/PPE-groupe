@@ -232,14 +232,14 @@ VerbEdit
      * Bulgarian: попадам (popadam)
      * Finnish: iskeä (fi), koskettaa (fi); kiinnittää huomiota (to strike
        attention)
-
+     *
 --
 
    to affect by a sudden impression or impulse
      * Finnish: yllättää (fi); lyödä maahan (strike down); mykistää (fi),
        pysäyttää (fi) (strike dumb)
+     *
 
-   slang, archaic: to borrow money from; to make a demand upon
 --
 NounEdit
 
@@ -350,7 +350,7 @@ Derived termsEdit
 
 --
      * Finnish: palo (fi)
-
+     *
      * German: Strike (de) m
      * Russian: страйк (ru) m (strajk)
      * Spanish: strike (es) m
@@ -363,7 +363,7 @@ Derived termsEdit
      * Finnish: kaato (fi)
      * French: strike (fr) m
      * German: Strike (de) m
-
+     *
      * Japanese: ストライク (ja) (sutoraiku)
      * Korean: 스트라이크 (ko) (seuteuraikeu)
      * Portuguese: strike (pt) m

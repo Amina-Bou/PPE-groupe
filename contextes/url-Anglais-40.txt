@@ -1,50 +1,116 @@
-     * If things go wrong
-     * Complaints and appeals
-     * Submitting a complaint in relation to the UCU strike action
+   RecoveryIntellectual PropertyInternational Trade and BrexitRecession
+   Busting
+   Employers’ guide: strikes and industrial action
 
-     * Student home
+Knowledge Hub
 --
-     * If things go wrong
+     __________________________________________________________________
 
-Submitting a complaint in relation to the UCU strike action
+Employers’ guide: strikes and industrial action
 
-Which procedure should I use?
+     *
 --
-   complaint.
+   Head of Employment
 
-     Possible reasons for submitting an appeal on the basis of the strike
-     impact:
-     * I answered questions for which I did not receive teaching
-     * I was incorrectly or inadequately advised about changes made to
-       assessment(s) and this led to disadvantage
-     * I have specific needs which mean the strike response impacted me
-       differently to others in my cohort
-     * The response to the strike breached the University's own procedures
-     * My cohort has a specific set of circumstances, and the response to
-       the strike did not take account of these.
+   Although strikes by employees are thankfully not a regular occurrence,
+   statistics show an increase in strike action in the private
+   sector relating to national and international issues, so it’s important
+   to know what your rights are as an employer and what you can and can’t
+   do if your staff decide to take industrial action. The right to strike
+   in each country is impacted by regional and international law.
 
-     There may be other circumstances which merit investigation under the
+   Our expert employment law solicitors tell you what you need to know
+   when employees are going on strike and if you can dismiss members of
+   staff taking industrial action.
+
+--
+    1. What is industrial action?
+    2. When is industrial action lawful?
+    3. Haven’t the rules on strikes been tightened up?
+    4. Can you dismiss employees for going on strike?
+    5. Do you have to pay employees who are on strike?
+    6. What can employers do to stop a strike?
+    7. How can employers avoid industrial action?
+
+What is industrial action?
+
+   ‘Industrial action’ (going on strike) tends to occur when employees
+   disagree with a business decision and want their employer to reverse
+   it. For example, if you’re planning to reduce the number of working
+   hours, your employees may go on strike to put pressure on you to change
+   or alter these plans.
+
+   Going on strike is the most common form of industrial action, but for
+   the purposes of the law on industrial action, it includes ‘action short
+   of a strike’ – overtime bans, call-out bans, work-to-rules, sit-ins and
+   work-ins.
+
+--
+       ballot of union members. A majority of the members involved must
+       support industrial action through the ballot. There have been some
+       changes to the rules on this – see 'Haven’t the rules on strikes
+       been tightened up recently?' below.
+    3. Notification – as an employer, you need to be given:
+--
+    4. Not for a prohibited reason – industrial action can’t be taken for
+       any of the following:
+         1. Secondary action (supporting another strike
+            which doesn’t involve that employee)
+         2. Unlawful picketing
+--
+   If these conditions aren’t met, industrial action isn’t lawful and
+   it won’t be automatically unfair to dismiss your employees for going on
+   strike, even if the action is official. See 'Can you dismiss employees
+   for going on strike?' below.
+
+Haven’t the rules on strikes been tightened up?
+
+   From March 2017, changes were made by the Trade Union Act 2016 to the
+--
+       there would have to be another ballot.
+     * Ballot papers – they must set out the nature of the issues in
+       dispute, the types of action ‘short of a strike’ (if that’s what’s
+       proposed) and an ‘indication’ of time periods for action (but this
+       doesn’t mean specific dates).
+--
+   Another significant change may be in the offing – the introduction of
+   electronic voting. Trade unions had argued that one of the reasons
+   for apparently low turnouts in strike ballots was the lack of e-voting
+   and the Government has been considering the issue following the
+   recommendations made in the independent review by Sir Ken Knight in
+   2017.
+
+Can you dismiss employees for going on strike?
+
+   If employees go on strike, they’re breaching their employment contract.
+   However, this doesn’t mean that you can dismiss them without the
+   dismissal being classed as unfair. Your right to dismiss striking
+--
+   unfair dismissal, see our advice post What is a ‘fair’ dismissal?)
+
+Do you have to pay employees who are on strike?
+
+   When employees go on strike, you don’t need to pay them for the days
+   they’re not at work. The question of how much to deduct can be
+   surprisingly problematic. If the employees are paid hourly, it’s easy,
+   but if they are salaried, pay normally accrues from day to day based on
+   calendar (not working) days, unless you specify something else about
+   strike pay in the employment contract.
+
+   If the employees are acting ‘short of a strike’ (see 'What is
+   industrial action?' above), then you can’t deduct pay. You will
+   either have to pay the employees in full or demand that they comply
+--
+   agency staff you’re currently employing are unaffected).
+
+What can employers do to stop a strike?
+
+   As well as withholding pay, you can refuse to accept partial
 --
 
-     Possible reasons for submitting a complaint on the basis of the
-     strike impact:
-     * The University has not delivered on its contractual obligations to
-       me
-     * The response to the strike led to a significant lowering of
-       teaching quality which had a material impact on me
-     * One or more of the University’s services were negatively affected
-       by the strike
+   You will need to act quickly if you’re applying for an injunction – the
+   union only needs to give you 14 days’ notice of a strike.
 
-     If you wish to make a complaint, please complete the form.
---
-       for advice
-     * Be specific about why you consider the University has not fulfilled
-       its obligations as a result of the strike and how you have been
-       affected personally;
-     * Please explain why you feel that the mitigating actions taken by
---
-     * Indicate what steps you took to minimise your losses (for example,
-       did you take advantage of office hours or attempt to contact module
-       leaders on non-strike days)
-     * Please provide all relevant evidence to support your complaint -
-       the Complaints team will not gather this for you.
+   If the strike has already gone ahead, you may be able to claim damages
+   from the employees and union if it wasn’t lawful. Amounts are based on
+   the union membership and subject to a statutory maximum (currently
