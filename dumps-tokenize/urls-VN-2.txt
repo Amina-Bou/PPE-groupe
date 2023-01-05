@@ -536,47 +536,49 @@ BÀI VIẾT CÙNG CHUYÊN_MỤC Bảo_hiểm - Lao_động
 
 
 
-Hồ_sơ , thủ_tục đăng_ký Hợp_đồng cung_ứng lao_động Hồ_sơ , thủ_tục đăng 
+Thời_gian nghỉ sinh con có được tính thời_gian nghỉ hằng năm ? Thời_gian 
 
-ký Hợp_đồng cung_ứng lao_động 
-
-
-
-Hồ_sơ , thủ_tục đăng_ký Hợp_đồng cung_ứng lao_động 
+nghỉ sinh con có được tính thời_gian nghỉ hằng năm ? 
 
 
 
-Doanh_nghiệp , tổ_chức sự_nghiệp hoạt_động dịch_vụ đưa người lao_động đi 
-
-làm_việc ở nước_ngoài phải thiết_lập [ ... ] 
-
-* Chuyển người lao_động làm công_việc khác so với HĐLĐ mới nhất 
-
-* Báo tăng lao_động tham_gia_bảo_hiểm xã_hội mới nhất 
-
-* Mức lương hưu hàng tháng theo quy_định của pháp_luật 
+Thời_gian nghỉ sinh con có được tính thời_gian nghỉ hằng năm ? 
 
 
 
-Quy_định pháp_luật về hợp_đồng bảo_hiểm con_người Quy_định pháp_luật 
+Thời_gian nghỉ hằng năm là bao_lâu ? Người lao_động khi sinh con nghỉ 
 
-về hợp_đồng bảo_hiểm con_người 
+chế_độ thai_sản thì thời_gian nghỉ cóđược tính [ ... ] 
+
+* Hưởng BHXH một lần vẫn được tiếp_tục tham_gia BHXH 
+
+* Đối_tượng và điều_kiện hưởng chế_độ ốm_đau theo quy_định 
+
+* Các trường_hợp chấm_dứt hợp_đồng lao_động theo pháp_luật 
 
 
 
-Quy_định pháp_luật về hợp_đồng bảo_hiểm con_người 
+Sinh_con trái tuyến mức hưởng bảo_hiểm y_tế là bao_nhiêu ? Sinh_con trái 
+
+tuyến mức hưởng bảo_hiểm y_tế là bao_nhiêu ? 
 
 
 
-Hợp_đồng bảo_hiểm con_người là sự thỏa_thuận giữa bên mua bảo_hiểm và 
+Sinh_con trái tuyến mức hưởng bảo_hiểm y_tế là bao_nhiêu ? 
 
-doanh_nghiệp bảo_hiểm , đối_tượng của của [ ... ] 
 
-* Quyền và nghĩa_vụ của người tham_gia_bảo_hiểm y_tế 
 
-* Mức hưởng trợ_cấp thôi_việc theo Bộ_Luật Lao_động 2019 
+Thế_nào là sinh con trái tuyến ? Mức hưởng bảo_hiểm y_tế khi sinh_con 
 
-* Vấn_đề hỗ_trợ khám bệnh nghề_nghiệp cho người lao_động đã nghỉ hưu 
+trái tuyến theo quy_định pháp_luật hiện_hành mà người [ ... ] 
+
+* Điều_kiện và thủ_tục ký hợp_đồng khám , chữa bệnh bảo_hiểm y_tế 
+
+* Khám chữa bệnh đúng tuyến theo quy_định pháp_luật 
+
+* Quy_định pháp_luật về đại_lý bảo_hiểm , doanh_nghiệp môi_giới bảo 
+
+hiểm 
 
 
 

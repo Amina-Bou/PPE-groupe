@@ -220,8 +220,8 @@ nguy cơ mất việc
    ____________________
    ____________________
    Mã bảo mật (*)
-   [GetImgText.ashx?CaptchaText=QYDEcdlcs9u3xP2B7VztVG7JPjvz37rUlHpzy%2fOl
-   s%2bg%3d]
+   [GetImgText.ashx?CaptchaText=vr2dxoxVYtNmZbIZJBnxL21QWcvvYcu6mMR%2bzDwd
+   hGg%3d]
    ____________________
    Gửi ý kiến
    Tin tức liên quan
