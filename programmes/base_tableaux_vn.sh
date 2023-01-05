@@ -72,10 +72,12 @@ while read -r URL; do
 	fi
 
 	# Compte des occurrences 
-	compte=$(echo $dump_vn | grep -o -i -P "$mot" | wc -l)
 
 	echo "$dump" > "./dumps-text/$basename-$lineno.txt"
 	dump_vn=$(cat "./dumps-text/$basename-$lineno.txt" | python3.9 Tokenizer/Tokenizer_VN.py > "./dumps-tokenize/$basename-$lineno.txt")
+
+	compte=$(echo $dump_vn | grep -o -i -P "$mot" | wc -l)
+
 	
 	# construction du contexte 
 	echo "$dump_vn" | grep -P -A2 -B2 $mot  > "./contextes/$basename-$lineno.txt"
