@@ -36,6 +36,7 @@
 <meta name="format-detection" content="telephone=no">
 	<meta name="Googlebot" content="index,follow,NOODP" />
 
+
     
     <script type="application/ld+json">
         {
@@ -163,11 +164,12 @@
             "ga('send', 'pageview');" +
             "<" + "/script>");
 			
-			//GA 4
+			   //GA 4
 			$('head').append(
             "<script async src='https://www.googletagmanager.com/gtag/js?id=G-HTVM9QBJ23'><" + "/script>" +
             "<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());  gtag('config', 'G-HTVM9QBJ23');<" + 
 			"/script>" );
+			
 			 // Matomo
        
         // End Matomo 
@@ -175,18 +177,21 @@
 
         $('head').append(
             "<script data-ad-client='ca-pub-3466622593886301 async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'><" + "/script>" +
-             "<script>var arfAsync = arfAsync || [];</" + "script>" +
-            "<script id='arf-core-js' onerror='window.arferrorload=true;' src='//media1.admicro.vn/cms/Arf.min.js' async><" + "/script>"
+            "<script>var arfAsync = arfAsync || [];</" + "script>" +
+            "<script id='arf-core-js' onerror='window.arferrorload=true;' src='//media1.admicro.vn/cms/Arf.min.js' async><" + "/script>" 
         );
+		
 		// them ngay 22.10.2022
 		$('head').append(
 		"<script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1302916484703914' crossorigin='anonymous'><" + "/script>"
 		);
 		// -- end them ngay 22.10.2022
-// +            "<script src='https://compass.adop.cc/assets/js/adop/adopJ.js?v=14'></" + "script>"
+		
+          //+  "<script src='https://compass.adop.cc/assets/js/adop/adopJ.js?v=14'></" + "script>"
         //var divAdopHeader = $("#divAdopHeader");
         //divAdopHeader.append("<ins class='adsbyadop' _adop_zon='b93ef1ab-43f7-4892-86c0-0973fc147ad0' _adop_type='re' //style='display:inline-block;width:970px;height:90px;' _page_url=''></ins>");
-		var divAdmicroHeader_kj2u1l5q = $("#divAdmicroHeader_kj2u1l5q");
+	
+ 	var divAdmicroHeader_kj2u1l5q = $("#divAdmicroHeader_kj2u1l5q");
         divAdmicroHeader_kj2u1l5q.append("<zone id='kj2u1l5q'></zone><script>arfAsync.push('kj2u1l5q');<" + "/script>");
        
         var divAdmicro_kd8ihyf7 = $("#divAdmicro_kd8ihyf7");
@@ -309,14 +314,13 @@
                                     </li>
                         </ul>
                     </nav>
-                   <div class="logo-hd-mobile uk-hidden@s"><a href="/"><img src="/template/images/logo.png" alt="Bnews.vn"></a></div>
-
+                    <div class="logo-hd-mobile uk-hidden@s"><a href="/"><img src="/template/images/logo.png" alt="Bnews.vn"></a></div>
+					
                 </div>
                 <div class="top-hd-right uk-position-right uk-flex uk-flex-middle uk-width-auto">
                     <!--Video, Tinanh, RSS Desktop-->
                     <ul class="list-control-hd uk-visible@m">
                         
-						
 						 <li>
                             <div class="uk-inline">
                                 <a href="#"><span class="icon-videos"><svg width="18px" height="18px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 298 298" style="enable-background:new 0 0 298 298;" xml:space="preserve"><path fill="#fff" d="M298,33c0-13.255-10.745-24-24-24H24C10.745,9,0,19.745,0,33v232c0,13.255,10.745,24,24,24h250c13.255,0,24-10.745,24-24V33	z M91,39h43v34H91V39z M61,259H30v-34h31V259z M61,73H30V39h31V73z M134,259H91v-34h43V259z M123,176.708v-55.417 c0-8.25,5.868-11.302,12.77-6.783l40.237,26.272c6.902,4.519,6.958,11.914,0.056,16.434l-40.321,26.277	C128.84,188.011,123,184.958,123,176.708z M207,259h-43v-34h43V259z M207,73h-43V39h43V73z M268,259h-31v-34h31V259z M268,73h-31V39	h31V73z" /></svg></span>Media</a>
@@ -354,7 +358,7 @@
                     <div uk-grid="">
                         <div class="uk-width-auto">
                                     <span class="logo-hd"><a href="/"><img src="/template/images/logo.png" alt="Logo Bnews.vn"></a></span>
-									 <!--<span class="logo-hd"><a href="~/"><img src="~/template/images/logo_tet.png" alt="Logo Bnews.vn"></a></span>-->
+									<!--<span class="logo-hd"><a href="~/"><img src="~/template/images/logo_tet.png" alt="Logo Bnews.vn"></a></span>-->
 
                         </div>
                         <!--Tin mới-->
@@ -372,24 +376,27 @@
                             </div>
                         </div>
                         <!--Iframe IPTC Index-->
-						 <div id="dnse-market-index" class="dnse-market-index">
+						
+						<div id="dnse-market-index" class="dnse-market-index">
 								<script src="https://cdn.dnse.com.vn/dnse-price/_embed/embed-mini-widget-1.0.6.js" type="text/javascript">{"width": 233,          "height": 130,"floor_code": "VNINDEX","theme": "white"}</script>
 							</div>
 							<div id="dnse-market-index" class="dnse-market-index">
 								<script src="https://cdn.dnse.com.vn/dnse-price/_embed/embed-mini-widget-1.0.6.js" type="text/javascript" >{"width": 233,      "height": 130,"floor_code": "HNX","theme": "white"}</script>
 							</div>
                         <div class="uk-width-auto uk-visible@m">
-                         
-						  
-						  
+							
+							
+							
+							
 				
                             
+							
                         </div>
                     </div>
-                     <div class="adv-default uk-margin-top uk-visible@m" id="divAdmicroHeader_kj2u1l5q">
+					 <div class="adv-default uk-margin-top uk-visible@m" id="divAdmicroHeader_kj2u1l5q">
 					 <!-- Adv  Admicro Header-->
 					 </div>
-					  <!--Slider Trang thông tin kinh tế của TTXVN -->
+ <!--Slider Trang thông tin kinh tế của TTXVN -->
                     <div class="uk-text-center">
                         <div class="slogan-hd">
 
@@ -415,10 +422,10 @@
 
 <script>
     document.addEventListener('DOMContentLoaded', function () {
-       // var divAdopDetail1 = $("#divAdopDetail1");
-       // divAdopDetail1.append("<ins class='adsbyadop' _adop_zon='52d1952a-bb00-4b7c-9b3d-2d342c851b4d' _adop_type='re' //style='display:inline-block;width:336px;height:280px;' _page_url=''></ins>");
-      //  var divAdopDetail2 = $("#divAdopDetail2");
-       // divAdopDetail2.append("<ins class='adsbyadop' _adop_zon='96649f29-3623-4e34-b0d4-ba375647e8a9' _adop_type='re' //style='display:inline-block;width:336px;height:280px;' _page_url=''></ins>");
+        //var divAdopDetail1 = $("#divAdopDetail1");
+        //divAdopDetail1.append("<ins class='adsbyadop' _adop_zon='52d1952a-bb00-4b7c-9b3d-2d342c851b4d' _adop_type='re' //style='display:inline-block;width:336px;height:280px;' _page_url=''></ins>");
+        //var divAdopDetail2 = $("#divAdopDetail2");
+        //divAdopDetail2.append("<ins class='adsbyadop' _adop_zon='96649f29-3623-4e34-b0d4-ba375647e8a9' _adop_type='re' //style='display:inline-block;width:336px;height:280px;' _page_url=''></ins>");
 
 		var divTruvidDetailRightTop = $("#divTruvidDetailRightTop");
     
@@ -429,14 +436,14 @@
             truvidScript.src = '//stg.truvidplayer.com/index.php?sub_user_id=932&widget_id=4636&playlist_id=3386&m=a&cb=' + (Math.random() * 10000000000000000);
             document.getElementById('divTruvidDetailRightTop').appendChild(truvidScript);
 		
-       // var divAdopDetailRightBottom = $("#divAdopDetailRightBottom");
-       // divAdopDetailRightBottom.append("<ins class='adsbyadop' _adop_zon='eeaec429-e4d9-4150-99f9-3072cf6dbdad' _adop_type='re' //style='display:inline-block;width:336px;height:280px;' _page_url=''></ins>");
+        //var divAdopDetailRightBottom = $("#divAdopDetailRightBottom");
+        //divAdopDetailRightBottom.append("<ins class='adsbyadop' _adop_zon='eeaec429-e4d9-4150-99f9-3072cf6dbdad' _adop_type='re' //='display:inline-block;width:336px;height:280px;' _page_url=''></ins>");
 
         var divAdmicro_kd8in2sl = $("#divAdmicro_kd8in2sl");
         divAdmicro_kd8in2sl.append("<zone id='kd8in2sl'></zone><script>arfAsync.push('kd8in2sl');<" + "/script>");
 		var divAdmicro_ktl50tqp = $("#divAdmicro_ktl50tqp");
         divAdmicro_ktl50tqp.append("<zone id='ktl50tqp'></zone><script>arfAsync.push('ktl50tqp');<" + "/script>");
-		 //var divAdmicro_inpage = $("#divAdmicro_inpage");
+		  //var divAdmicro_inpage = $("#divAdmicro_inpage");
         //divAdmicro_inpage.append("<zone id='kd8iwc68'></zone><script> arfAsync.push('kd8iwc68');<" + "/script> <script src='https://adi.admicro.vn/adt/cpc/tvcads/files/js/inpage_bnews/group_bnews.js'><"+"/script> ");
     }, false);
 </script>
@@ -467,7 +474,7 @@
                                     </div>
                                     <div class="uk-width-auto@m uk-width-1-1">
 
-                                        <div id="fb-region" style="margin-right:10px;">
+                                       <div id="fb-region" style="margin-right:10px;">
                                             <iframe src="https://www.facebook.com/plugins/like.php?href=https://bnews.vn/dinh-cong-lan-rong-ra-nhieu-nganh-tai-phap/262010.html&width=150&layout=button_count&action=like&size=small&share=true&height=20&&locale=vi_VN" width="150" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                                         </div>
                                         
@@ -510,7 +517,7 @@
                             </div>
                             <div id="end-post-share"></div>
                             <div id="end-post-share" class="adv-default uk-visible@m uk-margin-bottom">
-                                <span class="uk-margin-right" id="divAdmicro_ktl50tqp">
+							<span class="uk-margin-right" id="divAdmicro_ktl50tqp">
 							
 							</span>
                                
@@ -784,12 +791,12 @@
             </div>
             <div class="uk-width-auto@m uk-width-1-1">
                 <aside class="sidebar-main">
-                   
-				   <article class="row-sidebar uk-visible@m">
-       
+                   <article class="row-sidebar uk-visible@m">
+        
     </article>
 	
- <article class="row-sidebar uk-visible@m" style="background-image:url(/template/images/background_xembao.png);">
+ 
+<article class="row-sidebar uk-visible@m" style="background-image:url(/template/images/background_xembao.png);">
     <a href="//bnews.xembao.vn" title="Bán Nguyệt san Kinh tế" target="_blank" rel="nofollow">
         <img class="lazyload" data-src="//bnews.xembao.vn/epaper/today/l.jpg" style="width:47%;margin-left:53%;" alt="TTXVN Kinh tế Việt Nam & Thế giới">
     </a>
@@ -797,11 +804,12 @@
 
 
 
-
 <article class="row-sidebar uk-visible@m" id="divTruvidDetailRightTop">
 	
 	
 </article>
+
+
 
 
 
@@ -917,6 +925,7 @@ w[r]=w[r]||function(){(w[r].q = w[r].q || []).push(arguments)};s(p);s(c);})
 						<li><a href="https://chinhsachcuocsong.vn" target="_blank"><img class="lazyload" data-src="/template/images/ttn.png" alt="https://chinhsachcuocsong.vn"></a></li>
 						<li><a href="https://vietnamlawmagazine.vn" target="_blank"><img class="lazyload" data-src="/template/images/partner-5.png" alt="https://vietnamlawmagazine.vn"></a></li>
                         <li><a href="https://www.lecourrier.vn" target="_blank"><img class="lazyload" data-src="/template/images/partner-2.png" alt="https://www.lecourrier.vn"></a></li>
+                        
                     </ul>
                 </article>
             </div>
@@ -1048,7 +1057,7 @@ w[r]=w[r]||function(){(w[r].q = w[r].q || []).push(arguments)};s(p);s(c);})
                             <ul>
                                 <li><a class="uk-accordion-title-canvas" href="/video/tieu-diem-kinh-te/trang-1.html">Tiêu điểm kinh tế</a></li>
                                 <li><a class="uk-accordion-title-canvas" href="/video/tin-tuc/trang-1.html">Tin tức</a></li>
-
+				
                             </ul>
                         </div>
                     </li>
@@ -1112,11 +1121,10 @@ w[r]=w[r]||function(){(w[r].q = w[r].q || []).push(arguments)};s(p);s(c);})
             direction: 'right',
             //true or false - should the marquee be duplicated to show an effect of continues flow
             duplicated: true
-        });
-                    //]]>
+        });		
+		//]]>
     </script>
     
-	
 	<!-- quang cao pushing -->
 	<script src="https://client.trackpush.com/openchrome.js?v=1.0"></script>
 <script>
@@ -1131,5 +1139,6 @@ w[r]=w[r]||function(){(w[r].q = w[r].q || []).push(arguments)};s(p);s(c);})
     document.head.append(script);
 })();
 </script>
+	
 </body>
 </html>

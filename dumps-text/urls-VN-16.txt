@@ -527,6 +527,11 @@ Bạn đọc
      * Chính sách
      * Ý kiến - Hồi âm
 
+   Những quy định về phòng cháy chữa cháy tại các quán karaoke Những quy
+   định về phòng cháy chữa cháy tại các quán karaoke
+
+Những quy định về phòng cháy chữa cháy tại các quán karaoke
+
    Sổ hộ khẩu bị thu hồi căn cứ vào đâu để xác nhận thông tin cư trú? Sổ
    hộ khẩu bị thu hồi căn cứ vào đâu để xác nhận thông tin cư trú?
 
@@ -546,11 +551,6 @@ Vợ chồng trẻ nên thuê hay mua nhà?
    Tế nhị chuyện bia rượu ngày Tết Tế nhị chuyện bia rượu ngày Tết
 
 Tế nhị chuyện bia rượu ngày Tết
-
-   Người già chỉ mong chờ vào lương hưu thì… không ổn chút nào Người già
-   chỉ mong chờ vào lương hưu thì… không ổn chút nào
-
-Người già chỉ mong chờ vào lương hưu thì… không ổn chút nào
 
 Bất động sản
 
@@ -993,7 +993,7 @@ Agribank thông báo tuyển dụng lao động lĩnh vực Công nghệ Thông 
    Tải ứng dụng Báo Lao Động App Tải ứng dụng Báo Lao Động App
    Báo Lao Động giữ bản quyền nội dung trên website này. Báo điện tử Lao
    Động được phát triển bởi Lao Động Technologies © {{vm.currentDate |
-   date:'yyyy'}} - Version: 1.0.2.79.58
+   date:'yyyy'}} - Version: 1.0.2.79.60
 
    (BUTTON)
 

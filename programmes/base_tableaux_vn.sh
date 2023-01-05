@@ -16,12 +16,12 @@
 fichier_urls=$1 # le fichier d'URL en entrée
 fichier_tableau=$2 # le fichier HTML en sortie
 
-if [[ $# -ne 3 ]]
+if [[ $# -ne 2 ]]
 then
 	echo "Ce programme demande exactement trois arguments."
 	exit
 fi
-mot=$3 # à modifier -fait 
+mot="[Đ/đ]ình_công" # à modifier -fait
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
@@ -76,7 +76,7 @@ while read -r URL; do
 	echo "$dump" > "./dumps-text/$basename-$lineno.txt"
 	dump_vn=$(cat "./dumps-text/$basename-$lineno.txt" | python3.9 Tokenizer/Tokenizer_VN.py > "./dumps-tokenize/$basename-$lineno.txt")
 
-	compte=$(echo $dump_vn | grep -o -i "$mot" | wc -l)
+	compte=$(echo $dump_vn | grep -o -i -P "$mot" | wc -l)
 	
 	# construction du contexte 
 	echo "$dump_vn" | grep -P -A2 -B2 $mot  > "./contextes/$basename-$lineno.txt"

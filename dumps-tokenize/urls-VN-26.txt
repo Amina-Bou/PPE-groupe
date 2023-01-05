@@ -76,9 +76,9 @@ TÌM_KIẾM ____________________
 
 
 
-Thứ_Năm , 5 / 01 / 2023 , 22 : 45 
+Thứ_Sáu , 6 / 01 / 2023 , 06 : 22 
 
-25 C 
+22 C 
 
 Ho_Chi Minh_City 
 
@@ -772,7 +772,7 @@ tiếp_theo tôi nhận_xét .
 
 
 
-5 × __ = forty five 
+__ + eight = twelve 
 
 
 
