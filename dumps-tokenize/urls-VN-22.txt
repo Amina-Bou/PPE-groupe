@@ -1,62 +1,128 @@
-Banner_Ban dân_vận tỉnh ủy sub - site - 1 
+# alternate publisher 
+
+
+
+IFRAME : https://www.googletagmanager.com/ns.html?id=GTM-KMGZZZ 
+
+
+
+* ( BUTTON ) menu . svg 
+
+
+
+( BUTTON ) vetnamnet 
+
+____________________ ( BUTTON ) search . png 
 
 * 
 
-* Ban Dân_vận Tỉnh_ủy 
+* Chính_trị 
 
-+ Tổng_quan 
+* Công_nghệ số và Truyền_thông 
 
-+ Tin_tức sự_kiện 
+* Tuần Việt_Nam 
 
-+ Hoạt_động của lãnh_đạo tỉnh 
+* Thời_sự 
 
-+ Hoạt_động của cấp_ủy 
+* Kinh_doanh 
 
-+ Văn_kiện tư_liệu 
+* Giải_trí 
 
-+ Điều_hành tác_nghiệp 
+* Thế_thao 
 
-+ Học_tập và làm theo tư_tưởng , đạo_đức , phong_cách Hồ_Chí_Minh 
+* Sức_khỏe 
 
-* Giới_thiệu 
+* Đời_sống 
 
-* Tin_tức 
+* Giáo_dục 
 
-* Thông_tin điều_hành , tuyên_truyền , vận_động 
+* Thế_giới 
 
-* Nghiên_cứu trao_đổi 
+* Pháp_luật 
 
-* Chuyên_môn nghiệp_vụ 
+* Ô_tô xe_máy 
+
+* Bất_động_sản 
+
+* Du_lịch 
+
+* Bạn_đọc 
+
+* Video 
+
+* English 
+
+* Hồ_sơ 
+
+* Talks 
+
+* Multimedia 
+
+* Ảnh 
+
+* Toàn_văn 
+
+* Dân_tộc - Tôn_giáo 
+
+* Giảm nghèo bền_vững 
+
+* Thị_trường tiêu_dùng 
+
+* Công_nghiệp hỗ_trợ 
+
+* Bảo_vệ người tiêu_dùng 
+
+* Tải app VietNamNet 
+
+* Tuyển_dụng 
+
+* Liên_hệ tòa_soạn 
+
+* Liên_hệ quảng_cáo 
 
 
 
-XÂY_DỰNG ĐẢNG_BỘ VÀ HỆ_THỐNG CHÍNH_TRỊ TRONG SẠCH , VỮNG_MẠNH ; PHÁT_HUY 
+* Tin nóng 
 
-TRUYỀN_THỐNG LỊCH_SỬ , VĂN_HÓA CON_NGƯỜI XỨ NGHỆ , Ý_CHÍ TỰ_CƯỜNG VÀ KHÁT 
+* Tuyến_bài 
 
-VỌNG VƯƠN LÊN ; CHỦ_ĐỘNG ĐỔI_MỚI SÁNG_TẠO , ĐƯA NGHỆ AN PHÁT_TRIỂN NHANH 
+* Tin_tức 24h 
 
-VÀ BỀN_VỮNG ; ĐẢM_BẢO VỮNG_CHẮC QUỐC_PHÒNG , AN_NINH 
-
-____________________ ( BUTTON ) 
+* Sự_kiện 
 
 
 
-[ favicon . ico ] 
+* Cơ_quan chủ_quản : Bộ Thông_tin và Truyền_thông 
+
+* Số giấy_phép : 09 / GP - BTTTT , cấp ngày 07 / 01 / 2019 
+
+* Tổng_biên_tập : Nguyễn_Văn_Bá 
 
 
 
-nghean . dcs . vn 
+* Tòa_soạn : Tòa nhà C ' Land - 156 Xã Đàn 2 , 
+
+* Đống_Đa , Hà_Nội 
+
+* Hotline : 19001081 ( 8h - 20h ) | 0923457788 ( ngoài giờ HC ) 
+
+* © 1997 Báo VietNamNet . All rights reserved . 
+
+* Chỉ được phát_hành lại thông_tin từ website này khi có sự đồng_ý 
+
+bằng văn_bản của báo VietNamNet . 
 
 
 
-Tweet 
+Tải ứng_dụng Độc_giả gửi bài 
 
 
 
-Một_số giải_pháp về phòng_ngừa , giải_quyết đình_công của công_nhân , lao_động 
+vetnamnet 
 
-ở Nghệ_An trong thời_gian tới 
+
+
+# AFF Cup 2022 
 
 
 
@@ -64,785 +130,711 @@ Một_số giải_pháp về phòng_ngừa , giải_quyết đình_công của c
 
 
 
-Tweet 
+* Xin chào , Mai_Anh ! 
 
-* nghean . dcs . vn 
+* Quản_lý đơn hàng 
 
+* Thông_tin tài khoảng 
 
+* Tin đã lưu 
 
-Hiện_nay , trên địa_bàn tỉnh Nghệ_An có khoảng 13.500 doanh_nghiệp đang 
+* Đăng_xuất 
 
-hoạt_động_sản_xuất kinh_doanh , với hơn 230.000 lao_động . 
 
 
+iconmenu 
 
-Trong đó có 63 doanh_nghiệp nhà_nước , với hơn 23.000 lao_động , 56 doanh 
+* ( BUTTON ) icon icon 
 
-nghiệp có vốn đầu_tư nước_ngoài ( FDI ) , với hơn 39.000 lao_động , có 
+* ( BUTTON ) icon notlike icon like 
 
-khoảng 13.000 doanh_nghiệp ngoài nhà_nước , với gần 170.000 lao_động . Có 
+* icon 
 
-17 doanh_nghiệp hoạt_động trong ngành_nghề may_mặc , dày da , với 30.846 
+* 
 
-lao_động . Mức lương bình_quân các doanh_nghiệp trả cho người lao_động 
+* Aa 
 
-là 6 triệu / người / 1 tháng . Trong đó doanh_nghiệp nhà_nước , bình_quân 6,3 
 
-triệu đồng / người / 1 tháng ; doanh_nghiệp có vốn đầu_tư nước_ngoài ( FDI ) 
 
-là 6,1 triệu đồng / người / 1 tháng ; doanh_nghiệp ngoài nhà_nước là 5,5 
+* iconfacebook Facebook 
 
-triệu đồng / người / 1 tháng . 
+* icontwitter 
 
+Zalo 
 
+* iconmail Email 
 
-Vừa_qua , trên địa_bàn tỉnh Nghệ_An xảy ra ba vụ_việc đình_công của công 
+* iconKhác Sao_chép liên_kết 
 
-nhân , lao_động . Cụ_thể : Ngày 07 - 14 / 2 / 2022 , đình_công tại Công_ty TNHH 
 
-Viet_Glory , sản_xuất dày da xuất_khẩu ( địa_chỉ tại Xóm 8 , xã Diễn 
 
-Trường , huyện Diễn_Châu ) của gần 5.000 lao_động tham_gia ; đây là công 
+text - font text - font 
 
-ty vốn đầu_tư nước_ngoài ( Trung_Quốc ) . Ngày 15 / 2 / 2022 , xảy ra tiếp 2 vụ 
 
-đình_công : Tại Công_ty TNHH Em - Tech Việt_Nam , sản_xuất linh_kiện điện 
 
-tử ( địa_chỉ tại phường Vinh_Tân , thành_phố Vinh ) của gần 600 người lao 
+* https://static.vnncdn.net/v1/icon/home_mobile.svg 
 
-động tham_gia ; đây là công_ty vốn đầu_tư nước_ngoài ( Hàn_Quốc ) và tại 
+* Thời_sự 
 
-Công_ty cổ_phần Nam_Thuận Nghệ_An , may_mặc xuất_khẩu ( địa_chỉ tại Xóm 
 
-10 , xã Diễn Mỹ , huyện Diễn_Châu ) của gần 250 người lao_động tham_gia ; 
 
-đây là công_ty do người Việt_Nam làm_chủ . 
+Nghìn công_nhân giày Tam_Cường đình_công , yêu_cầu tăng tiền bữa ăn 
 
 
 
-Các kiến_nghị của công_nhân , người lao_động tập_trung vào các vấn_đề 
+19 / 03 / 2022 - 12 : 40 [ google - news . svg ] 
 
-sau : Công_nhân đòi tăng lương cơ_bản ; ( 2 ) Yêu_cầu bổ_sung phụ_cấp thâm 
 
-niên ; ( 3 ) Đề_nghị tăng các khoản như tiền ăn , tiền xăng ... ( 4 ) Về thái 
 
-độ của một_số quản_lý người nước_ngoài đôi_khi có lời_nói chưa chuẩn 
+Sau khi hàng nghìn công_nhân nhà_máy giày và phụ_liệu Tam_Cường ( Hải 
 
-mực , còn chửi_bới , văng_tục với công_nhân ; ( 5 ) Yêu_cầu bảng lương cần 
+Phòng ) đình_công , suất ăn đã được tăng từ 12.000 đồng lên 13.500 
 
-ghi chi_tiết rõ_ràng từng khoản và số tiền , không được gộp chung các 
+đồng / bữa . 
 
-khoản khác , cần ghi rõ từng mục được nhận trong tháng ; ( 6 ) Lương_tháng 
 
-13 : Yêu_cầu Công_ty trả đầy_đủ tiền_lương tháng 13 mà không trừ theo tỷ 
 
-lệ so với thời_gian vào làm_việc ; ( 7 ) Đề_nghị được test covid - 19 mỗi 
+Sáng nay ( 19 / 3 ) , xác_nhận với PV VietNamNet , lãnh_đạo UBND huyện Vĩnh 
 
-tuần 1 lần , thủ_tục thanh_toán chế_độ BHYT , BHXH cho số công_nhân là Fo 
+Bảo , TP Hải_Phòng cho biết , chiều qua hơn nghìn công_nhân nhà_máy_giày 
 
-tại điều_trị tại nhà chưa rõ_ràng ; và một_số kiến_nghị liên_quan khác . 
+và phụ_liệu Tam_Cường đã ngưng việc tập_thể . 
 
 
 
-Qua cập_nhật , nắm_bắt thông_tin thì việc đình_công tại 3 công_ty không 
+Theo phản_ánh của người lao_động , họ đình_công để đưa yêu_sách_tập 
 
-có yếu_tố tác_động từ các thế_lực thù_địch . 
+trung vào việc đòi tăng lương , hỗ_trợ tiền xăng xe và xem_lại cách đóng 
 
+BHXH sao cho phù_hợp . 
 
+{ keywords } 
 
-Nguyên_nhân diễn ra đình_công chủ_yếu như sau : ( 1 ) Do có sự so_sánh thu 
+Nghìn công_nhân giày Tam_Cường đình_công ngưng việc để yêu_cầu tăng 
 
-nhập , lương giữa công_ty này với công_ty khác , giữa lao_động đi làm 
+thêm tiền ăn , tiền trợ_cấp , tiền_lương tháng 13 
 
-việc ở miền Nam về thì nhận 7 - 8 triệu đồng / người / tháng , nhưng ở Nghệ_An 
 
-chỉ được 3,8 - 3,9 triệu đồng / người / tháng là thấp quá nên họ đề_nghị tăng 
 
-lương . ( 2 ) Do thời_gian gần đây số công_ty may_mặc , dày da ... tăng 
+Bên cạnh đó là một_số kiến_nghị về tăng tiền cơm , trợ_cấp tăng ca , 
 
-nhanh , lại tập_trung chủ_yếu ở các huyện gần nhau như Diễn_Châu , Yên 
+lương tháng 13 … Việc đình_công_diễn ra trong ôn_hòa , không có hiện 
 
-Thành , Đô_Lương ... nên thiếu lao_động , nhất là lao_động có tay_nghề , 
+tượng phá_phách , gây_rối , mất an_toàn . 
 
-nên mới kéo công_nhân từ nhà_máy này sang nhà_máy khác , do đó có thông 
 
-tin nếu về làm_việc tại công_ty mới sẽ có thu_nhập cao hơn và quyền_lợi 
 
-của công_nhân được đảm_bảo hơn , do đó nếu công_ty cũ không đáp_ứng được 
+Theo các công_nhân tại đây , hiện_nay công_ty thay_đổi cách tính tiền 
 
-tăng lương thì công_nhân sẽ chuyển sang công_ty khác . ( 3 ) Các chủ doanh 
+đóng BHXH dựa theo lương bậc . 
 
-nghiệp khi nghe đề_xuất , kiến_nghị của công_đoàn thì không giải_quyết 
 
-kịp_thời , do đó công_nhân tập_hợp_thành tập_thể để đòi quyền_lợi , lúc 
 
-đó ông chủ mới giải_quyết thì đình_công đã xảy ra rồi . ( 4 ) Sự_thấu 
+Hàng tháng , công_ty sẽ đánh_giá tay_nghề của người lao_động để xếp loại 
 
-hiểu , chia_sẻ gần_gũi , ứng_xử của một_số người nước_ngoài , một_số tổ 
+bậc lương từ 1 - 4 , từ đó sẽ làm căn_cứ tính tiền đóng BHXH. 
 
-trưởng , quản_đốc phân_xưởng đối_với công_nhân còn có hiện_tượng_phân 
+{ keywords } 
 
-biệt đối_xử , nói_năng thiếu chuẩn_mực , gây bức_xúc cho công_nhân_trực 
+Công_nhân phản_ánh bữa cơm quá đạm_bạc , không đủ no để làm_việc 
 
-tiếp lao_động . ( 5 ) Hiện_nay trong thời_đại công_nghệ 4.0 thông_tin_lan 
 
-truyền rất nhanh , do đó công_ty này công_nhân đình_công đòi tăng lương 
 
-được thì công_nhân tại công_ty khác cũng đòi để đảm_bảo quyền_lợi và do 
+“ Trước_đây , công_ty đóng BHXH theo mức lương cơ_bản thì người lao_động 
 
-ảnh_hưởng của dịch Covid - 19 liên_quan đến việc công_nhân yêu_cầu xét 
+còn dễ nắm_bắt . Nay chuyển sang đóng BHXH kiểu này , công_nhân sẽ rất 
 
-nghiệm và giải_quyết chế_độ cho số công_nhân bị Fo , F1 chưa kịp_thời . 
+khó kiểm_soát được hàng tháng mình bị trừ bao_nhiêu tiền , chưa kể việc 
 
+đánh bậc không khách_quan ” , một công_nhân bày_tỏ và kiến_nghị phía công 
 
+ty cần phải chốt phương_án đóng BHXH cho phù_hợp , công_bằng và dễ_kiểm 
 
-Kết_quả đến nay , cơ_bản các kiến_nghị của tập_thể người lao_động đã 
+soát . 
 
-được giải_quyết . Tình_hình tại 3 công_ty đã ổn_định , công_nhân trở_lại 
 
-làm_việc bình_thường . 
 
+Các công_nhân cũng ý_kiến về việc hàng tháng phải đóng 25.000 đồng_tiền 
 
+công_đoàn nhưng ngày_sinh_nhật chỉ được tặng cái khăn mặt , Tết_Trung 
 
-Một_số kinh_nghiệm bước_đầu trong công_tác chỉ_đạo giải_quyết_đình 
+thu tặng duy_nhất 1 cái bánh_nướng ... 
 
-công : 
 
 
+“ Cuối năm vừa_rồi , các công_ty trên địa_bàn đều tặng cho công_nhân 
 
-Một là , Ban Dân_vận Tỉnh_ủy vào_cuộc kịp_thời và sâu_sát địa_bàn , ngay 
+300.000 đồng_tiền công_đoàn hỗ_trợ dịch Covid - 19 , nhưng phía công_ty 
 
-sau khi nhận được thông_tin các cuộc đình_công , Ban Dân_vận Tỉnh_ủy đã 
+này không hề có . Thấy công_ty bảo số tiền này không nộp về cho công 
 
-kịp_thời chỉ_đạo các địa_phương xảy ra đình_công của công_nhân như Ban 
+đoàn . Vậy 25.000 đồng chúng_tôi đóng hàng tháng đi đâu ? ” , một công_nhân 
 
-Dân_vận Huyện_ủy Diễn_Châu , Ban Dân_vận Thành_ủy Vinh trực_tiếp xuống 
+bức_xúc . 
 
-hiện_trường để nắm tình_hình . Đồng_thời phối_hợp với Liên_đoàn lao_động 
+{ keywords } 
 
-tỉnh xuống trực_tiếp địa_bàn các doanh_nghiệp xảy ra đình_công để làm 
+Trước_mắt công_nhân được tăng 1.500 đồng / bữa ăn , sau khi đình_công . 
 
-việc với chủ doanh_nghiệp và đối_thoại trực_tiếp với công_nhân . Đoàn 
+Ảnh : CNCC 
 
-công_tác Ban Dân_vận Tỉnh_uỷ do đồng_chí Phó_Trưởng ban Thường_trực làm 
 
-trưởng_đoàn cùng với lãnh_đạo Liên_đoàn lao_động tỉnh , lãnh_đạo huyện 
 
-Diễn_Châu , xã Diễn Trường trực_tiếp về tại Công_ty TNHH Viet_Glory , sản 
+Sau khi xảy ra đình_công , lãnh_đạo công_ty phối_hợp với các cơ_quan 
 
-xuất dày da xuất_khẩu , nơi có gần 5.000 công_nhân đình_công để gặp_gỡ 
+chức_năng làm_việc với người lao_động . Phía nhà_máy giày Tam_Cường đã 
 
-công_nhân , làm_việc với lãnh_đạo công_ty tìm_hiểu nguyên_nhân xảy ra 
+có thông_báo trả_lời các kiến_nghị của người lao_động . 
 
-đình_công và chỉ_đạo giải_quyết để ổn_định tình_hình . 
 
 
+Theo đó , công_ty trả lương căn_cứ theo đúng quy_định pháp_luật , chưa có 
 
-Hai là , Liên_đoàn lao_động tỉnh đã trực_tiếp về làm_việc với ban_giám 
+chính_sách hỗ_trợ xăng xe . Công_ty cũng cho biết , đóng BHXH theo đúng 
 
-đốc các công_ty , trực_tiếp đối_thoại với người lao_động để vận_động 
+quy_định của Luật BHXH. Lương tháng 13 tuỳ_thuộc vào kết_quả kinh_doanh 
 
-công_nhân quay trở_lại làm_việc , thương_lượng với chủ doanh_nghiệp bảo 
+của công_ty . 
 
-vệ quyền_lợi của công_nhân , lao_động và quyền_lợi của doanh_nghiệp . 
 
 
+Nhà_máy giày Tam_Cường đáp_ứng được 2 yêu_cầu của công_nhân là tăng 
 
-Ba là , cấp ủy chỉ_đạo giải_quyết kịp_thời việc đình_công , các đồng_chí 
+tiền cơm từ 12.000 đồng lên 13.500 đồng , kể từ ngày 18 / 3 ( ai không ăn 
 
-Thường_trực cấp ủy cấp tỉnh , cấp huyện thường_xuyên chỉ_đạo để giải 
+sẽ không được cộng vào lương ) và hỗ_trợ 1 bánh_bao cho người lao_động 
 
-quyết , ổn_định tình_hình , ngày 18 / 2 / 2022 , Thường_trực Tỉnh_ủy đã tổ 
+tăng ca đến 20h . 
 
-chức họp nghe tình_hình đình_công , rút ra bài_học kinh_nghiệm và có ý 
 
-kiến để chỉ_đạo các sở , ban , ngành liên_quan phối_hợp tham_mưu ổn_định 
 
-tình_hình , không để đình_công tiếp_tục xảy ra . 
+Theo báo_cáo của UBND huyện Vĩnh_Bảo , tại thời_điểm đình_công , công_ty 
 
+có 2.650 / 2.900 người lao_động đi làm . Khoảng 1.000 công_nhân tập_trung 
 
+tại sân_nhà_máy để đình_công , còn lại vẫn làm_việc bình_thường . 
 
-Bốn là , UBND tỉnh chỉ_đạo các sở , ban , ngành cấp tỉnh , nhất là Sở_Lao 
 
-động , thương_binh và Xã_hội , Lãnh_đạo UBND cấp huyện trực_tiếp về các 
 
-doanh_nghiệp xảy ra đình_công để nắm và ổn_định tình_hình . 
+Theo ông Nguyễn_Đức_Cảnh , Chủ_tịch UBND huyện Vĩnh_Bảo , phía công_ty đã 
 
+tổ_chức đối_thoại trực_tiếp và vận_động người lao_động trở_lại làm_việc 
 
+vào hôm_nay . Các ngành chức_năng liên_quan , UBND xã Tam_Cường tiếp_tục 
 
-Năm là , sau khi tình_hình đình_công đã cơ_bản giải_quyết ổn_định thì 
+nắm tình_hình , không để kẻ xấu lợi_dụng lôi_kéo làm mất ổn_định an_ninh 
 
-phải có giải_pháp nắm tình_hình công_nhân tại các địa_bàn khác trên 
+trật_tự trên địa_bàn . 
 
-toàn tỉnh để hạn_chế đình_công lan rộng , ngay sau tình_hình đình_công 
 
-tại 03 công_ty ổn_định , ngày 18 / 2 / 2022 , Ban Dân_vận Tỉnh_ủy đã có Công 
 
-văn số 477 - CV / BDVTU “ Về nắm tình tình công_nhân , hạn_chế đình_công 
+Ghi_nhận trưa 19 / 3 của PV VietNamNet , công_nhân vẫn tiếp_tục đình_công 
 
-trong các doanh_nghiệp ” , gửi Ban Dân_vận 21 / 21 huyện , thành , thị để 
+và ngày_một đông hơn . Họ yêu_cầu phía nhà_máy đáp_ứng các yêu_cầu như 
 
-tham_mưu cho cấp ủy , phối_hợp với các cơ_quan liên_quan trên địa_bàn để 
+tăng thêm tiền ăn , làm rõ mức đóng bảo_hiểm và các chế_độ đãi_ngộ khác . 
 
-nắm tình_hình công_nhân , người lao_động các doanh_nghiệp trên địa_bàn 
 
-không để đình_công lan rộng trên địa_bàn tỉnh . 
 
+Phía nhà_máy đã cử cán_bộ ra đối_thoại nhưng chưa đi đến được thống 
 
+nhất để công_nhân vào làm_việc trở_lại 
 
-Một_số giải_pháp ngăn_ngừa đình_công trong thời_gian tới : 
 
 
+Nguyễn_Thu_Hằng 
 
-Nhận_định tình_hình trong thời_gian tới , sau khi các yêu_cầu của tập 
+500 công_nhân ở Nghệ_An đình_công đòi quyền_lợi 
 
-thể lao_động tại 3 công_ty được giải_quyết , có_thể sẽ phát_sinh thêm 
 
-tại các doanh_nghiệp khác , nhất là doanh_nghiệp có vốn đầu_tư nước 
 
-ngoài , doanh_nghiệp sử_dụng nhiều lao_động , doanh_nghiệp ngành may_mặc , 
+500 công_nhân ở Nghệ_An đình_công đòi quyền_lợi 
 
-điện_tử do mặt_bằng tiền_lương và các khoản trợ_cấp , phụ_cấp , chế_độ 
 
-sinh_hoạt , phúc_lợi của các doanh_nghiệp không đồng_đều , nơi cao_nơi 
 
-thấp ( mặc_dù đã thực_hiện đúng theo quy_định của pháp_luật lao_động ) . 
+Hàng trăm công_nhân tập_trung bên trong sân Công_ty TNHH EM - Tech_Việt 
 
+Nam , phường Vinh_Tân ( TP Vinh ) ngưng việc tập_thể đòi quyền_lợi . 
 
+* Chủ_đề : 
 
-Mục_tiêu trong thời_gian tới là để làm_sao bảo_đảm vừa thu_hút đầu_tư , 
+* Hải_Phòng 
 
-vừa đảm_bảo quyền_lợi cho công_nhân lao_động , giữ_chân người lao_động 
+* công_nhân đình_công 
 
-làm_việc tại các doanh_nghiệp và hạn_chế thấp nhất việc đình_công , 
+* Tăng_lương 
 
-ngừng việc tập_thể trong các doanh_nghiệp trên địa_bàn . Để làm tốt_việc 
 
-này , Ban Dân_vận Tỉnh_ủy đề_nghị các giải_pháp như sau : 
 
+Tết quý mão 
 
+* Dự_báo thời_tiết 
 
-Một là , Thành_lập đoàn công_tác của tỉnh , gồm đại_diện Liên_đoàn lao 
+* Lời chúc tết ý_nghĩa 
 
-động Tỉnh , Sở Lao_động , thương_binh và Xã_hội , Ban quản_lý Khu kinh_tế 
 
-Đông_Nam tỉnh và một_số ngành , địa_phương liên_quan đến trực_tiếp làm 
 
-việc với các doanh_nghiệp có vốn đầu_tư nước_ngoài , doanh_nghiệp có số 
+Tin nổi_bật 
 
-lao_động lớn để rà_soát lại các thỏa_ước lao_động tập_thể , điều_lệ , quy 
 
-chế công_ty xem cái gì bất_cập , còn thiếu cần phải bổ_sung để đảm_bảo 
 
-đúng pháp_luật , nhất là các chế_độ , chính_sách của người lao_động , 
+Khám phòng quyền trưởng_phòng kiểm_định , lộ 2 cọc tiền nguyên_seri 
 
-thông_qua đó để kiến_nghị lãnh_đạo công_ty bổ_sung , sửa_đổi cho phù 
+trong chiếc cặp cũ sờn 
 
-hợp , kịp_thời ( kể_cả thang , bảng lương ) , để phòng_ngừa đình_công . 
 
 
+Khám phòng quyền trưởng_phòng kiểm_định , lộ 2 cọc tiền nguyên seri trong 
 
-Hai là , các cơ_quan báo_chí tỉnh triển_khai đợt tuyên_truyền về quyền 
+chiếc cặp cũ sờn 
 
-lợi , nghĩa_vụ , trách_nhiệm của người lao_động và trách_nhiệm của chủ sử 
 
-dụng lao_động để tạo đồng thuận xã_hội , tạo môi_trường thu_hút đầu_tư 
 
-( kể_cả tuyên_truyền trên mạng xã_hội ) . 
+Thời_sự 
 
+Bình_Dương : Va_chạm xe_tải , 2 thanh_niên đi xe_máy thương_vong 
 
+[ video . svg ] 
 
-Ba là , Công_an tỉnh có văn_bản chỉ_đạo công_an các huyện , thành , thị 
 
-quan_tâm , nắm_bắt tình_hình an_ninh trật_tự_tại các công_ty , doanh 
 
-nghiệp trên địa_bàn , nhất là doanh_nghiệp có vốn đầu_tư nước_ngoài để 
+Bình_Dương : Va_chạm xe_tải , 2 thanh_niên đi xe_máy thương_vong 
 
-tạo không_khí yên_tâm của các chủ doanh_nghiệp . 
 
 
+Video 
 
-Bốn là , Liên_đoàn lao_động tỉnh chỉ_đạo tổ_chức công_đoàn các huyện , 
 
-thành , thị , công_đoàn Khu kinh_tế Đông_Nam , nhất là công_đoàn cơ_sở_tại 
 
-các doanh_nghiệp có vốn đầu_tư nước_ngoài trên địa_bàn phải chủ_động 
+Hình_ảnh công_an xuyên đêm khám_xét tại Cục Đăng_kiểm Việt_Nam 
 
-nắm tâm_tư , nguyện_vọng chính_đáng , hợp_pháp của công_nhân , người lao 
 
-động . Từ đó , chủ_động đề_xuất với các chủ doanh_nghiệp kịp_thời giải 
 
-quyết . 
+Hình_ảnh công_an xuyên đêm khám_xét tại Cục Đăng_kiểm Việt_Nam 
 
 
 
-Năm là , giải_pháp về lâu_dài , đề_nghị Liên_đoàn lao_động tỉnh chủ_trì 
+Thời_sự 
 
-tham_mưu Ban Thường_vụ Tỉnh_ủy xây_dựng đề_án về một_số giải_pháp phòng 
 
-ngừa , hạn_chế đình_công trên địa_bàn Nghệ_An . / . 
 
+' Biển_hồ Tây_Bắc ' sẽ thành khu du_lịch quốc_gia nghìn_tỷ 
 
 
-Nguyễn_Mạnh_Khôi 
 
+' Biển_hồ Tây_Bắc ' sẽ thành khu du_lịch quốc_gia nghìn_tỷ 
 
 
-Phó_trưởng ban TT Ban Dân_vận Tỉnh_ủy 
 
+Môi_trường 
 
 
-Tin cùng chuyên_mục 
 
+Hơn 40 cây sầu_riêng ở Lâm_Đồng bị đẽo gốc , chặt phá 
 
 
-Bộ_đội Biên_phòng Nghệ_An thực_hiện tốt công_tác dân_vận đảm_bảo chủ 
 
-quyền lãnh_thổ , an_ninh biên_giới , quốc_gia 
+Hơn 40 cây sầu_riêng ở Lâm_Đồng bị đẽo gốc , chặt phá 
 
 
 
-Bộ_đội Biên_phòng Nghệ_An thực_hiện tốt công_tác dân_vận đảm_bảo chủ_quyền 
+Thời_sự 
 
-lãnh_thổ , an_ninh biên_giới , quốc_gia 
 
 
+Cao_điểm Tết , dự_báo 2 ngày đông hành_khách nhất tại sân_bay Tân_Sơn 
 
-Cấp_ủy , cán_bộ chủ_trì cơ_quan , đơn_vị đã tập_trung lãnh_đạo , chỉ_đạo , 
+Nhất 
 
-triển_khai thực_hiện nghiêm_túc , đồng_bộ , có chất_lượng quy_chế dân_chủ 
 
-ở cơ_sở , góp_phần nâng cao năng_lực lãnh_đạo và sức chiến_đấu của tổ 
 
-chức cơ_sở đảng và chất_lượng đảng_viên ; đảm_bảo ... 
+Cao_điểm Tết , dự_báo 2 ngày đông hành_khách nhất tại sân_bay Tân_Sơn_Nhất 
 
-__________________________________________________________________ 
 
 
+An_toàn giao_thông 
 
-Công_tác Dân_vận góp_phần đảm_bảo " ba yên " ( yên dân , yên biên_giới , yên 
 
-địa_bàn ) 
 
+Vi_phạm nồng_độ cồn kịch khung , tài_xế ô_tô hứa bỏ rượu_bia 
 
 
-Công_tác Dân_vận góp_phần đảm_bảo " ba yên " ( yên dân , yên biên_giới , yên_địa 
 
-bàn ) 
+Vi_phạm nồng_độ cồn kịch khung , tài_xế ô_tô hứa bỏ rượu_bia 
 
 
 
-Quế_Phong là huyện miền núi , vùng_cao của tỉnh Nghệ_An , có 74,793 km 
+Thời_sự 
 
-đường_biên_giới chung với 2 huyện Sầm_Tớ và Mường_Quắn , tỉnh Hủa_Phăn , 
 
-nước Cộng_hoà Dân_chủ Nhân_dân Lào ; diện_tích tự_nhiên 189,086,45 ha ; 
 
-có 13 đơn_vị hành_chính . Đảng_bộ huyện có 34 tổ_chức ... 
+Dãy cống bật nắp gần hiện_trường cháu bé 3 tuổi gặp nạn ở Bắc_Giang 
 
-__________________________________________________________________ 
 
 
+Dãy cống bật nắp gần hiện_trường cháu bé 3 tuổi gặp nạn ở Bắc_Giang 
 
-Hiệu_quả công_tác Hội và phong_trào phụ_nữ tỉnh Nghệ_An năm 2022 
 
 
+Thời_sự 
 
-Hiệu_quả công_tác Hội và phong_trào phụ_nữ tỉnh Nghệ_An năm 2022 
 
 
+Làng_nghề quất cảnh Tứ_Liên vào vụ Tết 
 
-Năm 2022 , các cấp Hội phụ_nữ tỉnh Nghệ_An đã tập_trung chỉ_đạo , triển 
 
-khai thực_hiện một_số hoạt_động nổi_bật trên tất_cả các mặt . 
 
-__________________________________________________________________ 
+Làng_nghề quất cảnh Tứ_Liên vào vụ Tết 
 
 
 
-Kết_quả công_tác dân_vận chính_quyền năm 2022 ở Nghệ_An 
+Thời_sự 
 
 
 
-Kết_quả công_tác dân_vận chính_quyền năm 2022 ở Nghệ_An 
+Dự_báo thời_tiết ngày 6 / 1 : Miền Trung tiếp_tục mưa to 
 
 
 
-Trong năm 2022 , Ban Dân_vận Tỉnh_ủy Nghệ_An phối_hợp Ban Cán_sự Đảng 
+Dự_báo thời_tiết ngày 6 / 1 : Miền Trung tiếp_tục mưa to 
 
-UBND tỉnh ban_hành Chương_trình số 96 - CTr - BCĐ ngày 09 / 02 / 2022 về thực 
 
-hiện công_tác dân_vận chính_quyền 2022 ; tiếp_tục chỉ_đạo thực_hiện 
 
-chương_trình phối_hợp_số 148 - CTr / BCSĐ UBND - BDV về công ... 
+Thời_sự 
 
-__________________________________________________________________ 
 
 
+Trăm hộ dân ở phố ' đắt nhất hành_tinh ' thoát dự_án_treo 25 năm 
 
-Công_tác dân_vận trong xây_dựng nông_thôn mới thôn mới nâng cao , nông 
 
-thôn mới kiểu_mẫu 
 
+Trăm hộ dân ở phố ' đắt nhất hành_tinh ' thoát dự_án_treo 25 năm 
 
 
-Công_tác dân_vận trong xây_dựng nông_thôn mới thôn mới nâng cao , nông_thôn 
 
-mới kiểu_mẫu 
+Thời_sự 
 
 
 
-Xác_định rõ tầm quan_trọng , vai_trò và trách_nhiệm của công_tác dân_vận 
+Trót đăng_kiểm xe tại trung_tâm bị điều_tra , chủ phương_tiện cần làm 
 
-trong xây_dựng nông_thôn mới , nhất_là trong xây_dựng nông_thôn mới nâng 
+gì ? 
 
-cao , nông_thôn mới kiểu_mẫu , thời_gian qua hệ_thống ban dân_vận từ tỉnh 
 
-đến khối dân_vận xã , phường , thị_trấn ở Nghệ_An ... 
 
-__________________________________________________________________ 
+Trót đăng_kiểm xe tại trung_tâm bị điều_tra , chủ phương_tiện cần làm gì ? 
 
 
 
-Phát_huy_hiệu_quả mô_hình “ Dân_vận khéo ” ở Nghi_Lộc 
+Thời_sự 
 
 
 
-Phát_huy_hiệu_quả mô_hình “ Dân_vận khéo ” ở Nghi_Lộc 
+Kiến_nghị chuyển cơ_quan điều_tra 40 vụ_việc mua_sắm thiết_bị chống 
 
+Covid - 19 
 
 
-Năm 2022 , tình_hình kinh_tế - xã_hội huyện Nghi_Lộc tiếp_tục duy_trì và 
 
-phát_triển ; Nhân_dân trên địa_bàn huyện phấn_khởi ; hệ_thống chính_trị 
+Kiến_nghị chuyển cơ_quan điều_tra 40 vụ_việc mua_sắm thiết_bị chống Covid - 19 
 
-từ huyện đến cơ_sở được củng_cố và tăng_cường ; nhận_thức về vị_trí , vai 
 
-trò , tầm quan_trọng đối_với công_tác dân_vận nói ... 
 
-__________________________________________________________________ 
+Thời_sự 
 
 
 
-Công_tác Dân_vận góp_phần xây_dựng thành_phố Vinh sớm trở_thành trung 
+Xe cảnh_sát PCCC gặp nạn ở Bình_Phước , một thiếu_úy tử_vong 
 
-tâm kinh_tế , văn_hóa vùng Bắc_Trung_bộ 
 
 
+Xe cảnh_sát PCCC gặp nạn ở Bình_Phước , một thiếu_úy tử_vong 
 
-Công_tác Dân_vận góp_phần xây_dựng thành_phố Vinh sớm trở_thành trung_tâm 
 
-kinh_tế , văn_hóa vùng Bắc_Trung_bộ 
 
+Thời_sự 
 
 
-Thành_phố Vinh là đô_thị loại I trực_thuộc Tỉnh Nghệ_An ; nằm trên trục 
 
-giao_thông huyết_mạch Bắc – Nam về cả đường_bộ , đường_sắt , đường_thủy 
+Sà_lan tông thủng hông phà chở khách qua sông Đồng_Nai 
 
-và đường hàng_không . Với diện_tích 105km2 , dân_số Thành_phố khoảng 
 
-500.000 người , chiếm khoảng 15 % dân_số trong tỉnh , ... 
 
-__________________________________________________________________ 
+Sà_lan tông thủng hông phà chở khách qua sông Đồng_Nai 
 
 
 
-Kết_quả công_tác dân_vận của lực_lượng vũ_trang tỉnh ở vùng đồng_bào 
+Thời_sự 
 
-dân_tộc_thiểu_số và vùng tôn_giáo năm 2022 
 
 
+( BUTTON ) Xem thêm icon - loading 
 
-Kết_quả công_tác dân_vận của lực_lượng vũ_trang tỉnh ở vùng đồng_bào dân_tộc 
 
-thiểu_số và vùng tôn_giáo năm 2022 
 
+Quốc_phòng 
 
 
-Năm 2022 , tình_hình dân_tộc , tôn_giáo trên địa_bàn tỉnh Nghệ_An cơ_bản 
 
-ổn_định ; công_tác dân_tộc , tôn_giáo và chính_sách dân_tộc , tôn_giáo 
+[ loading . svg ] 
 
-luôn được các cấp quan_tâm triển_khai thực_hiện , kinh_tế tăng_trưởng 
 
-khá , văn_hóa - xã_hội phát_triển , quốc_phòng , an_ninh ... 
 
-__________________________________________________________________ 
+Nữ sĩ_quan Việt_Nam đầu_tiên làm_việc tại Phái bộ Huấn_luyện Liên_minh_châu 
 
+Âu 
 
 
-Kết_quả 01 năm thực_hiện Kết_luận số 21 - KL / TW tại Đảng_đoàn Liên_đoàn 
 
-Lao_động tỉnh 
+Thượng_tướng Bế_Xuân_Trường làm Chủ_tịch Hội Cựu_chiến_binh Việt_Nam 
 
+Thượng_tướng Bế_Xuân_Trường làm Chủ_tịch Hội Cựu_chiến_binh Việt_Nam 
 
+Tổng_Bí_thư : Hội Cựu_chiến_binh cần phát_huy công_tác giáo_dục_truyền 
 
-Kết_quả 01 năm thực_hiện Kết_luận số 21 - KL / TW tại Đảng_đoàn Liên_đoàn Lao 
+thống cho thế_hệ trẻ Tổng_Bí_thư : Hội Cựu_chiến_binh cần phát_huy công 
 
-động tỉnh 
+tác giáo_dục truyền_thống cho thế_hệ trẻ 
 
+Tổng_Bí_thư dự khai_mạc Đại_hội Hội Cựu_chiến_binh Việt_Nam Tổng_Bí_thư 
 
+dự khai_mạc Đại_hội Hội Cựu_chiến_binh Việt_Nam 
 
-Đảng_đoàn Liên_đoàn Lao_động tỉnh là tổ_chức Đảng chịu sự lãnh_đạo_trực 
 
-tiếp và thường_xuyên của Ban Thường_vụ Tỉnh_ủy . Đảng_đoàn có chức_năng 
 
-tham_mưu cho Tỉnh_ủy lãnh_đạo công_nhân_viên_chức lao_động ( CNVCLĐ ) 
+Môi_trường 
 
-thực_hiện chủ_trương , nghị_quyết , chỉ_thị của Đảng , ... 
 
-__________________________________________________________________ 
 
+[ loading . svg ] 
 
 
-Nhìn lại 01 năm thực_hiện Kết_luận số 21 - KL / TW ở Đảng_bộ huyện Quỳ_Hợp 
 
+' Biển_hồ Tây_Bắc ' sẽ thành khu du_lịch quốc_gia nghìn_tỷ 
 
 
-Nhìn lại 01 năm thực_hiện Kết_luận số 21 - KL / TW ở Đảng_bộ huyện Quỳ_Hợp 
 
+Xây_dựng sân_bay Long_Thành bụi vượt 18 lần , chủ đầu_tư nói gì ? Xây 
 
+dựng sân_bay Long_Thành bụi vượt 18 lần , chủ đầu_tư nói gì ? 
 
-Quỳ_Hợp là huyện miền núi của tỉnh Nghệ_An , có diện_tích đất tự_nhiên 
+Nông_dân Nghệ_An sưởi ấm đàn gia_súc tiền tỷ Nông_dân Nghệ_An sưởi ấm 
 
-94.220 ha , trong đó ¾ diện_tích là đồi núi , dân_số của huyện có 134.154 
+đàn gia_súc tiền_tỷ 
 
-người ( tính đến ngày 31 / 12 / 2021 ) ; toàn huyện có 20 xã và 01 thị_trấn , 
+Nghìn_tấn rác đổ giữa rừng Hòa_Bình đã được lãnh_đạo tỉnh đồng_ý Nghìn 
 
-trong đó có 14 xã vùng_cao , vùng_sâu , vùng đặc_biệt ... 
+tấn rác đổ giữa rừng Hòa_Bình đã được lãnh_đạo tỉnh đồng_ý 
 
-__________________________________________________________________ 
 
 
+Chống tham_nhũng 
 
-Quỳnh_Lưu sau 20 năm thực_hiện Nghị_quyết 23 - NQ / TW của BCH TW Đảng 
 
-( khóa IX ) 
 
+[ loading . svg ] 
 
 
-Quỳnh_Lưu sau 20 năm thực_hiện Nghị_quyết 23 - NQ / TW của BCH TW Đảng ( khóa IX ) 
 
+Những bước_tiến mới trong công_cuộc phòng_chống tham_nhũng , tiêu_cực 
 
 
-Quỳnh_Lưu là huyện đồng_bằng ven biển có diện_tích 43.977 ha , dân_số 
 
-trên địa_bàn có 281.092 người , được phân_bổ ở 32 xã và 01 thị_trấn với 
+Phân_loại xử_lý các đối_tượng liên_quan vụ án Việt_Á trong năm 2023 
 
-338 khối , xóm , bản . Đồng_bào dân_tộc_thiểu_số có 2.251 khẩu , 597 hộ 
+Phân_loại xử_lý các đối_tượng liên_quan vụ án Việt_Á trong năm 2023 
 
-( dân_tộc Thái ) ; sinh_sống tập_trung ở 05 bản của 02 xã ... 
+Thủ_tướng thành_lập BCĐ xây_dựng Chiến_lược quốc_gia phòng , chống tham 
 
-__________________________________________________________________ 
+nhũng Thủ_tướng thành_lập BCĐ xây_dựng Chiến_lược quốc_gia phòng , chống 
 
+tham_nhũng 
 
+Công_an điều_tra vụ cấp đất giá ' bèo ' rồi lãnh_đạo mua lại ở Quảng_Trị 
 
-Nghệ_An : Kết_quả 10 năm thực_hiện Hướng_dẫn số 169 của Ban Dân_vận 
+Công_an điều_tra vụ cấp đất giá ' bèo ' rồi lãnh_đạo mua lại ở Quảng_Trị 
 
-Trung_ương về công_tác dân_vận tham_gia giải_phóng mặt_bằng thu_hồi 
 
-đất , tái_định_cư 
 
+Quốc_hội 
 
 
-Nghệ_An : Kết_quả 10 năm thực_hiện Hướng_dẫn số 169 của Ban Dân_vận Trung_ương 
 
-về công_tác dân_vận tham_gia giải_phóng mặt_bằng thu_hồi đất , tái_định_cư 
+[ loading . svg ] 
 
 
 
-Sau khi có Hướng_dẫn số 169 - HD / BDVTW , ngày 11 / 6 / 2013 của Ban Dân_vận 
+Các ông Trần_Hồng_Hà , Trần_Lưu_Quang làm Phó_Thủ_tướng 
 
-Trung_ương về công_tác dân_vận tham_gia trong quy_hoạch , xây_dựng và 
 
-thực_hiện các dự_án đầu_tư , phát_triển kinh_tế - xã_hội , công_tác đền 
 
-bù , giải_phóng mặt_bằng thu_hồi đất , tái_định_cư ( Hướng ... 
+Bí_thư đất Cảng trở_thành Phó_Thủ_tướng Chính_phủ Bí_thư đất Cảng_trở 
 
-__________________________________________________________________ 
+thành Phó_Thủ_tướng Chính_phủ 
 
+Quá_trình trở_thành Phó_Thủ_tướng của ông Trần_Hồng Hà Quá_trình trở 
 
+thành Phó_Thủ_tướng của ông Trần_Hồng_Hà 
 
-Hiệu_quả Phong_trào thi_đua Dân_vận khéo ở huyện Tân_Kỳ 
+7 địa_phương đề_nghị giảm dự_toán vay lại hơn 1.500 tỷ đồng 7 địa 
 
+phương đề_nghị giảm dự_toán vay lại hơn 1.500 tỷ đồng 
 
 
-Hiệu_quả Phong_trào thi_đua Dân_vận khéo ở huyện Tân_Kỳ 
 
+[ mucvideo . svg ] video 
 
 
-Tân_Kỳ là huyện miền núi của tỉnh Nghệ_An , gồm 3 dân_tộc : Kinh , Thái , 
 
-Thổ . Dân_số có 36.483 hộ 148.457 khẩu , trong đó có 9.034 hộ , 38.131 
+IFRAME : https://embed.vietnamnet.vn/v/006H9B.html 
 
-khẩu là đồng_bào dân_tộc_thiểu_số chiếm 27,1 % . Đồng_bào theo đạo Công 
 
-giáo 1.263 hộ , 5.859 khẩu chiếm tỷ_lệ 4,2 % Toàn huyện ... 
 
-__________________________________________________________________ 
+Vì_sao Mỹ bỏ dự_án tàu_bay lớn gấp 10 lần ‘ Quái_vật biển ’ Caspian của Liên 
 
+Xô ? 
 
 
-" Dân_vận khéo " trong việc phát_triển kinh_tế - xã_hội , các cuộc vận 
 
-động nhân_đạo , từ_thiện ở vùng đồng_bào Công_giáo 
+video 16x9 [ play - button . svg ] 
 
 
 
-" Dân_vận khéo " trong việc phát_triển kinh_tế - xã_hội , các cuộc vận_động nhân 
+TP. HCM : Nam sinh năm 3 tử_vong trên đường đi làm thêm về nhà 
 
-đạo , từ_thiện ở vùng đồng_bào Công_giáo 
 
 
+video 16x9 [ play - button . svg ] 
 
-Giáo_xứ Dị Lễ ( xã Quỳnh_Lộc , thị_xã Hoàng_Mai ) có 220 hộ , với 925 nhân 
 
-khẩu , chiếm 8,7 % dân_số toàn xã ; Hội_đồng mục vụ ( HĐMV ) giáo_xứ có 05 
 
-vị tham_gia ( do ông Lê_Xuân_Lâm làm Chủ_tịch ) , dưới hội_đồng mục_vụ 
+Bình_Dương : Va_chạm xe_tải , 2 thanh_niên đi xe_máy thương_vong 
 
-giáo_xứ còn có các hội , đoàn để phục_vụ các giáo lễ ... 
 
-__________________________________________________________________ 
 
+video 16x9 [ play - button . svg ] 
 
 
-Mặt_trận Tổ_quốc tỉnh Nghệ_An : Một_số kết_quả sau 20 năm thực_hiện Nghị 
 
-quyết 23 - NQ / TW ngày 12 / 3 / 2003 
+Dùng ngón chân ghép thay ngón tay cho bệnh_nhân bị tai_nạn lao_động 
 
 
 
-Mặt_trận Tổ_quốc tỉnh Nghệ_An : Một_số kết_quả sau 20 năm thực_hiện Nghị_quyết 
+video 16x9 [ play - button . svg ] 
 
-23 - NQ / TW ngày 12 / 3 / 2003 
 
 
+TP. HCM : Diễn_tập cứu 20 người mắc_kẹt trong đám cháy căng_tin 
 
-Sau 20 năm thực_hiện Nghị_quyết số 23 - NQ / TW , ngày 12 / 3 / 2003 của Ban 
 
-Chấp_hành Trung_ương Đảng khóa IX về phát_huy sức_mạnh đại_đoàn_kết 
 
-toàn dân_tộc vì dân giàu , nước mạnh , xã_hội công_bằng , dân_chủ , văn 
+* vpremium - menu - logo 
 
-minh ” 
+* Chính_trị 
 
-__________________________________________________________________ 
+* Công_nghệ số và Truyền_thông 
 
+* Tuần Việt_Nam 
 
+* Thời_sự 
 
-( BUTTON ) Đóng 
+* Kinh_doanh 
 
+* Giải_trí 
 
+* Thế_thao 
 
-Công_tác Tuyên_giáo 1 
+* Sức_khỏe 
 
+* Đời_sống 
 
+* Giáo_dục 
 
-Công_tác Tổ_chức xây_dựng Đảng 1 
+* Thế_giới 
 
+* Pháp_luật 
 
+* Ô_tô xe_máy 
 
-Công_tác Kiểm_tra Giám_sát 1 
+* Bất_động_sản 
 
+* Du_lịch 
 
+* Bạn_đọc 
 
-Công_tác dân_vận 1 
+* Video 
 
+* English 
 
+* Hồ_sơ 
 
-Công_tác Nội_chính và Phòng_chống TN 1 
+* Talks 
 
+* Multimedia 
 
+* Ảnh 
 
-Công_tác Văn_phòng cấp ủy 1 
+* Toàn_văn 
 
+* Dân_tộc - Tôn_giáo 
 
+* Giảm nghèo bền_vững 
 
-Thông_báo 
+* Thị_trường tiêu_dùng 
 
+* Công_nghiệp hỗ_trợ 
 
+* Bảo_vệ người tiêu_dùng 
 
-* Thông_báo triệu_tập kỳ họp thứ 4 , Hội_đồng Nhân_dân tỉnh khóa XVIII 
+* Tải app VietNamNet 
 
-* Thông_báo triệu_tập kỳ họp thứ hai , Hội_đồng nhân_dân tỉnh khóa 
+* Tuyển_dụng 
 
-XVIII , nhiệm_kỳ 2021 - 2026 
+* Liên_hệ tòa_soạn 
 
-* THÔNG_BÁO Kỳ họp thứ 17 , HĐND tỉnh khóa 17 
+* Liên_hệ quảng_cáo 
 
-* Thông_báo triệu_tập kỳ họp thứ 16 - HĐND tỉnh khóa XVII 
 
-* THÔNG_BÁO THỜI_GIAN ĐẠI_HỘI ĐẠI_BIỂU ĐẢNG_BỘ TỈNH LẦN THỨ XIX 
 
+* Tin nóng 
 
+* Tuyến_bài 
 
-Thư_viện ảnh 
+* Tin_tức 24h 
 
+* Sự_kiện 
 
 
-Nghệ_An - Dấu_ấn nhiệm_kỳ 
 
+* Cơ_quan chủ_quản : Bộ Thông_tin và Truyền_thông 
 
+* Số giấy_phép : 09 / GP - BTTTT , cấp ngày 07 / 01 / 2019 
 
-Lịch tiếp công_dân 
+* Tổng_biên_tập : Nguyễn_Văn_Bá 
 
 
 
-Nâng ngạch công_chức 
+* Tòa_soạn : Tòa nhà C ' Land - 156 Xã Đàn 2 , 
 
+* Đống_Đa , Hà_Nội 
 
+* Hotline : 19001081 ( 8h - 20h ) | 0923457788 ( ngoài giờ HC ) 
 
-Tuyển_dụng công_chức 
+* © 1997 Báo VietNamNet . All rights reserved . 
 
+* Chỉ được phát_hành lại thông_tin từ website này khi có sự đồng_ý 
 
+bằng văn_bản của báo VietNamNet . 
 
-Trao_đổi góp_ý 
 
 
+Tải ứng_dụng Độc_giả gửi bài 
 
-Hỗ_trợ kỹ_thuật 
 
 
+Trở_lại đầu trang 
 
-Cổng thông_tin điện_tử Tỉnh Nghệ_an 
 
 
-
-Báo điện_tử cộng_sản 
-
-
-
-Liên_kết website 
-
-
-
-[ Lựa chọn_______________________________ ... . ] 
-
-
-
-CỔNG THÔNG_TIN ĐIỆN_TỬ ĐẢNG_BỘ TỈNH NGHỆ_AN 
-
-Giấy_phép số 10 / GP - TTĐT do Sở Thông_tin và Truyền_thông tỉnh Nghệ_An 
-
-cấp ngày 06 / 02 / 2020 . 
-
-Địa_chỉ : Số 26 - Trường_Thi - TP_Vinh 
-
-Điện_Thoại : ( 0238 ) 3 592 845 
-
-Email : bbt@tinhuy.nghean.gov.vn hoặc bbttinhuynghean@gmail.com 
-
-Đối_tác : https://kubetae.win/ Nhà_cái uy_tín : 
-
-https://nhacaiuytinaz.com/ Xem tỷ_lệ kèo nhà_cái : https://keonhacai.gg 
-
-https://cadobongda.one/ KU11 KU Casino_KUBET 
-
-
-
-Chính_sách bảo_mật | Điều_khoản dịch_vụ | 
-
-Trang_chủ | Thông_tin 
+[ detail ? id = 823946 & w = 000003 ] 
 

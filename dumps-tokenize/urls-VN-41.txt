@@ -1,812 +1,420 @@
-# alternate publisher 
+# alternate 
 
 
 
-IFRAME : https://www.googletagmanager.com/ns.html?id=GTM-KMGZZZ 
+BBC News , Tiếng ViệtBỏ qua để xem nội_dung 
 
 
 
-* ( BUTTON ) menu . svg 
+( BUTTON ) Mục 
 
+* Tin_chính 
 
-
-( BUTTON ) vetnamnet 
-
-____________________ ( BUTTON ) search . png 
-
-* 
-
-* Chính_trị 
-
-* Công_nghệ số và Truyền_thông 
-
-* Tuần Việt_Nam 
-
-* Thời_sự 
-
-* Kinh_doanh 
-
-* Giải_trí 
-
-* Thế_thao 
-
-* Sức_khỏe 
-
-* Đời_sống 
-
-* Giáo_dục 
+* Việt_Nam 
 
 * Thế_giới 
 
-* Pháp_luật 
+* Diễn_đàn 
 
-* Ô_tô xe_máy 
+* Kinh_tế 
 
-* Bất_động_sản 
+* Nhịp sống mới 
 
-* Du_lịch 
-
-* Bạn_đọc 
+* Thể_thao 
 
 * Video 
 
-* English 
 
-* Hồ_sơ 
 
-* Talks 
+* Tin_chính 
 
-* Multimedia 
-
-* Ảnh 
-
-* Toàn_văn 
-
-* Dân_tộc - Tôn_giáo 
-
-* Giảm nghèo bền_vững 
-
-* Thị_trường tiêu_dùng 
-
-* Công_nghiệp hỗ_trợ 
-
-* Bảo_vệ người tiêu_dùng 
-
-* Tải app VietNamNet 
-
-* Tuyển_dụng 
-
-* Liên_hệ tòa_soạn 
-
-* Liên_hệ quảng_cáo 
-
-
-
-* Tin nóng 
-
-* Tuyến_bài 
-
-* Tin_tức 24h 
-
-* Sự_kiện 
-
-
-
-* Cơ_quan chủ_quản : Bộ Thông_tin và Truyền_thông 
-
-* Số giấy_phép : 09 / GP - BTTTT , cấp ngày 07 / 01 / 2019 
-
-* Tổng_biên_tập : Nguyễn_Văn_Bá 
-
-
-
-* Tòa_soạn : Tòa nhà C ' Land - 156 Xã Đàn 2 , 
-
-* Đống_Đa , Hà_Nội 
-
-* Hotline : 19001081 ( 8h - 20h ) | 0923457788 ( ngoài giờ HC ) 
-
-* © 1997 Báo VietNamNet . All rights reserved . 
-
-* Chỉ được phát_hành lại thông_tin từ website này khi có sự đồng_ý 
-
-bằng văn_bản của báo VietNamNet . 
-
-
-
-Tải ứng_dụng Độc_giả gửi bài 
-
-
-
-vetnamnet 
-
-
-
-# AFF Cup 2022 
-
-
-
-* 
-
-
-
-* Xin chào , Mai_Anh ! 
-
-* Quản_lý đơn hàng 
-
-* Thông_tin tài khoảng 
-
-* Tin đã lưu 
-
-* Đăng_xuất 
-
-
-
-iconmenu 
-
-* ( BUTTON ) icon icon 
-
-* ( BUTTON ) icon notlike icon like 
-
-* icon 
-
-* 
-
-* Aa 
-
-
-
-* iconfacebook Facebook 
-
-* icontwitter 
-
-Zalo 
-
-* iconmail Email 
-
-* iconKhác Sao_chép liên_kết 
-
-
-
-text - font text - font 
-
-
-
-* https://static.vnncdn.net/v1/icon/home_mobile.svg 
+* Việt_Nam 
 
 * Thế_giới 
 
+* Diễn_đàn 
 
+* Kinh_tế 
 
-Biểu_tình rầm_rộ ở Paris phản_đối giá_cả leo_thang 
+* Nhịp sống mới 
 
-
-
-17 / 10 / 2022 - 08 : 07 [ google - news . svg ] 
-
-
-
-Tuấn_Anh 
-
-
-
-Nhà_báo 
-
-Xem các bài viết của tác_giả 
-
-
-
-Hàng nghìn người đã đổ ra các đường_phố ở thủ_đô Paris , Pháp cuối tuần 
-
-qua để bày_tỏ sự bất_bình trước tình_trạng giá_cả sinh_hoạt leo_thang . 
-
-
-
-Các cuộc biểu_tình rầm_rộ ở Paris diễn ra trong bối_cảnh công_đoàn lớn 
-
-nhất Pháp CGT tiếp_tục tiến_hành đình_công tại các nhà_máy lọc dầu , 
-
-khiến nhiều trạm bán xăng trên toàn_quốc phải tạm đóng_cửa . 
-
-
-
-IFRAME : https://embed.vietnamnet.vn/v/004DVX.html 
-
-
-
-Theo đài RT , cuộc biểu_tình ngày 16 / 10 do cựu ứng_cử_viên tổng_thống 
-
-Jean - Luc_Melenchon , lãnh_đạo đảng cánh tả Nước Pháp bất_khuất ( LFI ) tổ 
-
-chức . Một_số tổ_chức và đảng cánh tả khác đã tham_gia , với một_số kêu 
-
-gọi Tổng_thống Emmanuel_Macron phải hành_động mạnh_mẽ hơn để chống lại 
-
-biến_đổi khí_hậu . 
-
-[ bieu - tinh - phap - 1 - 219 . jpg ] Lãnh_đạo đảng LFI Jean - Luc_Melenchon ( giữa ) 
-
-đứng đầu đoàn người tuần_hành phản_đối giá_cả leo_thang ở Paris , Pháp 
-
-ngày 16 / 10 . Ảnh : AP 
-
-
-
-Tuy_nhiên , những lo_ngại về kinh_tế luôn là mối quan_tâm hàng_đầu , đang 
-
-choán lấy tâm_trí của những người biểu_tình . “ Đây không phải là cuộc 
-
-tuần_hành của Melenchon . Đây là cuộc tuần_hành của những người đói , 
-
-những người đang bị lạnh và những người muốn được trả lương cao hơn ” , 
-
-lãnh_đạo LFI phát_biểu trên kênh truyền_hình France 3 . 
-
-
-
-Manon_Aubry , Phó_chủ_tịch đảng LFI bày_tỏ , tình_trạng giá_cả leo_thang 
-
-hiện_nay “ không_thể chịu_đựng được ” và dẫn tới việc mất_sức_mua lớn 
-
-nhất trong 40 năm qua ở Pháp . 
-
-[ bieu - tinh - phap - 2 - 217 . jpg ] [ bieu - tinh - phap - 3 - 221 . jpg ] Ảnh : Reuters 
-
-
-
-Tỷ_lệ lạm_phát của Pháp hiện ở mức 6 % , trong khi hầu_hết các lĩnh_vực 
-
-công_nghiệp của nước này đều ghi_nhận sự sụt_giảm hoạt_động do chi_phí 
-
-năng_lượng tăng , trong bối_cảnh Liên_minh châu Âu ( EU ) áp trừng_phạt 
-
-nhiên_liệu hóa_thạch của Nga vì chiến_dịch quân_sự đặc_biệt của Moscow 
-
-tại Ukraine . 
-
-
-
-Với_hóa đơn năng_lượng của các hộ gia_đình tăng cao , một bộ_phận người 
-
-dân Pháp bắt_đầu quay trở_lại dùng củi và tình_trạng mất điện đã được 
-
-dự_báo . 
-
-
-
-IFRAME : https://embed.vietnamnet.vn/v/004DBE.html 
-
-
-
-Đụng_độ giữa những người biểu_tình cực_tả quá_khích với lực_lượng cảnh 
-
-sát ở Paris đã diễn ra trong các cuộc biểu_tình hồi cuối tuần . Những 
-
-hình_ảnh được chia_sẻ trên mạng xã_hội cho thấy , cảnh_sát chống bạo 
-
-động đã bắn hơi cay nhằm cố_gắng trấn_áp những người chống_đối mặc áo 
-
-đen . 
-
-
-
-Động_thái diễn ra giữa lúc CGT tiếp_tục phát_động đình_công tại các nhà 
-
-máy lọc dầu nhằm yêu_cầu tăng lương cho công_nhân . Các cuộc đình_công 
-
-kéo_dài 3 tuần qua đã gây ra tình_trạng thiếu_hụt và phải phân_bổ nguồn 
-
-cung tại các trạm xăng khắp đất_nước . 
-
-
-
-GCT hôm 15 / 10 cho biết đã bác_bỏ một đề_nghị trả lương từ “ ông lớn ” dầu 
-
-khí TotalEnergies . Ông Melenchon kêu_gọi tổng_đình_công trên toàn_quốc 
-
-vào ngày 18 / 10 . 
-
-
-
-Tuấn_Anh 
-
-
-
->> Đọc thêm tin thế_giới trên báo VietNamNet 
-
-
-
-Châu_Âu ngăn khủng_hoảng năng_lượng biến thành suy_thoái kinh_tế cách 
-
-nào ? Các chuyên_gia tin , châu Âu có_thể thực_hiện các giải_pháp đồng_bộ , 
-
-mạnh_mẽ hơn để ngăn_chặn cuộc khủng_hoảng năng_lượng hiện_tại biến 
-
-thành suy_thoái kinh_tế . 
-
-https://static.vnncdn.net/v1/icon/square.svg Biểu_tình rầm_rộ chống 
-
-chính_phủ , EU và NATO ở CH_Séc 
-
-https://static.vnncdn.net/v1/icon/square.svg Pháp cáo_buộc Nga dùng khí 
-
-đốt làm " vũ_khí " 
-
-https://static.vnncdn.net/v1/icon/square.svg Lạm_phát tại Anh tăng cao 
-
-nhất trong vòng 40 năm qua 
-
-* Chủ_đề : 
-
-* Pháp 
-
-* biểu_tình 
-
-* Paris 
-
-
-
-Tết quý mão 
-
-* Dự_báo thời_tiết 
-
-* Lời chúc tết ý_nghĩa 
-
-
-
-Tin nổi_bật 
-
-
-
-Chân_dung công_tố_viên đặc_biệt phụ_trách các vụ điều_tra ông Trump 
-
-
-
-Chân_dung công_tố_viên đặc_biệt phụ_trách các vụ điều_tra ông Trump 
-
-
-
-Thế_giới 
-
-Video pháo tự_hành Akatsiya tấn_công mục_tiêu ở Ukraine 
-
-
-
-Video pháo tự_hành Akatsiya tấn_công mục_tiêu ở Ukraine [ icon - video . svg ] 
-
-
-
-Thế_giới 
-
-
-
-Liệu UAV sát_thủ_tự_động có được triển_khai trên các vùng chiến_sự 
-
-Ukraine ? 
-
-
-
-Liệu UAV sát_thủ_tự_động có được triển_khai trên các vùng chiến_sự Ukraine ? 
-
-
-
-Thế_giới 
-
-
-
-Tổng_thống Putin ra_lệnh ngừng_bắn 36 giờ ở Ukraine 
-
-
-
-Tổng_thống Putin ra_lệnh ngừng_bắn 36 giờ ở Ukraine 
-
-
-
-Thế_giới 
-
-
-
-Thổ_Nhĩ_Kỳ kêu_gọi Nga ngừng_bắn , Ukraine tin Đức sẽ chuyển_giao xe 
-
-tăng chủ_lực 
-
-
-
-Thổ_Nhĩ_Kỳ kêu_gọi Nga ngừng_bắn , Ukraine tin Đức sẽ chuyển_giao xe_tăng chủ 
-
-lực 
-
-
-
-Thế_giới 
-
-
-
-Bộ_phận nhạy_cảm trong tên_lửa của Đài_Loan được gửi tới Trung_Quốc 
-
-
-
-Bộ_phận nhạy_cảm trong tên_lửa của Đài_Loan được gửi tới Trung_Quốc 
-
-
-
-Thế_giới 
-
-
-
-Mỹ xúc_tiến mở lại sứ_quán tại Solomon 
-
-
-
-Mỹ xúc_tiến mở lại sứ_quán tại Solomon 
-
-
-
-Thế_giới 
-
-
-
-Ukraine ước_tính số lính Nga thiệt_mạng , thừa_nhận thiệt_hại nặng ở 
-
-Bakhmut 
-
-
-
-Ukraine ước_tính số lính Nga thiệt_mạng , thừa_nhận thiệt_hại nặng ở Bakhmut 
-
-
-
-Thế_giới 
-
-
-
-Vụ thảm_sát cả gia_đình 8 người rúng_động thành_phố Mỹ 
-
-
-
-Vụ thảm_sát cả gia_đình 8 người rúng_động thành_phố Mỹ 
-
-
-
-Thế_giới 
-
-
-
-Cá_ngừ vây xanh được bán đấu_giá hơn 6 tỷ đồng ở Tokyo 
-
-
-
-Cá_ngừ vây xanh được bán đấu_giá hơn 6 tỷ đồng ở Tokyo 
-
-
-
-Thế_giới 
-
-
-
-Bị kiện vì phóng_sinh hơn 12 tấn cá xuống hồ để cầu_may 
-
-
-
-Bị kiện vì phóng_sinh hơn 12 tấn cá xuống hồ để cầu_may 
-
-
-
-Thế_giới 
-
-
-
-Lý_do kiểm_tra nước_thải trên máy_bay từ Trung_Quốc để ngăn Covid - 19 
-
-
-
-Lý_do kiểm_tra nước_thải trên máy_bay từ Trung_Quốc để ngăn Covid - 19 
-
-
-
-Thế_giới 
-
-
-
-Tehran cảnh_báo Pháp về tranh biếm_họa lãnh_tụ tinh_thần tối_cao Iran 
-
-
-
-Tehran cảnh_báo Pháp về tranh biếm_họa lãnh_tụ tinh_thần tối_cao Iran 
-
-
-
-Thế_giới 
-
-
-
-UAV Triều_Tiên bay vào vùng cấm bay quanh văn_phòng Tổng_thống Hàn_Quốc 
-
-
-
-UAV Triều_Tiên bay vào vùng cấm bay quanh văn_phòng Tổng_thống Hàn_Quốc 
-
-
-
-Thế_giới 
-
-
-
-Ghế Chủ_tịch Hạ_viện Mỹ được quyết_định như thế_nào ? 
-
-
-
-Ghế Chủ_tịch Hạ_viện Mỹ được quyết_định như thế_nào ? 
-
-
-
-Thế_giới 
-
-
-
-( BUTTON ) Xem thêm icon - loading 
-
-
-
-Quân_sự 
-
-
-
-[ loading . svg ] 
-
-
-
-Video pháo tự_hành Akatsiya tấn_công mục_tiêu ở Ukraine 
-
-
-
-Liệu UAV sát_thủ_tự_động có được triển_khai trên các vùng chiến_sự 
-
-Ukraine ? Liệu UAV sát_thủ_tự_động có được triển_khai trên các vùng 
-
-chiến_sự Ukraine ? 
-
-Bộ_phận nhạy_cảm trong tên_lửa của Đài_Loan được gửi tới Trung_Quốc_Bộ 
-
-phận nhạy_cảm trong tên_lửa của Đài_Loan được gửi tới Trung_Quốc 
-
-Nga tung video công_phá cứ_điểm Ukraine bằng tên_lửa dẫn đường thế_hệ 
-
-mới Nga tung video công_phá cứ_điểm Ukraine bằng tên_lửa dẫn đường_thế 
-
-hệ mới 
-
-
-
-Thế_giới đó_đây 
-
-
-
-[ loading . svg ] 
-
-
-
-Vụ thảm_sát cả gia_đình 8 người rúng_động thành_phố Mỹ 
-
-
-
-Cá_ngừ vây xanh được bán đấu_giá hơn 6 tỷ đồng ở Tokyo Cá_ngừ vây xanh 
-
-được bán đấu_giá hơn 6 tỷ đồng ở Tokyo 
-
-Bị kiện vì phóng_sinh hơn 12 tấn cá xuống hồ để cầu_may Bị kiện vì 
-
-phóng_sinh hơn 12 tấn cá xuống hồ để cầu_may 
-
-Bộ Nội_vụ Philippines yêu_cầu_toàn_bộ_tướng , đại_tá cảnh_sát từ_chức Bộ 
-
-Nội_vụ Philippines yêu_cầu_toàn_bộ_tướng , đại_tá cảnh_sát từ_chức 
-
-
-
-Bình_luận quốc_tế 
-
-
-
-[ loading . svg ] 
-
-
-
-Ghế Chủ_tịch Hạ_viện Mỹ được quyết_định như thế_nào ? 
-
-
-
-Trung_Quốc tái mở_cửa tác_động thế_nào tới toàn_cầu ? Trung_Quốc tái_mở 
-
-cửa tác_động thế_nào tới toàn_cầu ? 
-
-Năm 2023 sẽ đầy thách_thức với ông Trump Năm 2023 sẽ đầy thách_thức với 
-
-ông Trump 
-
-Các xu_hướng định_hình_thế_giới năm 2023 Các xu_hướng định_hình_thế 
-
-giới năm 2023 
-
-
-
-Chân_dung 
-
-
-
-[ loading . svg ] 
-
-
-
-Chân_dung công_tố_viên đặc_biệt phụ_trách các vụ điều_tra ông Trump 
-
-
-
-Người đàn_ông Mỹ cứu sống hàng chục người mắc_kẹt giữa bão_tuyết Người 
-
-đàn_ông Mỹ cứu sống hàng chục người mắc_kẹt giữa bão_tuyết 
-
-Chân_dung những tỷ_phú giàu nhất châu Âu Chân_dung những tỷ_phú_giàu 
-
-nhất châu Âu 
-
-Messi và những câu_chuyện từ_thiện đáng nhớ Messi và những câu_chuyện 
-
-từ_thiện đáng nhớ 
-
-
-
-[ mucvideo . svg ] video 
-
-
-
-IFRAME : https://embed.vietnamnet.vn/v/006FPL.html 
-
-
-
-Văn_Lâm ráo_riết tìm bố trên sân Mỹ_Đình sau chiến_thắng trước Myanmar 
-
-
-
-video 16x9 [ play - button . svg ] 
-
-
-
-TP. HCM : Nam sinh năm 3 tử_vong trên đường đi làm thêm về nhà 
-
-
-
-video 16x9 [ play - button . svg ] 
-
-
-
-Dùng ngón chân ghép thay ngón tay cho bệnh_nhân bị tai_nạn lao_động 
-
-
-
-video 16x9 [ play - button . svg ] 
-
-
-
-TP. HCM : Diễn_tập cứu 20 người mắc_kẹt trong đám cháy căng_tin 
-
-
-
-video 16x9 [ play - button . svg ] 
-
-
-
-Người đàn_ông dựng tượng vợ quá_cố để ở nhà , chăm_sóc y_như người thật 
-
-
-
-* vpremium - menu - logo 
-
-* Chính_trị 
-
-* Công_nghệ số và Truyền_thông 
-
-* Tuần Việt_Nam 
-
-* Thời_sự 
-
-* Kinh_doanh 
-
-* Giải_trí 
-
-* Thế_thao 
-
-* Sức_khỏe 
-
-* Đời_sống 
-
-* Giáo_dục 
-
-* Thế_giới 
-
-* Pháp_luật 
-
-* Ô_tô xe_máy 
-
-* Bất_động_sản 
-
-* Du_lịch 
-
-* Bạn_đọc 
+* Thể_thao 
 
 * Video 
 
-* English 
 
-* Hồ_sơ 
 
-* Talks 
-
-* Multimedia 
-
-* Ảnh 
-
-* Toàn_văn 
-
-* Dân_tộc - Tôn_giáo 
-
-* Giảm nghèo bền_vững 
-
-* Thị_trường tiêu_dùng 
-
-* Công_nghiệp hỗ_trợ 
-
-* Bảo_vệ người tiêu_dùng 
-
-* Tải app VietNamNet 
-
-* Tuyển_dụng 
-
-* Liên_hệ tòa_soạn 
-
-* Liên_hệ quảng_cáo 
+Đình_công ở Tp HCM : chính_quyền ' xoa_dịu ' ? 
 
 
 
-* Tin nóng 
+1 tháng 4 2015 
 
-* Tuyến_bài 
-
-* Tin_tức 24h 
-
-* Sự_kiện 
+Cuộc đình_công kéo_dài liên_tục từ ngày 26 / 3 
 
 
 
-* Cơ_quan chủ_quản : Bộ Thông_tin và Truyền_thông 
+Nguồn hình_ảnh , facebbok 
 
-* Số giấy_phép : 09 / GP - BTTTT , cấp ngày 07 / 01 / 2019 
-
-* Tổng_biên_tập : Nguyễn_Văn_Bá 
+Chụp lại hình_ảnh , 
 
 
 
-* Tòa_soạn : Tòa nhà C ' Land - 156 Xã Đàn 2 , 
-
-* Đống_Đa , Hà_Nội 
-
-* Hotline : 19001081 ( 8h - 20h ) | 0923457788 ( ngoài giờ HC ) 
-
-* © 1997 Báo VietNamNet . All rights reserved . 
-
-* Chỉ được phát_hành lại thông_tin từ website này khi có sự đồng_ý 
-
-bằng văn_bản của báo VietNamNet . 
+Cuộc đình_công kéo_dài liên_tục từ ngày 26 / 3 
 
 
 
-Tải ứng_dụng Độc_giả gửi bài 
+Đại_diện của chính_quyền hứa sẽ xem_xét nguyện_vọng của công_nhân sau 
+
+một đợt đình_công lớn tại công_ty Pou Yuen Việt_Nam phản_đối một 
+
+điều_luật mới của Luật Bảo_hiểm Xã_hội , truyền_thông trong nước đưa 
+
+tin . 
 
 
 
-Trở_lại đầu trang 
+Trước đó , hàng ngàn công_nhân của Pou_Yuen , một công_ty thuộc sở_hữu 
+
+hoàn_toàn của Đài_Loan chuyên sản_xuất giày thể_thao và may_mặc_xuất 
+
+khẩu , đã đình_công liên_tục từ ngày 26 / 3 để phản_đối Luật Bảo_hiểm_xã 
+
+hội sắp có hiệu_lực vốn không cho phép người lao_động lãnh tiền bảo 
+
+hiểm xã_hội sau khi nghỉ_việc mà phải đến sau khi nghỉ hưu mới được 
+
+lãnh . 
 
 
 
-[ detail ? id = 2070703 & w = 000003 ] 
+Trước tình_hình đó , ông Doãn Mậu_Diệp , Thứ_trưởng Bộ_Lao 
+
+động - Thương_binh - Xã_hội đã có buổi đối_thoại trực_tiếp với công_nhân 
+
+vào trưa thứ Ba ngày 31 / 3 , báo_chí trong nước đưa tin . 
+
+
+
+Ông Diệp được tờ Lao_Động dẫn lời_nói với các công_nhân rằng Bộ_Lao 
+
+động - Thương_binh - Xã_hội sẽ trình chính_phủ phương_án cho phép công 
+
+nhân lựa_chọn cách làm nào phù_hợp cho họ : hoặc là thanh_toán một lần 
+
+sau khi công_nhân nghỉ_việc rồi chốt sổ hoặc là bảo_lưu sổ bảo_hiểm 
+
+xã_hội để công_nhân có_thể tiếp_tục tích_lũy cho đủ điều_kiện đến khi 
+
+về hưu được nhận lương hưu . 
+
+
+
+Các công_nhân có_mặt tại buổi đối_thoại được cho là đã ‘ vỗ_tay đồng 
+
+tình ’ với đề_xuất của ông Diệp , báo mạng VnExpress cho biết . 
+
+
+
+' Hồi chuông cảnh_tỉnh ' 
+
+
+
+Trong một diễn_biến khác , ông Đặng_Ngọc_Tùng , Chủ_tịch Tổng_Liên_đoàn 
+
+Lao_động Việt_Nam , đã ra lời kêu_gọi các công_nhân Pou Yuen quay trở 
+
+lại làm_việc và ‘ không để cho kẻ xấu lợi_dụng , kích_động , xúi_giục ’ . 
+
+
+
+BBC Việt_ngữ đã liên_lạc các vị có chức_trách ở Quận Bình_Tân cũng 
+
+như phường Tân_Tạo A để hỏi thêm về vụ_việc nhưng tất_cả đều từ_chối 
+
+trả_lời . 
+
+
+
+Hiện_tại chưa rõ các công_nhân đình_công đã tở lại làm_việc hay chưa 
+
+nhưng trang mạng của tờ Pháp_Luật dẫn lời ông Củ_Phát_Nghiệp , chủ 
+
+tịch Công_đoàn Pou_Yuen , cho biết ‘ tình_hình đã ổn_định ’ và ‘ một bộ 
+
+phận công_nhân đã trở_lại làm_việc ’ . 
+
+
+
+BBC không có_mặt tại_chỗ nên không có điều_kiện kiểm_chứng thông_tin 
+
+này . 
+
+
+
+Trả_lời BBC ngày 31 / 3 , Luật_sư Hoàng_Văn Hướng , trưởng văn_phòng luật 
+
+sư Hoàng_Hưng , cho rằng cuộc đình_công là " hồi chuông cảnh_tỉnh " , nhắc 
+
+nhở các nhà làm_luật cần đạt được " sự đồng thuận , sâu_sắc , thấu_đáo " 
+
+khi điều_chỉnh luật . 
+
+
+
+" Trước_đây thì họ thanh_toán luôn , ngay sau khi chấm_dứt hợp_đồng , 
+
+nhưng giờ sửa lại là phải đợi sau một thời_gian nữa . Mục_đích nhà làm 
+
+luật là muốn cộng dồn lại thời_gian đóng bảo_hiểm để mục_đích cuối_cùng 
+
+là đảm_bảo_an_sinh xã_hội , tức_là vấn_đề hưu_trí . " 
+
+
+
+" Họ cho rằng nếu_như đã thanh_toán một lần ở doanh_nghiệp này , thì sau 
+
+này đến tuổi nghỉ hưu lại không có lương hưu thì đó là thiệt_hại cho 
+
+người lao_động . Tôi nghĩ rằng nên_chăng giữa các nhà quản_lý về lao 
+
+động , kể_cả Liên_đoàn Lao_động ở TP. HCM cầncó đối_thoại để giải_thích 
+
+cặn_kẽ " . 
+
+
+
+" Nếu đối_thoại tận_cùng vấn_đề mà thấy cần sửa luật thì cũng_nên chỉnh 
+
+sửa luật chứ cũng không cần phải cứng_nhắc . Các cuộc đình_công làm 
+
+gióng lên hồi chuông cảnh_tỉnh cho những người làm_luật là khi ban_hành 
+
+chính_sách thì phải đảm_bảo tính đồng thuận , sâu_sắc , thấu_đáo " . 
+
+
+
+Trong khi đó Luật_sư Hà_Huy_Sơn thì cho rằng cuộc đình_công là một 
+
+" biểu_hiện tốt " . 
+
+
+
+" Người lao_động đã có ý_thức về quyền_lợi của mình nên chuyện đình_công 
+
+đó rất tốt cho xã_hội . Phía nhà_nước cần thay_đổi tư_duy , nhất_là đối 
+
+với luật bảo_hiểm xã_hội để người_ta có quyền lựa_chọn chứ không_thể áp 
+
+đặt như_vậy . 
+
+
+
+Tin liên_quan 
+
+
+
+* 
+
+
+
+' Bãi công là hồi chuông cảnh_tỉnh ' 
+
+31 tháng 3 năm 2015 
+
+* 
+
+
+
+Tiếp_tục đình_công lớn ở Tp_HCM 
+
+30 tháng 3 năm 2015 
+
+
+
+Tin_chính 
+
+
+
+* 
+
+
+
+Tàu_chiến Hoa_Kỳ đi qua eo_biển Đài_Loan khiến Trung_Quốc nổi_giận 
+
+25 phút trước 
+
+* 
+
+
+
+Hàm_Nghi - vị Hoàng đế lưu đày tìm tự_do qua nghệ_thuật 
+
+5 tháng 1 năm 2023 
+
+* 
+
+
+
+Trung_Quốc : Người nổi_tiếng tử_vong , làm tăng lo_ngại về số người chết vì 
+
+Covid 
+
+5 tháng 1 năm 2023 
+
+
+
+Góc nhìn và chuyên_mục 
+
+
+
+* Getty_Images 
+
+
+
+Lớp trẻ có thực_sự kém_cỏi hơn thế_hệ cha_chú ? 
+
+1 tháng 1 năm 2023 
+
+* Getty_Images 
+
+
+
+New_York chuẩn_thuận việc ủ thi_thể người thành đất_compost 
+
+2 tháng 1 năm 2023 
+
+* Picture of nose cone of Artemis - i SLS rocket and Orion capsule on 
+
+launch gantry with moon above 
+
+
+
+Vì_sao các cường_quốc đua nhau thám_hiểm Mặt_trăng và vũ_trụ năm 2023 ? 
+
+26 tháng 12 năm 2022 
+
+* NASA / JPL - Caltech 
+
+
+
+Vũ_trụ tồn_tại vĩnh_viễn hay sẽ diệt_vong ? 
+
+12 tháng 3 năm 2020 
+
+* Getty_Images 
+
+
+
+Bệnh tự ảo_tưởng về kiến_thức của bản_thân 
+
+26 tháng 12 năm 2022 
+
+* Getty_Images 
+
+
+
+Các định_luật vật_lý có chứng_minh sự tồn_tại của Chúa ? 
+
+6 tháng 5 năm 2021 
+
+* Alamy 
+
+
+
+Những vị vua khoác long bào khảm xà_cừ của London 
+
+18 tháng 12 năm 2022 
+
+* Getty_Images 
+
+
+
+Những đứa con phải sống dưới bóng cha_mẹ 
+
+14 tháng 12 năm 2022 
+
+* Getty_Images 
+
+
+
+Góc khuất đáng sợ của việc hẹn_hò trên mạng 
+
+25 tháng 11 năm 2021 
+
+
+
+Đọc nhiều nhất 
+
+
+
+1 . 1 
+
+Việt_Nam : Cho hai Phó_Thủ_tướng ' từ_chức ' để làm_gương ? 
+
+2 . 2 
+
+Trung_Quốc : Người nổi_tiếng tử_vong , làm tăng lo_ngại về số người 
+
+chết vì Covid 
+
+3 . 3 
+
+Đình_chỉ cán_bộ công_an Nội_Bài bị tố đòi tiền tip của du_khách 
+
+4 . 4 
+
+Chúng_ta biết gì về biến_thể Covid mới XBB. 1.5 ? 
+
+5 . 5 
+
+Có bao_nhiêu Hạo_Nam còn sống ? 
+
+6 . 6 
+
+Hàm_Nghi - vị Hoàng đế lưu đày tìm tự_do qua nghệ_thuật 
+
+7 . 7 
+
+Hoàng_gia Anh : Hoàng_tử Harry_cáo_buộc từng bị Hoàng_tử William 
+
+' đánh ' 
+
+8 . 8 
+
+Bé Thái_Lý Hạo_Nam kẹt trong cọc bê_tông ' đã tử_vong ' 
+
+9 . 9 
+
+Bé trai rơi xuống cột bê_tông ở Đồng_Tháp : Trách_nhiệm thuộc về ai ? 
+
+10 . 10 
+
+Lạm_dụng , tham_nhũng và những cái chết trên tàu cá Trung_Quốc ở 
+
+Ghana 
+
+
+
+BBC News , Tiếng_Việt 
+
+* Tại_sao bạn có_thể tin_tưởng BBC_News 
+
+* Điều_khoản sử_dụng 
+
+* Về BBC 
+
+* Chính_sách riêng_tư 
+
+* Cookie 
+
+* Liên_hệ BBC 
+
+* AdChoices / Do Not_Sell_My_Info 
+
+
+
+© 2023 BBC. BBC không chịu trách_nhiệm nội_dung các trang ngoài . Tìm 
+
+hiểu cách chúng_tôi tiếp_cận việc dẫn tới trang_ngoài 
 

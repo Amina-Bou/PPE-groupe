@@ -1,392 +1,512 @@
-REFRESH ( 3600 sec ) : 
 
-https://baochinhphu.vn/thay-gi-tu-cuoc-dinh-cong-o-phap-102237237.htm 
-
-
-
-Báo chính_phủ 
-
-
-
-chính_phủ nước cộng_hòa xã_hội chủ_nghĩa việt_nam 
-
-
-
-Báo Điện_tử Chính_phủ 
-
-English_中文 
-
-* trang_chủ 
-
-* Chính_trị 
-
-Đối_ngoại Tổ_chức nhân_sự Hội_nhập 
-
-* Kinh_tế 
-
-Ngân_hàng Chứng_khoán Thị_trường Doanh_nghiệp Khởi_nghiệp 
-
-* Văn_hóa 
-
-Thể_thao Du_lịch 
-
-* Xã_hội 
-
-Pháp_luật Y_tế Đời_sống An_sinh xã_hội Nông_thôn mới 
-
-* Khoa_giáo 
-
-Giáo_dục Khoa_học - Công_nghệ Biển Việt_Nam 
-
-* Quốc_tế 
-
-Việt_Nam - ASEAN 
-
-* Góp_Ý Hiến_Kế 
-
-
-
-Mới_Nhất 
 
 ____________________ 
 
-Thủ_tướng Phạm_Minh Chính tham_dự Hội_nghị Cấp cao ASEAN - EU , thăm 
+Icon TẠP_CHÍ ĐIỆN_TỬ 
 
-Luxembourg , Hà_Lan và Bỉ 
 
-Đưa Nghị_quyết Hội_nghị Trung_ương 6 khóa XIII vào cuộc_sống 
 
-Giải_ngân vốn đầu_tư công 
+VnEconomy 
 
-Thông_tin dân_tộc_thiểu_số và miền núi 
 
-Chuyển_đổi số 
 
-Cổng TTĐT Chính_phủ Văn_phòng Chính_phủ 
 
-____________________ 
 
-* An_Giang 
+Thứ_Sáu , 06 / 01 / 2023 
 
-* Bình_Dương 
+VET online Chứng_khoán Tiêu & Dùng Xe VnE TV Tech Connect English + + 
 
-* Bình_Phước 
 
-* Bình_Thuận 
 
-* Bình_Định 
+Ấn_phẩm 
 
-* Bạc_Liêu 
 
-* Bắc_Giang 
 
-* Bắc_Kạn 
+* ____________________ 
 
-* Bắc_Ninh 
+* VnE TVChứng khoánTiêu & DùngTech connectXeẤn phẩmEnglish + + 
 
-* Bến_Tre 
+* 
 
-* Cao_Bằng 
+* Tiêu_điểm 
 
-* Cà_Mau 
+* Đầu_tư 
 
-* Cần_Thơ 
++ Hạ_tầng 
 
-* Điện_Biên 
++ Khung pháp_lý 
 
-* Đà_Nẵng 
++ Dự_án 
 
-* Đà_Lạt 
++ Nhà đầu_tư 
 
-* Đắk_Lắk 
++ Địa_phương 
 
-* Đắk_Nông 
+* Tài_chính 
 
-* Đồng_Nai 
++ Ngân_hàng 
 
-* Đồng_Tháp 
++ Thị_trường_vốn 
 
-* Gia_Lai 
++ Thuế_
 
-* Hà_Nội 
++ Bảo_hiểm 
 
-* Hồ_Chí_Minh 
+* Kinh_tế số 
 
-* Hà_Giang 
++ Sản_phẩm - Thị_trường 
 
-* Hà_Nam 
++ Fintech 
 
-* Hà_Tây 
++ Dịch_vụ số 
 
-* Hà_Tĩnh 
++ Start - up 
 
-* Hòa_Bình 
++ Quản_trị_số 
 
-* Hưng_Yên 
+* Thị_trường 
 
-* Hải_Dương 
++ Thị_trường 
 
-* Hải_Phòng 
++ Nông_sản 
 
-* Hậu_Giang 
++ Khung pháp_lý 
 
-* Khánh_Hòa 
++ Công_nghiệp 
 
-* Kiên_Giang 
++ Xuất_nhập_khẩu 
 
-* Kon_Tum 
+* Doanh_nghiệp 
 
-* Lai_Châu 
++ Doanh_nhân 
 
-* Long_An 
++ Doanh_nghiệp 
 
-* Lào_Cai 
++ Chuyển_động 
 
-* Lâm_Đồng 
++ Đối_thoại 
 
-* Lạng_Sơn 
++ Kết_nối 
 
-* Nam_Định 
+* Bất_động_sản 
 
-* Nghệ_An 
++ Chính_sách 
 
-* Ninh_Bình 
++ Thị_trường 
 
-* Ninh_Thuận 
++ Dự_án 
 
-* Phú_Thọ 
++ Cafe_BĐS 
 
-* Phú_Yên 
++ Tư_vấn 
 
-* Quảng_Bình 
+* Thế_giới 
 
-* Quảng_Nam 
++ Kinh_doanh 
 
-* Quảng_Ngãi 
++ Chuyển_động 24h 
 
-* Quảng_Ninh 
++ Kinh_tế 
 
-* Quảng_Trị 
+* Dân_sinh 
 
-* Sóc_Trăng 
++ Khung pháp_lý 
 
-* Sơn_La 
++ Bảo_hiểm 
 
-* Thanh_Hóa 
++ Nhân_lực 
 
-* Thái_Bình 
++ An_sinh 
 
-* Thái_Nguyên 
++ Y_tế 
 
-* Thừa_Thiên_Huế 
+* Ấn_phẩm [ anpham . png ] 
 
-* Tiền_Giang 
 
-* Trà_Vinh 
 
-* Tuyên_Quang 
+Trở_lại trang_chủ 
 
-* Tây_Ninh 
 
-* Vĩnh_Long 
 
-* Vĩnh_Phúc 
+Tiêu_điểm 
 
-* Vũng_Tàu 
 
-* Yên_Bái 
 
+09 : 37 08 / 08 / 2019 
 
 
-0 aA 
 
-* Quốc_tế 
+Trên 82 % vụ đình_công xảy ra tại doanh_nghiệp FDI 
 
 
 
-Thấy gì từ cuộc đình_công ở Pháp ? 
+Dũng_Hiếu 
 
 
 
-( Chinhphu . vn ) – Từ cuộc đình_công của công_nhân đường_sắt , đến nay , đình_công 
+IFRAME : 
 
-đã “ lan ” sang nhiều lĩnh_vực khác ở Pháp , gây thiệt_hại về kinh_tế , thậm_chí 
+https://www.facebook.com/plugins/like.php?href=https://vneconomy.vn/tre 
 
-là cả hình_ảnh đất_nước này . 
+n - 82 - vu - dinh - cong - xay - ra - tai - doanh - nghiep - fdi . htm & width = 175 & layout = butt 
 
+on_count & action = like & size = small & share = true & height = 35 & appId = 176311148394 
 
+8312 
 
-11 / 04 / 2018 17 : 08 
 
 
+Trong 6 tháng đầu năm , cả nước xảy ra 67 cuộc đình_công , tập_trung ở các tỉnh 
 
-Từ ngày 3 / 4 , công_nhân ngành đường_sắt Pháp ( SNCF ) tiến_hành các đợt 
+phía Nam 
 
-đình_công theo chu_kỳ và kéo_dài trong vòng 13 tuần_lễ với lý_do " bảo 
 
-vệ một dịch_vụ công_cộng , chống lại tiến_trình mở_cửa cho cạnh_tranh " 
 
-và bảo_vệ những đặc_quyền của nhân_viên ngành đường_sắt . 
+Ảnh minh_họa Ảnh minh_họa 
 
 
 
-Khởi_đầu cho cuộc đình_công này diễn ra trong bối_cảnh dự_luật cải_cách 
+Bộ Lao_động - Thương_binh và Xã_hội đã có báo_cáo gửi Chính_phủ về tình 
 
-quy_chế từ công_ty nhà_nước thành_công_ty vô_danh được đưa ra Quốc_hội 
+hình đình_công và việc giải_quyết đình_công 6 tháng đầu năm . Theo đó , 
 
-Pháp thảo_luận . 
+trong 6 tháng đầu năm , cả nước xảy ra 67 cuộc đình_công ( giảm 1 cuộc so 
 
+với cùng kỳ năm 2018 ) , tập_trung ở các tỉnh phía Nam . 
 
 
-Theo Chủ_tịch kiêm Tổng_giám_đốc Guillaume_Pepy , SNCF đã bị thiệt 100 
 
-triệu euro sau 2 ngày đình_công trong đợt một . 
+Trong đó , chỉ có 17,9 % số cuộc đình_công xảy ra trong các doanh_nghiệp 
 
+dân doanh , còn lại 82,1 % xảy ra tại các doanh_nghiệp có vốn đầu_tư_trực 
 
+tiếp nước_ngoài ( FDI ) . Số vụ đình_công xảy ra nhiều nhất ở doanh_nghiệp 
 
-Các đợt đình_công liên_tiếp sau đó của ngành đường_sắt tuy không làm tê 
+Hàn_Quốc , Đài_Loan ( Trung_Quốc ) , Trung_Quốc . 
 
-liệt hoàn_toàn ngành chuyên_chở công_cộng của Pháp nhưng đủ gây khó 
 
-khăn cho người đi làm và du_khách . Bởi Pháp cũng như nhiều quốc_gia 
 
-châu Âu khác , việc sử_dụng tàu_hỏa đi làm , du_lịch … là khá phổ_biến . 
+Phần_lớn các cuộc đình_công xảy ra trong những doanh_nghiệp sử_dụng 
 
+nhiều lao_động , ngành dệt may chiếm 28,36 % ; da giày : 19,4 % ; nhựa : 
 
+16,42 % ; gỗ : 14,93 % trong tổng_số cuộc . 88,1 % các cuộc đình_công_tập 
 
-Trước áp_lực các cuộc đình_công , nhưng cho đến nay , Chính_phủ Pháp 
+trung chủ_yếu ở phía Nam , như Long_An , Đồng_Nai , Bình_Dương , Tp._HCM. 
 
-cương_quyết không nhượng_bộ các đề_xuất cải_cách chủ_yếu như tái_tổ 
 
-chức SNCF , mở_cửa thị_trường chuyên_chở đường_sắt cho cạnh_tranh , chấm 
 
-dứt quy_chế đặc_quyền cho nhân_viên mới tuyển_dụng … 
+Nguyên_nhân các cuộc đình_công chủ_yếu xuất_phát từ tranh_chấp về lợi 
 
+ích , chiếm tới 55,22 % , tranh_chấp về quyền chiếm 11,94 % , tranh_chấp cả 
 
+quyền và lợi_ích chiếm 32,84 % . Đặc_biệt , các cuộc đình_công xảy ra đều 
 
-Nhưng lực_lượng tham_gia_đình_công của ngành đường_sắt tuyên_bố sẽ tiếp 
+không tuân_thủ đúng trình_tự , thủ_tục pháp_luật quy_định . 
 
-tục phong_trào đình_công có_thể kéo_dài đến sau ngày 28 / 6 , điểm kết 
 
-thúc theo thỏa_thuận giữa các nghiệp_đoàn công_nhân . 
 
+Theo Bộ Lao_động - Thương_binh và Xã_hội , nguyên_nhân các cuộc đình 
 
+công là do việc điều_chỉnh tiền_lương , phụ_cấp tại doanh_nghiệp thiếu 
 
-Trong khi đó , giữa 2 đợt đình_công của SNCF , nhân_viên Hãng hàng_không 
+sự tham_khảo ý_kiến người lao_động và tổ chúc công_đoàn . Không điều 
 
-quốc_gia Pháp Air_France cũng tiến_hành đình_công trong ngày 10 và 11 / 4 
+chỉnh kịp_thời tiền_lương cơ_bản của người lao_động ; chất_lượng bữa ăn 
 
-khiến chỉ khoảng 75 % các chuyến bay được bảo_đảm trong ngày 10 / 4 . 
+giữa ca không đảm_bảo ; việc đối_thoại tại nơi làm_việc , thương_lượng và 
 
+ký_kết thỏa_ước lao_động tập_thể còn hạn_chế , thiếu thực_chất . 
 
 
-Theo lãnh_đạo Air_France , 7 ngày đình_công không liên_tiếp , từ 22 / 2 đến 
 
-11 / 4 , có_thể gây thiệt_hại 170 triệu euro cho hãng này . 
+Ngoài_ra , một_số doanh_nghiệp vi_phạm các quy_định của pháp_luật như 
 
+chậm thanh_toán tiền_lương , nợ đóng bảo_hiểm xã_hội , bảo_hiểm y_tế , bảo 
 
+hiểm_thất_nghiệp ; giải_quyết chậm chế_độ bảo_hiểm xã_hội ; thanh_toán 
 
-Thế rồi cùng với nhân_viên ngành đường_sắt và Air_France , nhân_viên 
+không đúng quy_định tiền nghỉ hàng năm , phụ_cấp nghề độc_hại , nguy 
 
-Công_ty Điện_lực Nhà_nước EDF cũng tiến_hành bãi công để chống dự_án 
+hiểm ; định mức lao_động không phù_hợp ; làm thêm giờ vượt quá quy_định ; 
 
-nước Pháp mở_cửa cho cạnh_tranh . Trong khi đó , rác_thải tại nhiều thành 
+điều_kiện làm_việc , vệ_sinh môi_trường không bảo_đảm . 
 
-phố lớn như Paris và các vùng phụ_cận hay Marseille trong những ngày 
 
-tới sẽ ùn lên vì một phần nhân_viên ngành vệ_sinh công_cộng đòi được 
 
-công_nhận họ làm những công_việc nhọc_nhằn và được quyền về hưu sớm . 
+Ông Ngọ Duy_Hiểu , Phó_chủ_tịch Tổng_liên_đoàn Lao_động Việt_Nam_nhận 
 
+định , theo thống_kê của Tổng_liên_đoàn Lao_động , hơn 67 % cuộc đình_công 
 
+có liên_quan tới vấn_đề tiền_lương , thưởng , như : doanh_nghiệp nợ lương , 
 
-Còn trong lĩnh_vực giáo_dục , sinh_viên “ chiếm_đóng ” hoặc biểu_tình tại 
+việc trả lương không đúng hạn , tiền_lương làm thêm giờ không đúng , việc 
 
-13 trường đại_học ở các thành_phố lớn từ Lille đến Montpellier , từ 
+thưởng Tết không bình_đẳng . 
 
-Nantes đến Strasbourg phản_đối biện_pháp tuyển_chọn sinh_viên vào đại 
 
-học . 
 
+Một nguyên_nhân nữa là doanh_nghiệp thay_đổi cách tính lương , thang 
 
+lương , nhằm giảm tiền_lương , thu_nhập của người lao_động . Ngoài_ra , còn 
 
-Nhiều báo Pháp cho hay , các cuộc biểu_tình , bãi công hay chiếm_đóng 
+do doanh_nghiệp yêu_cầu người lao_động làm thêm giờ quá quy_định , tăng 
 
-trường_học của sinh_viên nói trên tạo ra “ hình_ảnh của một nước Pháp 
+ca liên_tục , điều_kiện an_toàn vệ_sinh lao_động không đảm_bảo . Doanh 
 
-đang phần_nào bị tê_liệt ” . Ngành du_lịch , khách_sạn và nhà_hàng đang lo 
+nghiệp trốn_tránh đóng bảo_hiểm xã_hội , bảo_hiểm y_tế cho người lao 
 
-ngại vì lượng khách muốn tham_quan nước Pháp sẽ sụt_giảm , tác_động xấu 
+động . 
 
-đến các ngành_nghề và lực_lượng hoạt_động trong lĩnh_vực này . 
 
 
+Ông Hiểu cho biết thêm , các cuộc đình_công đã giảm qua các năm . Đơn_cử 
 
-Theo nhiều nhà phân_tích , các cuộc đình_công của những ngành_nghề nói 
+năm 2018 , cả nước xảy ra 214 cuộc ngừng việc , đình_công , giảm 35 % so 
 
-trên đã làm thiệt_hại hàng tỷ euro cho Nhà_nước , giới chủ và cả người 
+với năm 2017 . 
 
-lao_động . Nhưng điều quan_trọng hơn cả là nó ảnh_hưởng xấu tới hình_ảnh 
 
-nước Pháp và gần 90 triệu du_khách đến mỗi năm cũng như các nhà đầu_tư 
 
-nước_ngoài muốn tới làm_ăn tại Pháp . 
+" Việc giảm số_lượng các cuộc ngừng việc , đình_công trước_hết là do công 
 
+tác quản_lý nhà_nước đã có những đổi_mới . Nhiều doanh_nghiệp đã ý_thức 
 
+được trách_nhiệm xã_hội trong việc chăm_lo đời_sống người lao_động . 
 
-Tuyết_Minh 
+Doanh_nghiệp thực_hiện tốt hơn các quyền_lợi cho người lao_động theo 
 
-* trang_chủ 
+luật_định . Ngoài_ra , có sự nỗ_lực của các cấp công_đoàn " , ông Hiểu_nhận 
 
-* Chính_trị 
+định . 
 
-* Kinh_tế 
 
-* Văn_hóa 
 
-* Xã_hội 
+Theo ông Hiểu : " Hiện công_đoàn đang nỗ_lực nâng cao chất_lượng trong 
 
-* Khoa_giáo 
+công_tác xây_dựng thỏa_ước lao_động tập_thể , chủ_động lựa_chọn nội_dung 
 
-* Quốc_tế 
+liên_quan đến kiến_nghị , bức_xúc của người lao_động về tiền_lương , phụ 
 
-* GÓP_Ý HIẾN_KẾ 
+cấp lương , bữa ăn ca , thời_giờ làm_việc , thời_giờ nghỉ_ngơi ... " . 
 
 
 
-© BÁO ĐIỆN_TỬ CỦA CHÍNH_PHỦ NƯỚC CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT_NAM 
+Đồng_thời , tổ_chức công_đoàn chủ_động nâng cao vị_trí của công_đoàn_cơ 
 
+sở và công_đoàn cấp trên trực_tiếp cơ_sở trong thương_lượng , nhằm đem 
 
+lại lợi_ích thiết_thực cho người lao_động . 
 
-Tổng_Biên_tập : Nguyễn Hồng_Sâm 
 
 
+Tổng_liên_đoàn Lao_động sẽ tích_cực hơn trong việc nghiên_cứu , tham_gia 
 
-Giấy_phép số : 137 / GP - BTTTT , cấp ngày 21 / 04 / 2014 . 
+sửa_đổi , bổ_sung Bộ_luật Lao_động năm 2012 , tập_trung vào các nội_dung 
 
+liên_quan đến tranh_chấp lao_động và đình_công để khắc_phục những quy 
 
+định về giải_quyết tranh_chấp lao_động và đình_công còn quá phức_tạp , 
 
-Trụ_sở : 16 Lê_Hồng_Phong - Ba_Đình - Hà_Nội ; 
+thời_gian kéo_dài , chưa phù_hợp với thực_tiễn ... 
 
 
 
-Điện_thoại : Văn_phòng : 080.43162 ; 
+Xem nhiều 
 
 
 
-Fax : 080.48924 ; Email : thongtinchinhphu@chinhphu.vn . 
+Tiêu_điểm 
 
 
 
-Bản_quyền thuộc Báo điện_tử Chính_phủ - Cổng Thông_tin điện_tử Chính 
+Trình Quốc_hội miễn_nhiệm 2 Phó_Thủ_tướng Phạm Bình_Minh và Vũ_Đức_Đam 
 
-phủ . 
 
 
+1 
 
-Ghi rõ nguồn " Cổng Thông_tin điện_tử Chính_phủ " , " Báo điện_tử Chính 
+Tiêu_điểm 
 
-phủ " hoặc " www . chinhphu . vn " khi phát_hành lại thông_tin từ các nguồn 
 
-này . 
+
+Đón đọc Tạp_chí Kinh_tế Việt_Nam số 1 - 2023 
+
+
+
+2 
+
+Tiêu_điểm 
+
+
+
+Thủ_tướng nêu rõ 9 nhóm nhiệm_vụ , giải_pháp phát_triển kinh_tế xã_hội năm 
+
+2023 
+
+
+
+3 
+
+Tiêu_điểm 
+
+
+
+Quan_điểm của Bộ Công_thương về đề_xuất điều_hành giá điện như giá xăng_dầu 
+
+của EVN 
+
+
+
+4 
+
+Tiêu_điểm 
+
+
+
+Thủ_tướng yêu_cầu_khẩn_trương mở_rộng , nâng_cấp Nhà_máy Lọc dầu Dung_Quất 
+
+
+
+5 
+
+
+
+Cùng chuyên_mục 
+
+
+
+Những phát_biểu đáng chú_ý tại Diễn dàn Kinh_tế Việt_Nam lần thứ 5 
+
+
+
+Những phát_biểu đáng chú_ý tại Diễn dàn Kinh_tế Việt_Nam lần thứ 5 
+
+
+
+Giám_đốc quốc_gia ADB : Dòng vốn FDI là một lá phiếu tín_nhiệm với Việt 
+
+Nam 
+
+
+
+Giám_đốc quốc_gia ADB : Dòng vốn FDI là một lá phiếu tín_nhiệm với Việt_Nam 
+
+
+
+Thủ_tướng : Thách_thức lớn hơn trong năm 2023 , phản_ứng chính_sách kịp 
+
+thời với ưu_tiên phù_hợp 
+
+
+
+Thủ_tướng : Thách_thức lớn hơn trong năm 2023 , phản_ứng chính_sách kịp_thời 
+
+với ưu_tiên phù_hợp 
+
+
+
+TS. Cấn Văn_Lực : Không nên dùng ngân_sách để giải_cứu thị_trường bất 
+
+động_sản 
+
+
+
+TS. Cấn Văn_Lực : Không nên dùng ngân_sách để giải_cứu thị_trường bất_động_sản 
+
+
+
+Bộ_trưởng Nguyễn_Chí Dũng : Cần tập_trung 8 nhóm nhiệm_vụ và định_hướng 
+
+điều_hành_kinh_tế năm 2023 
+
+
+
+Bộ_trưởng Nguyễn_Chí Dũng : Cần tập_trung 8 nhóm nhiệm_vụ và định_hướng điều 
+
+hành_kinh_tế năm 2023 
+
+
+
+Đón đọc Tạp_chí Kinh_tế Việt_Nam số 51 - 2022 
+
+
+
+Đón đọc Tạp_chí Kinh_tế Việt_Nam số 51 - 2022 
+
+
+
+Liên_hệ quảng_cáo Kết_nối tòa_soạn 
+
+Tạp_chí kinh_tế Việt_Nam Vietnam Economic_Times 
+
+
+
+VnEconomy - Tạp_chí kinh_tế Việt_Nam 
+
+
+
+VnEconomy - Tạp_chí kinh_tế Việt_Nam 
+
+
+
+VnEconomy TẠP_CHÍ ĐIỆN_TỬ 
+
+
+
+Tổng_biên_tập : 
+
+
+
+TS. Chử Văn_Lâm 
+
+
+
+Tổng_thư_ký tòa_soạn : 
+
+
+
+Đào_Quang_Bính 
+
+
+
+Giấy_phép Tạp_chí điện_tử_số : 
+
+
+
+272 / GP - BTTTT ngày 26 / 6 / 2020 
+
+
+
+Phát_triển bởi Hemera_Media 
+
+
+
+Bản_quyền thuộc về VnEconomy , Tạp_chí điện_tử của Hội Khoa_học Kinh_tế 
+
+Việt_Nam 
+
+
+
+Mọi tin bài đăng lại từ website này phải có sự chấp_thuận bằng văn_bản 
+
+của VnEconomy . 
+
+
+
+Các trang ngoài sẽ được mở ra ở cửa_sổ mới . VnEconomy không chịu trách 
+
+nhiệm nội_dung các trang ngoài . 
+
+
+
+Trụ_sở : Số 96 - 98 Hoàng_Quốc Việt , Cầu Giấy , Hà_Nội 
+
+
+
+Điện_thoại : ( 84 - 24 ) 62603760 
+
+
+
+Điện_thoại : 02437552050 
 

@@ -1,578 +1,516 @@
-* 
+( BUTTON ) 
 
 
 
-Cổng thông_tin VTV 
+Thêm RFI vào màn_hình chính 
 
-* 
+( BUTTON ) 
 
-* CHÍNH_TRỊ 
 
-* XÃ_HỘI 
 
-* PHÁP_LUẬT 
+Cập_nhật 
 
-* THẾ_GIỚI 
+* # UKRAINA 
 
-* KINH_TẾ 
 
-* THỂ_THAO 
 
-* TRUYỀN_HÌNH 
+Nghe 
 
-* GIẢI_TRÍ 
+* Chương_trình 60 ' 
 
-* SỨC_KHỎE 
+* Tạp_chí 
 
-* ĐỜI_SỐNG 
+* Phát trực_tiếp 
 
-* CÔNG_NGHỆ 
+* Video 
 
-* GIÁO_DỤC 
 
-* TIN_TỨC 
-
-Chính_trị 
-
-Xã_hội 
-
-Pháp_luật 
-
-Tin Thế_Giới 
 
 Tin_tức 
 
-Thế_giới đó_đây 
+* Việt_Nam 
 
-Câu_chuyện quốc_tế 
+* Châu_Á 
 
-Kinh_Tế 
+* Pháp 
 
-Bất_động_sản 
+* Quốc_Tế 
 
-Tài_chính 
+* Phân_Tích 
 
-Thị_trường 
+* Điểm_Báo 
 
-Góc doanh_nghiệp 
+* Cộng_Đồng 
 
-VTV 
+* Kinh_Tế 
 
-Truyền_Hình 
+* Xã_Hội 
 
-Phim_VTV 
+* Khoa_Học 
 
-Hậu_trường 
+* Văn_Hóa 
 
-Nhân_vật 
+* Thể_Thao 
 
-Góc khán_giả 
-
-Giải_Sao_Mai 
-
-Người Việt bốn_phương 
-
-Góc khán_giả 
-
-Việt_Nam hôm_nay 
-
-ĐỜI_SỐNG 
-
-Văn_Hóa - Giải_Trí 
-
-Điện_ảnh 
-
-Âm_nhạc 
-
-Đời_sống 
-
-Du_lịch 
-
-Làm_đẹp 
-
-Chất_lượng cuộc_sống 
-
-Sức_khỏe 
-
-Tấm lòng Việt 
-
-THỂ_THAO 
-
-Bóng_đá Việt_Nam 
-
-Bóng_đá quốc_tế 
-
-Quần_vợt 
-
-Video 
-
-Các môn khác 
-
-Bên lề 
-
-CHƯƠNG_TRÌNH ĐẶC_SẮC 
-
-Sự_kiện & bình_luận 
-
-Toàn_cảnh thế_giới 
-
-Tạp_chí kinh_tế cuối tuần 
-
-Giao_lưu trực_tuyến 
-
-Lịch phát_sóng 
-
-Magazine 
-
-Đời_sống 
-
-KHÁC 
-
-Công_Nghệ 
-
-Sản_phẩm 
-
-Thị_trường 
-
-Tư_vấn 
-
-Giáo_Dục 
-
-Tư_vấn 
-
-Học trực_tuyến 
-
-VTV8 
-
-VTV9 
-
-Liên_hệ tòa_soạn 
+* Học tiếng Pháp 
 
 
 
-Xã_hội 
+Trên các mạng xã_hội 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
 
 
 
-Đăng_nhập 
+* Thư_Tin 
+
+* Cách nghe RFI 
+
+* Ứng_dụng 
 
 
+
+* RFI Tiếng_Việt 
+
+* Viết cho chúng_tôi 
+
+* Trở_thành Đài đối_tác 
+
+* Ban quảng_cáo 
+
+* Bán nội_dung 
+
+* Hợp_tác với chúng_tôi 
+
+* Yêu_cầu pháp_lý 
+
+* Thông_tin cá_nhân 
+
+* Cookies 
+
+* Trung_tâm ưu_tiên 
+
+
+
+* Học tiếng Pháp 
+
+* RFI Âm_nhạc 
+
+* Âm_thanh_minh_họa 
+
+* Mondoblog 
+
+* France 24 
+
+* MCD 
+
+* InfoMigrants 
+
+* CFI 
+
+* Académie 
+
+* France Médias_Monde 
+
+
+
+© 2023 Copyright RFI - Mọi quyền được bảo_lưu . RFI không chịu trách 
+
+nhiệm về các nội_dung đến từ những website bên ngoài . Lượt người xem do 
+
+công_ty ACPM / OJD chứng_nhận . 
+
+
+
+* Français 
+
+* English 
+
+* Español 
+
+* Português 
+
+* Português do Brasil 
+
+* Hausa 
+
+* Kiswahili 
+
+* Mandenkan 
+
+* Fulfulde 
+
+* România 
+
+* Русский 
+
+* Українською 
+
+* Tiếng_Việt 
+
+* 华语 
+
+* 華語 
+
+* ភ ា ស ា ខ ្ ម ែ រ 
+
+* فارسی 
+
+
+
+* Lướt web không kết_nối 
+
+* Quản_lý_cookie 
+
+
+
+* Việt_Nam 
+
+* Châu_Á 
+
+* Pháp 
+
+* Quốc_Tế 
+
+* Phân_Tích 
+
+* Điểm_Báo 
+
+
+
+* Tạp_chí 
+
+* Chương_Trình 60 ' 
+
+
+
+Vào nội_dung chính 
+
+
+
+( BUTTON ) 
+
+
+
+1 . 
+
+2 . / Pháp 
+
+
+
+PHÁP - ĐÌNH_CÔNG 
+
+
+
+Pháp : Nhân_viên xe lửa đình_công , hàng trăm ngàn người mất lễ Giáng_Sinh 
+
+
+
+Đăng ngày : 24 / 12 / 2022 - 13 : 51 
+
+Hành_khách kẹt tàu tại nhà_ga Gare de Lyon ( Paris ) vì nhân_viên đường 
+
+sắt đình_công ngày 23 / 12 / 2022 . Hành_khách kẹt tàu tại nhà_ga Gare_de 
+
+Lyon ( Paris ) vì nhân_viên đường_sắt đình_công ngày 23 / 12 / 2022 . AP - 
+
+Lewis_Joly 
+
+Thanh_Hà 
+
+2 phút 
+
+
+
+Nhân_viên kiểm_soát vé của tập_đoàn xe lửa quốc_gia Pháp SNCF đình_công 
+
+đòi tăng lương . 40 % các tuyến tàu cao_tốc TGV và một phần ba các tuyến 
+
+xe_lửa tốc_hành nội vùng ( TER ) hay liên thành_phố ( Intercités ) bị_hủy 
+
+trong hai ngày cuối tuần 24 và 25 / 12 / 2022 . Bộ Giao_Thông dự phóng đợt 
+
+đình_công này làm thiệt_hại khoảng một trăm triệu euro . 
+
+Quảng_cáo ( BUTTON ) 
+
+( BUTTON ) Đọc_tiếp 
+
+
+
+Vài giờ trước lễ Giáng_Sinh , khoảng 200.000 người Pháp không_thể đoàn 
+
+tụ với gia_đình , hoặc phải tìm các phương_án khác do tàu của họ đã bị 
+
+hủy . Sau một năm với nhiều mệt_mỏi và căng_thẳng do dịch Covid , do các 
+
+phong_trào đình_công của một phần nhân_viên tại các nhà_máy lọc dầu làm 
+
+tê_liệt hệ_thống cung_cấp xăng trên cả nước , phong_trào đình_công lần 
+
+này của nhân_viên hãng xe lửa SNCF là giọt nước làm tràn ly . 
+
+
+
+Đặc_phái_viên RFI Yoram_Mellouil từ Marseille tường_thuật : 
+
+
+
+« Guillaume đứng ngồi không yên tại nhà_ga Saint_Charles , ở Marseille . 
+
+Khởi_hành từ Nice , cả ngày anh loay_hoay tìm cách để đến được Lyon . Anh 
+
+cho biết đã phải đi lòng_vòng : lấy chuyến tàu cao_tốc , rồi đi thêm hai 
+
+chuyến tàu nội vùng TER , cuối_cùng bị kẹt ở Marseille . Thật là mệt_mỏi . 
+
+Guillaume đi như_vậy là mất 10 tiếng đồng_hồ thay_vì chỉ cần 4 tiếng để 
+
+từ Nice đến được Lyon . Anh rất bực_mình , nhưng đành chịu . 
+
+
+
+Cách không xa Guillaume , Timothée đang đợi tàu để về với gia_đình ở 
+
+Poitiers , miền tây nước Pháp . Cô đã đặt vé xe lửa từ hơn một tháng rưỡi 
+
+trước , nhưng giờ chót , tàu bị hủy . Timothée phải gọi về cho gia_đình . 
+
+Bố_mẹ ra đón ở Tours , cách nhà 1 giờ lái_xe . 
+
+
+
+Còn Noah , đang lo làm_sao để không bị bơ_vơ đón Giáng_Sinh một_mình . Cô 
+
+nói đã tìm đủ mọi cách , nào là đi xe chung với ứng_dụng Bablacar nhưng 
+
+vì phải đi từ nam lên đến gần miền bắc nước Pháp , cô không có phương 
+
+tiện nào khác ngoài hệ_thống xe lửa . Vì phong_trào đình_công và phải 
+
+đổi vé vào giờ chót , chuyến về thăm gia_đình lần này của Noah tốn thêm 
+
+đến hơn 60 euro » . 
+
+
+
+Sau cuộc đàm_phán trong ngày hôm_qua , ban giám_đốc của SNCF và giới 
+
+công_đoàn đạt được một_số thỏa_thuận , cho phép dỡ bỏ kế_hoạch đình_công 
+
+vào hai ngày cuối tuần tới , tức đúng vào dịp Tết dương_lịch . Nhưng_nhân 
+
+viên kiểm_soát vé của tập_đoàn xe lửa quốc_gia Pháp vẫn duy_trì quyết 
+
+định bãi công trong dịp Noel . 
+
+
+
+Thư TinHãy nhận thư tin hàng ngày của RFI : Bản tin thời_sự , phóng_sự , 
+
+phỏng_vấn , phân_tích , chân_dung , tạp_chí 
 
 Đăng_ký 
 
 
 
-Tiền_Giang : 
+Tải ứng_dụng RFI để theo_dõi toàn_bộ thời_sự quốc_tế 
 
+* Pháp 
 
+* Đình_công 
 
-Hơn 8.000 công_nhân đình_công , tụ_tập đòi tăng lương 
+* Xe_lửa 
 
+* Noel - Giáng_Sinh 
 
 
-Thanh_Phong - Thứ_sáu , ngày 26 / 02 / 2021 12 : 27 GMT + 7 
 
-Các công_nhân đình_công 
+Các nội_dung liên_quan 
 
+PHÁP - ĐÌNH_CÔNG 
 
 
-VTV. vn - Ngày 25 / 2 , khoảng 8.200 công_nhân đang làm_việc cho công_ty TNHH 
 
-Simone Tiền_Giang , thuộc Khu công_nghiệp Tân_Hương đã đình_công , đòi tăng 
+Pháp : Hàng trăm ngàn người biểu_tình đòi tăng lương 
 
-lương và các chế_độ lao_động . 
+PHÁP - ĐÌNH_CÔNG 
 
 
 
-* Vụ ùn ứ rác ở Hà_Nội : Lao_động đình_công vì bị nợ lương và BHXH 
+Pháp : Phong_trào đình_công trong ngành năng_lượng tiếp_diễn 
 
-* Rác_thải lại chất đống trên nhiều tuyến phố Hà_Nội vì công_nhân 
+Cùng một chủ_đề 
 
-đình_công 
+Ảnh minh_họa : Một_vài trang bìa tuần_báo châm_biếm Charlie Hebdo được 
 
-* Rác_chất đống vì công_nhân đình_công : Năng_lực đơn_vị thu_gom còn 
+trưng_bày tại một cuộc triển_lãm ở bảo_tàng giấy . 
 
-yếu ? 
+PHÁP - BÁO_CHÍ 
 
+04 / 01 / 2023 
 
 
-Theo thông_tin ban_đầu , vào sáng ngày 25 / 2 / 2021 , khoảng 1.200 công_nhân 
 
-của xưởng 1 , Công_ty TNHH Simone TG3 đến công_ty làm_việc bình_thường . 
+Pháp : Charlie Hebdo ra số đặc_biệt châm_biếm chế_độ Hồi_Giáo_Iran 
 
-Tuy_nhiên , đến khoảng 7h40 , nhiều công_nhân ngừng làm_việc và đồng_loạt 
+AP22365789813176 
 
-kéo ra ngoài . 
+PHÁP 2023 
 
+01 / 01 / 2023 
 
 
-Đến khoảng 8h20 , tất_cả công_nhân của xưởng 1 tràn qua xưởng 3 và xưởng 
 
-2 cùng công_ty , kêu_gọi công_nhân của các xưởng này cùng đình_công , 
+Năm mới 2023 : Một triệu người đón giao_thừa trên đại_lộ Champs - Élysées , 
 
-ngừng việc với khoảng 8.200 công_nhân . Đến khoảng 9h cùng ngày , Ban 
+Paris 
 
-lãnh_đạo công_ty đã ra thông_báo cho toàn_bộ công_nhân ra về và ngày 
+Brocheux 
 
-26 / 2 / 2021 vào làm_việc bình_thường . 
+NHÀ SỬ_HỌC PIERRE BROCHEUX TỪ_TRẦN 
 
+28 / 12 / 2022 
 
 
-Theo các công_nhân vào ngày 14 / 5 / 2020 , do ảnh_hưởng của dịch_bệnh 
 
-COVID - 19 , Ban lãnh_đạo công_ty đã ra thông_báo đối_với các công_nhân 
+Nhà sử_học Pierre_Brocheux , chuyên_gia về Việt_Nam , qua_đời 
 
-viên làm_việc từ 1 đến 3 năm sẽ được nâng lương 2 lần / năm . Một lần vào 
+WhatsApp Image 2022 - 12 - 25 at 15.44.14 
 
-tháng 1 và một lần khi xét đánh_giá hợp_đồng . 
+PHÁP - XÃ_HỘI 
 
+26 / 12 / 2022 
 
 
-Còn đối_với công_nhân_viên làm_việc tại công_ty từ 4 năm trở lên , chỉ 
 
-được xét nâng lương một lần vào tháng 1 hàng năm . Việc thay_đổi chính 
+Pháp : Bữa ăn Giáng_sinh với những người già cô_đơn 
 
-sách lương được thực_hiện từ 1 / 5 / 2020 . 
+000_334 U3GK 
 
+PHÁP - KHAN_HIẾM THUỐC 
 
+26 / 12 / 2022 
 
-Tuy_nhiên , nhiều công_nhân nghe_ngóng , truyền_miệng nhau là hàng năm , 
 
-công_ty vẫn tăng lương cho cán_bộ ( là tổ_phó trở lên ) , còn về văn_bản 
 
-thông_báo này công_ty không áp_dụng cho công_nhân bình_thường , do đó 
+Pháp khan_hiếm thuốc kháng_sinh do lệ_thuộc vào sản_xuất của Trung_Quốc 
 
-công_nhân bức_xúc kêu_gọi đình_công . 
+manifestation kurde drapeau pkk paris france 
 
+PHÁP - XẢ SÚNG 
 
+25 / 12 / 2022 
 
-Ngay sau sự_việc xảy ran , Công_an tỉnh Tiền_Giang , phòng Cảng sát Cơ 
 
-động công_an tỉnh ( PK02 ) , cùng lực_lượng Cảnh_sát giao_thông , Công_an 
 
-huyện Châu_Thành đã đến điều_tiết giao_thông và đảm_bảo tình_hình_an 
+Vụ xả súng vào người Kurdistan : Hàng nghìn người biểu_tình tại Paris và 
 
-ninh trật_tự_tại khu_vực . 
+Marseille 
 
+AP22357456694796 
 
+PHÁP - XẢ SÚNG TẠI PARIS 
 
-Ngoài_ra , lãnh_đạo Liên_đoàn lao_động tỉnh Tiền_Giang đã phối_hợp với 
+24 / 12 / 2022 
 
-Công_đoàn Công_ty TNHH Simone TG3 , Ban Quản_lý Khu công_nghiệp Tân 
 
-Hương tổ_chức tuyên_truyền , vận_động công_nhân và người lao_động tránh 
 
-tập_trung đông người , đảm_bảo công_tác phòng_chống dịch_bệnh COVID - 19 . 
+Pháp sốc sau vụ xả súng nhắm vào cộng_đồng Kurdistan ngay tại Paris 
 
+AP22289388602029 
 
+CHIẾN_TRANH UKRAINA - PHÁP - VIỆN_TRỢ 
 
-Đến khoảng 10h cùng ngày , tất_cả công_nhân và người lao_động Công_ty 
+21 / 12 / 2022 
 
-TNHH Simone Tiền_Giang , Khu công_nghiệp Tân_Hương đã giải_tán và ra về . 
 
-Tuy_nhiên sáng nay các công_nhân vẫn chưa chịu làm_việc và tiếp_tục tụ 
 
-tập yêu_cầu Ban lãnh_đạo công_ty tăng lương . 
+Tổng_thống Macron : Pháp sẽ tiếp_tục cung_cấp vũ_khí cho Ukraina 
 
+Macron - Mohammed_VI 
 
+PHÁP - MAROC - KHỦNG_HOẢNG NGOẠI_GIAO 
 
-* Mời quý độc_giả theo_dõi các chương_trình đã phát_sóng của Đài_Truyền 
+14 / 12 / 2022 
 
-hình Việt_Nam trên TV Online và VTVGo ! 
 
-* 00 
 
-* 0 
+Pháp - Maroc : Nóng trên sân_cỏ , lạnh trong ngoại_giao 
 
-* 
+Bannière Français facile avec RFI 
 
-* 
+TIẾNG PHÁP 
 
-* 
+13 / 12 / 2022 
 
 
 
-[ like - fanpage - vtv . jpg ] 
+Học tiếng Pháp dễ hiểu cùng RFI 
 
+000_32 DT269 
 
+PHÁP - ĐỨC 
 
-Từ khóa : 
+25 / 11 / 2022 
 
-công_nhân đình_công , đòi tăng lương , an_ninh trật_tự , phòng_chống dịch 
 
-bệnh , Khu công_nghiệp , công_nhân_viên 
 
+Thủ_tướng Pháp công_du Đức nhằm tái thúc_đẩy hợp_tác vì lợi_ích chung 
 
+của châu Âu 
 
-IFRAME : 
+000_32 T63VK 
 
-https://vtvapi3.vtv.vn/comment2.htm?objId=20210226121657572&objType=1&o 
+PHÁP 
 
-bjZoneId = 181 & theme = light & layout = large & objHeight = 0 & objUrl = https://vtv.vn 
+25 / 11 / 2022 
 
-/ news - 20210226121657572 . htm & objTitle = SCVjNiVhMW4rOC4wMDArYyVjMyViNG5nK2 
 
-5oJWMzJWEybislYzQlOTElYzMlYWNuaCtjJWMzJWI0bmclMmMrdCVlMSViYiVhNSt0JWUxJ 
 
-WJhJWFkcCslYzQlOTElYzMlYjJpK3QlYzQlODNuZytsJWM2JWIwJWM2JWExbmc = 
+Hạ_Viện Pháp ủng_hộ đưa quyền nạo phá_thai vào Hiến_Pháp 
 
 
 
-Cùng chuyên_mục 
+> 
 
-* Bà_Rịa - Vũng_Tàu đổi_mới sáng_tạo phát_triển kinh_tế xã_hội 
 
-Bà_Rịa - Vũng_Tàu đổi_mới sáng_tạo phát_triển kinh_tế xã_hội 
 
-VTV. vn - Từ năm 2017 , tỉnh Bà_Rịa - Vũng_Tàu đã ban_hành nhiều 
+Trang_chủ 
 
-chính_sách khuyến_khích và hỗ_trợ nghiên_cứu khoa_học , đồng_thời tổ 
+Thời_sự Thời_sự 
 
-chức các cuộc thi Khởi_nghiệp đổi_mới sáng_tạo . 
+Tạp_chí Tạp_chí 
 
-* Chăm_lo Tết_gắn liền với giữ việc_làm 
+Phát trực_tiếp 
 
-Chăm_lo Tết_gắn liền với giữ việc_làm 
+Phát trực_tiếp 
 
-* Kiểm_toán góp_phần nâng cao hiệu_quả giám_sát của Quốc_hội 
+Phát trực_tiếp 
 
-Kiểm_toán góp_phần nâng cao hiệu_quả giám_sát của ... 
+Phát trực_tiếp 
 
-* Giá dịch_vụ y_tế tính đúng , tính đủ - Nâng cao chất_lượng khám chữa 
+Các mục Các mục 
 
-bệnh 
 
-Giá dịch_vụ y_tế tính đúng , tính đủ - Nâng cao ... 
 
-* Hà_Nội cưỡng_chế công_trình cơi_nới trên nóc nhà_chung_cư 
+Không tìm thấy trang 
 
-Hà_Nội cưỡng_chế công_trình cơi_nới trên nóc nhà ... 
+( BUTTON ) 
 
 
 
-Xem theo ngày 
-
-[ 19___ ] 
-
-[ Tháng 4_ . ] 
-
-[ 2023 ] 
-
-( BUTTON ) XEM 
-
-
-
-TIN MỚI 
-
-
-
-Xem thêm 
-
-* 
-
-* TRONG NƯỚC 
-
-* THẾ_GIỚI 
-
-* THỂ_THAO 
-
-* TRUYỀN_HÌNH 
-
-* GIẢI_TRÍ 
-
-* KINH_TẾ 
-
-* ĐỜI_SỐNG 
-
-* SỨC_KHỎE 
-
-* GIÁO_DỤC 
-
-* CÔNG_NGHỆ 
-
-* KHÁN_GIẢ 
-
-* V - ZINE 
-
-* TIN_TỨC 
-
-Chính_trị 
-
-Xã_hội 
-
-Pháp_luật 
-
-Tin Thế_Giới 
-
-Tin_tức 
-
-Thế_giới đó_đây 
-
-Câu_chuyện quốc_tế 
-
-Kinh_Tế 
-
-Bất_động_sản 
-
-Tài_chính 
-
-Thị_trường 
-
-Góc doanh_nghiệp 
-
-VTV 
-
-Truyền_Hình 
-
-Phim_VTV 
-
-Hậu_trường 
-
-Nhân_vật 
-
-Góc khán_giả 
-
-Giải_Sao_Mai 
-
-Người Việt bốn_phương 
-
-Góc khán_giả 
-
-Việt_Nam hôm_nay 
-
-ĐỜI_SỐNG 
-
-Văn_Hóa - Giải_Trí 
-
-Điện_ảnh 
-
-Âm_nhạc 
-
-Đời_sống 
-
-Du_lịch 
-
-Làm_đẹp 
-
-Chất_lượng cuộc_sống 
-
-Sức_khỏe 
-
-Tấm lòng Việt 
-
-THỂ_THAO 
-
-Bóng_đá Việt_Nam 
-
-Bóng_đá quốc_tế 
-
-Quần_vợt 
-
-Video 
-
-Các môn khác 
-
-Bên lề 
-
-CHƯƠNG_TRÌNH ĐẶC_SẮC 
-
-Sự_kiện & bình_luận 
-
-Toàn_cảnh thế_giới 
-
-Tạp_chí kinh_tế cuối tuần 
-
-Giao_lưu trực_tuyến 
-
-Lịch phát_sóng 
-
-Magazine 
-
-Đời_sống 
-
-KHÁC 
-
-Công_Nghệ 
-
-Sản_phẩm 
-
-Thị_trường 
-
-Tư_vấn 
-
-Giáo_Dục 
-
-Tư_vấn 
-
-Học trực_tuyến 
-
-VTV8 
-
-VTV9 
-
-Liên_hệ tòa_soạn 
-
-
-
-logo footer Quay về giao_diện điện_thoại 
-
-
-
-CỔNG THÔNG_TIN VTV | LIÊN_HỆ 
-
-____________________ 
-
-
-
-CƠ_QUAN CHỦ_QUẢN : ĐÀI TRUYỀN_HÌNH VIỆT_NAM 
-
-
-
-CƠ_QUAN BÁO_CHÍ : BÁO ĐIỆN_TỬ VTV NEWS 
-
-
-
-Giấy_phép hoạt_động báo_chí điện_tử_số 306 / GP - BTTTT cấp ngày 
-
-22 / 02 / 2012 . 
-
-
-
-® Cấm sao_chép dưới mọi hình_thức nếu không có sự chấp_thuận bằng văn 
-
-bản . Ghi rõ nguồn VTV. vn khi phát_hành lại thông_tin từ website này . 
-
-
-
-Tổng_Biên_tập : Vũ_Thanh_Thủy_
-
-
-
-Phó_Tổng_Biên_tập : Phạm_Quốc_Thắng 
-
-
-
-Tổng_đài VTV : ( 024 ) 3.8355931 ; ( 024 ) 3.8355932 
-
-
-
-Ðiện thoại Báo điện_tử VTV : ( 024 ) 66897 897 Email : toasoan@vtv.vn 
-
-
-
-Liên_hệ quảng_cáo : 0794 46 33 33 - 0961 98 43 88 
-
-VFCTVAdVTVTCVTV BroadcomCTVVTVCabK + SCTV 
-
-
-
-X 
-
-
-
-ĐANG PHÁT 
-
-
-
-Bản tin thời_tiết chào buổi sáng 3 phút trước 
+Nội_dung bạn đang cố truy_cập không tồn_tại hoặc không còn khả_dụng . 
 

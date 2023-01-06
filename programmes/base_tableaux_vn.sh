@@ -18,7 +18,7 @@ fichier_tableau=$2 # le fichier HTML en sortie
 
 if [[ $# -ne 2 ]]
 then
-	echo "Ce programme demande exactement trois arguments."
+	echo "Ce programme demande exactement deux arguments."
 	exit
 fi
 mot="[Đ/đ]ình_công" # à modifier -fait
@@ -30,7 +30,7 @@ echo "<html><body>" > $fichier_tableau
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table>" >> $fichier_tableau
-echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>dump_html</th><th>dump_text</th><th>occurrences</th><th>contextes</th><th>concordances</th></tr>" >> $fichier_tableau
+echo "<tr><th>Ligne</th> <th>Code</th> <th>URL</th> <th>Encodage</th> <th>Dump HTML</th> <th>Dump text</th> <th>Occurrences</th> <th>Contextes</th><th>Concordances</th></tr>" >> $fichier_tableau
 
 lineno=1;
 while read -r URL; do
@@ -63,7 +63,7 @@ while read -r URL; do
 		if [[ $charset -ne "UTF-8" && -n "$dump" ]]
 		then
 			dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)
-			# dump_vn=$(echo "$dump" | python3.9 Tokenizer/Tokenizer_VN.py)
+			# dump_vn=$(echo "$dump" | python3.9 Tokenizer/Tokenizer_VN.py) - Ne marche pas pour une raison inconnue
 		fi
 	else
 		echo -e "\tcode différent de 200 utilisation d'un dump vide"
@@ -71,15 +71,18 @@ while read -r URL; do
 		charset=""
 	fi
 
-	# Compte des occurrences 
+
 
 	echo "$dump" > "./dumps-text/$basename-$lineno.txt"
+
 	dump_vn=$(cat "./dumps-text/$basename-$lineno.txt" | python3.9 Tokenizer/Tokenizer_VN.py > "./dumps-tokenize/$basename-$lineno.txt")
 
-	compte=$(echo $dump_vn | grep -o -i -P "$mot" | wc -l)
-	
+	# Compte des occurrences
+	#compte=$(echo $dump_vn | grep -P -o -i $mot | wc -l)
+	compte=$(grep -P -o -i $mot "./dumps-tokenize/$basename-$lineno.txt" | wc -l)
+
 	# construction du contexte 
-	echo "$dump_vn" | grep -P -A2 -B2 $mot  > "./contextes/$basename-$lineno.txt"
+	contexte=$(grep -P -A2 -B2 $mot "./dumps-tokenize/$basename-$lineno.txt"  > "./contextes/$basename-$lineno.txt")
 	
 	# construction des concordances
 

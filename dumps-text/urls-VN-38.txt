@@ -1,282 +1,440 @@
-   REFRESH(300 sec):
-   https://bnews.vn/dinh-cong-lan-rong-ra-nhieu-nganh-tai-phap/262010.html
-
-     *
-     * Thời sự
-          + Kinh tế Việt Nam
-          + Kinh tế Thế giới
-     * Doanh nghiệp
-          + Chuyển động DN
-          + DN cần biết
-          + Hồ sơ doanh nghiệp
-          + Phân tích doanh nghiệp
-     * Tài chính & Ngân hàng
-          + Tài chính
-          + Ngân hàng
-     * Thị trường
-          + Chứng khoán
-          + Hàng hoá
-          + Bất động sản
-          + Giá vàng
-     * Xe & Công nghệ
-          + Ô tô xe máy
-          + Công nghệ
-     * Kinh tế & Xã hội
-          + Kinh tế và pháp luật
-          + Đời sống
-          + Dự báo thời tiết
-          + Lịch cắt điện
-     * Phân tích - Dự báo
-
-   Bnews.vn
-     * Media
-          + Videos
-          + Tin - Ảnh
-          + LongForm
-     * Rss
-
-   (BUTTON)
-   ____________________
-
-   Logo Bnews.vn
-
-Tin mới
-
-     * 05:30Nền kinh tế Hàn Quốc tìm cách “vượt cạn” trong năm 2023
-     * 05:00Giá vàng hôm nay 6/1 cập nhật mới nhất
-     * 22:25Phát hiện 130 con lợn có chất cấm salbutamol
-     * 22:19Rà soát, đánh giá hệ thống cơ sở thi đấu thể thao
-     * 22:12Sony và Honda chính thức ra mắt mẫu xe điện đầu tiên có tên là
-       Afeela
-
-   Trang thông tin kinh tế của TTXVN Trang thông tin kinh tế của TTXVN
-   Trang thông tin kinh tế của TTXVN
-
-     * Trang chủ
-     * Kinh tế & Xã hội
-
-Đình công lan rộng ra nhiều ngành tại Pháp
-
-   Lan Phương/TTXVN 12:34' - 14/10/2022
-
-   IFRAME:
-   https://www.facebook.com/plugins/like.php?href=https://bnews.vn/dinh-co
-   ng-lan-rong-ra-nhieu-nganh-tai-phap/262010.html&width=150&layout=button
-   _count&action=like&size=small&share=true&height=20&&locale=vi_VN
-
-     *
-     *
-
-   BNEWS Công nhân ngành đường sắt của Pháp ngày 13/10 thông báo sẽ tham
-   gia đình công cùng nhân viên ngành lọc dầu vào tuần tới.
-   [121819-cong-nhan-nganh-dau-khi-tai-phap-tiep-tuc-dinh-cong.jpg] Công
-   nhân tham gia đình công tại nhà máy lọc dầu Gravenchon-Port-Jerome ở
-   Normandy, Pháp, ngày 12/10/2022. Ảnh: AFP/ TTXVN
    (BUTTON)
 
-   Điều này làm dấy lên lo ngại gây ảnh hưởng dây chuyền, khiến hàng loạt
-   dịch vụ đình trệ.
-
-   Cụ thể, công nhân ngành đường sắt do CGT - nghiệp đoàn lớn nhất trong
-   lĩnh vực công, làm đại diện, sẽ đình công vào ngày 18/10 cùng với một
-   số nhóm lao động hiện đang kêu gọi một ngày bãi công trên cả nước.
-
-   Theo CGT, tổ chức này đang tìm cách để người lao động trong ngành đường
-   sắt được hưởng mức lương cao hơn, cũng như phản đối nỗ lực của chính
-   phủ xử lý mạnh đối với cuộc đình công của các công nhân nhà máy lọc dầu
-   đã gây ra tình trạng thiếu nhiên liệu trên toàn quốc.
-   [121834-cong-nhan-nganh-dau-khi-tai-phap-tiep-tuc-dinh-cong.jpg] Công
-   nhân tham gia đình công tại nhà máy lọc dầu Total Energies ở Donges,
-   Pháp, ngày 12/10/2022. Ảnh: AFP/ TTXVN
+   Thêm RFI vào màn hình chính
    (BUTTON)
 
-   Chính phủ Pháp đã sử dụng quyền hạn khẩn cấp để buộc một số công nhân
-   nhà máy lọc dầu đang đình công trở lại làm việc hoặc đối mặt với việc
-   bị truy tố khi phong tỏa các cơ sở lọc dầu. Có 6 trong 7 nhà máy lọc
-   dầu ở Pháp đang chịu ảnh hưởng của cuộc đình công hiện đang bước sang
-   tuần thứ 3. Thực tế này đã khiến nhiều trạm xăng không có xăng dầu bán
-   cho người dân.
+   Cập nhật
+     * #UKRAINA
 
-   Văn phòng Thủ tướng Elisabeth Borne cho biết các biện pháp khẩn cấp là
-   hợp lý vì "mối đe dọa kinh tế thực sự" đối với miền Bắc nước Pháp, nơi
-   phụ thuộc nhiều vào nông nghiệp, đánh cá và công nghiệp. Tuy nhiên,
-   nhiều nghiệp đoàn đã phản ứng dữ dội trước sự can thiệp của chính phủ.
-   [121749-chinh-phu-phap-canh-bao-se-bat-buoc-nhan-vien-totalenergies-din
-   h-cong-tro-lai-lam-viec.jpg] Người dân xếp hàng chờ đổ xăng tại một
-   trạm xăng ở Paris (Pháp) ngày 13/10/2022, trong bối cảnh thiếu hụt xăng
-   dầu do nhân viên ở kho chứa nhiên liệu của Tập đoàn TotalEnergies đình
-   công. Ảnh: AFP/TTXVN
-   (BUTTON)
+   Nghe
+     * Chương trình 60'
+     * Tạp chí
+     * Phát trực tiếp
+     * Video
 
-   Ngày 13/10, các công nhân đình công tại một nhà máy lọc dầu
-   Esso-ExxonMobil ở Fos-sur-Mer, ngoại ô Marseille đã dỡ bỏ phong tỏa sau
-   khi đạt được thỏa thuận trả lương với các nhà quản lý. Như vậy, hiện
-   còn 5 nhà máy lọc dầu vẫn trong tình trạng ngừng hoạt động do đình
-   công.
-
-   TotalEnergies tuyên bố sẽ tổ chức các cuộc đàm phán với đại diện nghiệp
-   đoàn lần đầu tiên kể từ khi bắt đầu các cuộc đình công, với hy vọng có
-   thể đạt được sự đột phá. Nghiệp đoàn ngành lọc dầu đã đề xuất mức tăng
-   lương 6% từ năm tới, thấp hơn mức yêu cầu tăng 10% từ 1/1/2023 của
-   CGT./.
-     * Từ khóa :
+   Tin tức
+     * Việt Nam
+     * Châu Á
      * Pháp
-     * đình công tại Pháp
-     * đình công trong ngành lọc dầu của Pháp
-     * đình công trong ngành đường sắt của Pháp
+     * Quốc Tế
+     * Phân Tích
+     * Điểm Báo
+     * Cộng Đồng
+     * Kinh Tế
+     * Xã Hội
+     * Khoa Học
+     * Văn Hóa
+     * Thể Thao
+     * Học tiếng Pháp
 
-Tin liên quan
+   Trên các mạng xã hội
+     *
+     *
+     *
+     *
+     *
+     *
+     *
 
-     * Tập đoàn TotalEnergies đề xuất giải pháp chấm dứt đình công Doanh
-       nghiệp
-    Tập đoàn TotalEnergies đề xuất giải pháp chấm dứt đình công
-       09:56' - 10/10/2022
-       Tập đoàn năng lượng TotalEnergies của Pháp ngày 9/10 cho biết sẽ
-       thúc đẩy các cuộc đàm phán về lương nếu các nghiệp đoàn ngừng phong
-       tỏa các kho chứa nhiên liệu và các cơ sở lọc dầu.
-     * Nhân viên kiểm soát không lưu Pháp đình công gây gián đoạn giao
-       thông hàng không châu Âu Kinh tế & Xã hội
-    Nhân viên kiểm soát không lưu Pháp đình công gây gián đoạn giao thông
-       hàng không châu Âu
-       18:05' - 16/09/2022
-       Khoảng 1.000 chuyến bay đi và đến Pháp đã bị hủy bỏ trong ngày 16/9
-       trong bối cảnh các nhân viên kiểm soát không lưu của nước này đình
-       công, gây gián đoạn hoạt động giao thông hàng không của châu Âu.
-     __________________________________________________________________
+     * Thư Tin
+     * Cách nghe RFI
+     * Ứng dụng
 
-Tin cùng chuyên mục
+     * RFI Tiếng Việt
+     * Viết cho chúng tôi
+     * Trở thành Đài đối tác
+     * Ban quảng cáo
+     * Bán nội dung
+     * Hợp tác với chúng tôi
+     * Yêu cầu pháp lý
+     * Thông tin cá nhân
+     * Cookies
+     * Trung tâm ưu tiên
 
-     * Rà soát, đánh giá hệ thống cơ sở thi đấu thể thao Kinh tế & Xã hội
-    Rà soát, đánh giá hệ thống cơ sở thi đấu thể thao
-       22:19' - 05/01/2023
-       Văn phòng Chính phủ vừa ban hành văn bản 74/VPCP-KGVX ngày 5/1/2023
-       về việc báo cáo về thực trạng hệ thống cơ sở thi đấu thể thao.
-     * Nhật Bản: Con cá ngừ nặng 212kg được bán với giá 271.500 USD Kinh
-       tế & Xã hội
-    Nhật Bản: Con cá ngừ nặng 212kg được bán với giá 271.500 USD
-       21:40' - 05/01/2023
-       Một con cá ngừ đại dương nặng 212 kg đã được bán với giá 36,04
-       triệu yen (271.500 USD) trong phiên đấu giá đầu tiên của năm 2023
-       tại chợ cá Toyosu ở thủ đô Tokyo của Nhật Bản ngày 5/1.
-     * Tạm đình chỉ một cán bộ Công an cửa khẩu để làm rõ thông tin du
-       khách phản ánh Kinh tế & Xã hội
-    Tạm đình chỉ một cán bộ Công an cửa khẩu để làm rõ thông tin du khách
-       phản ánh
-       20:58' - 05/01/2023
-       Chiều 5/1, đại diện Cục Quản lý xuất nhập cảnh, Bộ Công an cho biết
-       đã tạm đình chỉ công tác một cán bộ để làm rõ thông tin phản ánh
-       trên mạng xã hội của hành khách người Singapore.
-     * Hà Nội đặt mục tiêu đợt 1 cấp đủ nước cho từ 30-35% diện tích lúa
-       Xuân Kinh tế & Xã hội
-    Hà Nội đặt mục tiêu đợt 1 cấp đủ nước cho từ 30-35% diện tích lúa Xuân
-       20:35' - 05/01/2023
-       Để phục vụ Hà Nội và các tỉnh, thành phố ở Trung du, Đồng bằng Bắc
-       Bộ lấy nước đổ ải, gieo cấy vụ Xuân 2023, các nhà máy thủy điện sẽ
-       điều tiết nước hồ thủy điện trong 2 đợt với tổng số 12 ngày.
-     * Khởi tố quyền Trưởng phòng và Phó trưởng phòng Kiểm định xe cơ giới
-       Cục Đăng kiểm Việt Nam Kinh tế & Xã hội
-    Khởi tố quyền Trưởng phòng và Phó trưởng phòng Kiểm định xe cơ giới
-       Cục Đăng kiểm Việt Nam
-       19:59' - 05/01/2023
-       Cơ quan Cảnh sát điều tra Công an Tp Hồ Chí Minh đã ra quyết định
-       khởi tố bị can, ra lệnh bắt tạm giam 2 lãnh đạo cấp phòng và một
-       chuyên viên Phòng Kiểm định xe cơ giới thuộc Cục Đăng kiểm Việt
-       Nam.
-     * XSMN 6/1. Kết quả xổ số miền Nam hôm nay ngày 6/1/2023. SXMN thứ
-       sáu 6/1 Kinh tế & Xã hội
-    XSMN 6/1. Kết quả xổ số miền Nam hôm nay ngày 6/1/2023. SXMN thứ sáu
-       6/1
-       19:30' - 05/01/2023
-       Bnews. XSMN 6/1. Kết quả xổ số hôm nay ngày 6/1. XSMT thứ Sáu. Trực
-       tiếp KQXSMN ngày 6/1. Kết quả xổ số miền Nam hôm nay thứ Sáu ngày
-       6/1/2023.
-     * XSMT 6/1. Trực tiếp kết quả xổ số miền Trung hôm nay 6/1/2023.
-       KQXSMT thứ Sáu ngày 6/1 Kinh tế & Xã hội
-    XSMT 6/1. Trực tiếp kết quả xổ số miền Trung hôm nay 6/1/2023. KQXSMT
-       thứ Sáu ngày 6/1
-       19:30' - 05/01/2023
-       Bnews. Trực tiếp KQXSMT ngày 6/1. Kết quả xổ số miền Trung hôm nay
-       thứ Sáu ngày 6/1/2023.
-     * XSMB 6/1. Kết quả xổ số miền Bắc hôm nay ngày 6/1/2023. KQSXMB thứ
-       6 ngày 6/1 Kinh tế & Xã hội
-    XSMB 6/1. Kết quả xổ số miền Bắc hôm nay ngày 6/1/2023. KQSXMB thứ 6
-       ngày 6/1
-       19:30' - 05/01/2023
-       Bnews. XSMB 6/1. Kết quả xổ số hôm nay ngày 6/1. Trực tiếp KQXSMB
-       ngày 6/1. Kết quả xổ số miền Bắc hôm nay thứ Sáu ngày 6/1/2023.
-     * Kết quả Vietlott Power 6/55 ngày 6/1 - Kết quả xổ số Vietlott ngày
-       6 tháng 1 năm 2023 Kinh tế & Xã hội
-    Kết quả Vietlott Power 6/55 ngày 6/1 - Kết quả xổ số Vietlott ngày 6
-       tháng 1 năm 2023
-       19:30' - 05/01/2023
-       Bnews. Kết quả Vietlott Power 6/55 ngày 6/1 - Kết quả xổ số
-       Vietlott hôm nay ngày 6 tháng 1 năm 2023 - Xổ số Vietlott Power
-       6/55 hôm nay.
+     * Học tiếng Pháp
+     * RFI Âm nhạc
+     * Âm thanh minh họa
+     * Mondoblog
+     * France 24
+     * MCD
+     * InfoMigrants
+     * CFI
+     * Académie
+     * France Médias Monde
 
-   TTXVN Kinh tế Việt Nam & Thế giới
+   © 2023 Copyright RFI - Mọi quyền được bảo lưu. RFI không chịu trách
+   nhiệm về các nội dung đến từ những website bên ngoài. Lượt người xem do
+   công ty ACPM/OJD chứng nhận.
 
-   Thời sự Kinh tế Việt Nam Kinh tế Thế giới
-   Doanh nghiệp Chuyển động DN DN cần biết Hồ sơ doanh nghiệp Phân tích
-   doanh nghiệp
-   Tài chính & Ngân hàng Tài chính Ngân hàng
-   Thị trường Chứng khoán Hàng hoá Bất động sản Giá vàng
-   Xe & Công nghệ Ô tô xe máy Công nghệ
-   Kinh tế & Xã hội Kinh tế và pháp luật Đời sống Dự báo thời tiết Lịch
-   cắt điện
-     * https://vnanet.vn
-     * https://www.vietnamplus.vn
-     * https://baotintuc.vn
-     * https://vietnamnews.vn
-     * http://vnews.gov.vn
-     * https://bnews.vn
-     * https://vietnam.vnanet.vn/vietnamese
-     * https://dantocmiennui.vn
-     * https://chinhsachcuocsong.vn
-     * https://vietnamlawmagazine.vn
-     * https://www.lecourrier.vn
+     * Français
+     * English
+     * Español
+     * Português
+     * Português do Brasil
+     * Hausa
+     * Kiswahili
+     * Mandenkan
+     * Fulfulde
+     * România
+     * Русский
+     * Українською
+     * Tiếng Việt
+     * 华语
+     * 華語
+     * ភាសាខ្មែរ
+     * فارسی
 
-   Trang thông tin kinh tế của TTXVN
+     * Lướt web không kết nối
+     * Quản lý cookie
 
-   © Bản quyền thuộc về BAN BIÊN TẬP TIN KINH TẾ, Thông tấn xã Việt Nam
-   Người chịu trách nhiệm chính: Lê Thị Thanh Huyền. Trưởng ban biên tập
-   Tin Kinh tế
-   Cơ quan chủ quản: Thông tấn xã Việt Nam; Số 5 Lý Thường Kiệt - Hà Nội
-   Giấy phép số 128/GP-TTĐT ngày 28/7/2021 do Bộ Thông tin và Truyền thông
-   cấp.
-   Điện thoại liên hệ: 024-39321142, 024-38242694, 024-39330400; Fax:
-   024-38242317; Email: media.bkt@Gmail.com
-   Quảng cáo: Ms Đỗ Thị Ái: 0982.186.628 Email: bnewsqc@gmail.com
-   Cấm sao chép dưới mọi hình thức nếu không có sự chấp thuận bằng văn
-   bản.
+     * Việt Nam
+     * Châu Á
+     * Pháp
+     * Quốc Tế
+     * Phân Tích
+     * Điểm Báo
 
-     * Trang chủ
-     * Thời sự
-          + Kinh tế Việt Nam
-          + Kinh tế Thế giới
-     * Doanh nghiệp
-          + Chuyển động DN
-          + DN cần biết
-          + Hồ sơ doanh nghiệp
-          + Phân tích doanh nghiệp
-     * Tài chính & Ngân hàng
-          + Tài chính
-          + Ngân hàng
-     * Thị trường
-          + Chứng khoán
-          + Hàng hoá
-          + Bất động sản
-          + Giá vàng
-     * Xe & Công nghệ
-          + Ô tô xe máy
-          + Công nghệ
-     * Kinh tế & Xã hội
-          + Kinh tế và pháp luật
-          + Đời sống
-          + Dự báo thời tiết
-          + Lịch cắt điện
-     * Phân tích - Dự báo
-     * Videos
-          + Tiêu điểm kinh tế
-          + Tin tức
-     * Tin - Ảnh
-     * LongForm
+     * Tạp chí
+     * Chương Trình 60'
+
+   Vào nội dung chính
+
+   (BUTTON)
+
+    1.
+    2. / Pháp
+
+   ĐIỂM TUẦN BÁO
+
+Pháp: Vô địch thế giới về… đình công !
+
+   Đăng ngày: 14/12/2019 - 15:48
+   Biểu tình, đình công tại Marseille, hôm 12/12/2019, ngày thứ 8 liên tục
+   để phản đối dự luật hưu bổng của chính phủ Pháp. Biểu tình, đình công
+   tại Marseille, hôm 12/12/2019, ngày thứ 8 liên tục để phản đối dự luật
+   hưu bổng của chính phủ Pháp. REUTERS/Jean-Paul Pelissier
+   Trọng Nghĩa
+
+   Phong trào đình công rầm rộ tại Pháp chống kế hoạch cải tổ
+   hệ thống hưu bổng bùng lên từ ngày 05/12/2019 dĩ nhiên đã được
+   các tuần báo Pháp thông tin và bình luận rộng rãi, đặc biệt
+   với trang bìa và hồ sơ chính trên hai tờ L’Express và Le Point.
+   Quảng cáo (BUTTON)
+   (BUTTON) Đọc tiếp
+
+   Trong lúc L’Express khoe một hồ sơ độc quyền “Mặt khuất của
+   công cuộc cải tổ”, thì Le Point cố tìm cách giải thích sự
+   kiện “Nước Pháp đã nổi điên như thế nào”. Với những số liệu
+   cụ thể, Le Point không ngần ngại châm biếm: Nước Pháp quả không
+   hổ danh là “Vô địch thế giới về môn đình công”.
+
+   Dựa trên số liệu trong giai đoạn 2008-2016 đối với Pháp, và
+   2008-2017 đối với các nước khác, Le Point ghi nhận là số ngày
+   đình công bình quân mỗi năm cho mỗi 1000 người làm công ăn lương
+   tại Pháp lên đến 118 ngày, đứng hạng nhất trong số các nước
+   thuộc Tổ Chức Hợp Tác và Phát Triển Kinh Tế OCDE.
+
+   Đây là một con số cao hơn rất nhiều so với các láng giềng của
+   Pháp, như Bỉ chỉ có 88 ngày đình công, Tây Ban Nha (57 ngày),
+   hay Anh Quốc, chỉ 21 ngày, hoặc Đức 16 ngày. Ít đình công nhất
+   là Thụy Sĩ, vỏn vẹn 1 ngày, hay Mỹ chỉ có 5 ngày mà thôi.
+
+   Bài nhận định chung của Le Point đã tìm cách giải thích lý do
+   vì sao mà nước Pháp lại trở thành “điên khùng” như vậy, và
+   đã tìm thấy nguyên nhân ở trong một lịch sử hàng thế kỷ đấu
+   tranh đọ sức giữa hai loại chủ quyền: chủ quyền Nhà Nước và
+   chủ quyền Nhân Dân.
+
+   Theo François-Guillaume Lorrain, tác giả bài nhận định, một ca sĩ
+   Pháp nổi tiếng (cụ thể là Michel Sardou trong bài Vladimir Ilich)
+   đã từng kêu gọi Lênin đội mồ “Đứng dậy đi, họ đã điên rồi”,
+   trước những sai lệch của lý tưởng cộng sản. Thế nhưng người Pháp
+   thì phải kêu ai mỗi khi diễn ra “cảnh tượng ngoạn mục của một nước
+   Pháp phát sốt mỗi khi có một cải cách được công bố.
+
+   Theo Le Point, Pháp đúng là một đất nước có hai nhân cách,
+   giống như tình trạng của nhân vật Bác Sĩ Jekyll và ông Hyde
+   trong tiểu thuyết của Robert Louis Stevenson. Về mặt tươi cười
+   thì đó là một nước hiếu khách, lịch sự, phong phú về nghệ
+   thuật và phong cảnh, nhưng mặt tối khiến người khác phải sững sờ
+   lại là tính dễ nổi nóng, dễ rơi vào bạo lực, thái độ bất
+   lực trong việc đối thoại xây dựng.
+
+   “Pháp là thiên đường với cư dân tin rằng mình sống trong địa ngục”
+
+   Tác giả bài báo đã trích dẫn một câu nói của nhà văn Pháp
+   Sylvain Tesson, nổi tiếng về những chuyến du hành vòng quanh
+   thế giới, theo đó thì “Nước Pháp là một thiên đường có cư dân
+   là những người tin rằng họ đang sống trong địa ngục”.
+
+   Như để minh họa cho nhận định đó, Le Point đã trích dẫn một
+   loạt số liệu thống kê, cho thấy là người Pháp đâu phải là
+   khổ cực gì so với những nước khác.
+
+   Về thời gian lao động thực thụ chẳng hạn, trong vòng 40 năm
+   gần đây, người Pháp nói chung càng lúc càng làm việc ít đi.
+   Theo số liệu của viện thống kê Pháp Insee, nếu năm 1978, một
+   người Pháp phải làm việc 1943 tiếng đồng hồ mỗi năm, thì đến
+   năm 2018, họ chỉ còn phải làm việc thực thụ trong 1609 tiếng
+   mà thôi.
+
+   So sánh với nhiều nước khác, thì người Pháp không hề phải nai
+   lưng làm việc như thường nghĩ. Theo số liệu năm 2018 của Liên
+   Hiệp Châu Âu, thì trong suốt cuộc đời của mình, người Pháp
+   chỉ phải làm việc khoảng 35,4 năm, đứng thứ 19 trong số các
+   nước châu Âu. Trong khi đó thì người Đức phải làm 38,7 năm,
+   người Anh, 39,2 năm, người Thụy Sĩ, 42, 7 năm và đứng đầu bảng
+   về số năm phải lao động là người Iceland, với 46,3 năm.
+
+   Dù làm việc ít hơn như thế, nhưng người Pháp thì lại thấy là
+   mình rất khổ sở. Trong bảng xếp hạng theo chỉ số “hạnh phúc”
+   năm 2018 của Liên Hiệp Quốc, người Pháp đứng thứ 18, trong lúc
+   Iceland thì được xếp thứ 4, Thụy Sĩ xếp thứ 6, Đức xếp thứ 9
+   và Anh xếp thứ 10. cho dù những quốc gia này phải làm việc
+   nhiều hơn.
+
+   Từ năm 1995 đến nay đã có 5 lần phản đối cải tổ hưu bổng
+
+   Để chống kế hoạch cải cách hệ thống hưu bổng mà chính phủ
+   Pháp chuẩn bị ban hành, ngoài việc đình công, người dân Pháp
+   cũng xuống đường biểu tình. Theo Le Point, từ thời thủ tướng
+   Juppé vào năm 1995 đến nay, đã có 5 kế hoach cải tổ hưu bổng,
+   và lần nào cũng bị đông đảo người dân xuống đường phản đối.
+
+   Truyền thông báo chí đã nói nhiều về tính chất rầm rộ của
+   phong trào biểu tình ngày 05/12 vừa qua chống kế hoạch
+   Delevoye, với hơn 1,5 triệu người tham gia theo các công đoàn, hay
+   806.000 người theo số liệu cảnh sát.
+
+   Theo Le Point, con số này tính ra vẫn còn thấp hơn cuộc biểu
+   tình ngày 12/12/1995, với con số tham gia khổng lồ là từ 1
+   triệu (theo bộ Nội Vụ) cho đến 2,2 triệu người tham gia, theo
+   các công đoàn.
+
+   Tuy nhiên, dù mọi người thường hay nhắc đến thời điểm năm 1995,
+   nhưng theo tạp chí Pháp, kỷ lục tuyệt đối về lượng người
+   xuống đường là vào ngày 12/10/2010, với từ 1,23 đến 3,5 triệu
+   người biểu tình chống kế hoạch Woerth. Trước đó 7 năm, ngày
+   13/05/2003, kế hoạch Fillon cũng đã bị từ 1,13 cho đến 2 triệu
+   người xuống đường phản đối.
+
+   L’Express: Quá trình hình thành kế hoạch cải tổ hưu bổng Delevoye
+
+   Cũng chú ý đến phong trào phản đối cải cách hưu bổng đang
+   diễn ra, tạp chí L’Express đã dành tựa trang bìa và một hồ sơ
+   10 trang để nói về những điều chưa được tiết lộ về sự hình
+   thành của kế hoạch mang tên ông Jean Paul Delevoye, người đứng
+   tên cho chương trình cải tổ.
+
+   Dưới tựa đề câu khách “Hưu bổng: Lịch sử bí mật của công
+   cuộc cải cách”, L’Express cho rằng lẽ ra đây phải là kế hoạch
+   cải cách tiêu biểu nhất trong nhiệm kỳ 5 năm của tổng thống
+   Emmanuel Macron. Thế nhưng việc chuyển qua một chế độ hưu bổng
+   phổ quát tính theo điểm đã biến thành một cơn địa chấn xã
+   hội.
+
+   Theo tạp chí Pháp, quá trình hình thành kế hoạch cải tổ này
+   bao gồm 9 bước, mà chính quyền muốn quảng bá thành một công
+   trình đầy tính sáng tạo, cách mạng và công bằng. Thế nhưng,
+   theo tờ báo, việc thực hiện một cam kết của ông Macron khi
+   tranh cử tổng thống đó, đã gây nên một tình trạng hỗn loạn
+   về mặt xã hội và chính trị.
+
+   Đối với L’Express, lý do đến từ những bất đồng ngay trong nội
+   bộ chính phủ, cũng như một công tác tuyên truyền giải thích
+   vừa thiếu nhất quán, vừa mơ hồ.
+
+   Hưu bổng: Chính phủ gặp khó khăn, nhưng đối lập cũng lúng túng
+
+   Việc cải tổ hưu bổng đang đẩy chính phủ Pháp vào tình thế
+   lúng túng, thế nhưng, theo L’Express, các đảng đối lập, tả
+   cũng như hữu, vẫn chưa tìm ra chiến lược rõ ràng để tranh thủ
+   thời cơ.
+
+   Theo tuần báo Pháp, hô vang ý kiến bất đồng với kế hoạch cải
+   cách mà ông Emmanuel Macron đã hứa là một điều tốt, nhưng đề ra một
+   giải pháp thay thế rõ ràng còn tốt hơn nữa. Thế nhưng việc đó
+   lại không dễ dàng chút nào.
+
+   Đối với đảng cánh hữu Những Người Cộng Hòa Les Républicains
+   (LR), việc xác định được một đường hướng chung của đảng về vấn đề
+   lương hưu đòi hỏi rất nhiều kiên nhẫn và nhượng bộ.
+
+   Còn bên cánh tả, lãnh đạo của các đảng khác nhau, từ Jean-Luc
+   Mélenchon của Nước Pháp Bất Khuất LFI cho đến Olivier Faure của
+   đảng Xã Hội, thì vẫn mỗi bên một cách tiến. Để có mặt trận
+   chung thì phải chờ thêm nữa.
+
+   Sau cùng, bên cánh cực hữu, bà Marine Le Pen, đảng Tập Hợp Quốc
+   gia RN thì khéo léo nuôi dưỡng một lập trường mơ hồ về chủ đề này,
+   ngay cả khi điều đó có làm sứt mẻ phần nào uy tín của bà. Đối
+   với L'Express, quan điểm của bà Le Pen rất rõ: Dại gì xây dựng
+   một chương trình khi ta có thể lợi dụng được sự bất mãn chung mà
+   không cần phải cực nhọc?
+
+   The Economist: Chiến thắng tuyệt đối của Boris Johnson
+
+   Chủ đề thời sự thứ hai được các báo chú ý là cuộc bầu cử
+   ở Anh ngày 12/12. Chiến thắng của thủ tướng Boris Johnson đã
+   được tuần báo Anh The Economist, lên khuôn vào thứ Sáu 13/12,
+   kịp thời nêu bật ngay trang bìa, trong lúc Courrier International,
+   dù cũng dành trang bìa và hồ sơ đặc biệt cho sự kiện này,
+   nhưng vì ra trước ngày bầu cử nên chỉ nêu được những nhận
+   định chung chung.
+
+   Trang bìa The Economist chỉ mang đơn giản một chữ “Victory –
+   Chiến Thắng”, với bức biếm họa cho thấy ông Boris Johnson hả
+   miệng cười toe, hai ngón tay giơ lên thành hình chữ V.
+
+   Đối với tuần báo Anh, kết quả cuộc bầu cử vừa rồi là một
+   điều khó lường nhất trong nhiều năm gần đây, nhưng rốt cuộc
+   lại là một chiều. Đảng Bảo Thủ của ông Boris Johnson, đã gặt hái
+   được thắng lợi lớn nhất kể từ thời cố thủ tướng Margaret
+   Thatcher, trong lúc Công Đảng Anh bị thất bại tồi tệ nhất kể từ
+   những năm 1930.
+
+   Riêng đối với ông Johnson, người có khả năng trở thành một trong
+   những thủ tướng có nhiệm kỳ ngắn nhất nước Anh, giờ đây đã biến
+   thành một lãnh đạo chính phủ toàn năng.
+
+   Hệ quả trước mắt là, lần đầu tiên kể từ cuộc trưng cầu dân ý năm
+   2016, nước Anh rõ ràng sẽ rời Liên Hiệp Châu Âu, vào cuối tháng
+   Giêng tới đây, cho dù tiến trình Brexit, như ông Johnson từng hứa
+   hẹn, sẽ còn lâu mới hoàn tất.
+
+   Thế nhưng chiến thắng của đảng Bảo Thủ cũng phản ánh một sự sắp
+   xếp lại một cách sâu sắc đời sống chính trị Anh Quốc. Đảng của
+   ông Johnson đã chiếm được các lãnh địa trong tay Công Đảng từ gần
+   một thế kỷ nay, tức là khu vực miền Bắc với đa số cử tri thuộc
+   tầng lớp lao động và trung lưu.
+
+   Sau một thập kỷ mà các chính phủ đều phải điều hành với một đa
+   số xít xao, thậm chí không có cả đa số, Anh Quốc giờ đây có
+   được một thủ tướng với quyền lực cá nhân to lớn và hầu như nắm toàn
+   quyền tại Quốc Hội.
+
+   Giống như hai thủ tướng Thatcher và Tony Blair trước đây, đều đã
+   có một đa số rộng rãi ở Hạ Viện, ông Johnson giờ đây có cơ
+   hội đưa Anh Quốc vào hướng đi mới, nhưng chỉ với điều kiện là
+   chính phủ của ông giải quyết được với một số nhiệm vụ thực sự khó
+   khăn.
+
+   Courrier International: Anh Quốc không chỉ có Brexit!
+
+   Như nói ở trên Courrier International cũng dành trang bìa cho
+   thời sự nước Anh với cuộc bầu cử sắp diễn ra. Tuy nhiên tờ
+   báo lại chạy tựa lớn “Trong đầu người Anh” với lời giải
+   thích: “Hoàng gia, óc khôi hài, môn thể thao cricket: Chân dung
+   của một nước Anh không chỉ tóm gọn trong vấn đề Brexit”.
+
+   Đối với tạp chí Pháp, nói đến cuộc bầu cử tại nước Anh,
+   không thể không nói đến câu chuyện dài nhiều tập Brexit đã thu
+   hút sự chú ý của mọi người từ ba năm nay. Thế nhưng vì đây
+   là đề tài đã được nhai đi nhai lại đến mức nhàm chán, do đó
+   Courrier International đã quyết định thay đổi cách tiếp cận
+   nước Anh nhân cuộc bầu cử ngày 12/12.
+
+   Thay vì kể lại những tình tiết mới nhất của cuộc vận động
+   tranh cử hay nhắc lại các kịch bản về việc nước Anh rời bỏ
+   Liên Hiệp Châu Âu, tạp chí Pháp đã tập trung phân tích những
+   điều đã tạo thành bản sắc Anh. Và đấy chính là ý nghĩa của
+   tựa lớn hồ sơ trong tuần của Courrier International được nêu bật
+   ở trang bìa.
+
+   Thư TinHãy nhận thư tin hàng ngày của RFI: Bản tin thời sự, phóng sự,
+   phỏng vấn, phân tích, chân dung, tạp chí
+   Đăng ký
+
+   Tải ứng dụng RFI để theo dõi toàn bộ thời sự quốc tế
+     * Điểm báo
+     * Pháp
+     * Quốc tế
+     * Xã hội
+     * Đình công
+     * Phản kháng
+
+   Cùng một chủ đề
+   OG57RY4V55K2ZMKTFEMW75FAWM
+   ĐIỂM BÁO
+   04/01/2023
+
+   Makiivka: Thêm một bằng chứng về sự thiếu chuyên nghiệp của quân Nga
+   Ảnh minh họa: Một vài trang bìa tuần báo châm biếm Charlie Hebdo được
+   trưng bày tại một cuộc triển lãm ở bảo tàng giấy.
+   PHÁP - BÁO CHÍ
+   04/01/2023
+
+   Pháp: Charlie Hebdo ra số đặc biệt châm biếm chế độ Hồi Giáo Iran
+   Ukraine - soldat - drone - Bakhmout
+   ĐIỂM BÁO
+   04/01/2023
+
+   Ukraina chuẩn bị những phương án phản công để giành chiến thắng
+   Ukraine - Kiev - Noël - métro
+   ĐIỂM BÁO
+   03/01/2023
+
+   2023, năm đen tối cho các chế độ độc tài
+   Ukraine - soldat - Bakhmout
+   ĐIỂM TUẦN BÁO
+   01/01/2023
+
+   2022 : Ukraina, quốc gia truyền cảm hứng
+   AP22365789813176
+   PHÁP 2023
+   01/01/2023
+
+   Năm mới 2023: Một triệu người đón giao thừa trên đại lộ Champs-Élysées,
+   Paris
+   AP22363698978895
+   ĐIỂM BÁO
+   30/12/2022
+
+   Covid-19 : Đóng cửa với Trung Quốc không có tác dụng
+   AP22363276533001
+   ĐIỂM BÁO
+   29/12/2022
+
+   Covid-19 : Mối đe dọa mới lại đến từ Trung Quốc
+   AP22361091702258
+   ĐIỂM BÁO
+   28/12/2022
+
+   Covid-19 : Dân Trung Quốc được « tự do khóc thương cho người quá cố »
+   Brocheux
+   NHÀ SỬ HỌC PIERRE BROCHEUX TỪ TRẦN
+   28/12/2022
+
+   Nhà sử học Pierre Brocheux, chuyên gia về Việt Nam, qua đời
+   2022-11-30T063717Z_1171903603_RC22WX9OXFKM_RTRMADP_3_HEALTH-CORONAVIRUS
+   -CHINA-PROTESTS
+   ĐIỂM BÁO
+   27/12/2022
+
+   Từ ''Zero Covid'' đến ''Sóng thần Covid'': Bắc Kinh đang khó ăn khó nói
+   WhatsApp Image 2022-12-25 at 15.44.14
+   PHÁP - XÃ HỘI
+   26/12/2022
+
+   Pháp: Bữa ăn Giáng sinh với những người già cô đơn
+   AP22358630410734
+   ĐIỂM BÁO
+   26/12/2022
+
+   Thiên Chúa Giáo phương Đông bị đe dọa
+
+   >
+
+   Trang chủ
+   Thời sự Thời sự
+   Tạp chí Tạp chí
+   Phát trực tiếp
+   Phát trực tiếp
+   Phát trực tiếp
+   Phát trực tiếp
+   Các mục Các mục
+
+   Không tìm thấy trang
+   (BUTTON)
+
+   Nội dung bạn đang cố truy cập không tồn tại hoặc không còn khả dụng.

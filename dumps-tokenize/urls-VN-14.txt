@@ -1,496 +1,538 @@
-# alternate RSS Feed for Hàng ngàn công_nhân lao_động đình_công ở miền 
 
-Trung đã đi làm trở_lại 
 
+REFRESH ( 300 sec ) : 
 
+https://www.nguoi-viet.com/viet-nam/cong-nhan-dinh-cong-it-duoc-dua-tin 
 
-Đường_dây_nóng : 0866.59.4498 - Thứ_sáu 06 / 01 / 2023 06 : 21 
+- tai - viet - nam / 
 
-English edition ____________________ ( BUTTON ) 
+# Nguoi Viet Online » Feed Nguoi Viet Online » Comments Feed Nguoi_Viet 
 
-Báo_Công_Thương điện_tử , kinh_tế , chính_trị , xã_hội 
+Online » Công_nhân đình_công ít khi được truyền_thông CSNV loan tin 
 
-* Công_thương TV 
+Comments Feed alternate alternate alternate 
 
-* Đọc báo in 
 
-* Kinh_tế Việt_Nam 
 
-* Vietnam Economic_News 
+* TV 
 
+* HOA KỲ 
 
+* LITTLE SAIGON 
 
-* Báo_Công_Thương điện_tử , kinh_tế , chính_trị , xã_hội 
++ SINH_HOẠT CỘNG_ĐỒNG 
 
-* Thời_sự 
++ CỘNG_ĐỒNG 
 
-+ Trong nước 
++ PHÓNG_SỰ 
 
-+ Diễn_đàn 
++ NGƯỜI VIỆT TRẺ 
 
-* Công_Thương 24h 
++ NHÀ_HÀNG & MÓN ĂN 
 
-+ Quan_sát - Bình_luận 
++ THƯƠNG_MẠI ĐÓ_ĐÂY 
 
-+ Công_Thương và công_luận 
++ ĐI ĐẾN TƯƠNG_LAI 
 
-* Quản_lý thị_trường 
+* VIỆT_NAM 
 
-* Thương_mại 
+* THẾ_GIỚI 
 
-+ Xuất_nhập_khẩu 
+* ĐỜI_SỐNG 
 
-+ Xúc_tiến thương_mại 
++ KHOA_HỌC 
 
-+ Phòng_vệ thương_mại 
++ SỨC_KHỎE 
 
-+ Thương_mại điện_tử 
++ THUẾ & PHÁP_LÝ 
 
-+ Thương_hiệu quốc_gia 
++ DI_TRÚ 
 
-+ Xuất_xứ hàng_hóa 
++ DU_LỊCH 
 
-* Công_nghiệp 
+* XE_HƠI 
 
-+ Công_nghiệp_nhẹ 
++ 1001 CHUYỆN XE_HƠI 
 
-+ Công_nghiệp_nặng 
++ BẢO_TRÌ XE 
 
-+ Khuyến_công 
++ BÍ_QUYẾT LÁI_XE 
 
-+ Công_nghiệp Hỗ_trợ 
++ ĐƯỜNG TỚI TƯƠNG_LAI 
 
-+ Công_nghiệp quốc_phòng 
++ VIDEO XE HOI 
 
-* Pháp_luật - Điều_tra 
+* MORE 
 
-* Thị_trường 
++ PHỤ_NỮ 
 
-+ Giá_cả 
+o KIẾN_THỨC TỔNG_QUÁT 
 
-+ Nông_sản 
+o LÀM_ĐẸP 
 
-+ Hàng_hóa 
+o MẸO VẶT 
 
-+ Thị_trường miền núi 
+o BÁC_SĨ ƠI 
 
-* Năng_lượng 
+o BIẾT TỎ CÙNG AI 
 
-+ Điện 
+o VIẾT CHO NHAU 
 
-+ Than 
++ GIẢI_TRÍ 
 
-+ Dầu_khí 
+o CHUYỆN SHOWBIZ 
 
-+ Năng_lượng tái_tạo 
+o CUỐI TUẦN XEM GÌ 
 
-+ An_ninh năng_lượng 
+o PHIM_ẢNH VÀ ÂM_NHẠC 
 
-* Hội_nhập - Quốc_tế 
++ NHÀ_ĐẤT 
 
-+ Quốc_tế 
+o MUA_BÁN – ĐẦU_TƯ 
 
-+ Các hiệp_định thương_mại 
+o SỮA CHỮA – TÂN_TRANG 
 
-+ Thông_tin thương_vụ 
+o CẦN BIẾT – NHÀ_ĐẤT 
 
-* Tiêu_dùng - Khuyến_mại 
++ THỂ_THAO 
 
-+ Khuyến_mại 
++ TIN ẢNH 
 
-+ Sản_phẩm mới 
++ BÌNH_LUẬN 
 
-+ Bảo_vệ người tiêu_dùng 
++ DIỄN_ĐÀN 
 
-+ An_toàn thực_phẩm 
++ CỰU CHIẾN_BINH 
 
-* Bạn_đọc 
++ VĂN_HỌC NGHỆ_THUẬT 
 
-+ Hộp_thư - Đường_dây_nóng 
++ BẠN_ĐỌC VIẾT 
 
-+ Nhắn_tin - Hồi_âm 
++ VƯỜN THƠ NGƯỜI VIỆT 
 
-+ Ý_kiến bạn_đọc 
++ CHÚC_MỪNG – TIN_VUI 
 
-* 
++ PHÂN_ƯU 
 
++ CÁO_PHÓ 
 
++ CẢM_TẠ 
 
-Thời_sự Trong nước Diễn_đàn 
++ TƯỞNG_NHỚ 
 
-Công_Thương 24h Quan_sát - Bình_luận Công_Thương và công_luận 
++ RAO VẶT 
 
-Công_Thương TV Thời_sự Thương_mại Xã_hội Doanh_nghiệp Chính_sách - Đối 
++ GHI_DANH NEWSLETTER 
 
-thoại Chuyển_động Công_Thương Đó_đây 
 
-Quản_lý thị_trường 
 
-Thương_mại Xuất_nhập_khẩu Xúc_tiến thương_mại Phòng_vệ thương_mại 
+Search_____________________ 
 
-Thương_mại điện_tử Thương_hiệu quốc_gia Xuất_xứ hàng_hóa 
 
-Công_nghiệp Công_nghiệp_nhẹ Công_nghiệp_nặng Khuyến công Công_nghiệp Hỗ 
 
-trợ Công_nghiệp quốc_phòng 
+Logo 
 
-Pháp_luật - Điều_tra 
+Logo 
 
-Thị_trường Giá_cả Nông_sản Hàng_hóa Thị_trường miền núi 
+Thursday , January 5 , 2023 
 
-Tài_chính Ngân_hàng Chứng_khoán Đầu_tư Bảo_hiểm 
+* ABOUT US 
 
-Bất_động_sản 
+* NV SHOP 
 
-Năng_lượng Điện Than Dầu_khí Năng_lượng tái_tạo An_ninh năng_lượng 
+* THƯ_VIỆN 
 
-Hội_nhập - Quốc_tế Quốc_tế Các hiệp_định thương_mại Thông_tin thương_vụ 
+* RAO VẶT 
 
-Tiêu_dùng - Khuyến_mại Khuyến_mại Sản_phẩm mới Bảo_vệ người tiêu_dùng 
+* CÁO_PHÓ 
 
-An_toàn thực_phẩm 
+* LEGAL NOTICE 
 
-Doanh_nghiệp - Doanh_nhân Doanh_nghiệp vì Người tiêu_dùng Thông_tin 
 
-doanh_nghiệp Doanh_nhân 
 
-Xe và Công_nghệ Tin ô_tô - xe_máy Thử xe Khám_phá Công_nghệ mới Cuộc 
+Facebook 
 
-sống số 
+Youtube 
 
-Xã_hội Nông_nghiệp - nông_thôn Giáo_dục - Đào_tạo Sức_khỏe Việc_làm Môi 
+Logo 
 
-trường Phát_triển bền_vững 
+* TV 
 
-Bạn_đọc Hộp_thư - Đường_dây_nóng Nhắn_tin - Hồi_âm Ý_kiến bạn_đọc 
+* HOA KỲ 
 
-Văn_hóa - Giải_trí Du_lịch Giải_trí Văn_hóa Thể_thao 
+* LITTLE SAIGON 
 
-Địa_phương Tỉnh - thành 24h Phát_triển kinh_tế 
++ SINH_HOẠT CỘNG_ĐỒNG 
 
-Dân_tộc_thiểu_số & Miền núi Vùng_cao đổi_mới Hỏi - Đáp Đời_sống vùng 
++ CỘNG_ĐỒNG 
 
-miền 
++ PHÓNG_SỰ 
 
-Tự_hào hàng Việt_Nam - Tinh_hoa hàng Việt_Nam Mỗi xã phường một sản 
++ NGƯỜI VIỆT TRẺ 
 
-phẩm - OCOP Tinh_hoa hàng Việt_Nam 
++ NHÀ_HÀNG & MÓN ĂN 
 
-Vòng xoay khởi_nghiệp 
++ THƯƠNG_MẠI ĐÓ_ĐÂY 
 
-[ INS : : INS ] 
++ ĐI ĐẾN TƯƠNG_LAI 
 
+* VIỆT_NAM 
 
+* THẾ_GIỚI 
 
-* Xã_hội 
+* ĐỜI_SỐNG 
 
++ KHOA_HỌC 
 
++ SỨC_KHỎE 
 
-Hàng ngàn công_nhân lao_động đình_công ở miền Trung đã đi làm trở_lại 
++ THUẾ & PHÁP_LÝ 
 
++ DI_TRÚ 
 
++ DU_LỊCH 
 
-Hoàng_Trinh 
+* XE_HƠI 
 
++ 1001 CHUYỆN XE_HƠI 
 
++ BẢO_TRÌ XE 
 
-Hoàng_Trinh 
++ BÍ_QUYẾT LÁI_XE 
 
++ ĐƯỜNG TỚI TƯƠNG_LAI 
 
++ VIDEO XE HOI 
 
-Xã_hội 16 / 02 / 2022 14 : 48 Theo_dõi Congthuong . vn trên 
+* MORE 
 
-Trong gần 2 tuần sau Tết_Nguyên_đán , tại các tỉnh miền Trung_liên_tiếp 
++ PHỤ_NỮ 
 
-xảy ra các vụ đình_công tập_thể với số_lượng lên đến hàng nghìn_lao 
+o KIẾN_THỨC TỔNG_QUÁT 
 
-động của các công_ty điện_tử , may_mặc ở Nghệ_An và Hà_Tĩnh ngừng việc , 
+o LÀM_ĐẸP 
 
-yêu_cầu tăng lương , giải_quyết một_số quyền_lợi . 
+o MẸO VẶT 
 
+o BÁC_SĨ ƠI 
 
+o BIẾT TỎ CÙNG AI 
 
-Liên_tiếp các vụ đình_công 
+o VIẾT CHO NHAU 
 
++ GIẢI_TRÍ 
 
+o CHUYỆN SHOWBIZ 
 
-Từ ngày 7 - 15 / 2 , tại các tỉnh miền Trung đầu_tiên là nghệ An , rồi đến 
+o CUỐI TUẦN XEM GÌ 
 
-Hà_Tĩnh liên_tục 4 vụ đình_công với số_lượng hàng ngàn công_nhân lao 
+o PHIM_ẢNH VÀ ÂM_NHẠC 
 
-động . 
++ NHÀ_ĐẤT 
 
+o MUA_BÁN – ĐẦU_TƯ 
 
+o SỮA CHỮA – TÂN_TRANG 
 
-Cụ_thể , tại Nghệ_An , sáng ngày 7 / 2 Công_ty TNHH Viet Glory đóng trên 
+o CẦN BIẾT – NHÀ_ĐẤT 
 
-địa_bàn xã Diễn_Trường huyện Diễn_Châu ( Nghệ_An ) , hơn 2.500 công_nhân 
++ THỂ_THAO 
 
-lao_động đã đồng_loạt đình_công đòi quyền_lợi . Ngay mới chiều qua , sau 
++ TIN ẢNH 
 
-giờ nghỉ trưa ( ngày 15 / 2 ) , hàng ngàn công_nhân của Công_ty CP Nam_Thuận 
++ BÌNH_LUẬN 
 
-Nghệ_An đóng tại xã Diễn Mỹ , huyện Diễn_Châu , và Công_ty TNHH Em - Tech 
++ DIỄN_ĐÀN 
 
-đóng tại phường Vinh_Tân , TP. Vinh , ( Nghệ_An ) . 
++ CỰU CHIẾN_BINH 
 
++ VĂN_HỌC NGHỆ_THUẬT 
 
++ BẠN_ĐỌC VIẾT 
 
-Tại Hà_Tĩnh chiều cùng ngày , hơn 200 trong tổng_số hơn 2.000 công_nhân 
++ VƯỜN THƠ NGƯỜI VIỆT 
 
-Công_ty Haivina , đóng tại Cụm công_nghiệp Nam_Hồng , phường Đậu_Liêu , 
++ CHÚC_MỪNG – TIN_VUI 
 
-thị_xã Hồng_Lĩnh ( Hà_Tĩnh ) đã đình_công tập_thể để đòi quyền_lợi . 
++ PHÂN_ƯU 
 
-Hàng ngàn công_nhân lao_động đình_công ở miền Trung đã đi làm trở_lại 
++ CÁO_PHÓ 
 
-Công_nhân của Haivina Hồng_Lĩnh ngừng việc chiều 15 / 2 
++ CẢM_TẠ 
 
++ TƯỞNG_NHỚ 
 
++ RAO VẶT 
 
-Được biết nguyên_nhân dẫn đến đình_công là bởi công_nhân liên_quan đến 
++ GHI_DANH NEWSLETTER 
 
-việc tăng lương , phụ_cấp , tiền nghỉ_phép , tiền thưởng ... 
 
 
+____________________ ( BUTTON ) Search 
 
-Tại Công_ty TNHH Viet Glory vào ngày 7 / 2 , công_nhân đình_công đã đưa ra 
+Logo 
 
-11 kiến_nghị đối_với chủ lao_động . Trong tăng lương , bổ_sung phụ_cấp 
+* TV 
 
-thâm_niên , phụ_cấp độc_hại , điều_chỉnh tem ( phiếu ) lương ... cũng như 
+* HOA KỲ 
 
-nội_dung liên_quan đến văn_hóa ứng_xử giữa cán_bộ quản_lý và người lao 
+* LITTLE SAIGON 
 
-động . 
++ SINH_HOẠT CỘNG_ĐỒNG 
 
++ CỘNG_ĐỒNG 
 
++ PHÓNG_SỰ 
 
-Hay , chiều ngày 15 / 2 công_nhân Công_ty TNHH Em - Tech Nghệ_An đã kiến 
++ NGƯỜI VIỆT TRẺ 
 
-nghị Ban lãnh_đạo công_ty : Tăng lương kỳ_hạn hằng năm theo cấp_bậc , 
++ NHÀ_HÀNG & MÓN ĂN 
 
-thâm_niên công_tác ; bổ_sung phụ_cấp ; cải_thiện chế_độ ăn_hàng ngày để 
++ THƯƠNG_MẠI ĐÓ_ĐÂY 
 
-đảm_bảo sức_khỏe cho công_nhân làm_việc ; thực_hiện tốt xét_nghiệm cho 
++ ĐI ĐẾN TƯƠNG_LAI 
 
-công_nhân … 
+* VIỆT_NAM 
 
+* THẾ_GIỚI 
 
+* ĐỜI_SỐNG 
 
-Chiều cùng ngày , tại dây_chuyền may của Công_ty Cổ_phần Nam_Thuận_Nghệ 
++ KHOA_HỌC 
 
-An đóng tại xã Diễn Mỹ cũng đã phản_đối bằng cách dưng việc tập_thể . 
++ SỨC_KHỎE 
 
-Bước_đầu , 14 kiến_nghị của người lao_động được trình lên bộ_phận_quản 
++ THUẾ & PHÁP_LÝ 
 
-lý , trong đó có vấn_đề : Tăng lương không công_bằng giữa các bộ_phận 
++ DI_TRÚ 
 
-khác nhau , yêu_cầu tăng phụ_cấp xăng xe , không trừ các khoản phụ_cấp 
++ DU_LỊCH 
 
-trong tháng một_cách vô_lý , không trừ tiền nghỉ_phép vào tiền thưởng 
+* XE_HƠI 
 
-tháng 13 ... 
++ 1001 CHUYỆN XE_HƠI 
 
++ BẢO_TRÌ XE 
 
++ BÍ_QUYẾT LÁI_XE 
 
-Tại Hà_Tĩnh , vào chiều 15 / 2 , hơn 200 trong tổng_số hơn 2.000 công_nhân 
++ ĐƯỜNG TỚI TƯƠNG_LAI 
 
-Công_ty Haivina , đóng tại Cụm công_nghiệp Nam_Hồng , phường Đậu_Liêu , 
++ VIDEO XE HOI 
 
-thị_xã Hồng_Lĩnh , đề_nghị tăng lương , trả tiền hỗ_trợ Covid - 19 và đảm 
+* MORE 
 
-bảo một_số chế_độ phụ_cấp ... 
++ PHỤ_NỮ 
 
+o KIẾN_THỨC TỔNG_QUÁT 
 
+o LÀM_ĐẸP 
 
-Công_nhân cho biết ngừng việc để đòi quyền_lợi vì lương cơ_bản và các 
+o MẸO VẶT 
 
-chế_độ thấp . Dù có đủ tiền tăng ca và phụ_cấp , mỗi tháng công_nhân chỉ 
+o BÁC_SĨ ƠI 
 
-được hơn 4 triệu đồng , khó trang_trải cuộc_sống . " Cả tháng đi làm đầy 
+o BIẾT TỎ CÙNG AI 
 
-đủ cũng chỉ được thêm phụ_cấp 180.000 đồng . Nếu có việc gia_đình xin về 
+o VIẾT CHO NHAU 
 
-sớm 15 - 20 phút là cũng bị trừ hết tiền chuyên_cần ... " , một nam_công 
++ GIẢI_TRÍ 
 
-nhân nói . 
+o CHUYỆN SHOWBIZ 
 
+o CUỐI TUẦN XEM GÌ 
 
+o PHIM_ẢNH VÀ ÂM_NHẠC 
 
-Ông Đinh_Văn_Hồng - Phó_Chủ_tịch UBND thị_xã Hồng_Lĩnh - cho biết , 
++ NHÀ_ĐẤT 
 
-chính_quyền địa_phương đã cử cán_bộ đến nắm_bắt sự_việc , phía doanh 
+o MUA_BÁN – ĐẦU_TƯ 
 
-nghiệp đang xin ý_kiến của tổng công_ty bên Hàn_Quốc , sáng_mai sẽ trả 
+o SỮA CHỮA – TÂN_TRANG 
 
-lời người lao_động . 
+o CẦN BIẾT – NHÀ_ĐẤT 
 
++ THỂ_THAO 
 
++ TIN ẢNH 
 
-" Ngày_mai chúng_tôi sẽ xuống trao_đổi , nắm sâu thêm hợp_đồng và cam_kết 
++ BÌNH_LUẬN 
 
-của doanh_nghiệp đối_với người lao_động . Địa_phương mong_muốn họ trả 
++ DIỄN_ĐÀN 
 
-lời_giải_quyết thấu_đáo để công_nhân trở_lại sản_xuất " , ông Hồng nói . 
++ CỰU CHIẾN_BINH 
 
++ VĂN_HỌC NGHỆ_THUẬT 
 
++ BẠN_ĐỌC VIẾT 
 
-Trên 1.000 công_nhân đình_công đã đi làm trở_lại 
++ VƯỜN THƠ NGƯỜI VIỆT 
 
++ CHÚC_MỪNG – TIN_VUI 
 
++ PHÂN_ƯU 
 
-Trao_đổi với PV Báo_Công_Thương , ông Phạm_Đức_Cường - Chủ_tịch Liên 
++ CÁO_PHÓ 
 
-đoàn Lao_động ( LĐLĐ ) huyện Diễn_Châu , Nghệ_An cho biết , sáng 14 / 2 , 100 % 
++ CẢM_TẠ 
 
-công_nhân Công_ty TNHH Viet_Glory đã đi làm lại . Hầu_hết công_nhân đều 
++ TƯỞNG_NHỚ 
 
-tỏ ra phấn_khởi khi các kiến_nghị của mình được doanh_nghiệp đáp_ứng , 
++ RAO VẶT 
 
-đặc_biệt là tăng lương cơ_bản và bổ_sung chế_độ phụ_cấp thâm_niên . 
++ GHI_DANH NEWSLETTER 
 
-Hàng ngàn công_nhân lao_động đình_công ở miền Trung đã đi làm trở_lại 
 
 
+More 
 
-Sau khi chủ doanh_nghiệp đồng_ý tăng lương và đáp_ứng các yêu_cầu về 
 
-phúc_lợi , công_nhân mới đồng_ý đi làm trở_lại . Trong ảnh : Công_nhân 
 
-Công_ty TNHH Viet_Glory đều tỏ ra phấn_khởi khi đi làm trở_lại 
+Công_nhân đình_công ít khi được truyền_thông CSNV loan tin 
 
 
 
-Sau 6 ngày đình_công , khi tất_cả kiến_nghị được công_ty giải_quyết , 
+June 13 , 2022 
 
-trong đó : Lương cơ_bản được tăng 6 % , phụ_cấp thâm_niên 30.000 
+Facebook 
 
-đồng / tháng đối_với công_nhân làm_việc từ đủ một năm , cứ mỗi năm cộng 
+Twitter 
 
-thêm 30.000 đồng / tháng , sáng 14 / 2 , công_nhân Công_ty TNHH Viet_Glory 
+Email 
 
-mới trở_lại làm_việc . 
+Print 
 
 
 
-Còn tại Công_ty TNHH Em - Tech Nghệ_An , Ban lãnh_đạo công_ty đã cơ_bản 
+SÀI_GÒN , Việt_Nam ( NV ) – Các cuộc đình_công tranh đấu quyền_lợi lao 
 
-thống_nhất giải_quyết các kiến_nghị của công_nhân sau khi báo_cáo Tổng_
+động rất ít khi được truyền_thông của nhà cầm_quyền CSVN đưa tin . 
 
-công_ty phía Hàn_Quốc những đề_đạt , nguyện_vọng của công_nhân . Trước 
 
-mắt trong tháng 3 , công_ty sẽ cải_thiện chế_độ ăn cho công_nhân và thực 
 
-hiện tốt công_tác phòng , chống dịch theo quy_định của Nhà_nước . Đồng 
+Cuối tuần qua , bản tin điện_tử của Đài_VOV cho hay tại tỉnh bình Dương , 
 
-thời , công_ty phối_hợp tốt với UBND TP. Vinh , phường Vinh_Tân , Ban_Chỉ 
+từ đầu năm 2022 đến nay đã xảy ra 18 vụ đình_công tại địa_phương . Hầu 
 
-đạo phòng , chống dịch phường , Ban Chỉ_đạo thành_phố để lắng_nghe ý_kiến 
+hết đều xảy ra tại các xí_nghiệp vốn đầu_tư nước_ngoài . Hiếm_hoi những 
 
-của công_nhân nhiều hơn và giải_quyết kịp_thời hơn trong thời_gian tới . 
+vụ đình_công vừa kể được báo_chí địa_phương theo_dõi và đưa tin . 
 
 
 
-" Do ảnh_hưởng của dịch Covid - 19 , lợi_nhuận kinh_doanh của công_ty không 
+Công_nhân đình_công tại một xí_nghiệp trong tỉnh Bình_Dương . ( Hình : 
 
-tốt và phải thuê khách_sạn cho công_nhân ở tại_chỗ trong suốt năm 2021 . 
+VOV ) 
 
-Vì_vậy , về chế_độ tiền_lương , lãnh_đạo Công_ty TNHH Em - Tech Nghệ_An 
 
-chưa thể tăng lương đúng kỳ_hạn . Ban lãnh_đạo công_ty ở Việt_Nam sẽ 
 
-tiếp_tục báo_cáo về phía Hàn_Quốc . Sau khi có sự thống_nhất , ngay cuối 
+Để tránh_né sự “ nhạy_cảm ” chính_trị , đài VOV không gọi đó là các vụ 
 
-buổi chiều qua toàn_bộ người lao_động đã đồng_ý đi làm trở_lại , ổn 
+đình_công mà gọi là “ tranh_chấp lao_động tập_thể . ” 
 
-định " , ông Nguyễn Trung_Dũng , Bí_thư Đảng_ủy phường Vinh_Tân , TP._Vinh 
 
-cho biết . 
 
+Số người tham_gia vào các vụ đình_công đó thấy được nói khoảng 10,700 
 
+người và xảy ra phần_lớn tại các xí_nghiệp sản_xuất đồ gỗ với chín vụ 
 
-Hiện_nay , mức lương cơ_bản của công_nhân Công_ty TNHH Em - Tech Nghệ_An 
+đình_công . VOV còn nói rằng các vụ “ tranh_chấp lao_động tập_thể ” đang 
 
-là 3.900.000 đồng / người . Với mức lương này , công_ty đã thực_hiện theo 
+“ có xu_hướng tăng . ” 
 
-đúng quy_định của Nhà_nước . Tuy_nhiên , công_nhân vẫn mong_muốn có mức 
 
-lương cơ_bản cao hơn so với mức lương ban_đầu mà họ nhận . 
 
+Nguồn tin trên đổ vạ cho các vụ đình_công “ có xu_hướng tăng ” do “ hành 
 
+vi vi_phạm_pháp_luật ” của cả giới chủ_nhân cũng như giới công_nhân . 
 
-" Ở đây có sự hiểu nhầm về mức phụ_cấp giữa người mới vào cũng được nhận 
 
-giống mức người làm lâu năm . Tuy_nhiên , qua rà_soát đối_chiếu tại công 
 
-ty , những người làm lâu năm đều có mức cao hơn so với người mới vào 
+Giới chủ xí_nghiệp bị cho là “ không chấp_hành đúng pháp_luật lao_động , 
 
-làm . Ban giám_đốc công_ty đã đưa vào nội_dung thỏa_thuận bắt_đầu_từ 
+Luật Công_Đoàn , Luật Bảo_Hiểm_Xã_Hội dẫn đến quyền_lợi của người lao 
 
-tháng 3 / 2022 sẽ thực_hiện lộ_trình tăng lương cho công_nhân lao_động 
+động chưa được bảo_đảm . ” Còn giới công_nhân bị cho là “ thiếu hiểu_biết 
 
-theo quy_định của pháp_luật ... " , ông Thái Lê_Cường , Chủ_tịch Liên_đoàn 
+của người lao_động về các quy_định liên_quan đến pháp_luật lao_động , 
 
-Lao_động TP. Vinh cho biết . 
+việc_làm , hay do bị kích_động , lôi_kéo . ” 
 
 
 
-Vụ_việc tại Công_ty cổ_phần Nam_Thuận , ( chuyên may_mặc , quy_mô trên 
+Theo Luật Lao_Động CSVN được thông_qua năm 2019 , đình_công được định 
 
-1.000 người ) đóng tại xã Diễn Mỹ , huyện Diễn_Châu , khoảng 200 công_nhân 
+nghĩa_là “ sự ngừng việc tạm_thời , tự_nguyện và có tổ_chức của người lao 
 
-cũng yêu_cầu tăng tiền xăng xe cùng một_số khoản phụ_cấp . Theo ông Phạm 
+động nhằm đạt được yêu_cầu trong quá_trình giải_quyết tranh_chấp lao 
 
-Đức_Cường , Chủ_tịch Liên_đoàn Lao_động huyện Diễn_Châu , lãnh_đạo công 
+động và do tổ_chức đại_diện người lao_động có quyền thương_lượng tập 
 
-ty và chính_quyền đang giải_thích , vận_động để công_nhân hiểu rõ những 
+thể là một bên tranh_chấp lao_động tập_thể tổ_chức và lãnh_đạo . ” 
 
-quy_định . Hiện , các công_nhân đã trở về nhà . 
 
 
+Tức_là cuộc đình_công phải do tổ_chức công_đoàn cầm_đầu để thương_lượng 
 
-" Để không tái_diễn các cuộc đình_công tự_phát , LĐLĐ huyện Diễn_Châu 
+với chủ xí_nghiệp , đòi_hỏi thỏa_mãn các yêu_sách . 
 
-tiếp_tục tổ_chức tuyên_truyền pháp_luật lao_động đến tập_thể người lao 
 
-động và chủ sử_dụng lao_động để đảm_bảo chấp_hành đúng pháp_luật lao 
 
-động . Đồng_thời , phối_hợp với các cơ_quan liên_quan chỉ_đạo người sử 
+Tuy_nhiên lại không nói gì rõ_rệt thế_nào là đình_công bất_hợp_pháp mà 
 
-dụng lao_động tổ_chức đối_thoại định_kỳ theo đúng quy_định của Bộ_luật 
+chỉ liệt_kê sáu trường_hợp bị coi là đình_công bất_hợp_pháp , gồm : 
 
-Lao_động ... " , ông Nguyễn_Đức_Cường cho hay . 
+“ Không thuộc trường_hợp được phép đình_công ; Không do tổ_chức đại_diện 
 
-Hoàng_Trinh 
+người lao_động tổ_chức và lãnh_đạo đình_công ; Vi_phạm trình_tự , thủ_tục 
 
+đình_công ; Khi tranh_chấp lao_động tập_thể về lợi_ích đang được cơ 
 
+quan , tổ_chức , cá_nhân có thẩm_quyền giải_quyết ; Tiến_hành đình_công ở 
 
-Bạn thấy bài viết này thế_nào ? 
+những nơi không được đình_công ; Vẫn đình_công khi đã có quyết_định hoãn 
 
+hoặc ngừng đình_công của chủ_tịch ủy_ban nhân_dân cấp tỉnh . ” 
 
 
-Kém ★ Bình_thường ★ ★ Hứa_hẹn ★ ★ ★ Tốt ★ ★ ★ ★ Rất tốt ★ ★ ★ ★ ★ 
 
+Công_nhân đình_công tại tỉnh Nghệ_An hồi Tháng Hai , 2022 . ( Hình : 
 
+VNExpress ) 
 
-IFRAME : 
 
-https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebo 
 
-ok . com % 2Fbaocongthuong % 2F & tabs = standard & width = 500 & height = 70 & small_heade 
+Vì hệ_thống công_đoàn hiện_nay tại Việt_Nam là tổ_chức ngoại_vi của 
 
-r = true & adapt_container_width = true & hide_cover = false & show_facepile = false & 
+đảng CSVN , do các đảng_viên của đảng cầm_đầu . Họ không hề giúp giới 
 
-appId = 256691024665615 
+công_nhân tranh_đấu cho quyền_lợi của mình mà chỉ làm theo lệnh đảng . 
 
+Cho_nên , tất_cả các cuộc đình_công tại Việt_Nam suốt bao năm qua đều do 
 
+chính_giới công_nhân lao_động tự_động đứng ra tiến_hành nên đều bị gọi 
 
-Tags : 
+là bất_hợp_pháp . 
 
-Nghệ_An miền Trung Công_nhân đình_công Hơn 2.500 công_nhân ngừng_việc 
 
-tập_thể 
+
+Giữa Tháng Hai vừa_qua , tờ Lao_Động kêu_gọi có các biện_pháp trừng_trị 
+
+xứng_đáng cho hàng_loạt các vụ đình_công xảy ra tại nhiều địa_phương 
+
+như Nghệ_An , Hà_Tĩnh , Ninh_Bình , Bắc_Ninh , … . vì sợ “ phản_ứng dây 
+
+chuyền ” dẫn đến nhiều hệ_lụy nguy_hiểm cho chế_độ . ( TN ) [ kn ] 
+
+
+
+Facebook 
+
+Twitter 
+
+Email 
+
+Print 
 
 
 
@@ -498,519 +540,117 @@ Có_thể bạn quan_tâm
 
 
 
-Khu đô_thị ven sông Vinh , Nghệ_An : Gian_nan tìm chủ đầu_tư 
+‘ Loạn sứ quân , ’ 3 ngày rồi mà Cộng_Hòa chưa bầu được chủ_tịch Hạ_Viện 
 
 
 
-Khu đô_thị ven sông Vinh , Nghệ_An : Gian_nan tìm chủ đầu_tư 
+HT Thích Nguyên_Trí bị đòi bồi_thường tổng_cộng $ 4.4 triệu vụ bị tố ‘ sờ_mó ’ 
 
+trẻ_em 
 
 
-Các điểm vui_chơi tại Nghệ_An quá_tải trong dịp nghỉ lễ 30 / 4 và 1 / 5 
 
+6 bộ phim đang ‘ hot ’ trên HBO Max những ngày đầu năm 2023 
 
 
-Các điểm vui_chơi tại Nghệ_An quá_tải trong dịp nghỉ lễ 30 / 4 và 1 / 5 
 
+Bão lớn vùi_dập California , ít_nhất 2 người chết , gồm đứa bé 2 tuổi 
 
 
-Nghệ_An : Chợ biên cửa_khẩu quốc_tế Nậm_Cắn hoạt_động trở_lại 
 
+Hội Các Bà Mẹ Công_Giáo họp đại_hội thường_niên tại Orange_County 
 
 
-Nghệ_An : Chợ biên cửa_khẩu quốc_tế Nậm_Cắn hoạt_động trở_lại 
 
+Thị_trường việc_làm Mỹ năm 2023 nhiều hứa_hẹn 
 
 
-Tin mới nhất 
 
+MỚI CẬP_NHẬT 
 
 
-Bình_Phước : Xe cảnh_sát Phòng cháy chữa_cháy gặp nạn , một Thiếu_úy_tử 
 
-vong 
+HT Thích Nguyên_Trí bị đòi bồi_thường tổng_cộng $ 4.4 triệu vụ bị tố ‘ sờ_mó ’ 
 
+trẻ_em 
 
 
-Bình_Phước : Xe cảnh_sát Phòng cháy chữa_cháy gặp nạn , một Thiếu_úy tử_vong 
 
+January 5 , 2023 
 
 
-Ngày 5 / 1 , một chiếc xe Cảnh_sát Phòng cháy chữa_cháy và cứu nạn cứu_hộ 
 
-ở Bình_Phước đang đi làm nhiệm_vụ thì gặp tai_nạn lật xe , một Thiếu_úy 
+6 bộ phim đang ‘ hot ’ trên HBO Max những ngày đầu năm 2023 
 
-tử_vong . 
 
-Lãng_phí 2.400 tỷ đồng in sách giáo_khoa : 
 
+January 5 , 2023 
 
 
-Lãng_phí 2.400 tỷ đồng in sách giáo_khoa : ' Cải_lùi ' giáo_dục 
 
+Bão lớn vùi_dập California , ít_nhất 2 người chết , gồm đứa bé 2 tuổi 
 
 
-Gần 2.400 tỷ đồng là con_số tạm tính Thanh_tra Chính_phủ chỉ ra_việc 
 
-lãng_phí SGK ' dùng một lần ' và dấu_hiệu ' lợi_ích nhóm ' trong in_ấn , 
+January 5 , 2023 
 
-phát_hành sách bài_tập 
 
-Trao_tặng 200 suất quà cho bệnh_nhân bảo_hiểm y_tế có hoàn_cảnh khó 
 
-khăn 
+Hội Các Bà Mẹ Công_Giáo họp đại_hội thường_niên tại Orange_County 
 
 
 
-Trao_tặng 200 suất quà cho bệnh_nhân bảo_hiểm y_tế có hoàn_cảnh khó_khăn 
+January 5 , 2023 
 
 
 
-Chiều ngày 5 / 1 / 2023 , Bảo_hiểm Xã_hội Việt_Nam đã trao_tặng 200 suất quà 
+IFRAME : 
 
-cho các bệnh_nhân là người tham_gia_bảo_hiểm y_tế có hoàn_cảnh khó 
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.47855420276! 
 
-khăn . 
+2d - 117.96978538448543 ! 3d33 . 74829754113269 ! 2m3 ! 1f0 ! 2f0 ! 3f0 ! 3m2 ! 1i1024 ! 2i 
 
-Việt_Nam cần thử_nghiệm xây_dựng thành_phố thông_minh thu nhỏ 
+768 ! 4f13 . 1 ! 3m3 ! 1m2 ! 1s0x80dd27ca4ba4688b % 3A0x76e416b331b46fb0 ! 2s14771 % 20 
 
+Moran % 20St % 2C % 20Westminster % 2C % 20CA % 2092683 % 2C % 20USA ! 5e0 ! 3m2 ! 1sen ! 2sro ! 
 
+4v1620084710941 ! 5m2 ! 1sen ! 2sro 
 
-Việt_Nam cần thử_nghiệm xây_dựng thành_phố thông_minh thu nhỏ 
 
 
+Contact_Us 
 
-Việt_Nam có nhiều động_lực để phát_triển thành_phố thông_minh trong 
 
-tương_lai tuy_nhiên sẽ có nhiều thách_thức mà chúng_ta cần phải đối_mặt 
 
-và vượt qua . 
+* 714 - 892 - 9414 
 
-Sóc_Trăng có tân Giám_đốc Công_an tỉnh 
 
 
+* 714 - 894 - 1381 
 
-Sóc_Trăng có tân Giám_đốc Công_an tỉnh 
 
 
+* [ email protected ] 
 
-Bộ_trưởng Bộ Công_an điều_động và bổ_nhiệm Đại_tá Bùi Quốc_Khánh - Phó_
+* [ email protected ] 
 
-Cục_trưởng một Cục nghiệp_vụ ( Bộ Công_an ) giữ chức Giám_đốc Công_an 
+* [ email protected ] 
 
-tỉnh Sóc_Trăng . 
 
-[ INS : : INS ] 
 
+* Discussion And Submission_Guidelines 
 
+* Websites And Mobile_Apps 
 
-Tin cùng chuyên_mục 
+* GDPR_Policy 
 
+* Cookies_Policy 
 
+* Privacy_Policy 
 
-Đại_hội Công_đoàn Trường Đại_học Sao Đỏ nhiệm_kỳ 2023 - 2028 
+* Terms Of_Service 
 
 
 
-Đại_hội Công_đoàn Trường Đại_học Sao Đỏ nhiệm_kỳ 2023 - 2028 
-
-
-
-Trường Đại_học Sao Đỏ , Bộ Công_Thương vừa tổ_chức Đại_hội Công_đoàn 
-
-nhiệm_kỳ 2023 - 2028 , hướng tới Đại_hội Công_đoàn Công_Thương Việt_Nam 
-
-lần thứ IV. 
-
-Đoàn kiểm_tra liên_ngành Trung_ương về an_toàn thực_phẩm làm_việc tại 
-
-Tiền_Giang 
-
-
-
-Đoàn kiểm_tra liên_ngành Trung_ương về an_toàn thực_phẩm làm_việc tại Tiền 
-
-Giang 
-
-
-
-Đoàn kiểm_tra liên_ngành Trung_ương kiểm_tra công_tác bảo_đảm an_toàn 
-
-thực_phẩm trong dịp Tết Quý Mão và mùa Lễ_hội Xuân 2023 làm_việc tại 
-
-Tiền_Giang . 
-
-Cập_nhật lịch nghỉ Tết_Nguyên_đán của học_sinh 42 tỉnh_thành 
-
-
-
-Cập_nhật lịch nghỉ Tết_Nguyên_đán của học_sinh 42 tỉnh_thành 
-
-
-
-42 tỉnh_thành trên cả nước công_bố lịch nghỉ Tết_Nguyên_đán cho học 
-
-sinh , trong đó , Bắc_Giang , Hà_Nội , Hải_Phòng là địa_phương có số ngày 
-
-nghỉ ít_nhất . 
-
-Hải_Phòng : Cứu sống bé trai sơ_sinh dị_tật bị bỏ_rơi bên đường 
-
-
-
-Hải_Phòng : Cứu sống bé trai sơ_sinh dị_tật bị bỏ_rơi bên đường 
-
-
-
-Bé trai sơ_sinh bị dị_tật bẩm_sinh , bỏ_rơi ven đường , hơi thở yếu_ớt , 
-
-may_mắn được người đi đường chuyển vào bệnh_viện cấp_cứu , may_mắn đã 
-
-qua cơn nguy_kịch . 
-
-Làng hương Quảng_Phú_Cầu hối_hả vào vụ Tết_Nguyên đán 2023 
-
-
-
-Làng hương Quảng_Phú_Cầu hối_hả vào vụ Tết_Nguyên đán 2023 
-
-
-
-Về làng hương Quảng_Phú_Cầu vào dịp này , không ai không choáng_ngợp bởi 
-
-những sắc đỏ tươi rực_rỡ của ngàn “ đóa hoa ” hương trải khắp đường làng , 
-
-ngõ xóm . 
-
-Xử_phạt 2.244 cơ_sở sản_xuất , kinh_doanh vật_tư nông_nghiệp và nông_lâm 
-
-thủy_sản trong năm 2022 
-
-
-
-Xử_phạt 2.244 cơ_sở sản_xuất , kinh_doanh vật_tư nông_nghiệp và nông_lâm_thủy 
-
-sản trong năm 2022 
-
-
-
-Năm 2022 , ngành nông_nghiệp đã thực_hiện thanh_tra 27.574 cơ_sở_sản 
-
-xuất , kinh_doanh vật_tư nông_nghiệp và nông_lâm_thủy_sản , xử_phạt_hành 
-
-chính 2.244 cơ_sở . 
-
-Vụ bé trai 10 tuổi bị nạn ở Đồng_Tháp : Khẳng_định không đào nhầm vị_trí 
-
-cột bê_tông 
-
-
-
-Vụ bé trai 10 tuổi bị nạn ở Đồng_Tháp : Khẳng_định không đào nhầm vị_trí cột 
-
-bê_tông 
-
-
-
-Ông Đoàn Tấn Bửu_Phó , chủ_tịch UBND tỉnh Đồng_Tháp khẳng_định không có 
-
-chuyện lực_lượng cứu_hộ đào nhầm vị_trí cọc bêtông như mạng xã_hội_lan 
-
-truyền . 
-
-Dự_thảo Luật Khám bệnh , chữa bệnh ( sửa_đổi ) : Cần làm rõ yếu_tố_cấu 
-
-thành giá khám bệnh , chữa bệnh 
-
-
-
-Dự_thảo Luật Khám bệnh , chữa bệnh ( sửa_đổi ) : Cần làm rõ yếu_tố cấu_thành giá 
-
-khám bệnh , chữa bệnh 
-
-
-
-Dự_thảo Luật lần này được chỉnh_lý theo hướng làm rõ các yếu_tố_cấu 
-
-thành giá khám bệnh , chữa bệnh ; các chi_phí để tính giá_thành toàn_bộ 
-
-của dịch_vụ khám bệnh . 
-
-Đại_dịch Covid - 19 : Biến_chủng phụ XBB nhiễm mới tại TP. Hồ_Chí_Minh 
-
-nguy_hiểm như thế_nào ? 
-
-
-
-Đại_dịch Covid - 19 : Biến_chủng phụ XBB nhiễm mới tại TP. Hồ_Chí_Minh nguy_hiểm 
-
-như thế_nào ? 
-
-
-
-TP. Hồ_Chí_Minh vừa ghi_nhận sự xuất_hiện biến_chủng phụ XBB của 
-
-Omicron . Nhiều người đang lo_ngại biến_chủng này có lây_lan nhanh và 
-
-khả_năng chuyển bệnh nặng ? 
-
-Tiết_lộ nguồn thu_nhập khủng của những " TickToker " nổi_tiếng 
-
-
-
-Tiết_lộ nguồn thu_nhập khủng của những " TickToker " nổi_tiếng 
-
-
-
-Với sự phát_triển của nền_tảng mạng xã_hội tiktok , nhiều bạn trẻ đã 
-
-tham_gia sáng_tạo nội_dung đã tạo_dựng được thương_hiệu cá_nhân , đem 
-
-lại nguồn thu_nhập cao . 
-
-Giải_cứu bé gái 3 tuổi sau khi rơi xuống ống cống trước nhà tại Bắc 
-
-Giang 
-
-
-
-Giải_cứu bé gái 3 tuổi sau khi rơi xuống ống cống trước nhà tại Bắc_Giang 
-
-
-
-Bé gái 3 tuổi rơi xuống ống cống trước cửa_nhà và bị nước cuốn trôi tại 
-
-Bắc_Giang . Người dân phải bật nắp cống cách đó khoảng 10 m để tìm_kiếm 
-
-và cứu nạn_nhân . 
-
-Chuyên_gia Đại_học Y Hà_Nội : Hướng_dẫn sơ_cứu người ngộ_độc rượu , bia 
-
-
-
-Chuyên_gia Đại_học Y Hà_Nội : Hướng_dẫn sơ_cứu người ngộ_độc rượu , bia 
-
-
-
-Trước thực_trạng nhiều trường_hợp ngộ_độc rượu , PGS. TS. BS Nguyễn_Quang 
-
-Dũng đã chia_sẻ cách sơ_cứu người ngộ_độc rượu trước khi đưa đến bệnh 
-
-viện . 
-
-Vì_sao người mắc bệnh tiểu_đường nên hạn_chế ăn miến_dong ? 
-
-
-
-Vì_sao người mắc bệnh tiểu_đường nên hạn_chế ăn miến_dong ? 
-
-
-
-Nhiều người có suy_nghĩ miến chứa ít đường , ít năng_lượng nên để giảm 
-
-cân đặc_biệt với người mắc bệnh tiểu_đường đã ăn miến thay cơm , tuy 
-
-nhiên đây là sai_lầm . 
-
-Hàng_loạt thuê_bao MobiFone bất_ngờ mất kết_nối ở Hà_Nội và thành_phố 
-
-Hồ_Chí_Minh 
-
-
-
-Hàng_loạt thuê_bao MobiFone bất_ngờ mất kết_nối ở Hà_Nội và thành_phố Hồ_Chí 
-
-Minh 
-
-
-
-Cuối giờ chiều 4 / 1 , nhiều người dùng điện_thoại_di_động tại Hà_Nội và 
-
-TP. HCM phản_ánh tình_trạng thuê_bao MobiFone bị mất sóng diện rộng chưa 
-
-rõ nguyên_nhân . 
-
-15 Nghị_định mới về Biểu_thuế_nhập_khẩu ưu_đãi đặc_biệt 
-
-
-
-15 Nghị_định mới về Biểu_thuế_nhập_khẩu ưu_đãi đặc_biệt 
-
-
-
-Văn_phòng Chính_phủ ngày 4 / 1 / 2022 cho biết , Chính_phủ đã ban_hành 15 
-
-nghị_định quy_định Biểu_thuế_xuất_khẩu ưu_đãi , Biểu_thuế_nhập_khẩu ưu 
-
-đãi đặc_biệt . 
-
-Bé trai ở Đồng_Tháp rơi xuống ống trụ bê_tông được xác_định đã tử_vong 
-
-
-
-Bé trai ở Đồng_Tháp rơi xuống ống trụ bê_tông được xác_định đã tử_vong 
-
-
-
-Lãnh_đạo tỉnh Đồng_Tháp vừa thông_tin , đến thời_điểm này , cơ_quan_chức 
-
-năng tại hiện_trường xác_định bé trai rơi xuống ống trụ bê_tông đã tử 
-
-vong . 
-
-Quy_định mới về đất khu đô_thị trong Quy_hoạch sử_dụng đất quốc_gia 
-
-
-
-Quy_định mới về đất khu đô_thị trong Quy_hoạch sử_dụng đất quốc_gia 
-
-
-
-Dự_thảo Luật Đất_đai sửa_đổi đang lấy ý_kiến lần 2 đã đưa ra những quy 
-
-định mới về khoanh định đất khu đô_thị trong quy_hoạch , kế_hoạch sử 
-
-dụng đất quốc_gia 
-
-Honda Thanks Day - ấn_tượng biểu_diễn xe đỉnh_cao lần đầu tại đường đua 
-
-F1 Mỹ_Đình 
-
-
-
-Honda Thanks Day - ấn_tượng biểu_diễn xe đỉnh_cao lần đầu tại đường đua F1_Mỹ 
-
-Đình 
-
-
-
-Công_ty Honda Việt_Nam tổ_chức ngày hội Honda Thanks Day vào đầu tháng 
-
-1 / 2023 với màn biểu_diễn xe đỉnh_cao lần đầu tại đường đua F1 Mỹ_Đình , 
-
-tri ân khách_hàng . 
-
-Hà_Nội : Tìm được nam thanh_niên nhảy xuống hồ Thiền Quang_nghi tự_tử 
-
-
-
-Hà_Nội : Tìm được nam thanh_niên nhảy xuống hồ Thiền Quang_nghi tự_tử 
-
-
-
-Một nam thanh_niên đi xe_ôm đến đối_diện số nhà 70 Nguyễn_Du và đi 
-
-thẳng xuống hồ Thiền_Quang ( Hà_Nội ) tự_tử . Người dân xuống cứu nạn_nhân 
-
-nhưng bất_thành . 
-
-Người dân_làng Tây_Tựu ăn ngủ cùng hoa vào dịp cận Tết 
-
-
-
-Người dân_làng Tây_Tựu ăn ngủ cùng hoa vào dịp cận Tết 
-
-
-
-Những ngày giữa tháng Chạp , trên cánh đồng của làng hoa Tây_Tựu ( quận 
-
-Bắc Từ Liêm , Hà_Nội ) , người dân đang tất_bật thu_hoạch và chăm_sóc hoa 
-
-dịp cận Tết . 
-
-Xem thêm 
-
-[ INS : : INS ] 
-
-gas - 22 - 11 
-
-evn - 2022 
-
-[ INS : : INS ] 
-
-[ INS : : INS ] 
-
-
-
-* Báo_Công_Thương điện_tử , kinh_tế , chính_trị , xã_hội 
-
-* Thời_sự 
-
-* Công_Thương 24h 
-
-* Quản_lý thị_trường 
-
-* Thương_mại 
-
-* Công_nghiệp 
-
-* Pháp_luật - Điều_tra 
-
-* Thị_trường 
-
-* Năng_lượng 
-
-* Hội_nhập - Quốc_tế 
-
-* Tiêu_dùng - Khuyến_mại 
-
-* Bạn_đọc 
-
-
-
-? v = 2.620230104170300 
-
-
-
-Tổng_biên_tập : Trương Thu_Hiền 
-
-
-
-Phó_tổng_biên_tập : Nguyễn Văn_Minh ( phụ_trách báo điện_tử ) 
-
-
-
-Phó_tổng_biên_tập : Nguyễn_Tiến_Cường 
-
-
-
-Phó_tổng_biên_tập : Đặng_Thái_Anh 
-
-
-
-® Giấy_phép hoạt_động Báo điện_tử_số 456 / GP - BTTTT do Bộ Thông_tin và 
-
-Truyền_thông cấp ngày 18 / 11 / 2013 
-
-
-
-Tòa_soạn : Tầng 10 - 11 , Tòa nhà Bộ Công_Thương_số 655 Phạm Văn Đồng , Bắc 
-
-Từ Liêm , Hà_Nội . 
-
-
-
-Hotline : 0866.59.4498 
-
-
-
-Tel : 0243.936.6400 - Fax : 0243.936.6402 
-
-
-
-Email : [ email protected ] 
-
-
-
-Bản_quyền thuộc về Báo_Công_Thương , chỉ được dẫn nguồn 
-
-khi có thỏa_thuận bằng văn_bản . 
-
-Theo_dõi Congthuong . vn trên 
-
-Based on MasterCMS Ultimate Edition 2022 v2 . 9 
-
-
-
-Mobile Verion Phiên_bản di_động [ INS : : INS ] 
+© Copyright - Nguoi Viet_Daily_News 
 

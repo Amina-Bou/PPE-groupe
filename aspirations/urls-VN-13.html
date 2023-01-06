@@ -1,98 +1,886 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
-<html xmlns="http://www.w3.org/1999/xhtml"> 
-<head> 
-<title>IIS 10.0 Detailed Error - 403.0 - Forbidden: Access is denied.</title> 
-<style type="text/css"> 
-<!-- 
-body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;} 
-code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
-.config_source code{font-size:.8em;color:#000000;} 
-pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
-ul,ol{margin:10px 0 10px 5px;} 
-ul.first,ol.first{margin-top:5px;} 
-fieldset{padding:0 15px 10px 15px;word-break:break-all;} 
-.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
-legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
-legend{color:#333333;;margin:4px 0 8px -12px;_margin-top:0px; 
-font-weight:bold;font-size:1em;} 
-a:link,a:visited{color:#007EFF;font-weight:bold;} 
-a:hover{text-decoration:none;} 
-h1{font-size:2.4em;margin:0;color:#FFF;} 
-h2{font-size:1.7em;margin:0;color:#CC0000;} 
-h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
-h4{font-size:1.2em;margin:10px 0 5px 0; 
-}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
- color:#FFF;background-color:#5C87B2; 
-}#content{margin:0 0 0 2%;position:relative;} 
-.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
-.content-container p{margin:0 0 10px 0; 
-}#details-left{width:35%;float:left;margin-right:2%; 
-}#details-right{width:63%;float:left;overflow:hidden; 
-}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
- background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
- font-size:1em;color:#FFF;text-align:right; 
-}#server_version p{margin:5px 0;} 
-table{margin:4px 0 4px 0;width:100%;border:none;} 
-td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:normal;border:none;} 
-th{width:30%;text-align:right;padding-right:2%;font-weight:bold;} 
-thead th{background-color:#ebebeb;width:25%; 
-}#details-right th{width:20%;} 
-table tr.alt td,table tr.alt th{} 
-.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
-.clear{clear:both;} 
-.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
---> 
-</style> 
- 
-</head> 
-<body> 
-<div id="content"> 
-<div class="content-container"> 
-  <h3>HTTP Error 403.0 - Forbidden: Access is denied.</h3> 
-  <h4>You do not have permission to view this directory or page using the credentials that you supplied.</h4> 
-</div> 
-<div class="content-container"> 
- <fieldset><h4>Most likely causes:</h4> 
-  <ul> 	<li>This is a generic 403 error and means the authenticated user is not authorized to view the page.</li> </ul> 
- </fieldset> 
-</div> 
-<div class="content-container"> 
- <fieldset><h4>Things you can try:</h4> 
-  <ul> 	<li>Create a tracing rule to track failed requests for this HTTP status code. For more information about creating a tracing rule for failed requests, click <a href="http://go.microsoft.com/fwlink/?LinkID=66439">here</a>. </li> </ul> 
- </fieldset> 
-</div> 
- 
-<div class="content-container"> 
- <fieldset><h4>Detailed Error Information:</h4> 
-  <div id="details-left"> 
-   <table border="0" cellpadding="0" cellspacing="0"> 
-    <tr class="alt"><th>Module</th><td>&nbsp;&nbsp;&nbsp;RewriteModule</td></tr> 
-    <tr><th>Notification</th><td>&nbsp;&nbsp;&nbsp;BeginRequest</td></tr> 
-    <tr class="alt"><th>Handler</th><td>&nbsp;&nbsp;&nbsp;ExtensionlessUrlHandler-Integrated-4.0</td></tr> 
-    <tr><th>Error Code</th><td>&nbsp;&nbsp;&nbsp;0x00000000</td></tr> 
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="vi-vn">
+<!--<![endif]-->
+<head>
+    <title>Một số giải ph&#225;p về ph&#242;ng ngừa, giải quyết đ&#236;nh c&#244;ng của c&#244;ng nh&#226;n, lao động ở Nghệ An trong thời gian tới</title>
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<meta charset="utf-8" />
+<meta http-equiv="content-type" content="text/html" />
+<meta http-equiv="content-language" content="vi-vn" />
+<meta http-equiv="audience" content="General" />
+<meta name="distribution" content="global" />
+<meta name="revisit-after" content="1 days" />
+<meta name="generator" content="EzCMS" />
+<meta name="url" property="og:url" content="https://nghean.dcs.vn/vi-vn/tin/mot-so-giai-phap-ve-phong-ngua--giai-quyet-dinh-cong-cua-cong-nhan--lao-dong-o-nghe-an-trong-thoi-gian-toi/783534-16570-281600" />
+<meta name="description" property="og:description" content="Hiện nay, tr&#234;n địa b&#224;n tỉnh Nghệ An c&#243; khoảng 13.500 doanh nghiệp đang hoạt động sản xuất kinh doanh, với hơn 230.000 lao động." />
+<meta name="site" property="og:site_name" content="Đảng bộ Tỉnh Nghệ An" />
+<meta property="og:title" content="Một số giải ph&#225;p về ph&#242;ng ngừa, giải quyết đ&#236;nh c&#244;ng của c&#244;ng nh&#226;n, lao động ở Nghệ An trong thời gian tới" />
+<meta name="resource-type" property="og:type" content="article" />
+<meta name="author" property="article:author" content="Đảng bộ Tỉnh Nghệ An" />
+<meta property="article:published_time" content="2022-03-02T15:15" />
+<meta property="article:tag" content="Một số giải ph&#225;p về ph&#242;ng ngừa, giải quyết đ&#236;nh c&#244;ng của c&#244;ng nh&#226;n, lao động ở Nghệ An trong thời gian tới,tinh uy, dang bo, nghe an, dang bo tinh nghe an, tinh uy nghe an, nghean.dcs.vn" />
+<meta name="image" property="og:image" content="http://nghean.dcs.vn/caches/news/50a/5723ac5e_320.jpg" />
+<meta name="keywords" property="og:keywords" content="Một số giải ph&#225;p về ph&#242;ng ngừa, giải quyết đ&#236;nh c&#244;ng của c&#244;ng nh&#226;n, lao động ở Nghệ An trong thời gian tới,tinh uy, dang bo, nghe an, dang bo tinh nghe an, tinh uy nghe an, nghean.dcs.vn" />
+<meta name="copyright" content="Đảng bộ Tỉnh Nghệ An" />
+
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" />
+    
+    
+    <link href="/css?v=-ovm6QUU-8e9FcVuwXglJrD9w3P0k-Oj0bHRGp2nZbc1" rel="stylesheet"/>
+
+    <link href="/assets/css/nghean.dcs.vn.min.css" rel="stylesheet" />
+    <script src="/js/jquery?v=m1j14lutSHd_nW4cHzbF3DRX1fpNiosTUpCOzF2Aze81"></script>
+
+    
+    
+    <style type="text/css">
+        body{
+            overflow-x:hidden
+        }
+    </style>
+</head>
+<body class="_max-1366" style="font-family: Open Sans">
+    <div class="container-fluid" style="padding:0px">
+            <div class="pre-header ">
+    <img alt="Banner Ban d&#226;n vận tỉnh ủy sub-site-1" src="/caches/adv/173/eb6ef06d.gif"/>
+
+            </div>
+
+
+        
+<div class="header">
+    <div class="container">
+        <a class="site-logo hidden-lg hidden-md" style="margin-top:9px" href="/vi-vn"><i class="fa fa-home" style="font-size:40px"></i></a>
+        <a href="javascript:;" class="mobi-toggler"><i class="fa fa-bars"></i></a>
+        <div class="header-navigation font-transform-inherit">
+            <ul>
+                <li class='hidden-xs'><a href='/vi-vn' style='padding-bottom:4px;'><i class="fa fa-home fa-2x" style="font-size:20px"></i></a></li><li class=''><a class='dropdown-toggle' href='/vi-vn/trang/ban-dan-van-tinh-uy/783534'>Ban Dân vận Tỉnh ủy <i class='fa fa-angle-down'></i></a><ul class='dropdown-menu'><li><a href='/vi-vn/trang/tong-quan/72156'>Tổng quan</a></li><li><a href='/vi-vn/trang/tin-tuc-su-kien/506432'>Tin tức sự kiện</a></li><li><a href='/vi-vn/trang/hoat-dong-cua-lanh-dao-tinh/6907'>Hoạt động của lãnh đạo tỉnh</a></li><li><a href='/vi-vn/trang/hoat-dong-cua-cap-uy/735827'>Hoạt động của cấp ủy</a></li><li><a href='/vi-vn/trang/van-kien-tu-lieu/180415'>Văn kiện tư liệu</a></li><li><a href='/vi-vn/trang/dieu-hanh-tac-nghiep/277354'>Điều hành tác nghiệp</a></li><li><a href='/vi-vn/trang/hoc-tap-va-lam-theo-tu-tuong--dao-duc--phong-cach-ho-chi-minh/73410'>Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh</a></li></ul></li><li class=''><a href='/vi-vn/chuyen-muc/gioi-thieu/783534-500841'>Giới thiệu</a></li><li class=''><a href='/vi-vn/chuyen-muc/tin-tuc/783534-328521'>Tin tức</a></li><li class=''><a href='/vi-vn/chuyen-muc/thong-tin-dieu-hanh--tuyen-truyen--van-dong/783534-897415'>Thông tin điều hành, tuyên truyền, vận động</a></li><li class='active'><a href='/vi-vn/chuyen-muc/nghien-cuu-trao-doi/783534-16570'>Nghiên cứu trao đổi</a></li><li class=''><a href='/vi-vn/chuyen-muc/chuyen-mon-nghiep-vu/783534-994957'>Chuyên môn nghiệp vụ</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        
+    </div>
+    <div class="container-fluid body" style="padding-top:0px">
+            <div class="row hidden-xs" style="padding-top: 10px;">
+                <div class="col-md-2">
+                    <div id="clock"><span class="date"></span><p /><span class="time"></span></div>
+                </div>
+                <div class="col-md-7">
+                    <div class="hoz-scroll">
+                        <span>XÂY DỰNG ĐẢNG BỘ VÀ HỆ THỐNG CHÍNH TRỊ TRONG SẠCH, VỮNG MẠNH; PHÁT HUY TRUYỀN THỐNG LỊCH SỬ, VĂN HÓA CON NGƯỜI XỨ NGHỆ, Ý CHÍ TỰ CƯỜNG VÀ KHÁT VỌNG VƯƠN LÊN; CHỦ ĐỘNG ĐỔI MỚI SÁNG TẠO, ĐƯA NGHỆ AN PHÁT TRIỂN NHANH VÀ BỀN VỮNG; ĐẢM BẢO VỮNG CHẮC QUỐC PHÒNG, AN NINH</span>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="gallery-item hidden-xs hidden-sm">
+    <div class="search-box">
+        <div class="input-group">
+            <input type="text" id="txtKeyword" placeholder="T&#236;m kiếm" class="form-control keywords" />
+            <span class="input-group-btn">
+                <input type="hidden" id="search" value="/vi-vn/tim/ket-qua/" />
+                <button class="btn btn-primary" type="button" onclick="search($('#txtKeyword').val());"><i class="fa fa-search"></i></button>
+            </span>
+        </div>
+    </div>
+</div>
+<script>
+    $(".search-box input.keywords").keyup(function (e) {
+        if (e.keyCode == 13) {
+            search($('#txtKeyword').val());
+        }
+    });
+</script>
+
+                </div>
+            </div>
+        
+        
+        <div class="col-md-9" style="padding-left:7px; padding-right:8px;">
+            
+
+<link href="/assets/css/galleria.classic.min.css" rel="stylesheet" />
+<script src="/assets/js/galleria.min.js"></script>
+    <div class="col-md-2 hidden-sm hidden-xs sticky">
+        <p class="text-center hidden">
+            <img src="/assets/img/favicon.ico" style="width:30px;" />
+        </p>
+        <p class="text-center" style="border-bottom:1px solid #666; padding:0px 0px 10px">
+            <b>nghean.dcs.vn</b><br />
+            <span class="moment-item-time" data-moment="1646208935000"></span>
+        </p>
+
+        <p class="text-center">
+            <style>
+    .fb-like span:first-child {
+        vertical-align: initial !important;
+    }
+</style>
+
+<div class="fb-like" data-href="https://nghean.dcs.vn/vi-vn/tin/mot-so-giai-phap-ve-phong-ngua--giai-quyet-dinh-cong-cua-cong-nhan--lao-dong-o-nghe-an-trong-thoi-gian-toi/783534-16570-281600" data-layout="button" data-action="like" data-show-faces="false" data-share="true"></div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
+<script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
+
+        </p>
+        
+
+    </div>
+<div class="col-md-10 sticky">
+    <h3 style="font-weight: bold; margin-top: 0px">Một số giải ph&#225;p về ph&#242;ng ngừa, giải quyết đ&#236;nh c&#244;ng của c&#244;ng nh&#226;n, lao động ở Nghệ An trong thời gian tới</h3>
+    
+    <div class="row">
+        <div class="col-md-6 blog-tag-data-inner pull-right text-right">
+            <ul class="list-inline" style="margin-left:0px">
+                <li>
+                    <span class="moment-item-time" data-moment="1646208935000"></span>
+                </li>
+            </ul>
+        </div>
+        <div class="col-md-6 text-right  blog-tag-data-inner hidden-lg hidden-md">
+            <div class="text-right pull-right">
+                <style>
+    .fb-like span:first-child {
+        vertical-align: initial !important;
+    }
+</style>
+
+<div class="fb-like" data-href="https://nghean.dcs.vn/vi-vn/tin/mot-so-giai-phap-ve-phong-ngua--giai-quyet-dinh-cong-cua-cong-nhan--lao-dong-o-nghe-an-trong-thoi-gian-toi/783534-16570-281600" data-layout="button" data-action="like" data-show-faces="false" data-share="true"></div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
+<script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
+
+            </div>
+            <ul class="list-inline pull-right" style="padding-right:15px">
+                <li>
+                    <i class="fa fa-user"></i>
+                    <a href="javascript:;"> <b>nghean.dcs.vn</b></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="bold" style="font-size: 1.5rem; line-height: 24px; font-family: 'Open Sans'">
+        Hiện nay, tr&#234;n địa b&#224;n tỉnh Nghệ An c&#243; khoảng 13.500 doanh nghiệp đang hoạt động sản xuất kinh doanh, với hơn 230.000 lao động.
+    </div>
+    
+    <div class="news-page blog-page"
+         style="overflow: hidden; line-height: 24px; font-family: 'Open Sans'">
+        <p style="text-align: justify;"><span style="font-size:14px">Trong đ&oacute; c&oacute; 63 doanh nghiệp nh&agrave; nước, với hơn 23.000 lao động, 56 doanh nghiệp c&oacute; vốn đầu tư nước ngo&agrave;i (FDI), với hơn 39.000 lao động, c&oacute; khoảng 13.000 doanh nghiệp ngo&agrave;i nh&agrave; nước, với gần 170.000 lao động. C&oacute; 17 doanh nghiệp hoạt động trong ng&agrave;nh nghề may mặc, d&agrave;y da, với 30.846 lao động. Mức lương b&igrave;nh qu&acirc;n c&aacute;c doanh nghiệp trả cho người lao động l&agrave; 6 triệu/người/1 th&aacute;ng. Trong đ&oacute; doanh nghiệp nh&agrave; nước, b&igrave;nh qu&acirc;n 6,3 triệu đồng/người/1 th&aacute;ng; doanh nghiệp c&oacute; vốn đầu tư nước ngo&agrave;i (FDI) l&agrave; 6,1 triệu đồng/người/1 th&aacute;ng; doanh nghiệp ngo&agrave;i nh&agrave; nước l&agrave; 5,5 triệu đồng/người/1 th&aacute;ng.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px">Vừa qua, tr&ecirc;n địa b&agrave;n tỉnh Nghệ An xảy ra ba vụ việc đ&igrave;nh c&ocirc;ng của c&ocirc;ng nh&acirc;n, lao động. Cụ thể: Ng&agrave;y 07-14/2/2022, đ&igrave;nh c&ocirc;ng tại C&ocirc;ng ty TNHH Viet Glory, sản xuất d&agrave;y da xuất khẩu (địa chỉ tại X&oacute;m 8, x&atilde; Diễn Trường, huyện Diễn Ch&acirc;u) của gần 5.000 lao động tham gia; đ&acirc;y l&agrave; c&ocirc;ng ty vốn đầu tư nước ngo&agrave;i (Trung Quốc). Ng&agrave;y 15/2/2022, xảy ra tiếp 2 vụ đ&igrave;nh c&ocirc;ng: Tại C&ocirc;ng ty TNHH Em-Tech Việt Nam, sản xuất linh kiện điện tử (địa chỉ tại phường Vinh T&acirc;n, th&agrave;nh phố Vinh) của gần 600 người lao động tham gia; đ&acirc;y l&agrave; c&ocirc;ng ty vốn đầu tư nước ngo&agrave;i (H&agrave;n Quốc) v&agrave; tại C&ocirc;ng ty cổ phần Nam Thuận Nghệ An, may mặc xuất khẩu (địa chỉ tại X&oacute;m 10, x&atilde; Diễn Mỹ, huyện Diễn Ch&acirc;u) của gần 250 người lao động tham gia; đ&acirc;y l&agrave; c&ocirc;ng ty do người Việt Nam l&agrave;m chủ.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px">C&aacute;c kiến nghị của c&ocirc;ng nh&acirc;n, người lao động tập trung v&agrave;o c&aacute;c vấn đề sau: C&ocirc;ng nh&acirc;n đ&ograve;i tăng lương cơ bản; (2) Y&ecirc;u cầu bổ sung phụ cấp th&acirc;m ni&ecirc;n; (3) Đề nghị tăng c&aacute;c khoản như tiền ăn, tiền xăng... (4) Về th&aacute;i độ của một số quản l&yacute; người nước ngo&agrave;i đ&ocirc;i khi c&oacute; lời n&oacute;i chưa chuẩn mực, c&ograve;n chửi bới, văng tục với c&ocirc;ng nh&acirc;n; (5)Y&ecirc;u cầu bảng lương cần ghi chi tiết r&otilde; r&agrave;ng từng khoản v&agrave; số tiền, kh&ocirc;ng được gộp chung c&aacute;c khoản kh&aacute;c, cần ghi r&otilde; từng mục được nhận trong th&aacute;ng; (6) Lương th&aacute;ng 13: Y&ecirc;u cầu C&ocirc;ng ty trả đầy đủ tiền lương th&aacute;ng 13 m&agrave; kh&ocirc;ng trừ theo tỷ lệ so với thời gian v&agrave;o l&agrave;m việc; (7) Đề nghị được test covid-19 mỗi tuần 1 lần, thủ tục thanh to&aacute;n chế độ BHYT, BHXH cho số c&ocirc;ng nh&acirc;n l&agrave; Fo tại điều trị tại nh&agrave; chưa r&otilde; r&agrave;ng; v&agrave; một số kiến nghị li&ecirc;n quan kh&aacute;c.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px">&nbsp;Qua cập nhật, nắm bắt th&ocirc;ng tin th&igrave; việc đ&igrave;nh c&ocirc;ng tại 3 c&ocirc;ng ty kh&ocirc;ng c&oacute; yếu tố t&aacute;c động từ c&aacute;c thế lực th&ugrave; địch.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Nguy&ecirc;n nh&acirc;n diễn ra đ&igrave;nh c&ocirc;ng chủ yếu như sau:</em> (1) Do c&oacute; sự so s&aacute;nh thu nhập, lương giữa c&ocirc;ng ty n&agrave;y với c&ocirc;ng ty kh&aacute;c, giữa lao động đi l&agrave;m việc ở miền Nam về th&igrave; nhận 7-8 triệu đồng/người/th&aacute;ng, nhưng ở Nghệ An chỉ được 3,8-3,9 triệu đồng/người/th&aacute;ng l&agrave; thấp qu&aacute; n&ecirc;n họ đề nghị tăng lương. (2) Do thời gian gần đ&acirc;y số c&ocirc;ng ty may mặc, d&agrave;y da... tăng nhanh, lại tập trung chủ yếu ở c&aacute;c huyện gần nhau như Diễn Ch&acirc;u, Y&ecirc;n Th&agrave;nh, Đ&ocirc; Lương... n&ecirc;n thiếu lao động, nhất l&agrave; lao động c&oacute; tay nghề, n&ecirc;n mới k&eacute;o c&ocirc;ng nh&acirc;n từ nh&agrave; m&aacute;y n&agrave;y sang nh&agrave; m&aacute;y kh&aacute;c, do đ&oacute; c&oacute; th&ocirc;ng tin nếu về l&agrave;m việc tại c&ocirc;ng ty mới sẽ c&oacute; thu nhập cao hơn v&agrave; quyền lợi của c&ocirc;ng nh&acirc;n được đảm bảo hơn, do đ&oacute; nếu c&ocirc;ng ty cũ kh&ocirc;ng đ&aacute;p ứng được tăng lương th&igrave; c&ocirc;ng nh&acirc;n sẽ chuyển sang c&ocirc;ng ty kh&aacute;c. (3) C&aacute;c chủ doanh nghiệp khi nghe đề xuất, kiến nghị của c&ocirc;ng đo&agrave;n th&igrave; kh&ocirc;ng giải quyết kịp thời, do đ&oacute; c&ocirc;ng nh&acirc;n tập hợp th&agrave;nh tập thể để đ&ograve;i quyền lợi, l&uacute;c đ&oacute; &ocirc;ng chủ mới giải quyết th&igrave; đ&igrave;nh c&ocirc;ng đ&atilde; xảy ra rồi. (4) Sự thấu hiểu, chia sẻ gần gũi, ứng xử của một số người nước ngo&agrave;i, một số tổ trưởng, quản đốc ph&acirc;n xưởng đối với c&ocirc;ng nh&acirc;n c&ograve;n c&oacute; hiện tượng ph&acirc;n biệt đối xử, n&oacute;i năng thiếu chuẩn mực, g&acirc;y bức x&uacute;c cho c&ocirc;ng nh&acirc;n trực tiếp lao động. (5) Hiện nay trong thời đại c&ocirc;ng nghệ 4.0 th&ocirc;ng tin lan truyền rất nhanh, do đ&oacute; c&ocirc;ng ty n&agrave;y c&ocirc;ng nh&acirc;n đ&igrave;nh c&ocirc;ng đ&ograve;i tăng lương được th&igrave; c&ocirc;ng nh&acirc;n tại c&ocirc;ng ty kh&aacute;c cũng đ&ograve;i để đảm bảo quyền lợi v&agrave; do ảnh hưởng của dịch Covid-19 li&ecirc;n quan đến việc c&ocirc;ng nh&acirc;n y&ecirc;u cầu x&eacute;t nghiệm v&agrave; giải quyết chế độ cho số c&ocirc;ng nh&acirc;n bị Fo, F1 chưa kịp thời.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px">Kết quả đến nay, cơ bản c&aacute;c kiến nghị của tập thể người lao động đ&atilde; được giải quyết. T&igrave;nh h&igrave;nh tại 3 c&ocirc;ng ty đ&atilde; ổn định, c&ocirc;ng nh&acirc;n trở lại l&agrave;m việc b&igrave;nh thường.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Một số kinh nghiệm bước đầu trong</em> <em>c&ocirc;ng t&aacute;c chỉ đạo giải quyết đ&igrave;nh c&ocirc;ng:</em></span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Một l&agrave;, Ban D&acirc;n vận Tỉnh ủy v&agrave;o cuộc kịp thời v&agrave; s&acirc;u s&aacute;t địa b&agrave;n,</em> ngay sau khi nhận được th&ocirc;ng tin c&aacute;c cuộc đ&igrave;nh c&ocirc;ng, Ban D&acirc;n vận Tỉnh ủy đ&atilde; kịp thời chỉ đạo c&aacute;c địa phương xảy ra đ&igrave;nh c&ocirc;ng&nbsp; của c&ocirc;ng nh&acirc;n như Ban D&acirc;n vận Huyện ủy Diễn Ch&acirc;u, Ban D&acirc;n vận Th&agrave;nh ủy Vinh trực tiếp xuống hiện trường để nắm t&igrave;nh h&igrave;nh. Đồng thời phối hợp với Li&ecirc;n đo&agrave;n lao động tỉnh xuống trực tiếp địa b&agrave;n c&aacute;c doanh nghiệp xảy ra đ&igrave;nh c&ocirc;ng để l&agrave;m việc với chủ doanh nghiệp v&agrave; đối thoại trực tiếp với c&ocirc;ng nh&acirc;n. Đo&agrave;n c&ocirc;ng t&aacute;c Ban D&acirc;n vận Tỉnh uỷ do đồng ch&iacute; Ph&oacute; Trưởng ban Thường trực l&agrave;m trưởng đo&agrave;n c&ugrave;ng với l&atilde;nh đạo Li&ecirc;n đo&agrave;n lao động tỉnh, l&atilde;nh đạo huyện Diễn Ch&acirc;u, x&atilde; Diễn Trường trực tiếp về tại C&ocirc;ng ty TNHH Viet Glory, sản xuất d&agrave;y da xuất khẩu, nơi c&oacute; gần 5.000 c&ocirc;ng nh&acirc;n đ&igrave;nh c&ocirc;ng để gặp gỡ c&ocirc;ng nh&acirc;n, l&agrave;m việc với l&atilde;nh đạo c&ocirc;ng ty t&igrave;m hiểu nguy&ecirc;n nh&acirc;n xảy ra đ&igrave;nh c&ocirc;ng v&agrave; chỉ đạo giải quyết để ổn định t&igrave;nh h&igrave;nh.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Hai l&agrave;, Li&ecirc;n đo&agrave;n lao động tỉnh đ&atilde; trực tiếp về l&agrave;m việc với ban gi&aacute;m đốc c&aacute;c c&ocirc;ng ty, trực tiếp đối thoại với người lao động </em>để vận động c&ocirc;ng nh&acirc;n quay trở lại l&agrave;m việc, thương lượng với chủ doanh nghiệp bảo vệ quyền lợi của c&ocirc;ng nh&acirc;n, lao động v&agrave; quyền lợi của doanh nghiệp.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Ba l&agrave;, cấp ủy chỉ đạo giải quyết kịp thời việc đ&igrave;nh c&ocirc;ng, c&aacute;c đồng ch&iacute; Thường trực cấp ủy cấp tỉnh, cấp huyện thường xuy&ecirc;n chỉ đạo để giải quyết, ổn định t&igrave;nh h&igrave;nh,&nbsp; </em>ng&agrave;y 18/2/2022, Thường trực Tỉnh ủy đ&atilde; tổ chức họp nghe t&igrave;nh h&igrave;nh đ&igrave;nh c&ocirc;ng, r&uacute;t ra b&agrave;i học kinh nghiệm v&agrave; c&oacute; &yacute; kiến để chỉ đạo c&aacute;c sở, ban, ng&agrave;nh li&ecirc;n quan phối hợp tham mưu ổn định t&igrave;nh h&igrave;nh, kh&ocirc;ng để đ&igrave;nh c&ocirc;ng tiếp tục xảy ra.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Bốn l&agrave;, UBND tỉnh chỉ đạo c&aacute;c sở, ban, ng&agrave;nh cấp tỉnh</em>, nhất l&agrave; Sở Lao động, thương binh v&agrave; X&atilde; hội, L&atilde;nh đạo UBND cấp huyện trực tiếp về c&aacute;c doanh nghiệp xảy ra đ&igrave;nh c&ocirc;ng để nắm v&agrave; ổn định t&igrave;nh h&igrave;nh.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Năm l&agrave;, sau khi t&igrave;nh h&igrave;nh đ&igrave;nh c&ocirc;ng đ&atilde; cơ bản giải quyết ổn định th&igrave; phải&nbsp; c&oacute; giải ph&aacute;p nắm t&igrave;nh h&igrave;nh c&ocirc;ng nh&acirc;n tại c&aacute;c địa b&agrave;n kh&aacute;c tr&ecirc;n to&agrave;n tỉnh để hạn chế đ&igrave;nh c&ocirc;ng lan rộng,</em>&nbsp; ngay sau t&igrave;nh h&igrave;nh đ&igrave;nh c&ocirc;ng tại 03 c&ocirc;ng ty ổn định, ng&agrave;y 18/2/2022, Ban D&acirc;n vận Tỉnh ủy đ&atilde; c&oacute; C&ocirc;ng văn số 477-CV/BDVTU &ldquo;Về nắm t&igrave;nh t&igrave;nh c&ocirc;ng nh&acirc;n, hạn chế đ&igrave;nh c&ocirc;ng trong c&aacute;c doanh nghiệp&rdquo;, gửi Ban D&acirc;n vận 21/21 huyện, th&agrave;nh, thị để tham mưu cho cấp ủy, phối hợp với c&aacute;c cơ quan li&ecirc;n quan tr&ecirc;n địa b&agrave;n để nắm t&igrave;nh h&igrave;nh c&ocirc;ng nh&acirc;n, người lao động c&aacute;c doanh nghiệp tr&ecirc;n địa b&agrave;n kh&ocirc;ng để đ&igrave;nh c&ocirc;ng lan rộng tr&ecirc;n địa b&agrave;n tỉnh.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Một số giải ph&aacute;p ngăn ngừa đ&igrave;nh c&ocirc;ng trong thời gian tới: </em></span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px">Nhận định t&igrave;nh h&igrave;nh trong thời gian tới, sau khi c&aacute;c y&ecirc;u cầu của tập thể lao động tại 3 c&ocirc;ng ty được giải quyết, c&oacute; thể sẽ ph&aacute;t sinh th&ecirc;m tại c&aacute;c doanh nghiệp kh&aacute;c, nhất l&agrave; doanh nghiệp c&oacute; vốn đầu tư nước ngo&agrave;i, doanh nghiệp sử dụng nhiều lao động, doanh nghiệp ng&agrave;nh may mặc, điện tử do mặt bằng tiền lương v&agrave; c&aacute;c khoản trợ cấp, phụ cấp, chế độ sinh hoạt, ph&uacute;c lợi của c&aacute;c doanh nghiệp kh&ocirc;ng đồng đều, nơi cao nơi thấp (mặc d&ugrave; đ&atilde; thực hiện đ&uacute;ng theo quy định của ph&aacute;p luật lao động).</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px">Mục ti&ecirc;u trong thời gian tới l&agrave; để l&agrave;m sao bảo đảm vừa thu h&uacute;t đầu tư, vừa đảm bảo quyền lợi cho c&ocirc;ng nh&acirc;n lao động, giữ ch&acirc;n người lao động l&agrave;m việc tại c&aacute;c doanh nghiệp v&agrave; hạn chế thấp nhất việc đ&igrave;nh c&ocirc;ng, ngừng việc tập thể trong c&aacute;c doanh nghiệp tr&ecirc;n địa b&agrave;n. Để l&agrave;m tốt việc n&agrave;y, Ban D&acirc;n vận Tỉnh ủy đề nghị c&aacute;c giải ph&aacute;p như sau:</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Một l&agrave;,</em> Th&agrave;nh lập đo&agrave;n c&ocirc;ng t&aacute;c của tỉnh, gồm đại diện Li&ecirc;n đo&agrave;n lao động Tỉnh, Sở Lao động, thương binh v&agrave; X&atilde; hội, Ban quản l&yacute; Khu kinh tế Đ&ocirc;ng Nam tỉnh v&agrave; một số ng&agrave;nh, địa phương li&ecirc;n quan đến trực tiếp l&agrave;m việc với c&aacute;c doanh nghiệp c&oacute; vốn đầu tư nước ngo&agrave;i, doanh nghiệp c&oacute; số lao động lớn để r&agrave; so&aacute;t lại c&aacute;c thỏa ước lao động tập thể, điều lệ, quy chế c&ocirc;ng ty xem c&aacute;i g&igrave; bất cập, c&ograve;n thiếu cần phải bổ sung để đảm bảo đ&uacute;ng ph&aacute;p luật, nhất l&agrave; c&aacute;c chế độ, ch&iacute;nh s&aacute;ch của người lao động, th&ocirc;ng qua đ&oacute; để kiến nghị l&atilde;nh đạo c&ocirc;ng ty bổ sung, sửa đổi cho ph&ugrave; hợp, kịp thời (kể cả thang, bảng lương), để ph&ograve;ng ngừa đ&igrave;nh c&ocirc;ng.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Hai l&agrave;,</em> c&aacute;c cơ quan b&aacute;o ch&iacute; tỉnh triển khai đợt tuy&ecirc;n truyền về quyền lợi, nghĩa vụ, tr&aacute;ch nhiệm của người lao động v&agrave; tr&aacute;ch nhiệm của chủ sử dụng lao động để tạo đồng thuận x&atilde; hội, tạo m&ocirc;i trường thu h&uacute;t đầu tư (kể cả tuy&ecirc;n truyền tr&ecirc;n mạng x&atilde; hội).</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Ba l&agrave;,</em> C&ocirc;ng an tỉnh c&oacute; văn bản chỉ đạo c&ocirc;ng an c&aacute;c huyện, th&agrave;nh, thị quan t&acirc;m, nắm bắt t&igrave;nh h&igrave;nh an ninh trật tự tại c&aacute;c c&ocirc;ng ty, doanh nghiệp tr&ecirc;n địa b&agrave;n, nhất l&agrave; doanh nghiệp c&oacute; vốn đầu tư nước ngo&agrave;i để tạo kh&ocirc;ng kh&iacute; y&ecirc;n t&acirc;m của c&aacute;c chủ doanh nghiệp.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Bốn l&agrave;,</em> Li&ecirc;n đo&agrave;n lao động tỉnh chỉ đạo tổ chức c&ocirc;ng đo&agrave;n c&aacute;c huyện, th&agrave;nh, thị, c&ocirc;ng đo&agrave;n Khu kinh tế Đ&ocirc;ng Nam, nhất l&agrave; c&ocirc;ng đo&agrave;n cơ sở tại c&aacute;c doanh nghiệp c&oacute; vốn đầu tư nước ngo&agrave;i tr&ecirc;n địa b&agrave;n phải chủ động nắm t&acirc;m tư, nguyện vọng ch&iacute;nh đ&aacute;ng, hợp ph&aacute;p của c&ocirc;ng nh&acirc;n, người lao động. Từ đ&oacute;, chủ động đề xuất với c&aacute;c chủ doanh nghiệp kịp thời giải quyết.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:14px"><em>Năm l&agrave;,</em> giải ph&aacute;p về l&acirc;u d&agrave;i, đề nghị Li&ecirc;n đo&agrave;n lao động tỉnh chủ tr&igrave; tham mưu Ban Thường vụ Tỉnh ủy x&acirc;y dựng đề &aacute;n về một số giải ph&aacute;p ph&ograve;ng ngừa, hạn chế đ&igrave;nh c&ocirc;ng tr&ecirc;n địa b&agrave;n Nghệ An./.</span></p>
+
+<p style="text-align: right;"><span style="font-size:14px"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<strong>&nbsp;&nbsp;Nguyễn Mạnh Kh&ocirc;i&nbsp;</strong></em></span></p>
+
+<p style="text-align: right;"><strong><span style="font-size:14px"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph&oacute; trưởng ban TT Ban D&acirc;n vận Tỉnh ủy&nbsp;</em></span></strong></p>
+    </div>
+    
+
+    
+    <div id="lstNews">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="title-cate">
+                <a href="#">Tin cùng chuyên mục</a>
+            </h2>
+            <div class="row">
+                    <a title="Bộ đội Bi&#234;n ph&#242;ng Nghệ An thực hiện tốt c&#244;ng t&#225;c d&#226;n vận đảm bảo chủ quyền l&#227;nh thổ, an ninh bi&#234;n giới, quốc gia" href="/vi-vn/tin/bo-doi-bien-phong-nghe-an-thuc-hien-tot-cong-tac-dan-van-dam-bao-chu-quyen-lanh-tho--an-ninh-bien-gioi--quoc-gia/783534-16570-170225">
+                        <img alt="Bộ đội Bi&#234;n ph&#242;ng Nghệ An thực hiện tốt c&#244;ng t&#225;c d&#226;n vận đảm bảo chủ quyền l&#227;nh thổ, an ninh bi&#234;n giới, quốc gia" class="pull-left margin-right-10 img-news-other" src="/caches/news/a57/4d64f70d_320.jpg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/bo-doi-bien-phong-nghe-an-thuc-hien-tot-cong-tac-dan-van-dam-bao-chu-quyen-lanh-tho--an-ninh-bien-gioi--quoc-gia/783534-16570-170225">Bộ đội Bi&#234;n ph&#242;ng Nghệ An thực hiện tốt c&#244;ng t&#225;c d&#226;n vận đảm bảo chủ quyền l&#227;nh thổ, an ninh bi&#234;n giới, quốc gia</a></h2>
+                <p class="hidden-xs">Cấp ủy, c&#225;n bộ chủ tr&#236; cơ quan, đơn vị đ&#227; tập trung l&#227;nh đạo, chỉ đạo, triển khai thực hiện nghi&#234;m t&#250;c, đồng bộ, c&#243; chất lượng quy chế d&#226;n chủ ở cơ sở, g&#243;p phần n&#226;ng cao năng lực l&#227;nh đạo v&#224; sức chiến đấu của tổ chức cơ sở đảng v&#224; chất lượng đảng vi&#234;n; đảm bảo ...</p>
+                <span class="moment-item-time" data-moment="1671699683000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="C&#244;ng t&#225;c D&#226;n vận g&#243;p phần đảm bảo &quot;ba y&#234;n&quot; (y&#234;n d&#226;n, y&#234;n bi&#234;n giới, y&#234;n địa b&#224;n)" href="/vi-vn/tin/cong-tac-dan-van-gop-phan-dam-bao-ba-yen-yen-dan--yen-bien-gioi--yen-dia-ban/783534-16570-893133">
+                        <img alt="C&#244;ng t&#225;c D&#226;n vận g&#243;p phần đảm bảo &quot;ba y&#234;n&quot; (y&#234;n d&#226;n, y&#234;n bi&#234;n giới, y&#234;n địa b&#224;n)" class="pull-left margin-right-10 img-news-other" src="/caches/news/749/061ca732_320.jpg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/cong-tac-dan-van-gop-phan-dam-bao-ba-yen-yen-dan--yen-bien-gioi--yen-dia-ban/783534-16570-893133">C&#244;ng t&#225;c D&#226;n vận g&#243;p phần đảm bảo &quot;ba y&#234;n&quot; (y&#234;n d&#226;n, y&#234;n bi&#234;n giới, y&#234;n địa b&#224;n)</a></h2>
+                <p class="hidden-xs">Quế Phong l&#224; huyện miền n&#250;i, v&#249;ng cao của tỉnh Nghệ An, c&#243; 74,793km đường bi&#234;n giới chung với 2 huyện Sầm Tớ v&#224; Mường Quắn, tỉnh Hủa Phăn, nước Cộng ho&#224; D&#226;n chủ Nh&#226;n d&#226;n L&#224;o; diện t&#237;ch tự nhi&#234;n 189,086,45 ha; c&#243; 13 đơn vị h&#224;nh ch&#237;nh. Đảng bộ huyện c&#243; 34 tổ chức ...</p>
+                <span class="moment-item-time" data-moment="1671437381000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="Hiệu quả c&#244;ng t&#225;c Hội v&#224; phong tr&#224;o phụ nữ tỉnh Nghệ An năm 2022" href="/vi-vn/tin/hieu-qua-cong-tac-hoi-va-phong-trao-phu-nu-tinh-nghe-an-nam-2022/783534-16570-128478">
+                        <img alt="Hiệu quả c&#244;ng t&#225;c Hội v&#224; phong tr&#224;o phụ nữ tỉnh Nghệ An năm 2022" class="pull-left margin-right-10 img-news-other" src="/caches/news/618/c5a64ecc_320.jpg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/hieu-qua-cong-tac-hoi-va-phong-trao-phu-nu-tinh-nghe-an-nam-2022/783534-16570-128478">Hiệu quả c&#244;ng t&#225;c Hội v&#224; phong tr&#224;o phụ nữ tỉnh Nghệ An năm 2022</a></h2>
+                <p class="hidden-xs">Năm 2022, c&#225;c cấp Hội phụ nữ tỉnh Nghệ An đ&#227; tập trung chỉ đạo, triển khai thực hiện một số hoạt động nổi bật tr&#234;n tất cả c&#225;c mặt.</p>
+                <span class="moment-item-time" data-moment="1671437323000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="Kết quả c&#244;ng t&#225;c d&#226;n vận ch&#237;nh quyền năm 2022 ở Nghệ An" href="/vi-vn/tin/ket-qua-cong-tac-dan-van-chinh-quyen-nam-2022-o-nghe-an/783534-16570-774741">
+                        <img alt="Kết quả c&#244;ng t&#225;c d&#226;n vận ch&#237;nh quyền năm 2022 ở Nghệ An" class="pull-left margin-right-10 img-news-other" src="/caches/news/ad5/7c163bb3_320.jpg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/ket-qua-cong-tac-dan-van-chinh-quyen-nam-2022-o-nghe-an/783534-16570-774741">Kết quả c&#244;ng t&#225;c d&#226;n vận ch&#237;nh quyền năm 2022 ở Nghệ An</a></h2>
+                <p class="hidden-xs">Trong năm 2022, Ban D&#226;n vận Tỉnh ủy Nghệ An phối hợp Ban C&#225;n sự Đảng UBND tỉnh ban h&#224;nh Chương tr&#236;nh số 96-CTr-BCĐ ng&#224;y 09/02/2022 về thực hiện c&#244;ng t&#225;c d&#226;n vận ch&#237;nh quyền 2022; tiếp tục chỉ đạo thực hiện chương tr&#236;nh phối hợp số 148-CTr/BCSĐ UBND-BDV về c&#244;ng ...</p>
+                <span class="moment-item-time" data-moment="1671001614000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="C&#244;ng t&#225;c d&#226;n vận trong x&#226;y dựng n&#244;ng th&#244;n mới th&#244;n mới n&#226;ng cao, n&#244;ng th&#244;n mới kiểu mẫu" href="/vi-vn/tin/cong-tac-dan-van-trong-xay-dung-nong-thon-moi-thon-moi-nang-cao--nong-thon-moi-kieu-mau/783534-16570-60791">
+                        <img alt="C&#244;ng t&#225;c d&#226;n vận trong x&#226;y dựng n&#244;ng th&#244;n mới th&#244;n mới n&#226;ng cao, n&#244;ng th&#244;n mới kiểu mẫu" class="pull-left margin-right-10 img-news-other" src="/caches/news/017/4b4b64bc_320.jpg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/cong-tac-dan-van-trong-xay-dung-nong-thon-moi-thon-moi-nang-cao--nong-thon-moi-kieu-mau/783534-16570-60791">C&#244;ng t&#225;c d&#226;n vận trong x&#226;y dựng n&#244;ng th&#244;n mới th&#244;n mới n&#226;ng cao, n&#244;ng th&#244;n mới kiểu mẫu</a></h2>
+                <p class="hidden-xs">X&#225;c định r&#245; tầm quan trọng, vai tr&#242; v&#224; tr&#225;ch nhiệm của c&#244;ng t&#225;c d&#226;n vận trong x&#226;y dựng n&#244;ng th&#244;n mới, nhất l&#224; trong x&#226;y dựng n&#244;ng th&#244;n mới n&#226;ng cao, n&#244;ng th&#244;n mới kiểu mẫu, thời gian qua hệ thống ban d&#226;n vận từ tỉnh đến khối d&#226;n vận x&#227;, phường, thị trấn ở Nghệ An ...</p>
+                <span class="moment-item-time" data-moment="1671001525000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="Ph&#225;t huy hiệu quả m&#244; h&#236;nh “D&#226;n vận kh&#233;o” ở Nghi Lộc" href="/vi-vn/tin/phat-huy-hieu-qua-mo-hinh-dan-van-kheo”-o-nghi-loc/783534-16570-931754">
+                        <img alt="Ph&#225;t huy hiệu quả m&#244; h&#236;nh “D&#226;n vận kh&#233;o” ở Nghi Lộc" class="pull-left margin-right-10 img-news-other" src="/caches/news/9a3/2dbf955f_320.jpg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/phat-huy-hieu-qua-mo-hinh-dan-van-kheo”-o-nghi-loc/783534-16570-931754">Ph&#225;t huy hiệu quả m&#244; h&#236;nh “D&#226;n vận kh&#233;o” ở Nghi Lộc</a></h2>
+                <p class="hidden-xs">Năm 2022, t&#236;nh h&#236;nh kinh tế - x&#227; hội huyện Nghi Lộc tiếp tục duy tr&#236; v&#224; ph&#225;t triển; Nh&#226;n d&#226;n tr&#234;n địa b&#224;n huyện phấn khởi; hệ thống ch&#237;nh trị từ huyện đến cơ sở được củng cố v&#224; tăng cường; nhận thức về vị tr&#237;, vai tr&#242;, tầm quan trọng đối với c&#244;ng t&#225;c d&#226;n vận n&#243;i ...</p>
+                <span class="moment-item-time" data-moment="1670140135000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="C&#244;ng t&#225;c D&#226;n vận g&#243;p phần x&#226;y dựng th&#224;nh phố Vinh sớm trở th&#224;nh trung t&#226;m kinh tế, văn h&#243;a v&#249;ng Bắc Trung bộ" href="/vi-vn/tin/cong-tac-dan-van-gop-phan-xay-dung-thanh-pho-vinh-som-tro-thanh-trung-tam-kinh-te--van-hoa-vung-bac-trung-bo/783534-16570-775295">
+                        <img alt="C&#244;ng t&#225;c D&#226;n vận g&#243;p phần x&#226;y dựng th&#224;nh phố Vinh sớm trở th&#224;nh trung t&#226;m kinh tế, văn h&#243;a v&#249;ng Bắc Trung bộ" class="pull-left margin-right-10 img-news-other" src="/caches/news/881/c06ba0b0_320.jpeg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/cong-tac-dan-van-gop-phan-xay-dung-thanh-pho-vinh-som-tro-thanh-trung-tam-kinh-te--van-hoa-vung-bac-trung-bo/783534-16570-775295">C&#244;ng t&#225;c D&#226;n vận g&#243;p phần x&#226;y dựng th&#224;nh phố Vinh sớm trở th&#224;nh trung t&#226;m kinh tế, văn h&#243;a v&#249;ng Bắc Trung bộ</a></h2>
+                <p class="hidden-xs">Th&#224;nh phố Vinh l&#224; đ&#244; thị loại I trực thuộc Tỉnh Nghệ An; nằm tr&#234;n trục giao th&#244;ng huyết mạch Bắc – Nam về cả đường bộ, đường sắt, đường thủy v&#224; đường h&#224;ng kh&#244;ng. Với diện t&#237;ch 105km2, d&#226;n số Th&#224;nh phố khoảng 500.000 người, chiếm khoảng 15% d&#226;n số trong tỉnh, ...</p>
+                <span class="moment-item-time" data-moment="1670140091000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="Kết quả c&#244;ng t&#225;c d&#226;n vận của lực lượng vũ trang tỉnh ở v&#249;ng đồng b&#224;o d&#226;n tộc thiểu số v&#224; v&#249;ng t&#244;n gi&#225;o năm 2022" href="/vi-vn/tin/ket-qua-cong-tac-dan-van-cua-luc-luong-vu-trang-tinh-o-vung-dong-bao-dan-toc-thieu-so-va-vung-ton-giao-nam-2022/783534-16570-196625">
+                        <img alt="Kết quả c&#244;ng t&#225;c d&#226;n vận của lực lượng vũ trang tỉnh ở v&#249;ng đồng b&#224;o d&#226;n tộc thiểu số v&#224; v&#249;ng t&#244;n gi&#225;o năm 2022" class="pull-left margin-right-10 img-news-other" src="/caches/news/752/ffd8cf52_320.jpeg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/ket-qua-cong-tac-dan-van-cua-luc-luong-vu-trang-tinh-o-vung-dong-bao-dan-toc-thieu-so-va-vung-ton-giao-nam-2022/783534-16570-196625">Kết quả c&#244;ng t&#225;c d&#226;n vận của lực lượng vũ trang tỉnh ở v&#249;ng đồng b&#224;o d&#226;n tộc thiểu số v&#224; v&#249;ng t&#244;n gi&#225;o năm 2022</a></h2>
+                <p class="hidden-xs">Năm 2022, t&#236;nh h&#236;nh d&#226;n tộc, t&#244;n gi&#225;o tr&#234;n địa b&#224;n tỉnh Nghệ An cơ bản ổn định; c&#244;ng t&#225;c d&#226;n tộc, t&#244;n gi&#225;o v&#224; ch&#237;nh s&#225;ch d&#226;n tộc, t&#244;n gi&#225;o lu&#244;n được c&#225;c cấp quan t&#226;m triển khai thực hiện, kinh tế tăng trưởng kh&#225;, văn h&#243;a - x&#227; hội ph&#225;t triển, quốc ph&#242;ng, an ninh ...</p>
+                <span class="moment-item-time" data-moment="1670139377000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="Kết quả 01 năm thực hiện Kết luận số 21-KL/TW tại Đảng đo&#224;n Li&#234;n đo&#224;n Lao động tỉnh" href="/vi-vn/tin/ket-qua-01-nam-thuc-hien-ket-luan-so-21-kl-tw-tai-dang-doan-lien-doan-lao-dong-tinh/783534-16570-358464">
+                        <img alt="Kết quả 01 năm thực hiện Kết luận số 21-KL/TW tại Đảng đo&#224;n Li&#234;n đo&#224;n Lao động tỉnh" class="pull-left margin-right-10 img-news-other" src="/caches/news/167/1086ad37_320.png" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/ket-qua-01-nam-thuc-hien-ket-luan-so-21-kl-tw-tai-dang-doan-lien-doan-lao-dong-tinh/783534-16570-358464">Kết quả 01 năm thực hiện Kết luận số 21-KL/TW tại Đảng đo&#224;n Li&#234;n đo&#224;n Lao động tỉnh</a></h2>
+                <p class="hidden-xs">Đảng đo&#224;n Li&#234;n đo&#224;n Lao động tỉnh l&#224; tổ chức Đảng chịu sự l&#227;nh đạo trực tiếp v&#224; thường xuy&#234;n của Ban Thường vụ Tỉnh ủy. Đảng đo&#224;n c&#243; chức năng tham mưu cho Tỉnh ủy l&#227;nh đạo c&#244;ng nh&#226;n vi&#234;n chức lao động (CNVCLĐ) thực hiện chủ trương, nghị quyết, chỉ thị của Đảng, ...</p>
+                <span class="moment-item-time" data-moment="1668668001000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="Nh&#236;n lại 01 năm thực hiện Kết luận số 21-KL/TW ở Đảng bộ huyện Quỳ Hợp" href="/vi-vn/tin/nhin-lai-01-nam-thuc-hien-ket-luan-so-21-kl-tw-o-dang-bo-huyen-quy-hop/783534-16570-50616">
+                        <img alt="Nh&#236;n lại 01 năm thực hiện Kết luận số 21-KL/TW ở Đảng bộ huyện Quỳ Hợp" class="pull-left margin-right-10 img-news-other" src="/caches/news/407/9e2adaf2_320.jpg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/nhin-lai-01-nam-thuc-hien-ket-luan-so-21-kl-tw-o-dang-bo-huyen-quy-hop/783534-16570-50616">Nh&#236;n lại 01 năm thực hiện Kết luận số 21-KL/TW ở Đảng bộ huyện Quỳ Hợp</a></h2>
+                <p class="hidden-xs">Quỳ Hợp l&#224; huyện miền n&#250;i của tỉnh Nghệ An, c&#243; diện t&#237;ch đất tự nhi&#234;n 94.220 ha, trong đ&#243; &#190; diện t&#237;ch l&#224; đồi n&#250;i, d&#226;n số của huyện c&#243; 134.154 người (t&#237;nh đến ng&#224;y 31/12/2021); to&#224;n huyện c&#243; 20 x&#227; v&#224; 01 thị trấn, trong đ&#243; c&#243; 14 x&#227; v&#249;ng cao, v&#249;ng s&#226;u, v&#249;ng đặc biệt ...</p>
+                <span class="moment-item-time" data-moment="1668667895000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="Quỳnh Lưu sau 20 năm thực hiện Nghị quyết 23-NQ/TW của BCH TW Đảng (kh&#243;a IX)" href="/vi-vn/tin/quynh-luu-sau-20-nam-thuc-hien-nghi-quyet-23-nq-tw-cua-bch-tw-dang-khoa-ix/783534-16570-238161">
+                        <img alt="Quỳnh Lưu sau 20 năm thực hiện Nghị quyết 23-NQ/TW của BCH TW Đảng (kh&#243;a IX)" class="pull-left margin-right-10 img-news-other" src="/caches/news/55a/e3425cf8_320.jpg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/quynh-luu-sau-20-nam-thuc-hien-nghi-quyet-23-nq-tw-cua-bch-tw-dang-khoa-ix/783534-16570-238161">Quỳnh Lưu sau 20 năm thực hiện Nghị quyết 23-NQ/TW của BCH TW Đảng (kh&#243;a IX)</a></h2>
+                <p class="hidden-xs">Quỳnh Lưu l&#224; huyện đồng bằng ven biển c&#243; diện t&#237;ch 43.977 ha, d&#226;n số tr&#234;n địa b&#224;n c&#243; 281.092 người, được ph&#226;n bổ ở 32 x&#227; v&#224; 01 thị trấn với 338 khối, x&#243;m, bản. Đồng b&#224;o d&#226;n tộc thiểu số c&#243; 2.251 khẩu, 597 hộ (d&#226;n tộc Th&#225;i); sinh sống tập trung ở 05 bản của 02 x&#227; ...</p>
+                <span class="moment-item-time" data-moment="1668667806000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="Nghệ An: Kết quả 10 năm thực hiện Hướng dẫn số 169 của Ban D&#226;n vận Trung ương về c&#244;ng t&#225;c d&#226;n vận tham gia giải ph&#243;ng mặt bằng thu hồi đất, t&#225;i định cư" href="/vi-vn/tin/nghe-an--ket-qua-10-nam-thuc-hien-huong-dan-so-169-cua-ban-dan-van-trung-uong-ve-cong-tac-dan-van-tham-gia-giai-phong-mat-bang-thu-hoi-dat--tai-dinh-cu/783534-16570-610810">
+                        <img alt="Nghệ An: Kết quả 10 năm thực hiện Hướng dẫn số 169 của Ban D&#226;n vận Trung ương về c&#244;ng t&#225;c d&#226;n vận tham gia giải ph&#243;ng mặt bằng thu hồi đất, t&#225;i định cư" class="pull-left margin-right-10 img-news-other" src="/caches/news/b4a/3f797b0f_320.jpeg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/nghe-an--ket-qua-10-nam-thuc-hien-huong-dan-so-169-cua-ban-dan-van-trung-uong-ve-cong-tac-dan-van-tham-gia-giai-phong-mat-bang-thu-hoi-dat--tai-dinh-cu/783534-16570-610810">Nghệ An: Kết quả 10 năm thực hiện Hướng dẫn số 169 của Ban D&#226;n vận Trung ương về c&#244;ng t&#225;c d&#226;n vận tham gia giải ph&#243;ng mặt bằng thu hồi đất, t&#225;i định cư</a></h2>
+                <p class="hidden-xs">Sau khi c&#243; Hướng dẫn số 169-HD/BDVTW, ng&#224;y 11/6/2013 của Ban D&#226;n vận Trung ương về c&#244;ng t&#225;c d&#226;n vận tham gia trong quy hoạch, x&#226;y dựng v&#224; thực hiện c&#225;c dự &#225;n đầu tư, ph&#225;t triển kinh tế - x&#227; hội, c&#244;ng t&#225;c đền b&#249;, giải ph&#243;ng mặt bằng thu hồi đất, t&#225;i định cư (Hướng ...</p>
+                <span class="moment-item-time" data-moment="1667550099000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="Hiệu quả Phong tr&#224;o thi đua D&#226;n vận kh&#233;o ở huyện T&#226;n Kỳ" href="/vi-vn/tin/hieu-qua-phong-trao-thi-dua-dan-van-kheo-o-huyen-tan-ky/783534-16570-732939">
+                        <img alt="Hiệu quả Phong tr&#224;o thi đua D&#226;n vận kh&#233;o ở huyện T&#226;n Kỳ" class="pull-left margin-right-10 img-news-other" src="/caches/news/c9a/308b0827_320.jpg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/hieu-qua-phong-trao-thi-dua-dan-van-kheo-o-huyen-tan-ky/783534-16570-732939">Hiệu quả Phong tr&#224;o thi đua D&#226;n vận kh&#233;o ở huyện T&#226;n Kỳ</a></h2>
+                <p class="hidden-xs">T&#226;n Kỳ l&#224; huyện miền n&#250;i của tỉnh Nghệ An, gồm 3 d&#226;n tộc: Kinh, Th&#225;i, Thổ. D&#226;n số c&#243; 36.483 hộ 148.457 khẩu, trong đ&#243; c&#243; 9.034 hộ, 38.131 khẩu l&#224; đồng b&#224;o d&#226;n tộc thiểu số chiếm 27,1%. Đồng b&#224;o theo đạo C&#244;ng gi&#225;o 1.263 hộ, 5.859 khẩu chiếm tỷ lệ 4,2% To&#224;n huyện ...</p>
+                <span class="moment-item-time" data-moment="1667550027000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="&quot;D&#226;n vận kh&#233;o&quot; trong việc ph&#225;t triển kinh tế - x&#227; hội, c&#225;c cuộc vận động nh&#226;n đạo, từ thiện ở v&#249;ng đồng b&#224;o C&#244;ng gi&#225;o" href="/vi-vn/tin/dan-van-kheo-trong-viec-phat-trien-kinh-te---xa-hoi--cac-cuoc-van-dong-nhan-dao--tu-thien-o-vung-dong-bao-cong-giao/783534-16570-921138">
+                        <img alt="&quot;D&#226;n vận kh&#233;o&quot; trong việc ph&#225;t triển kinh tế - x&#227; hội, c&#225;c cuộc vận động nh&#226;n đạo, từ thiện ở v&#249;ng đồng b&#224;o C&#244;ng gi&#225;o" class="pull-left margin-right-10 img-news-other" src="/caches/news/bc0/bf25bc24_320.jpg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/dan-van-kheo-trong-viec-phat-trien-kinh-te---xa-hoi--cac-cuoc-van-dong-nhan-dao--tu-thien-o-vung-dong-bao-cong-giao/783534-16570-921138">&quot;D&#226;n vận kh&#233;o&quot; trong việc ph&#225;t triển kinh tế - x&#227; hội, c&#225;c cuộc vận động nh&#226;n đạo, từ thiện ở v&#249;ng đồng b&#224;o C&#244;ng gi&#225;o</a></h2>
+                <p class="hidden-xs">Gi&#225;o xứ Dị Lễ (x&#227; Quỳnh Lộc, thị x&#227; Ho&#224;ng Mai) c&#243; 220 hộ, với 925 nh&#226;n khẩu, chiếm 8,7% d&#226;n số to&#224;n x&#227;; Hội đồng mục vụ (HĐMV) gi&#225;o xứ c&#243; 05 vị tham gia (do &#244;ng L&#234; Xu&#226;n L&#226;m l&#224;m Chủ tịch), dưới hội đồng mục vụ gi&#225;o xứ c&#242;n c&#243; c&#225;c hội, đo&#224;n để phục vụ c&#225;c gi&#225;o lễ ...</p>
+                <span class="moment-item-time" data-moment="1667549921000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+            <div class="row">
+                    <a title="Mặt trận Tổ quốc tỉnh Nghệ An: Một số kết quả sau 20 năm thực hiện Nghị quyết 23-NQ/TW ng&#224;y 12/3/2003" href="/vi-vn/tin/mat-tran-to-quoc-tinh-nghe-an--mot-so-ket-qua-sau-20-nam-thuc-hien-nghi-quyet-23-nq-tw-ngay-12-3-2003/783534-16570-127534">
+                        <img alt="Mặt trận Tổ quốc tỉnh Nghệ An: Một số kết quả sau 20 năm thực hiện Nghị quyết 23-NQ/TW ng&#224;y 12/3/2003" class="pull-left margin-right-10 img-news-other" src="/caches/news/5f1/33360f9a_320.jpg" />
+                    </a>
+                    <h2 class="title-other-news"><a href="/vi-vn/tin/mat-tran-to-quoc-tinh-nghe-an--mot-so-ket-qua-sau-20-nam-thuc-hien-nghi-quyet-23-nq-tw-ngay-12-3-2003/783534-16570-127534">Mặt trận Tổ quốc tỉnh Nghệ An: Một số kết quả sau 20 năm thực hiện Nghị quyết 23-NQ/TW ng&#224;y 12/3/2003</a></h2>
+                <p class="hidden-xs">Sau 20 năm thực hiện Nghị quyết số 23-NQ/TW, ng&#224;y 12/3/2003 của Ban Chấp h&#224;nh Trung ương Đảng kh&#243;a IX về ph&#225;t huy sức mạnh đại đo&#224;n kết to&#224;n d&#226;n tộc v&#236; d&#226;n gi&#224;u, nước mạnh, x&#227; hội c&#244;ng bằng, d&#226;n chủ, văn minh”</p>
+                <span class="moment-item-time" data-moment="1667290429000" style="float: right; color: #a0a0a0; font-size:11px;margin-right:15px;"></span>
+
+            </div>
+                <hr class="blog-post-sep">
+        </div>
+        <div class="clearfix"></div>
+        <div class="pager">
+            <ul class='pagination'><li class='active'><a name='1' href='javascript:;' class='page-number'>1</a></li><li><a name='2' href='javascript:;' class='page-number'>2</a></li><li><a name='3' href='javascript:;' class='page-number'>3</a></li><li><a name='4' href='javascript:;' class='page-number'>4</a></li><li><a name='5' href='javascript:;' class='page-number'>5</a></li><li><a name='6' href='javascript:;' class='page-number'>6</a></li><li><a name='7' href='javascript:;' class='page-number'>7</a></li><li><a name='8' href='javascript:;' class='page-number'>8</a></li><li><a name='9' href='javascript:;' class='page-number'>9</a></li><li><a name='10' href='javascript:;' class='page-number'>10</a></li><li><a name='11' href='javascript:;' class='page-number'>11</a></li><li><a name='12' href='javascript:;' class='page-number'>12</a></li><li><a name='13' href='javascript:;' class='page-number'>13</a></li><li><a name='2' href='javascript:;' class='page-number'>&raquo;</a></li><li><a name='13' href='javascript:;' class='page-number'> Trang cuối </a></li></ul>
+        </div>
+    </div>
+
+
+    </div>
+
+</div>
+<div class="modal fade" id="full" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-full">
+        <div class="modal-content" style="background:#000">
+            <div class="modal-body">
+                <div id="galleria">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn default" data-dismiss="modal">Đóng</button>
+            </div>
+        </div>
+        
+    </div>
+    
+</div>
+
+
+        </div>
+        
+        <div class="col-md-3 sticky sticky-right" style="padding-right:0px;">
+            <div class="gallery">
+                
+                
+                
+
+                                                
+
+                
+                
+
+                
+
+
+<div class="gallery-item ">
+    <div style="margin-bottom:15px; border-bottom:1px solid #000"></div>
+            <p>
+                <a href="/vi-vn/trang/ban-tuyen-giao-tinh-uy/405534" title="C&#244;ng t&#225;c Tuy&#234;n gi&#225;o 1">
+                    <img alt="C&#244;ng t&#225;c Tuy&#234;n gi&#225;o 1" class="img-responsive" style="width:100%" src="/caches/adv/e8d/022a8f69_320.jpg" />
+                </a>
+            </p>
+            <p>
+                <a href="/vi-vn/trang/ban-to-chuc-tinh-uy/156332" title="C&#244;ng t&#225;c Tổ chức x&#226;y dựng Đảng 1">
+                    <img alt="C&#244;ng t&#225;c Tổ chức x&#226;y dựng Đảng 1" class="img-responsive" style="width:100%" src="/caches/adv/c59/1983f411_320.jpg" />
+                </a>
+            </p>
+            <p>
+                <a href="/vi-vn/trang/uy-ban-kiem-tra-tinh-uy/937388" title="C&#244;ng t&#225;c Kiểm tra Gi&#225;m s&#225;t 1">
+                    <img alt="C&#244;ng t&#225;c Kiểm tra Gi&#225;m s&#225;t 1" class="img-responsive" style="width:100%" src="/caches/adv/92a/22066fe2_320.jpg" />
+                </a>
+            </p>
+            <p>
+                <a href="/vi-vn/trang/ban-dan-van-tinh-uy/783534" title="C&#244;ng t&#225;c d&#226;n vận 1">
+                    <img alt="C&#244;ng t&#225;c d&#226;n vận 1" class="img-responsive" style="width:100%" src="/caches/adv/d02/003cf953_320.jpg" />
+                </a>
+            </p>
+            <p>
+                <a href="/vi-vn/trang/ban-noi-chinh-tinh-uy/193534" title="C&#244;ng t&#225;c Nội ch&#237;nh v&#224; Ph&#242;ng chống TN 1">
+                    <img alt="C&#244;ng t&#225;c Nội ch&#237;nh v&#224; Ph&#242;ng chống TN 1" class="img-responsive" style="width:100%" src="/caches/adv/ae4/54e2ecb7_320.jpg" />
+                </a>
+            </p>
+            <p>
+                <a href="/vi-vn/trang/van-phong-tinh-uy/405132" title="C&#244;ng t&#225;c Văn ph&#242;ng cấp ủy 1">
+                    <img alt="C&#244;ng t&#225;c Văn ph&#242;ng cấp ủy 1" class="img-responsive" style="width:100%" src="/caches/adv/355/e0ef2844_320.jpg" />
+                </a>
+            </p>
+</div>
+
+                
+                <style type="text/css">
+    
+</style>
+<div class="gallery-item announcement">
+    <div class="title">
+        <h4 class="title-h">Thông báo</h4>
+    </div>
+    <ul class="marquee">
+            <li><a href="/vi-vn/tin/thong-bao-trieu-tap-ky-hop-thu-4--hoi-dong-nhan-dan-tinh-khoa-xviii/24021-546023-332567" title="Th&#244;ng b&#225;o triệu tập kỳ họp thứ 4, Hội đồng Nh&#226;n d&#226;n tỉnh kh&#243;a XVIII">Th&#244;ng b&#225;o triệu tập kỳ họp thứ 4, Hội đồng Nh&#226;n d&#226;n tỉnh kh&#243;a XVIII</a></li>
+            <li><a href="/vi-vn/tin/thong-bao-trieu-tap-ky-hop-thu-hai--hoi-dong-nhan-dan-tinh-khoa-xviii--nhiem-ky-2021---2026/24021-546023-860063" title="Th&#244;ng b&#225;o triệu tập kỳ họp thứ hai, Hội đồng nh&#226;n d&#226;n tỉnh kh&#243;a XVIII, nhiệm kỳ 2021 - 2026">Th&#244;ng b&#225;o triệu tập kỳ họp thứ hai, Hội đồng nh&#226;n d&#226;n tỉnh kh&#243;a XVIII, nhiệm kỳ 2021 - 2026</a></li>
+            <li><a href="/vi-vn/tin/thong-bao-ky-hop-thu-17--hdnd-tinh-khoa-17/24021-797519-483564" title="TH&#212;NG B&#193;O Kỳ họp thứ 17, HĐND tỉnh kh&#243;a 17">TH&#212;NG B&#193;O Kỳ họp thứ 17, HĐND tỉnh kh&#243;a 17</a></li>
+            <li><a href="/vi-vn/tin/thong-bao-trieu-tap-ky-hop-thu-16---hdnd-tinh-khoa-xvii/24021-546023-730391" title="Th&#244;ng b&#225;o triệu tập kỳ họp thứ 16 - HĐND tỉnh kh&#243;a XVII">Th&#244;ng b&#225;o triệu tập kỳ họp thứ 16 - HĐND tỉnh kh&#243;a XVII</a></li>
+            <li><a href="/vi-vn/tin/thong-bao-thoi-gian-dai-hoi-dai-bieu-dang-bo-tinh-lan-thu-xix/24021-797519-185314" title="TH&#212;NG B&#193;O THỜI GIAN ĐẠI HỘI ĐẠI BIỂU ĐẢNG BỘ TỈNH LẦN THỨ XIX">TH&#212;NG B&#193;O THỜI GIAN ĐẠI HỘI ĐẠI BIỂU ĐẢNG BỘ TỈNH LẦN THỨ XIX</a></li>
+    </ul>
+</div>
+                
+<div class="gallery-item announcement" style="margin-top:15px;">
+    <div class="title">
+        <h4 class="title-h" style="margin-bottom:0px;">
+            <a href="#!" data-href="/vi-vn/media/thu-vien-anh/album" style="color:#e02222!important" class="test-link">Thư viện ảnh</a>
+        </h4>
+    </div>
+    <div>
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner" style="border:0px; background:none">
+                    <div class="item active">
+                        <a href="/vi-vn/media/thu-vien-anh/album/973423" title="Thủ tướng Phạm Minh Ch&#237;nh l&#224;m việc tại Nghệ An năm 2022">
+                            <img alt="" src="/caches/gallery/846/e6b85aee_320.jpg" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="item ">
+                        <a href="/vi-vn/media/thu-vien-anh/album/205668" title="Chủ động ph&#242;ng chống b&#227;o số 4">
+                            <img alt="" src="/caches/gallery/ddb/d773d335_320.jpg" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="item ">
+                        <a href="/vi-vn/media/thu-vien-anh/album/481502" title="Trao tặng học bổng">
+                            <img alt="" src="/caches/gallery/157/9cff5739_320.jpg" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="item ">
+                        <a href="/vi-vn/media/thu-vien-anh/album/479611" title="UBND tỉnh l&#224;m việc với Tổ tư vấn kinh tế x&#227; hội">
+                            <img alt="" src="/caches/gallery/b5e/bf3a016f_320.jpg" class="img-responsive">
+                        </a>
+                    </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $('.test-link').click(function (e) {
+            e.preventDefault();
+            var href = $(this).data("href");
+            window.location.href = href;
+            //alert(href);
+        });
+    });
+</script>
+
+
+    <div class="gallery margin-top-10" style="position:relative">
+        <div class="bg-video"></div>
+            <a href="/vi-vn/xem/nghe-an---dau-an-nhiem-ky/0-0-688639" title="Nghệ An - Dấu ấn nhiệm kỳ">
+                <img alt="Nghệ An - Dấu ấn nhiệm kỳ" src="https://img.youtube.com/vi/sFjWR4641t0/hqdefault.jpg" style="width:100%" class="img-responsive img-youtube" />
+            </a>
+        <div class="bg-video"></div>
+    </div>
+
+
+
+                
+
+
+<p/>
+<div class="gallery-item ">
+    
+            <p>
+                <a href="/vi-vn/chuyen-muc/lich-tiep-cong-dan/150967-692371" target="_blank" title="Lịch tiếp c&#244;ng d&#226;n">
+                    <img alt="Lịch tiếp c&#244;ng d&#226;n" class="img-responsive" style="width:100%" src="/caches/adv/5b6/658330b0_320.jpg"/>
+                </a>
+            </p>
+            <p>
+                <a href="/vi-vn/chuyen-muc/nang-ngach-cong-chuc/72156-51899" target="_blank" title="N&#226;ng ngạch c&#244;ng chức">
+                    <img alt="N&#226;ng ngạch c&#244;ng chức" class="img-responsive" style="width:100%" src="/caches/adv/108/e76b63c8_320.png"/>
+                </a>
+            </p>
+            <p>
+                <a href="/vi-vn/chuyen-muc/tuyen-dung-cong-chuc/72156-168566" target="_blank" title="Tuyển dụng c&#244;ng chức">
+                    <img alt="Tuyển dụng c&#244;ng chức" class="img-responsive" style="width:100%" src="/caches/adv/82b/338ef4eb_320.png"/>
+                </a>
+            </p>
+            <p>
+                <a href="/vi-vn/hoi-dap/trao-doi-gop-y/771796" target="_blank" title="Trao đổi g&#243;p &#253;">
+                    <img alt="Trao đổi g&#243;p &#253;" class="img-responsive" style="width:100%" src="/caches/adv/ba8/22a382d7_320.jpg"/>
+                </a>
+            </p>
+            <p>
+                <a href="/vi-vn/chuyen-muc/hỗ-tro-kỹ-thuat/72156-158160" target="_blank" title="Hỗ trợ kỹ thuật">
+                    <img alt="Hỗ trợ kỹ thuật" class="img-responsive" style="width:100%" src="/caches/adv/752/c4329c81_320.jpg"/>
+                </a>
+            </p>
+            <p>
+                <a href="http://nghean.gov.vn" target="_blank" title="Cổng th&#244;ng tin điện tử Tỉnh Nghệ an">
+                    <img alt="Cổng th&#244;ng tin điện tử Tỉnh Nghệ an" class="img-responsive" style="width:100%" src="/caches/adv/154/d7fcd44e_320.jpg"/>
+                </a>
+            </p>
+            <p>
+                <a href="http://dangcongsan.vn" target="_blank" title="B&#225;o điện tử cộng sản">
+                    <img alt="B&#225;o điện tử cộng sản" class="img-responsive" style="width:100%" src="/caches/adv/bd1/b7e71dba_320.jpg"/>
+                </a>
+            </p>
+</div>
+
+                
+                
+
+                
+                
+<div class="gallery-item">
+    <h4 class="title-h"><i class="fa fa-external-link"></i> Liên kết website</h4>
+    <select style="width:100%" onchange="javascript:if(this.value!=-1){window.open(this.value);}">
+        <option value="-1" selected>Lựa chọn</option>
+        <option value="http://www.chinhphu.vn/portal/page/portal/chinhphu/trangchu">Cổng thông tin điện tử Chính phủ</option>
+        <option value="http://www.nhandan.com.vn/">Báo nhân dân</option>
+        <option value="http://www.tapchicongsan.org.vn/">Tạp chí cộng sản</option>
+        <option value="http://dangcongsan.vn/">Báo Đảng cộng sản Việt Nam</option>
+        <option value="http://nghean.gov.vn">Cổng TTĐT Nghệ An</option>
+    </select>
+</div>
+
+            </div>
+        </div>
+        
+
+    </div>
+    
+        <div class="brands ">
+<div class="container-fluid padding-20">
+    <div class="row">
+    </div>
+</div>
+<script>
+    if ($.owlCarousel) {
+        $("#advBootom").owlCarousel({
+            navigation: true,
+            autoPlay: 5000
+        });
+    }
+</script>
+
+        </div>
+    <div class="pre-footer" style="background-color: #efebeb;max-width: none;width: 100%;">
+    <div class="page-container">
+        <div class="row">
+            <div style="padding-left:5px;padding-top:10px;padding-right:5px;padding-bottom:20px" align="center">
+                <b>CỔNG THÔNG TIN ĐIỆN TỬ ĐẢNG BỘ TỈNH NGHỆ AN </b><br>
+				<b>Giấy phép số 10/GP-TTĐT do Sở Thông tin và Truyền thông tỉnh Nghệ An cấp ngày 06/02/2020.</b><br>
+                Địa chỉ: <a href="https://www.google.com/maps/place/26+Tr%C6%B0%E1%BB%9Dng+Thi,+Th%C3%A0nh+ph%E1%BB%91+Vinh,+Ngh%E1%BB%87+An,+Vietnam" target="_blank">Số 26 - Trường Thi - TP Vinh</a><br>
+                Điện Thoại: (0238) 3 592 845 <br>
+                Email: <a href="mailto:bbt@tinhuy.nghean.gov.vn">bbt@tinhuy.nghean.gov.vn</a> hoặc <a href="mailto:bbttinhuynghean@gmail.com">bbttinhuynghean@gmail.com</a><br>
+				<span style="font-size:8pt;color:#e5e3e3;">Đối tác: </span><a style="font-size:8pt;color:#e5e3e3;" href="https://kubetae.win/">https://kubetae.win/</a> <span style="font-size:8pt;color:#e5e3e3;">Nhà cái uy tín: </span> <a style="font-size:8pt;color:#e5e3e3;" href="https://nhacaiuytinaz.com/">https://nhacaiuytinaz.com/</a> <span style="font-size:8pt;color:#e5e3e3;">Xem tỷ lệ kèo nhà cái: </span> <a style="font-size:8pt;color:#e5e3e3;" href="https://keonhacai.gg">https://keonhacai.gg</a> <a style="font-size:8pt;color:#e5e3e3;" href="https://cadobongda.one/">https://cadobongda.one/</a> <a style="font-size:8pt;color:#e5e3e3;" href="https://ku11.mobi/">KU11</a> <a rel="nofollow" style="font-size:8pt;color:#e5e3e3;" href="https://kucasino.day/">KU Casino</a> <a rel="nofollow" style="font-size:8pt;color:#e5e3e3;" href="https://kubet.az/">KUBET</a>
+            </div>
+        </div>
+       
+    </div>
+</div>
+
+
+
+<div class="footer padding-20">
+    <div class="page-container">
+        <div class="row">
+            
+            <div class="col-md-6 col-sm-6 padding-top-10">
+                
+                <a href="/vi-vn/tin/chinh-sach-bao-mat/24021-579651-826718">Ch&#237;nh s&#225;ch bảo mật</a> |
+                <a href="/vi-vn/tin/dieu-khoan-dich-vu/24021-579651-739560">Điều khoản dịch vụ</a> |
+
+            </div>
+            <div class="col-md-6 col-sm-6 padding-top-10" style="text-align:right">
+                <a href="/vi-vn" style="padding-left:0px">Trang chủ</a> |
+                <a href="/gioi-thieu-0-0-54908">Th&#244;ng tin</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+    <input type="hidden" id="hdnInvalidSearchKeyword" value="Xin lỗi, từ kh&#243;a kh&#244;ng hợp lệ hoặc chưa đủ độ d&#224;i y&#234;u cầu (tối thiểu 3 k&#253; tự)!" />
+
+
+
+    <!--[if lt IE 9]>
+    <script src="/assets/global/plugins/respond.min.js"></script>
+    <![endif]-->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-60393566-12"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-60393566-12');
+    </script>
+
      
-   </table> 
-  </div> 
-  <div id="details-right"> 
-   <table border="0" cellpadding="0" cellspacing="0"> 
-    <tr class="alt"><th>Requested URL</th><td>&nbsp;&nbsp;&nbsp;http://hanoimoi.com.vn:80/ban-in/Xa-hoi/402434/ha-noi-giai-quyet-tot-cac-cuoc-dinh-cong-khong-dung-quy-dinh-phap-luat</td></tr> 
-    <tr><th>Physical Path</th><td>&nbsp;&nbsp;&nbsp;C:\Domains\hanoimoi.com.vn\ban-in\Xa-hoi\402434\ha-noi-giai-quyet-tot-cac-cuoc-dinh-cong-khong-dung-quy-dinh-phap-luat</td></tr> 
-    <tr class="alt"><th>Logon Method</th><td>&nbsp;&nbsp;&nbsp;Not yet determined</td></tr> 
-    <tr><th>Logon User</th><td>&nbsp;&nbsp;&nbsp;Not yet determined</td></tr> 
-     
-   </table> 
-   <div class="clear"></div> 
-  </div> 
- </fieldset> 
-</div> 
- 
-<div class="content-container"> 
- <fieldset><h4>More Information:</h4> 
-  This generic 403 error means that the authenticated user is not authorized to use the requested resource. A substatus code in the IIS log files should indicate the reason for the 403 error. If a substatus code does not exist, use the steps above to gather more information about the source of the error. 
-  <p><a href="https://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=403,0,0x00000000,17763">View more information &raquo;</a></p> 
-   
- </fieldset> 
-</div> 
-</div> 
-</body> 
-</html> 
+<script>
+(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    //js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    js.src = "//connect.facebook.net/vi-vn/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+
+    <script src="/js?v=g-ZyiJmyQO4U5iHxhlXGvcJC18AGbCZQuDB2zjg1BEg1"></script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            Layout.init();
+            //LayersliderInit.initLayerSlider();
+            Layout.initImageZoom();
+            Layout.initTouchspin();
+            Layout.initTwitter();
+            
+            configMoment();
+            applyMoment();
+            if ($.carousel) {
+                $('.carousel').carousel({
+                    interval: 3000
+                });
+            }
+            if ($.owlCarousel) {
+                $('.owl-carousel3').owlCarousel({
+                    scrollPerPage: true,
+                });
+            }
+            startClock('#clock');
+        });
+    </script>
+    
+
+    <script type="text/javascript">
+
+    $(document).ready(function () {
+        var html = "";
+        $("#lstNews").on('click', '.page-number', function () {
+            $('#lstNews').fadeOut('fast');
+            var newsId = '281600';
+            var pageId = '783534';
+            var channelId = '16570';
+            var page = parseInt($(this).attr("name"));
+            var parameters = { "newsId": newsId, "pageId": '783534', "channelId": '16570', "pageIndex": page }
+            $.ajax({
+                url: '/vi-vn/News/Detail', //Detail
+                data: parameters,
+                success: function (data) {
+                    $('#lstNews').fadeIn('normal');
+                    $("#lstNews").html(data);
+                    applyMoment();
+                }
+            });
+        });
+        $('.news-page img').each(function () {
+            var parent = $(this).closest('a').attr("href");
+            if (parent == undefined || parent == null) {
+                var src = $(this).attr("src");
+                var title = $(this).attr("alt");
+                $(this).css({ "margin": "0px auto", "height": "" });
+                $(this).addClass("img-responsive");
+                $(this).wrap("<div class='gallery-item'><a data-toggle='modal' title='" + title + "' href='#full' class=''></a></div>")
+                html += "<a href='" + src + "'>";
+                html += "<img src='" + src + "'";
+                html += "data-big='" + src + "'";
+                html += "data-title='" + title + "'>";
+                html += "</a>";
+            }
+        });
+
+        
+
+        $('a.action-show').on('click', function (e) {
+            e.preventDefault();
+            $("#form-comment").toggleClass('display-none');
+        });
+
+        captcha();
+
+        sentComment();
+    });
+
+    function sentComment() {
+        var form = $('#form-comment');
+            var error = $('.alert-danger', form);
+            var success = $('.alert-success', form);
+            success.hide();
+            form.validate({
+                doNotHideMessage: false,
+                errorElement: 'span',
+                errorClass: 'help-block help-block-error',
+                focusInvalid: true,
+                rules: {
+                    FullName: {
+                        required: true
+                    },
+                    Email: {
+                        required: true,
+                        email: true
+                    },
+                    Contents: {
+                        required: true
+                    },
+                    CaptchaInputText: {
+                        required: true
+                    }
+                },
+                messages: {
+                    FullName: {
+                        required: "Vui lòng nhập họ tên"
+                    },
+                    Email: {
+                        required: "Vui lòng nhập email",
+                        email: "Định dạng email không đúng"
+                    },
+                    Contents: {
+                        required: "Vui lòng nhập câu hỏi"
+                    },
+                     CaptchaInputText: {
+                         required: "Vui lòng nhập mã xác nhận"
+                    }
+                },
+                highlight: function (element) { // hightlight error inputs
+                    $(element)
+                        .closest('.form-group').addClass('has-error'); // set error class to the control group
+                },
+                unhighlight: function (element) { // revert the change done by hightlight
+                    $(element)
+                        .closest('.form-group').removeClass('has-error'); // set error class to the control group
+                },
+                success: function (label) {
+                    label
+                        .closest('.form-group').removeClass('has-error'); // set success class to the control group
+                },
+                submitHandler: function () {
+
+                    var challengeField = $("input#recaptcha_challenge_field").val();
+                    var responseField = $("input#recaptcha_response_field").val();
+                    var validation = {
+                        ChallengeField: challengeField,
+                        ResponseField: responseField
+                    };
+                    var dat = JSON.stringify(validation);
+                    $('#CaptchaResponse').val(dat);
+                    var data = form.serialize();
+                    $.ajax({
+                        type: 'POST',
+                        url: form.attr('action'),
+                        dataType: 'json',
+                        data: data,
+                        beforeSend: function () {
+                            $('button[type=submit]', form).attr('disabled', true);
+                        },
+                        success: function (result) {
+                            if (result.success) {
+                                success.show();
+                                error.hide();
+                                form.find('input[type=text]').val('');
+                                form.find('textarea').val('');
+                            }
+                            else {
+                                success.hide();
+                                error.show();
+                                error.find("#msg-error").text(result.message);
+                            }
+
+                            refreshCaptcha();
+                            Metronic.scrollTo($("#divComment"), -200);
+                            setTimeout(function () {
+                                success.hide();
+                                $('button[type=submit]', form).removeAttr('disabled');
+                            }, 3000);
+                        },
+                        error: function (data) {
+                            refreshCaptcha();
+                            success.hide();
+                            error.show();
+                            Metronic.scrollTo($("#divComment"), -200);
+                            $("#msg-error").text("Quá trình xảy ra lỗi! Vui lòng kiểm tra lại");
+                        }
+                    });
+                }
+            });
+    }
+
+    function captcha() {
+        if ($("#CaptchaInputText").length > 0) {
+            $("#CaptchaInputText").addClass("form-control text-uppercase").css({
+                "margin-top": "-16px",
+                //"float":"left"
+
+            }).css('width', '200px');
+
+            $('.captcha a').css({ 'float': "left" });
+
+            $("#CaptchaImage").css({ "float": "left","margin-right":"10px" });
+        }
+
+    }
+
+    function refreshCaptcha() {
+            var el = $('div.captcha');
+            el.html("");
+            $.ajax({
+                type: "GET",
+                url: el.data('target'),
+                success: function (response) {
+                    el.html(response);
+                    captcha();
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            });
+    }
+
+    </script>
+
+</body>
+</html>

@@ -1,422 +1,304 @@
-   #alternate publisher
+   #Hàng ngàn công nhân đình công ở Hà Nội - b'RSS 1.0' Hàng ngàn công
+   nhân đình công ở Hà Nội - b'RSS 2.0' Hàng ngàn công nhân đình công ở Hà
+   Nội - b'Atom' Search this site
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KMGZZZ
+   (BUTTON)
 
-     * (BUTTON) menu.svg
+RFA logo
 
-   (BUTTON) vetnamnet
-   ____________________ (BUTTON) search.png
-     *
-     * Chính trị
-     * Công nghệ số và Truyền thông
-     * Tuần Việt Nam
-     * Thời sự
-     * Kinh doanh
-     * Giải trí
-     * Thế thao
-     * Sức khỏe
-     * Đời sống
-     * Giáo dục
-     * Thế giới
-     * Pháp luật
-     * Ô tô xe máy
-     * Bất động sản
-     * Du lịch
-     * Bạn đọc
+   (BUTTON)
+
+     * Trang Chính
+     * Tin tức
+     * Thời Sự
+     * Bình luận
+     * Chuyên mục
      * Video
-     * English
-     * Hồ sơ
-     * Talks
-     * Multimedia
-     * Ảnh
-     * Toàn văn
-     * Dân tộc - Tôn giáo
-     * Giảm nghèo bền vững
-     * Thị trường tiêu dùng
-     * Công nghiệp hỗ trợ
-     * Bảo vệ người tiêu dùng
-     * Tải app VietNamNet
-     * Tuyển dụng
-     * Liên hệ tòa soạn
-     * Liên hệ quảng cáo
+     * Tranh biếm hoạ
 
-     * Tin nóng
-     * Tuyến bài
-     * Tin tức 24h
-     * Sự kiện
+   Search __________________ Submit
+   Advanced Search…
+   (BUTTON)
 
-     * Cơ quan chủ quản: Bộ Thông tin và Truyền thông
-     * Số giấy phép: 09/GP - BTTTT, cấp ngày 07/01/2019
-     * Tổng biên tập: Nguyễn Văn Bá
+     * Trang Chính
+     * Tin tức
+     * Thời Sự
+     * Bình luận
+     * Chuyên mục
+     * Video
+     * Tranh biếm hoạ
 
-     * Tòa soạn: Tòa nhà C'Land - 156 Xã Đàn 2,
-     * Đống Đa, Hà Nội
-     * Hotline: 19001081 (8h-20h) | 0923457788 (ngoài giờ HC)
-     * © 1997 Báo VietNamNet. All rights reserved.
-     * Chỉ được phát hành lại thông tin từ website này khi có sự đồng ý
-       bằng văn bản của báo VietNamNet.
-
-   Tải ứng dụng Độc giả gửi bài
-
-vetnamnet
-
-   #AFF Cup 2022
-
-     *
-
-     * Xin chào , Mai Anh !
-     * Quản lý đơn hàng
-     * Thông tin tài khoảng
-     * Tin đã lưu
-     * Đăng xuất
-
-   iconmenu
-     * (BUTTON) icon icon
-     * (BUTTON) icon notlike icon like
-     * icon
-     *
-     * Aa
-
-     * iconfacebook Facebook
-     * icontwitter
-       Zalo
-     * iconmail Email
-     * iconKhác Sao chép liên kết
-
-   text-font text-font
-
-     * https://static.vnncdn.net/v1/icon/home_mobile.svg
-     * Thời sự
-
-Nghìn công nhân giày Tam Cường đình công, yêu cầu tăng tiền bữa ăn
-
-   19/03/2022  - 12:40 [google-news.svg]
-
-   Sau khi hàng nghìn công nhân nhà máy giày và phụ liệu Tam Cường (Hải
-   Phòng) đình công, suất ăn đã được tăng từ 12.000 đồng lên 13.500
-   đồng/bữa.
-
-   Sáng nay (19/3), xác nhận với PV VietNamNet, lãnh đạo UBND huyện Vĩnh
-   Bảo, TP Hải Phòng cho biết, chiều qua hơn nghìn công nhân nhà máy giày
-   và phụ liệu Tam Cường đã ngưng việc tập thể.
-
-   Theo phản ánh của người lao động, họ đình công để đưa yêu sách tập
-   trung vào việc đòi tăng lương, hỗ trợ tiền xăng xe và xem lại cách đóng
-   BHXH sao cho phù hợp.
-   {keywords}
-   Nghìn công nhân giày Tam Cường đình công ngưng việc để yêu cầu tăng
-   thêm tiền ăn, tiền trợ cấp, tiền lương tháng 13
-
-   Bên cạnh đó là một số kiến nghị về tăng tiền cơm, trợ cấp tăng ca,
-   lương tháng 13… Việc đình công diễn ra trong ôn hòa, không có hiện
-   tượng phá phách, gây rối, mất an toàn.
-
-   Theo các công nhân tại đây, hiện nay công ty thay đổi cách tính tiền
-   đóng BHXH dựa theo lương bậc.
-
-   Hàng tháng, công ty sẽ đánh giá tay nghề của người lao động để xếp loại
-   bậc lương từ 1 - 4, từ đó sẽ làm căn cứ tính tiền đóng BHXH.
-   {keywords}
-   Công nhân phản ánh bữa cơm quá đạm bạc, không đủ no để làm việc
-
-   “Trước đây, công ty đóng BHXH theo mức lương cơ bản thì người lao động
-   còn dễ nắm bắt. Nay chuyển sang đóng BHXH kiểu này, công nhân sẽ rất
-   khó kiểm soát được hàng tháng mình bị trừ bao nhiêu tiền, chưa kể việc
-   đánh bậc không khách quan”, một công nhân bày tỏ và kiến nghị phía công
-   ty cần phải chốt phương án đóng BHXH cho phù hợp, công bằng và dễ kiểm
-   soát.
-
-   Các công nhân cũng ý kiến về việc hàng tháng phải đóng 25.000 đồng tiền
-   công đoàn nhưng ngày sinh nhật chỉ được tặng cái khăn mặt, Tết Trung
-   thu tặng duy nhất 1 cái bánh nướng...
-
-   “Cuối năm vừa rồi, các công ty trên địa bàn đều tặng cho công nhân
-   300.000 đồng tiền công đoàn hỗ trợ dịch Covid-19, nhưng phía công ty
-   này không hề có. Thấy công ty bảo số tiền này không nộp về cho công
-   đoàn. Vậy 25.000 đồng chúng tôi đóng hàng tháng đi đâu?”, một công nhân
-   bức xúc.
-   {keywords}
-   Trước mắt công nhân được tăng 1.500 đồng/bữa ăn, sau khi đình công.
-   Ảnh: CNCC
-
-   Sau khi xảy ra đình công, lãnh đạo công ty phối hợp với các cơ quan
-   chức năng làm việc với người lao động. Phía nhà máy giày Tam Cường đã
-   có thông báo trả lời các kiến nghị của người lao động.
-
-   Theo đó, công ty trả lương căn cứ theo đúng quy định pháp luật, chưa có
-   chính sách hỗ trợ xăng xe. Công ty cũng cho biết, đóng BHXH theo đúng
-   quy định của Luật BHXH. Lương tháng 13 tuỳ thuộc vào kết quả kinh doanh
-   của công ty.
-
-   Nhà máy giày Tam Cường đáp ứng được 2 yêu cầu của công nhân là tăng
-   tiền cơm từ 12.000 đồng lên 13.500 đồng, kể từ ngày 18/3 (ai không ăn
-   sẽ không được cộng vào lương) và hỗ trợ 1 bánh bao cho người lao động
-   tăng ca đến 20h.
-
-   Theo báo cáo của UBND huyện Vĩnh Bảo, tại thời điểm đình công, công ty
-   có 2.650/2.900 người lao động đi làm. Khoảng 1.000 công nhân tập trung
-   tại sân nhà máy để đình công, còn lại vẫn làm việc bình thường.
-
-   Theo ông Nguyễn Đức Cảnh, Chủ tịch UBND huyện Vĩnh Bảo, phía công ty đã
-   tổ chức đối thoại trực tiếp và vận động người lao động trở lại làm việc
-   vào hôm nay. Các ngành chức năng liên quan, UBND xã Tam Cường tiếp tục
-   nắm tình hình, không để kẻ xấu lợi dụng lôi kéo làm mất ổn định an ninh
-   trật tự trên địa bàn.
-
-   Ghi nhận trưa 19/3 của PV VietNamNet, công nhân vẫn tiếp tục đình công
-   và ngày một đông hơn. Họ yêu cầu phía nhà máy đáp ứng các yêu cầu như
-   tăng thêm tiền ăn, làm rõ mức đóng bảo hiểm và các chế độ đãi ngộ khác.
-
-   Phía nhà máy đã cử cán bộ ra đối thoại nhưng chưa đi đến được thống
-   nhất để công nhân vào làm việc trở lại
-
-   Nguyễn Thu Hằng
-   500 công nhân ở Nghệ An đình công đòi quyền lợi
-
-500 công nhân ở Nghệ An đình công đòi quyền lợi
-
-   Hàng trăm công nhân tập trung bên trong sân Công ty TNHH EM -Tech Việt
-   Nam, phường Vinh Tân (TP Vinh) ngưng việc tập thể đòi quyền lợi.
-     * Chủ đề:
-     * Hải Phòng
-     * công nhân đình công
-     * Tăng lương
-
-   Tết quý mão
-     * Dự báo thời tiết
-     * Lời chúc tết ý nghĩa
-
-Tin nổi bật
-
-   Dãy cống bật nắp gần hiện trường cháu bé 3 tuổi gặp nạn ở Bắc Giang
-
-Dãy cống bật nắp gần hiện trường cháu bé 3 tuổi gặp nạn ở Bắc Giang
+   Tin tức
+     * Tin Việt Nam
+     * Tin quốc tế
 
    Thời sự
-   Làng nghề quất cảnh Tứ Liên vào vụ Tết
+     * Tường trình từ Việt Nam
 
-Làng nghề quất cảnh Tứ Liên vào vụ Tết
+   Bình luận
+     * Blog
+     * Bạn đọc viết
 
-   Thời sự
-
-   Dự báo thời tiết ngày 6/1: Miền Trung tiếp tục mưa to
-
-Dự báo thời tiết ngày 6/1: Miền Trung tiếp tục mưa to
-
-   Thời sự
-
-   Trăm hộ dân ở phố 'đắt nhất hành tinh' thoát dự án treo 25 năm
-
-Trăm hộ dân ở phố 'đắt nhất hành tinh' thoát dự án treo 25 năm
-
-   Thời sự
-
-   Trót 'khám' xe tại trung tâm đăng kiểm bị điều tra, chủ phương tiện cần
-   làm gì?
-
-Trót 'khám' xe tại trung tâm đăng kiểm bị điều tra, chủ phương tiện cần làm
-gì?
-
-   Thời sự
-
-   Kiến nghị chuyển cơ quan điều tra 40 vụ việc mua sắm thiết bị chống
-   Covid-19
-
-Kiến nghị chuyển cơ quan điều tra 40 vụ việc mua sắm thiết bị chống Covid-19
-
-   Thời sự
-
-   Xe cảnh sát PCCC gặp nạn ở Bình Phước, một thiếu úy tử vong
-
-Xe cảnh sát PCCC gặp nạn ở Bình Phước, một thiếu úy tử vong
-
-   Thời sự
-
-   Sà lan tông thủng hông phà chở khách qua sông Đồng Nai
-
-Sà lan tông thủng hông phà chở khách qua sông Đồng Nai
-
-   Thời sự
-
-   Thủ tướng chỉ đạo rà soát, bảo dưỡng, nâng cấp các công trình phục vụ
-   thi đấu thể thao
-
-Thủ tướng chỉ đạo rà soát, bảo dưỡng, nâng cấp các công trình phục vụ thi đấu
-thể thao
-
-   Chính trị
-
-   TP.HCM: Nam sinh năm 3 tử vong trên đường đi làm thêm về nhà
-   [video.svg]
-
-TP.HCM: Nam sinh năm 3 tử vong trên đường đi làm thêm về nhà
+   Chuyên mục
 
    Video
 
-   Chủ tịch Hà Nội nghiêm cấm cán bộ ‘giải cứu’ lái xe vi phạm nồng độ cồn
+   Tranh biếm hoạ
 
-Chủ tịch Hà Nội nghiêm cấm cán bộ ‘giải cứu’ lái xe vi phạm nồng độ cồn
-
-   Thời sự
-
-   Sau sự cố hiện trường vụ cứu nạn bé 10 tuổi, mời chuyên gia Nhật đến hỗ
-   trợ
-
-Sau sự cố hiện trường vụ cứu nạn bé 10 tuổi, mời chuyên gia Nhật đến hỗ trợ
-
-   Thời sự
-
-   Đường sắt muốn 'hút khách' phải nâng cao chất lượng phục vụ
-
-Đường sắt muốn 'hút khách' phải nâng cao chất lượng phục vụ
-
-   Thời sự
-
-   Tân Phó Thủ tướng Trần Hồng Hà: Với tôi tài nguyên, môi trường là trách
-   nhiệm suốt đời
-
-Tân Phó Thủ tướng Trần Hồng Hà: Với tôi tài nguyên, môi trường là trách nhiệm
-suốt đời
-
-   Chính trị
-
-   Hiện trường vụ bé gái 3 tuổi rơi xuống cống ở Bắc Giang
-
-Hiện trường vụ bé gái 3 tuổi rơi xuống cống ở Bắc Giang
-
-   Thời sự
-
-   (BUTTON) Xem thêm icon-loading
-
-Quốc phòng
-
-   [loading.svg]
-
-Nữ sĩ quan Việt Nam đầu tiên làm việc tại Phái bộ Huấn luyện Liên minh châu
-Âu
-
-   Thượng tướng Bế Xuân Trường làm Chủ tịch Hội Cựu chiến binh Việt Nam
-   Thượng tướng Bế Xuân Trường làm Chủ tịch Hội Cựu chiến binh Việt Nam
-   Tổng Bí thư: Hội Cựu chiến binh cần phát huy công tác giáo dục truyền
-   thống cho thế hệ trẻ Tổng Bí thư: Hội Cựu chiến binh cần phát huy công
-   tác giáo dục truyền thống cho thế hệ trẻ
-   Tổng Bí thư dự khai mạc Đại hội Hội Cựu chiến binh Việt Nam Tổng Bí thư
-   dự khai mạc Đại hội Hội Cựu chiến binh Việt Nam
-
-Môi trường
-
-   [loading.svg]
-
-Xây dựng sân bay Long Thành bụi vượt 18 lần, chủ đầu tư nói gì?
-
-   Nông dân Nghệ An sưởi ấm đàn gia súc tiền tỷ Nông dân Nghệ An sưởi ấm
-   đàn gia súc tiền tỷ
-   Nghìn tấn rác đổ giữa rừng Hòa Bình đã được lãnh đạo tỉnh đồng ý Nghìn
-   tấn rác đổ giữa rừng Hòa Bình đã được lãnh đạo tỉnh đồng ý
-   Đề xuất sáp nhập nhiều đơn vị thuộc Tổng cục Khí tượng thủy văn Đề xuất
-   sáp nhập nhiều đơn vị thuộc Tổng cục Khí tượng thủy văn
-
-Chống tham nhũng
-
-   [loading.svg]
-
-Những bước tiến mới trong công cuộc phòng chống tham nhũng, tiêu cực
-
-   Phân loại xử lý các đối tượng liên quan vụ án Việt Á trong năm 2023
-   Phân loại xử lý các đối tượng liên quan vụ án Việt Á trong năm 2023
-   Thủ tướng thành lập BCĐ xây dựng Chiến lược quốc gia phòng, chống tham
-   nhũng Thủ tướng thành lập BCĐ xây dựng Chiến lược quốc gia phòng, chống
-   tham nhũng
-   Công an điều tra vụ cấp đất giá 'bèo' rồi lãnh đạo mua lại ở Quảng Trị
-   Công an điều tra vụ cấp đất giá 'bèo' rồi lãnh đạo mua lại ở Quảng Trị
-
-Quốc hội
-
-   [loading.svg]
-
-Các ông Trần Hồng Hà, Trần Lưu Quang làm Phó Thủ tướng
-
-   Bí thư đất Cảng trở thành Phó Thủ tướng Chính phủ Bí thư đất Cảng trở
-   thành Phó Thủ tướng Chính phủ
-   Quá trình trở thành Phó Thủ tướng của ông Trần Hồng Hà Quá trình trở
-   thành Phó Thủ tướng của ông Trần Hồng Hà
-   7 địa phương đề nghị giảm dự toán vay lại hơn 1.500 tỷ đồng 7 địa
-   phương đề nghị giảm dự toán vay lại hơn 1.500 tỷ đồng
-
-[mucvideo.svg] video
-
-   IFRAME: https://embed.vietnamnet.vn/v/006FPL.html
-
-Văn Lâm ráo riết tìm bố trên sân Mỹ Đình sau chiến thắng trước Myanmar
-
-   video 16x9 [play-button.svg]
-
-TP.HCM: Nam sinh năm 3 tử vong trên đường đi làm thêm về nhà
-
-   video 16x9 [play-button.svg]
-
-Dùng ngón chân ghép thay ngón tay cho bệnh nhân bị tai nạn lao động
-
-   video 16x9 [play-button.svg]
-
-TP.HCM: Diễn tập cứu 20 người mắc kẹt trong đám cháy căng tin
-
-   video 16x9 [play-button.svg]
-
-Người đàn ông dựng tượng vợ quá cố để ở nhà, chăm sóc y như người thật
-
-     * vpremium-menu-logo
-     * Chính trị
-     * Công nghệ số và Truyền thông
-     * Tuần Việt Nam
-     * Thời sự
-     * Kinh doanh
-     * Giải trí
-     * Thế thao
-     * Sức khỏe
-     * Đời sống
-     * Giáo dục
-     * Thế giới
-     * Pháp luật
-     * Ô tô xe máy
-     * Bất động sản
-     * Du lịch
-     * Bạn đọc
-     * Video
-     * English
-     * Hồ sơ
-     * Talks
-     * Multimedia
-     * Ảnh
-     * Toàn văn
-     * Dân tộc - Tôn giáo
-     * Giảm nghèo bền vững
-     * Thị trường tiêu dùng
-     * Công nghiệp hỗ trợ
-     * Bảo vệ người tiêu dùng
-     * Tải app VietNamNet
+   Về RFA
+     * Sứ mệnh
      * Tuyển dụng
-     * Liên hệ tòa soạn
-     * Liên hệ quảng cáo
+     * Liên hệ
 
-     * Tin nóng
-     * Tuyến bài
-     * Tin tức 24h
-     * Sự kiện
+     * [header_manlink-black.png]
+     * [header_canlink-black.png]
+     * [header_burlink-black.png]
+     * [header_korlink-black.png]
+     * [header_laolink-black.png]
+     * [header_khmlink-black.png]
+     * [header_tiblink-black.png]
+     * [header_uyglink-black.png]
+     * [header_vielink-black.png]
+     * [header_englink-black.png]
 
-     * Cơ quan chủ quản: Bộ Thông tin và Truyền thông
-     * Số giấy phép: 09/GP - BTTTT, cấp ngày 07/01/2019
-     * Tổng biên tập: Nguyễn Văn Bá
+   Search __________________ Submit
+   Advanced Search…
 
-     * Tòa soạn: Tòa nhà C'Land - 156 Xã Đàn 2,
-     * Đống Đa, Hà Nội
-     * Hotline: 19001081 (8h-20h) | 0923457788 (ngoài giờ HC)
-     * © 1997 Báo VietNamNet. All rights reserved.
-     * Chỉ được phát hành lại thông tin từ website này khi có sự đồng ý
-       bằng văn bản của báo VietNamNet.
+   []
 
-   Tải ứng dụng Độc giả gửi bài
+Hàng ngàn công nhân đình công ở Hà Nội
 
-   Trở lại đầu trang
+   Hàng ngàn công nhân của nhà máy Canon liên doanh với Nhật Bản tại khu
+   công nghiệp Bắc Thăng Long, Hà Nội đã đình công đòi chủ tăng lương và
+   cải thiện điều kiện làm việc.
+   Việt Hà, phóng viên RFA, Bangkok
+   2012.06.07
+   Share on WhatsApp
+   Share on WhatsApp
+   Các công nhân đã bao vây,chặn lối ra vào Cty đòi tăng lương, giảm giờ
+   làm Các công nhân đã bao vây,chặn lối ra vào Cty đòi tăng lương, giảm
+   giờ làm
+   Source kienthuc.net
+   canon-vh.mp3
+   Phần âm thanh Tải xuống âm thanh
 
-   [detail?id=823946&w=000003]
+
+   Vào khoảng 4 giờ sáng ngày 7 tháng 6, hàng ngàn công nhân ca đêm của
+   nhà máy Canon ở khu công nghiệp Bắc thăng Long, Hà Nội đã đồng loạt
+   đình công để yêu cầu chủ tăng lương, giảm giờ làm và cải thiện điều
+   kiện làm việc.
+
+   Một nữ công nhân giấu tên thuộc nhà máy Canon cho chúng tôi biết thông
+   tin như sau:
+
+   "Phòng nào cũng có công nhân đình công hết vì không tăng lương. Từ  4
+   giờ tụi em nhận được thông tin từ bạn là đình công, nên sáng nay bọn em
+   đi làm còn bị những người đình công ngăn cản không cho vào công ty. Tụi
+   em đi làm đều phải về hết,  không dám vào làm".
+
+   Các công nhân ca đêm của nhà máy Canon bắt đầu ca làm việc của mình từ
+   9 giờ tối và kết thúc vào 6 giờ sáng. Nhưng vào 4 giờ sáng ngày 7 tháng
+   6, toàn bộ công nhân ca này đã đồng loạt ngừng làm việc và hô hào yêu
+   cầu được tăng lương và cải thiện điều kiện làm việc.
+
+   Sau đó các công nhân này đã tập trung phía bên ngoài cổng nhà máy từ
+   sáng sớm cho đến tận chiều ngày 7 tháng 6 vẫn chưa giải tán.
+
+   Nữ công nhân giấu tên cho biết phần đông các công nhân của nhà máy
+   Canon đều bất bình về điều kiện làm việc của nhà máy đưa ra cho công
+   nhân.
+
+     Lương công nhân tụi em quá thấp, sản lượng tăng mà áp lực nhiều nên
+     mọi người mới đình công.
+
+     Nữ công nhân
+
+   "Lương cơ bản của tụi em bây giờ mới có 2,450,000 đồng, trước Canon là
+   lương cao nhất khu công nghiệp mà bây giờ là thấp nhất khu công nghiệp.
+   Đợt vừa rồi nhà nước có chính sách bảo tăng lương nhưng công ty em
+   quyết định trong năm nay không tăng nên mới có đình công. Lương công
+   nhân tụi em quá thấp, Các công nhân Cty Canon tập trung để đình công
+   mỗi lúc mỗi đông trước trụ sở Cty vào lúc 8 giờ sáng ngày 7 tháng 6,
+   2012. Source kienthuc.net Các công nhân Cty Canon tập trung để đình
+   công mỗi lúc mỗi đông trước trụ sở Cty vào lúc 8 giờ sáng ngày 7 tháng
+   6, 2012. Source kienthuc.net Source kienthuc.net sản lượng tăng mà áp
+   lực nhiều nên mọi người mới đình công".
+
+   Vào ngày 1 tháng 5 năm 2012, Việt nam áp dụng mức lương tối thiểu mới
+   cho công nhân viên chức hưởng lương nhà nước, theo đó mức lương tối
+   thiểu của đối tượng này được tăng thêm 26,5%.
+
+   Tuy nhiên công nhân các nhà máy ngoài nhà nước và liên doanh không
+   thuộc đối tượng điều chỉnh tăng lương đợt này. Năm 2011, Việt nam đã có
+   một đợt tăng mức lương tối thiểu cho các công nhân thuộc các doanh
+   nghiệp ngoài nhà nước theo nghị định 70/2011/NĐ-CP.
+
+   Nghị định này chia ra 4 mức lương tối thiểu theo vùng, vùng cao nhất là
+   2 triệu đồng một tháng và vùng thấp nhất là 1,400,000 đồng một tháng.
+   Mức này sẽ được giữ nguyên cho đến hết năm 2012.
+
+   Liên quan đến vụ đình công tại nhà máy Canon, đài RFA đã tìm cách liên
+   hệ với phòng nhân sự của nhà máy nhưng không nhận được câu trả lời.
+   Nhân viên trực phòng nói người phụ trách đang bận họp nên không thể trả
+   lời.
+
+   Trong khi đó công nhân nhà máy cho biết họ vẫn chưa nhận được một phản
+   ứng chính thức nào từ nhà máy về các yêu sách của họ.
+
+   Các cuộc đình công của công nhân các nhà máy tại Việt Nam đã trở nên
+   phổ biến trong thời gian gần đây. Nguyên nhân chủ yếu là vì lương và
+   điều kiện làm việc.
+
+   Báo cáo của Bộ Lao động thương Binh và xã hội năm 2011 cho thấy số
+   lượng các cuộc đình công trong năm đã tăng gấp đôi so với năm 2010.
+
+   Chỉ tính riêng 11 tháng đầu năm 2011 đã có hơn 800 vụ đình công. Từ năm
+   1995 đến năm 2011, cả Việt nam có khoảng hơn 4,100 vụ đình công, trong
+   đó hơn 74% các vụ đình công xảy ra tại các nhà máy có vốn đầu tư nước
+   ngoài như Đài Loan, Hàn Quốc, Nhật Bản.
+
+Tin, bài liên quan
+
+Thời Sự
+
+     * Hơn 40 ngàn lao động mất việc trước Tết - “Việt Nam cần chuẩn bị
+       cho kịch bản tệ hơn trong năm tới”
+     * Gói hỗ trợ tiền nhà trọ: Công nhân mệt mỏi vì xác nhận thủ tục
+     * Bài toán giá và lương bao giờ giải được?
+     * Liên tiếp các vụ đình công, Công đoàn Nhà nước yếu kém hay vô trách
+       nhiệm?
+     * Thảm trạng công nhân Việt Nam ở Serbia và vai trò của công ty môi
+       giới
+
+Bài được đọc nhiều nhất
+
+RFA
+
+   Chỉ đạo giao đấu trên sân Ba Đình là... “đỉnh của đỉnh”?
+     * Chỉ đạo giao đấu trên sân Ba Đình là... “đỉnh của đỉnh”?
+     * Hai Phó Thủ tướng bị thôi chức: "Công tác nhân sự phải là việc của
+       toàn dân!"
+     * Vụ Trịnh Xuân Thanh: bị cáo thứ hai bác bỏ cáo buộc khiến toà Đức
+       trưng nhiều bằng chứng mới
+     * Đảng thanh trừng Phạm Bình Minh, liệu quan hệ Việt – Mỹ có bị ảnh
+       hưởng?
+     * Thích Tuệ Hải - thượng tọa, trụ trì, “bậc chân tu thần y” chữa tiệt
+       nọc từ HIV đến COVID
+
+Bài được đọc nhiều nhất
+
+Thời Sự
+
+   Trẻ lọt ống bê tông trong công trình xây dựng: trách nhiệm ở khâu nào?
+     * Trẻ lọt ống bê tông trong công trình xây dựng: trách nhiệm ở khâu
+       nào?
+     * Nạn “bôi trơn” bị lật tẩy dẫn đến quá tải đăng kiểm xe!
+     * Hơn 40 ngàn lao động mất việc trước Tết - “Việt Nam cần chuẩn bị
+       cho kịch bản tệ hơn trong năm tới”
+     * Nhìn lại Việt Nam năm 2022
+
+   Nhận xét
+
+   Bạn có thể đưa ý kiến của mình vào khung phía dưới. Ý kiến của Bạn sẽ
+   được xem xét trước khi đưa lên trang web, phù hợp với Nguyên tắc sử
+   dụng của RFA. Ý kiến của Bạn sẽ không xuất hiện ngay lập tức. RFA không
+   chịu trách nhiệm về nội dung các ý kiến. Hãy vui lòng tôn trọng các
+   quan điểm khác biệt cũng như căn cứ vào các dữ kiện của vấn đề.
+   Tên
+   ____________________
+   Nhận xét
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Captcha
+
+   IFRAME:
+   https://www.google.com/recaptcha/api/fallback?k=6Lf_TyMTAAAAAEMn_3fTLEz
+   Kgt74y1XGDX4bsH3a&hl=en
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Nhận xét Bỏ
+
+   Mục định hướng
+
+     * Hàng ngàn công nhân đình công ở Hà Nội
+
+Nội dung
+
+   Trang chính
+   Tin tức
+   Thời Sự
+   Bình luận
+   Chuyên mục
+   Video
+   Tranh biếm họa
+
+Ngôn ngữ
+
+   [footer_manlink.png]
+   [footer_canlink.png]
+   [footer_burlink.png]
+   [footer_korlink.png]
+   [footer_laolink.png]
+   [footer_khmlink.png]
+   [footer_tiblink.png]
+   [footer_uyglink.png]
+   [footer_englink.png]
+
+Nghe
+
+   Schedule
+   Frequencies
+   Podcasts
+
+Xem
+
+   Chương trình Podcast
+   Tranh biếm họa
+
+Đăng ký
+
+   RSS News Feeds
+   Email Alerts
+
+Liên kết
+
+   Youtube
+   Facebook
+   Twitter
+   Instagram
+   Vượt tường lửa
+   Gửi tin cho chúng tôi
+
+Về RFA
+
+   Sứ mệnh
+   Nguyên tắc sử dụng
+   Quyền riêng tư
+   Trợ giúp
+   Tuyển dụng
+
+Liên hệ
+
+Địa chỉ
+
+   Radio Free Asia
+   2025 M Street NW
+   Suite 300
+   Washington, DC
+   20036 USA
+
+Điện thoại
+
+   1 (202) 530-4900
+
+Email
+
+   vietweb@rfa.org
+   © 2022 Đài Á Châu Tự Do

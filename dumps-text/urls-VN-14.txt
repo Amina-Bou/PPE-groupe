@@ -1,508 +1,328 @@
-   #alternate RSS Feed for Hàng ngàn công nhân lao động đình công ở miền
-   Trung đã đi làm trở lại
 
-   Đường dây nóng: 0866.59.4498 - Thứ sáu 06/01/2023 06:21
-   English edition ____________________ (BUTTON)
-   Báo Công Thương điện tử, kinh tế, chính trị, xã hội
-     * Công thương TV
-     * Đọc báo in
-     * Kinh tế Việt Nam
-     * Vietnam Economic News
+   REFRESH(300 sec):
+   https://www.nguoi-viet.com/viet-nam/cong-nhan-dinh-cong-it-duoc-dua-tin
+   -tai-viet-nam/
+   #Nguoi Viet Online » Feed Nguoi Viet Online » Comments Feed Nguoi Viet
+   Online » Công nhân đình công ít khi được truyền thông CSNV loan tin
+   Comments Feed alternate alternate alternate
 
-     * Báo Công Thương điện tử, kinh tế, chính trị, xã hội
-     * Thời sự
-          + Trong nước
-          + Diễn đàn
-     * Công Thương 24h
-          + Quan sát - Bình luận
-          + Công Thương và công luận
-     * Quản lý thị trường
-     * Thương mại
-          + Xuất nhập khẩu
-          + Xúc tiến thương mại
-          + Phòng vệ thương mại
-          + Thương mại điện tử
-          + Thương hiệu quốc gia
-          + Xuất xứ hàng hóa
-     * Công nghiệp
-          + Công nghiệp nhẹ
-          + Công nghiệp nặng
-          + Khuyến công
-          + Công nghiệp Hỗ trợ
-          + Công nghiệp quốc phòng
-     * Pháp luật - Điều tra
-     * Thị trường
-          + Giá cả
-          + Nông sản
-          + Hàng hóa
-          + Thị trường miền núi
-     * Năng lượng
-          + Điện
-          + Than
-          + Dầu khí
-          + Năng lượng tái tạo
-          + An ninh năng lượng
-     * Hội nhập - Quốc tế
-          + Quốc tế
-          + Các hiệp định thương mại
-          + Thông tin thương vụ
-     * Tiêu dùng - Khuyến mại
-          + Khuyến mại
-          + Sản phẩm mới
-          + Bảo vệ người tiêu dùng
-          + An toàn thực phẩm
-     * Bạn đọc
-          + Hộp thư - Đường dây nóng
-          + Nhắn tin - Hồi âm
-          + Ý kiến bạn đọc
-     *
+     * TV
+     * HOA KỲ
+     * LITTLE SAIGON
+          + SINH HOẠT CỘNG ĐỒNG
+          + CỘNG ĐỒNG
+          + PHÓNG SỰ
+          + NGƯỜI VIỆT TRẺ
+          + NHÀ HÀNG & MÓN ĂN
+          + THƯƠNG MẠI ĐÓ ĐÂY
+          + ĐI ĐẾN TƯƠNG LAI
+     * VIỆT NAM
+     * THẾ GIỚI
+     * ĐỜI SỐNG
+          + KHOA HỌC
+          + SỨC KHỎE
+          + THUẾ & PHÁP LÝ
+          + DI TRÚ
+          + DU LỊCH
+     * XE HƠI
+          + 1001 CHUYỆN XE HƠI
+          + BẢO TRÌ XE
+          + BÍ QUYẾT LÁI XE
+          + ĐƯỜNG TỚI TƯƠNG LAI
+          + VIDEO XE HOI
+     * MORE
+          + PHỤ NỮ
+               o KIẾN THỨC TỔNG QUÁT
+               o LÀM ĐẸP
+               o MẸO VẶT
+               o BÁC SĨ ƠI
+               o BIẾT TỎ CÙNG AI
+               o VIẾT CHO NHAU
+          + GIẢI TRÍ
+               o CHUYỆN SHOWBIZ
+               o CUỐI TUẦN XEM GÌ
+               o PHIM ẢNH VÀ ÂM NHẠC
+          + NHÀ ĐẤT
+               o MUA BÁN – ĐẦU TƯ
+               o SỮA CHỮA – TÂN TRANG
+               o CẦN BIẾT – NHÀ ĐẤT
+          + THỂ THAO
+          + TIN ẢNH
+          + BÌNH LUẬN
+          + DIỄN ĐÀN
+          + CỰU CHIẾN BINH
+          + VĂN HỌC NGHỆ THUẬT
+          + BẠN ĐỌC VIẾT
+          + VƯỜN THƠ NGƯỜI VIỆT
+          + CHÚC MỪNG – TIN VUI
+          + PHÂN ƯU
+          + CÁO PHÓ
+          + CẢM TẠ
+          + TƯỞNG NHỚ
+          + RAO VẶT
+          + GHI DANH NEWSLETTER
 
-   Thời sự Trong nước Diễn đàn
-   Công Thương 24h Quan sát - Bình luận Công Thương và công luận
-   Công Thương TV Thời sự Thương mại Xã hội Doanh nghiệp Chính sách - Đối
-   thoại Chuyển động Công Thương Đó đây
-   Quản lý thị trường
-   Thương mại Xuất nhập khẩu Xúc tiến thương mại Phòng vệ thương mại
-   Thương mại điện tử Thương hiệu quốc gia Xuất xứ hàng hóa
-   Công nghiệp Công nghiệp nhẹ Công nghiệp nặng Khuyến công Công nghiệp Hỗ
-   trợ Công nghiệp quốc phòng
-   Pháp luật - Điều tra
-   Thị trường Giá cả Nông sản Hàng hóa Thị trường miền núi
-   Tài chính Ngân hàng Chứng khoán Đầu tư Bảo hiểm
-   Bất động sản
-   Năng lượng Điện Than Dầu khí Năng lượng tái tạo An ninh năng lượng
-   Hội nhập - Quốc tế Quốc tế Các hiệp định thương mại Thông tin thương vụ
-   Tiêu dùng - Khuyến mại Khuyến mại Sản phẩm mới Bảo vệ người tiêu dùng
-   An toàn thực phẩm
-   Doanh nghiệp - Doanh nhân Doanh nghiệp vì Người tiêu dùng Thông tin
-   doanh nghiệp Doanh nhân
-   Xe và Công nghệ Tin ô tô - xe máy Thử xe Khám phá Công nghệ mới Cuộc
-   sống số
-   Xã hội Nông nghiệp - nông thôn Giáo dục - Đào tạo Sức khỏe Việc làm Môi
-   trường Phát triển bền vững
-   Bạn đọc Hộp thư - Đường dây nóng Nhắn tin - Hồi âm Ý kiến bạn đọc
-   Văn hóa - Giải trí Du lịch Giải trí Văn hóa Thể thao
-   Địa phương Tỉnh - thành 24h Phát triển kinh tế
-   Dân tộc thiểu số & Miền núi Vùng cao đổi mới Hỏi - Đáp Đời sống vùng
-   miền
-   Tự hào hàng Việt Nam - Tinh hoa hàng Việt Nam Mỗi xã phường một sản
-   phẩm-OCOP Tinh hoa hàng Việt Nam
-   Vòng xoay khởi nghiệp
-   [INS: :INS]
+   Search ____________________
 
-     * Xã hội
+   Logo
+   Logo
+   Thursday, January 5, 2023
+     * ABOUT US
+     * NV SHOP
+     * THƯ VIỆN
+     * RAO VẶT
+     * CÁO PHÓ
+     * LEGAL NOTICE
 
-Hàng ngàn công nhân lao động đình công ở miền Trung đã đi làm trở lại
+   Facebook
+   Youtube
+   Logo
+     * TV
+     * HOA KỲ
+     * LITTLE SAIGON
+          + SINH HOẠT CỘNG ĐỒNG
+          + CỘNG ĐỒNG
+          + PHÓNG SỰ
+          + NGƯỜI VIỆT TRẺ
+          + NHÀ HÀNG & MÓN ĂN
+          + THƯƠNG MẠI ĐÓ ĐÂY
+          + ĐI ĐẾN TƯƠNG LAI
+     * VIỆT NAM
+     * THẾ GIỚI
+     * ĐỜI SỐNG
+          + KHOA HỌC
+          + SỨC KHỎE
+          + THUẾ & PHÁP LÝ
+          + DI TRÚ
+          + DU LỊCH
+     * XE HƠI
+          + 1001 CHUYỆN XE HƠI
+          + BẢO TRÌ XE
+          + BÍ QUYẾT LÁI XE
+          + ĐƯỜNG TỚI TƯƠNG LAI
+          + VIDEO XE HOI
+     * MORE
+          + PHỤ NỮ
+               o KIẾN THỨC TỔNG QUÁT
+               o LÀM ĐẸP
+               o MẸO VẶT
+               o BÁC SĨ ƠI
+               o BIẾT TỎ CÙNG AI
+               o VIẾT CHO NHAU
+          + GIẢI TRÍ
+               o CHUYỆN SHOWBIZ
+               o CUỐI TUẦN XEM GÌ
+               o PHIM ẢNH VÀ ÂM NHẠC
+          + NHÀ ĐẤT
+               o MUA BÁN – ĐẦU TƯ
+               o SỮA CHỮA – TÂN TRANG
+               o CẦN BIẾT – NHÀ ĐẤT
+          + THỂ THAO
+          + TIN ẢNH
+          + BÌNH LUẬN
+          + DIỄN ĐÀN
+          + CỰU CHIẾN BINH
+          + VĂN HỌC NGHỆ THUẬT
+          + BẠN ĐỌC VIẾT
+          + VƯỜN THƠ NGƯỜI VIỆT
+          + CHÚC MỪNG – TIN VUI
+          + PHÂN ƯU
+          + CÁO PHÓ
+          + CẢM TẠ
+          + TƯỞNG NHỚ
+          + RAO VẶT
+          + GHI DANH NEWSLETTER
 
-   Hoàng Trinh
+   ____________________ (BUTTON) Search
+   Logo
+     * TV
+     * HOA KỲ
+     * LITTLE SAIGON
+          + SINH HOẠT CỘNG ĐỒNG
+          + CỘNG ĐỒNG
+          + PHÓNG SỰ
+          + NGƯỜI VIỆT TRẺ
+          + NHÀ HÀNG & MÓN ĂN
+          + THƯƠNG MẠI ĐÓ ĐÂY
+          + ĐI ĐẾN TƯƠNG LAI
+     * VIỆT NAM
+     * THẾ GIỚI
+     * ĐỜI SỐNG
+          + KHOA HỌC
+          + SỨC KHỎE
+          + THUẾ & PHÁP LÝ
+          + DI TRÚ
+          + DU LỊCH
+     * XE HƠI
+          + 1001 CHUYỆN XE HƠI
+          + BẢO TRÌ XE
+          + BÍ QUYẾT LÁI XE
+          + ĐƯỜNG TỚI TƯƠNG LAI
+          + VIDEO XE HOI
+     * MORE
+          + PHỤ NỮ
+               o KIẾN THỨC TỔNG QUÁT
+               o LÀM ĐẸP
+               o MẸO VẶT
+               o BÁC SĨ ƠI
+               o BIẾT TỎ CÙNG AI
+               o VIẾT CHO NHAU
+          + GIẢI TRÍ
+               o CHUYỆN SHOWBIZ
+               o CUỐI TUẦN XEM GÌ
+               o PHIM ẢNH VÀ ÂM NHẠC
+          + NHÀ ĐẤT
+               o MUA BÁN – ĐẦU TƯ
+               o SỮA CHỮA – TÂN TRANG
+               o CẦN BIẾT – NHÀ ĐẤT
+          + THỂ THAO
+          + TIN ẢNH
+          + BÌNH LUẬN
+          + DIỄN ĐÀN
+          + CỰU CHIẾN BINH
+          + VĂN HỌC NGHỆ THUẬT
+          + BẠN ĐỌC VIẾT
+          + VƯỜN THƠ NGƯỜI VIỆT
+          + CHÚC MỪNG – TIN VUI
+          + PHÂN ƯU
+          + CÁO PHÓ
+          + CẢM TẠ
+          + TƯỞNG NHỚ
+          + RAO VẶT
+          + GHI DANH NEWSLETTER
 
-Hoàng Trinh
+   More
 
-   Xã hội 16/02/2022 14:48 Theo dõi Congthuong.vn trên
-   Trong gần 2 tuần sau Tết Nguyên đán, tại các tỉnh miền Trung liên tiếp
-   xảy ra các vụ đình công tập thể với số lượng lên đến hàng nghìn lao
-   động của các công ty điện tử, may mặc ở Nghệ An và Hà Tĩnh ngừng việc,
-   yêu cầu tăng lương, giải quyết một số quyền lợi.
+Công nhân đình công ít khi được truyền thông CSNV loan tin
 
-   Liên tiếp các vụ đình công
+   June 13, 2022
+   Facebook
+   Twitter
+   Email
+   Print
 
-   Từ ngày 7 - 15/2, tại các tỉnh miền Trung đầu tiên là nghệ An, rồi đến
-   Hà Tĩnh liên tục 4 vụ đình công với số lượng hàng ngàn công nhân lao
-   động.
+   SÀI GÒN, Việt Nam (NV) – Các cuộc đình công tranh đấu quyền lợi lao
+   động rất ít khi được truyền thông của nhà cầm quyền CSVN đưa tin.
 
-   Cụ thể, tại Nghệ An, sáng ngày 7/2 Công ty TNHH Viet Glory đóng trên
-   địa bàn xã Diễn Trường huyện Diễn Châu (Nghệ An), hơn 2.500 công nhân
-   lao động đã đồng loạt đình công đòi quyền lợi. Ngay mới chiều qua, sau
-   giờ nghỉ trưa (ngày 15/2), hàng ngàn công nhân của Công ty CP Nam Thuận
-   Nghệ An đóng tại xã Diễn Mỹ, huyện Diễn Châu, và Công ty TNHH Em - Tech
-   đóng tại phường Vinh Tân, TP. Vinh, (Nghệ An).
+   Cuối tuần qua, bản tin điện tử của Đài VOV cho hay tại tỉnh bình Dương,
+   từ đầu năm 2022 đến nay đã xảy ra 18 vụ đình công tại địa phương. Hầu
+   hết đều xảy ra tại các xí nghiệp vốn đầu tư nước ngoài. Hiếm hoi những
+   vụ đình công vừa kể được báo chí địa phương theo dõi và đưa tin.
 
-   Tại Hà Tĩnh chiều cùng ngày, hơn 200 trong tổng số hơn 2.000 công nhân
-   Công ty Haivina, đóng tại Cụm công nghiệp Nam Hồng, phường Đậu Liêu,
-   thị xã Hồng Lĩnh (Hà Tĩnh) đã đình công tập thể để đòi quyền lợi.
-   Hàng ngàn công nhân lao động đình công ở miền Trung đã đi làm trở lại
-   Công nhân của Haivina Hồng Lĩnh ngừng việc chiều 15/2
+   Công nhân đình công tại một xí nghiệp trong tỉnh Bình Dương. (Hình:
+   VOV)
 
-   Được biết nguyên nhân dẫn đến đình công là bởi công nhân liên quan đến
-   việc tăng lương, phụ cấp, tiền nghỉ phép, tiền thưởng...
+   Để tránh né sự “nhạy cảm” chính trị, đài VOV không gọi đó là các vụ
+   đình công mà gọi là “tranh chấp lao động tập thể.”
 
-   Tại Công ty TNHH Viet Glory vào ngày 7/2, công nhân đình công đã đưa ra
-   11 kiến nghị đối với chủ lao động. Trong tăng lương, bổ sung phụ cấp
-   thâm niên, phụ cấp độc hại, điều chỉnh tem (phiếu) lương... cũng như
-   nội dung liên quan đến văn hóa ứng xử giữa cán bộ quản lý và người lao
-   động.
+   Số người tham gia vào các vụ đình công đó thấy được nói khoảng 10,700
+   người và xảy ra phần lớn tại các xí nghiệp sản xuất đồ gỗ với chín vụ
+   đình công. VOV còn nói rằng các vụ “tranh chấp lao động tập thể” đang
+   “có xu hướng tăng.”
 
-   Hay, chiều ngày 15/2 công nhân Công ty TNHH Em - Tech Nghệ An đã kiến
-   nghị Ban lãnh đạo công ty: Tăng lương kỳ hạn hằng năm theo cấp bậc,
-   thâm niên công tác; bổ sung phụ cấp; cải thiện chế độ ăn hàng ngày để
-   đảm bảo sức khỏe cho công nhân làm việc; thực hiện tốt xét nghiệm cho
-   công nhân…
+   Nguồn tin trên đổ vạ cho các vụ đình công “có xu hướng tăng” do “hành
+   vi vi phạm pháp luật” của cả giới chủ nhân cũng như giới công nhân.
 
-   Chiều cùng ngày, tại dây chuyền may của Công ty Cổ phần Nam Thuận Nghệ
-   An đóng tại xã Diễn Mỹ cũng đã phản đối bằng cách dưng việc tập thể.
-   Bước đầu, 14 kiến nghị của người lao động được trình lên bộ phận quản
-   lý, trong đó có vấn đề: Tăng lương không công bằng giữa các bộ phận
-   khác nhau, yêu cầu tăng phụ cấp xăng xe, không trừ các khoản phụ cấp
-   trong tháng một cách vô lý, không trừ tiền nghỉ phép vào tiền thưởng
-   tháng 13...
+   Giới chủ xí nghiệp bị cho là “không chấp hành đúng pháp luật lao động,
+   Luật Công Đoàn, Luật Bảo Hiểm Xã Hội dẫn đến quyền lợi của người lao
+   động chưa được bảo đảm.” Còn giới công nhân bị cho là “thiếu hiểu biết
+   của người lao động về các quy định liên quan đến pháp luật lao động,
+   việc làm, hay do bị kích động, lôi kéo.”
 
-   Tại Hà Tĩnh, vào chiều 15/2, hơn 200 trong tổng số hơn 2.000 công nhân
-   Công ty Haivina, đóng tại Cụm công nghiệp Nam Hồng, phường Đậu Liêu,
-   thị xã Hồng Lĩnh, đề nghị tăng lương, trả tiền hỗ trợ Covid-19 và đảm
-   bảo một số chế độ phụ cấp...
+   Theo Luật Lao Động CSVN được thông qua năm 2019, đình công được định
+   nghĩa là “sự ngừng việc tạm thời, tự nguyện và có tổ chức của người lao
+   động nhằm đạt được yêu cầu trong quá trình giải quyết tranh chấp lao
+   động và do tổ chức đại diện người lao động có quyền thương lượng tập
+   thể là một bên tranh chấp lao động tập thể tổ chức và lãnh đạo.”
 
-   Công nhân cho biết ngừng việc để đòi quyền lợi vì lương cơ bản và các
-   chế độ thấp. Dù có đủ tiền tăng ca và phụ cấp, mỗi tháng công nhân chỉ
-   được hơn 4 triệu đồng, khó trang trải cuộc sống. "Cả tháng đi làm đầy
-   đủ cũng chỉ được thêm phụ cấp 180.000 đồng. Nếu có việc gia đình xin về
-   sớm 15-20 phút là cũng bị trừ hết tiền chuyên cần...", một nam công
-   nhân nói.
+   Tức là cuộc đình công phải do tổ chức công đoàn cầm đầu để thương lượng
+   với chủ xí nghiệp, đòi hỏi thỏa mãn các yêu sách.
 
-   Ông Đinh Văn Hồng - Phó Chủ tịch UBND thị xã Hồng Lĩnh - cho biết,
-   chính quyền địa phương đã cử cán bộ đến nắm bắt sự việc, phía doanh
-   nghiệp đang xin ý kiến của tổng công ty bên Hàn Quốc, sáng mai sẽ trả
-   lời người lao động.
+   Tuy nhiên lại không nói gì rõ rệt thế nào là đình công bất hợp pháp mà
+   chỉ liệt kê sáu trường hợp bị coi là đình công bất hợp pháp, gồm:
+   “Không thuộc trường hợp được phép đình công; Không do tổ chức đại diện
+   người lao động tổ chức và lãnh đạo đình công; Vi phạm trình tự, thủ tục
+   đình công; Khi tranh chấp lao động tập thể về lợi ích đang được cơ
+   quan, tổ chức, cá nhân có thẩm quyền giải quyết; Tiến hành đình công ở
+   những nơi không được đình công; Vẫn đình công khi đã có quyết định hoãn
+   hoặc ngừng đình công của chủ tịch ủy ban nhân dân cấp tỉnh.”
 
-   "Ngày mai chúng tôi sẽ xuống trao đổi, nắm sâu thêm hợp đồng và cam kết
-   của doanh nghiệp đối với người lao động. Địa phương mong muốn họ trả
-   lời giải quyết thấu đáo để công nhân trở lại sản xuất", ông Hồng nói.
+   Công nhân đình công tại tỉnh Nghệ An hồi Tháng Hai, 2022. (Hình:
+   VNExpress)
 
-   Trên 1.000 công nhân đình công đã đi làm trở lại
+   Vì hệ thống công đoàn hiện nay tại Việt Nam là tổ chức ngoại vi của
+   đảng CSVN, do các đảng viên của đảng cầm đầu. Họ không hề giúp giới
+   công nhân tranh đấu cho quyền lợi của mình mà chỉ làm theo lệnh đảng.
+   Cho nên, tất cả các cuộc đình công tại Việt Nam suốt bao năm qua đều do
+   chính giới công nhân lao động tự động đứng ra tiến hành nên đều bị gọi
+   là bất hợp pháp.
 
-   Trao đổi với PV Báo Công Thương, ông Phạm Đức Cường - Chủ tịch Liên
-   đoàn Lao động (LĐLĐ) huyện Diễn Châu, Nghệ An cho biết, sáng 14/2, 100%
-   công nhân Công ty TNHH Viet Glory đã đi làm lại. Hầu hết công nhân đều
-   tỏ ra phấn khởi khi các kiến nghị của mình được doanh nghiệp đáp ứng,
-   đặc biệt là tăng lương cơ bản và bổ sung chế độ phụ cấp thâm niên.
-   Hàng ngàn công nhân lao động đình công ở miền Trung đã đi làm trở lại
+   Giữa Tháng Hai vừa qua, tờ Lao Động kêu gọi có các biện pháp trừng trị
+   xứng đáng cho hàng loạt các vụ đình công xảy ra tại nhiều địa phương
+   như Nghệ An, Hà Tĩnh, Ninh Bình, Bắc Ninh,…. vì sợ “phản ứng dây
+   chuyền” dẫn đến nhiều hệ lụy nguy hiểm cho chế độ. (TN) [kn]
 
-   Sau khi chủ doanh nghiệp đồng ý tăng lương và đáp ứng các yêu cầu về
-   phúc lợi, công nhân mới đồng ý đi làm trở lại. Trong ảnh: Công nhân
-   Công ty TNHH Viet Glory đều tỏ ra phấn khởi khi đi làm trở lại
-
-   Sau 6 ngày đình công, khi tất cả kiến nghị được công ty giải quyết,
-   trong đó: Lương cơ bản được tăng 6%, phụ cấp thâm niên 30.000
-   đồng/tháng đối với công nhân làm việc từ đủ một năm, cứ mỗi năm cộng
-   thêm 30.000 đồng/tháng, sáng 14/2, công nhân Công ty TNHH Viet Glory
-   mới trở lại làm việc.
-
-   Còn tại Công ty TNHH Em - Tech Nghệ An, Ban lãnh đạo công ty đã cơ bản
-   thống nhất giải quyết các kiến nghị của công nhân sau khi báo cáo Tổng
-   công ty phía Hàn Quốc những đề đạt, nguyện vọng của công nhân. Trước
-   mắt trong tháng 3, công ty sẽ cải thiện chế độ ăn cho công nhân và thực
-   hiện tốt công tác phòng, chống dịch theo quy định của Nhà nước. Đồng
-   thời, công ty phối hợp tốt với UBND TP. Vinh, phường Vinh Tân, Ban Chỉ
-   đạo phòng, chống dịch phường, Ban Chỉ đạo thành phố để lắng nghe ý kiến
-   của công nhân nhiều hơn và giải quyết kịp thời hơn trong thời gian tới.
-
-   "Do ảnh hưởng của dịch Covid-19, lợi nhuận kinh doanh của công ty không
-   tốt và phải thuê khách sạn cho công nhân ở tại chỗ trong suốt năm 2021.
-   Vì vậy, về chế độ tiền lương, lãnh đạo Công ty TNHH Em - Tech Nghệ An
-   chưa thể tăng lương đúng kỳ hạn. Ban lãnh đạo công ty ở Việt Nam sẽ
-   tiếp tục báo cáo về phía Hàn Quốc. Sau khi có sự thống nhất, ngay cuối
-   buổi chiều qua toàn bộ người lao động đã đồng ý đi làm trở lại, ổn
-   định", ông Nguyễn Trung Dũng, Bí thư Đảng ủy phường Vinh Tân, TP. Vinh
-   cho biết.
-
-   Hiện nay, mức lương cơ bản của công nhân Công ty TNHH Em - Tech Nghệ An
-   là 3.900.000 đồng/người. Với mức lương này, công ty đã thực hiện theo
-   đúng quy định của Nhà nước. Tuy nhiên, công nhân vẫn mong muốn có mức
-   lương cơ bản cao hơn so với mức lương ban đầu mà họ nhận.
-
-   "Ở đây có sự hiểu nhầm về mức phụ cấp giữa người mới vào cũng được nhận
-   giống mức người làm lâu năm. Tuy nhiên, qua rà soát đối chiếu tại công
-   ty, những người làm lâu năm đều có mức cao hơn so với người mới vào
-   làm. Ban giám đốc công ty đã đưa vào nội dung thỏa thuận bắt đầu từ
-   tháng 3/2022 sẽ thực hiện lộ trình tăng lương cho công nhân lao động
-   theo quy định của pháp luật...", ông Thái Lê Cường, Chủ tịch Liên đoàn
-   Lao động TP. Vinh cho biết.
-
-   Vụ việc tại Công ty cổ phần Nam Thuận, (chuyên may mặc, quy mô trên
-   1.000 người) đóng tại xã Diễn Mỹ, huyện Diễn Châu, khoảng 200 công nhân
-   cũng yêu cầu tăng tiền xăng xe cùng một số khoản phụ cấp. Theo ông Phạm
-   Đức Cường, Chủ tịch Liên đoàn Lao động huyện Diễn Châu, lãnh đạo công
-   ty và chính quyền đang giải thích, vận động để công nhân hiểu rõ những
-   quy định. Hiện, các công nhân đã trở về nhà.
-
-   "Để không tái diễn các cuộc đình công tự phát, LĐLĐ huyện Diễn Châu
-   tiếp tục tổ chức tuyên truyền pháp luật lao động đến tập thể người lao
-   động và chủ sử dụng lao động để đảm bảo chấp hành đúng pháp luật lao
-   động. Đồng thời, phối hợp với các cơ quan liên quan chỉ đạo người sử
-   dụng lao động tổ chức đối thoại định kỳ theo đúng quy định của Bộ luật
-   Lao động...", ông Nguyễn Đức Cường cho hay.
-   Hoàng Trinh
-
-Bạn thấy bài viết này thế nào?
-
-   Kém ★ Bình thường ★ ★ Hứa hẹn ★★★ Tốt ★★★★ Rất tốt ★★★★★
-
-   IFRAME:
-   https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebo
-   ok.com%2Fbaocongthuong%2F&tabs=standard&width=500&height=70&small_heade
-   r=true&adapt_container_width=true&hide_cover=false&show_facepile=false&
-   appId=256691024665615
-
-   Tags:
-   Nghệ An miền Trung Công nhân đình công Hơn 2.500 công nhân ngừng việc
-   tập thể
+   Facebook
+   Twitter
+   Email
+   Print
 
 Có thể bạn quan tâm
 
-   Khu đô thị ven sông Vinh, Nghệ An: Gian nan tìm chủ đầu tư
+‘Loạn sứ quân,’ 3 ngày rồi mà Cộng Hòa chưa bầu được chủ tịch Hạ Viện
 
-Khu đô thị ven sông Vinh, Nghệ An: Gian nan tìm chủ đầu tư
+HT Thích Nguyên Trí bị đòi bồi thường tổng cộng $4.4 triệu vụ bị tố ‘sờ mó’
+trẻ em
 
-   Các điểm vui chơi tại Nghệ An quá tải trong dịp nghỉ lễ 30/4 và 1/5
+6 bộ phim đang ‘hot’ trên HBO Max những ngày đầu năm 2023
 
-Các điểm vui chơi tại Nghệ An quá tải trong dịp nghỉ lễ 30/4 và 1/5
+Bão lớn vùi dập California, ít nhất 2 người chết, gồm đứa bé 2 tuổi
 
-   Nghệ An: Chợ biên cửa khẩu quốc tế Nậm Cắn hoạt động trở lại
+Hội Các Bà Mẹ Công Giáo họp đại hội thường niên tại Orange County
 
-Nghệ An: Chợ biên cửa khẩu quốc tế Nậm Cắn hoạt động trở lại
+Thị trường việc làm Mỹ năm 2023 nhiều hứa hẹn
 
-Tin mới nhất
+MỚI CẬP NHẬT
 
-   Bình Phước: Xe cảnh sát Phòng cháy chữa cháy gặp nạn, một Thiếu úy tử
-   vong
+HT Thích Nguyên Trí bị đòi bồi thường tổng cộng $4.4 triệu vụ bị tố ‘sờ mó’
+trẻ em
 
-Bình Phước: Xe cảnh sát Phòng cháy chữa cháy gặp nạn, một Thiếu úy tử vong
+   January 5, 2023
 
-   Ngày 5/1, một chiếc xe Cảnh sát Phòng cháy chữa cháy và cứu nạn cứu hộ
-   ở Bình Phước đang đi làm nhiệm vụ thì gặp tai nạn lật xe, một Thiếu úy
-   tử vong.
-   Lãng phí 2.400 tỷ đồng in sách giáo khoa:
+6 bộ phim đang ‘hot’ trên HBO Max những ngày đầu năm 2023
 
-Lãng phí 2.400 tỷ đồng in sách giáo khoa: 'Cải lùi' giáo dục
+   January 5, 2023
 
-   Gần 2.400 tỷ đồng là con số tạm tính Thanh tra Chính phủ chỉ ra việc
-   lãng phí SGK 'dùng một lần' và dấu hiệu 'lợi ích nhóm' trong in ấn,
-   phát hành sách bài tập
-   Trao tặng 200 suất quà cho bệnh nhân bảo hiểm y tế có hoàn cảnh khó
-   khăn
+Bão lớn vùi dập California, ít nhất 2 người chết, gồm đứa bé 2 tuổi
 
-Trao tặng 200 suất quà cho bệnh nhân bảo hiểm y tế có hoàn cảnh khó khăn
+   January 5, 2023
 
-   Chiều ngày 5/1/2023, Bảo hiểm Xã hội Việt Nam đã trao tặng 200 suất quà
-   cho các bệnh nhân là người tham gia bảo hiểm y tế có hoàn cảnh khó
-   khăn.
-   Việt Nam cần thử nghiệm xây dựng thành phố thông minh thu nhỏ
+Hội Các Bà Mẹ Công Giáo họp đại hội thường niên tại Orange County
 
-Việt Nam cần thử nghiệm xây dựng thành phố thông minh thu nhỏ
+   January 5, 2023
 
-   Việt Nam có nhiều động lực để phát triển thành phố thông minh trong
-   tương lai tuy nhiên sẽ có nhiều thách thức mà chúng ta cần phải đối mặt
-   và vượt qua.
-   Sóc Trăng có tân Giám đốc Công an tỉnh
+   IFRAME:
+   https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.47855420276!
+   2d-117.96978538448543!3d33.74829754113269!2m3!1f0!2f0!3f0!3m2!1i1024!2i
+   768!4f13.1!3m3!1m2!1s0x80dd27ca4ba4688b%3A0x76e416b331b46fb0!2s14771%20
+   Moran%20St%2C%20Westminster%2C%20CA%2092683%2C%20USA!5e0!3m2!1sen!2sro!
+   4v1620084710941!5m2!1sen!2sro
 
-Sóc Trăng có tân Giám đốc Công an tỉnh
+Contact Us
 
-   Bộ trưởng Bộ Công an điều động và bổ nhiệm Đại tá Bùi Quốc Khánh - Phó
-   Cục trưởng một Cục nghiệp vụ (Bộ Công an) giữ chức Giám đốc Công an
-   tỉnh Sóc Trăng.
-   [INS: :INS]
+     * 714-892-9414
 
-Tin cùng chuyên mục
+     * 714-894-1381
 
-   Đại hội Công đoàn Trường Đại học Sao Đỏ nhiệm kỳ 2023 - 2028
+     * [email protected]
+     * [email protected]
+     * [email protected]
 
-Đại hội Công đoàn Trường Đại học Sao Đỏ nhiệm kỳ 2023 - 2028
+     * Discussion And Submission Guidelines
+     * Websites And Mobile Apps
+     * GDPR Policy
+     * Cookies Policy
+     * Privacy Policy
+     * Terms Of Service
 
-   Trường Đại học Sao Đỏ, Bộ Công Thương vừa tổ chức Đại hội Công đoàn
-   nhiệm kỳ 2023-2028, hướng tới Đại hội Công đoàn Công Thương Việt Nam
-   lần thứ IV.
-   Đoàn kiểm tra liên ngành Trung ương về an toàn thực phẩm làm việc tại
-   Tiền Giang
-
-Đoàn kiểm tra liên ngành Trung ương về an toàn thực phẩm làm việc tại Tiền
-Giang
-
-   Đoàn kiểm tra liên ngành Trung ương kiểm tra công tác bảo đảm an toàn
-   thực phẩm trong dịp Tết Quý Mão và mùa Lễ hội Xuân 2023 làm việc tại
-   Tiền Giang.
-   Cập nhật lịch nghỉ Tết Nguyên đán của học sinh 42 tỉnh thành
-
-Cập nhật lịch nghỉ Tết Nguyên đán của học sinh 42 tỉnh thành
-
-   42 tỉnh thành trên cả nước công bố lịch nghỉ Tết Nguyên đán cho học
-   sinh, trong đó, Bắc Giang, Hà Nội, Hải Phòng là địa phương có số ngày
-   nghỉ ít nhất.
-   Hải Phòng: Cứu sống bé trai sơ sinh dị tật bị bỏ rơi bên đường
-
-Hải Phòng: Cứu sống bé trai sơ sinh dị tật bị bỏ rơi bên đường
-
-   Bé trai sơ sinh bị dị tật bẩm sinh, bỏ rơi ven đường, hơi thở yếu ớt,
-   may mắn được người đi đường chuyển vào bệnh viện cấp cứu, may mắn đã
-   qua cơn nguy kịch.
-   Làng hương Quảng Phú Cầu hối hả vào vụ Tết Nguyên đán 2023
-
-Làng hương Quảng Phú Cầu hối hả vào vụ Tết Nguyên đán 2023
-
-   Về làng hương Quảng Phú Cầu vào dịp này, không ai không choáng ngợp bởi
-   những sắc đỏ tươi rực rỡ của ngàn “đóa hoa” hương trải khắp đường làng,
-   ngõ xóm.
-   Xử phạt 2.244 cơ sở sản xuất, kinh doanh vật tư nông nghiệp và nông lâm
-   thủy sản trong năm 2022
-
-Xử phạt 2.244 cơ sở sản xuất, kinh doanh vật tư nông nghiệp và nông lâm thủy
-sản trong năm 2022
-
-   Năm 2022, ngành nông nghiệp đã thực hiện thanh tra 27.574 cơ sở sản
-   xuất, kinh doanh vật tư nông nghiệp và nông lâm thủy sản, xử phạt hành
-   chính 2.244 cơ sở.
-   Vụ bé trai 10 tuổi bị nạn ở Đồng Tháp: Khẳng định không đào nhầm vị trí
-   cột bê tông
-
-Vụ bé trai 10 tuổi bị nạn ở Đồng Tháp: Khẳng định không đào nhầm vị trí cột
-bê tông
-
-   Ông Đoàn Tấn Bửu Phó, chủ tịch UBND tỉnh Đồng Tháp khẳng định không có
-   chuyện lực lượng cứu hộ đào nhầm vị trí cọc bêtông như mạng xã hội lan
-   truyền.
-   Dự thảo Luật Khám bệnh, chữa bệnh (sửa đổi): Cần làm rõ yếu tố cấu
-   thành giá khám bệnh, chữa bệnh
-
-Dự thảo Luật Khám bệnh, chữa bệnh (sửa đổi): Cần làm rõ yếu tố cấu thành giá
-khám bệnh, chữa bệnh
-
-   Dự thảo Luật lần này được chỉnh lý theo hướng làm rõ các yếu tố cấu
-   thành giá khám bệnh, chữa bệnh;các chi phí để tính giá thành toàn bộ
-   của dịch vụ khám bệnh.
-   Đại dịch Covid-19: Biến chủng phụ XBB nhiễm mới tại TP. Hồ Chí Minh
-   nguy hiểm như thế nào?
-
-Đại dịch Covid-19: Biến chủng phụ XBB nhiễm mới tại TP. Hồ Chí Minh nguy hiểm
-như thế nào?
-
-   TP. Hồ Chí Minh vừa ghi nhận sự xuất hiện biến chủng phụ XBB của
-   Omicron. Nhiều người đang lo ngại biến chủng này có lây lan nhanh và
-   khả năng chuyển bệnh nặng?
-   Tiết lộ nguồn thu nhập khủng của những "TickToker" nổi tiếng
-
-Tiết lộ nguồn thu nhập khủng của những "TickToker" nổi tiếng
-
-   Với sự phát triển của nền tảng mạng xã hội tiktok, nhiều bạn trẻ đã
-   tham gia sáng tạo nội dung đã tạo dựng được thương hiệu cá nhân, đem
-   lại nguồn thu nhập cao.
-   Giải cứu bé gái 3 tuổi sau khi rơi xuống ống cống trước nhà tại Bắc
-   Giang
-
-Giải cứu bé gái 3 tuổi sau khi rơi xuống ống cống trước nhà tại Bắc Giang
-
-   Bé gái 3 tuổi rơi xuống ống cống trước cửa nhà và bị nước cuốn trôi tại
-   Bắc Giang. Người dân phải bật nắp cống cách đó khoảng 10 m để tìm kiếm
-   và cứu nạn nhân.
-   Chuyên gia Đại học Y Hà Nội: Hướng dẫn sơ cứu người ngộ độc rượu, bia
-
-Chuyên gia Đại học Y Hà Nội: Hướng dẫn sơ cứu người ngộ độc rượu, bia
-
-   Trước thực trạng nhiều trường hợp ngộ độc rượu, PGS.TS. BS Nguyễn Quang
-   Dũng đã chia sẻ cách sơ cứu người ngộ độc rượu trước khi đưa đến bệnh
-   viện.
-   Vì sao người mắc bệnh tiểu đường nên hạn chế ăn miến dong?
-
-Vì sao người mắc bệnh tiểu đường nên hạn chế ăn miến dong?
-
-   Nhiều người có suy nghĩ miến chứa ít đường, ít năng lượng nên để giảm
-   cân đặc biệt với người mắc bệnh tiểu đường đã ăn miến thay cơm, tuy
-   nhiên đây là sai lầm.
-   Hàng loạt thuê bao MobiFone bất ngờ mất kết nối ở Hà Nội và thành phố
-   Hồ Chí Minh
-
-Hàng loạt thuê bao MobiFone bất ngờ mất kết nối ở Hà Nội và thành phố Hồ Chí
-Minh
-
-   Cuối giờ chiều 4/1, nhiều người dùng điện thoại di động tại Hà Nội và
-   TP.HCM phản ánh tình trạng thuê bao MobiFone bị mất sóng diện rộng chưa
-   rõ nguyên nhân.
-   15 Nghị định mới về Biểu thuế nhập khẩu ưu đãi đặc biệt
-
-15 Nghị định mới về Biểu thuế nhập khẩu ưu đãi đặc biệt
-
-   Văn phòng Chính phủ ngày 4/1/2022 cho biết, Chính phủ đã ban hành 15
-   nghị định quy định Biểu thuế xuất khẩu ưu đãi, Biểu thuế nhập khẩu ưu
-   đãi đặc biệt.
-   Bé trai ở Đồng Tháp rơi xuống ống trụ bê tông được xác định đã tử vong
-
-Bé trai ở Đồng Tháp rơi xuống ống trụ bê tông được xác định đã tử vong
-
-   Lãnh đạo tỉnh Đồng Tháp vừa thông tin, đến thời điểm này, cơ quan chức
-   năng tại hiện trường xác định bé trai rơi xuống ống trụ bê tông đã tử
-   vong.
-   Quy định mới về đất khu đô thị trong Quy hoạch sử dụng đất quốc gia
-
-Quy định mới về đất khu đô thị trong Quy hoạch sử dụng đất quốc gia
-
-   Dự thảo Luật Đất đai sửa đổi đang lấy ý kiến lần 2 đã đưa ra những quy
-   định mới về khoanh định đất khu đô thị trong quy hoạch, kế hoạch sử
-   dụng đất quốc gia
-   Honda Thanks Day- ấn tượng biểu diễn xe đỉnh cao lần đầu tại đường đua
-   F1 Mỹ Đình
-
-Honda Thanks Day- ấn tượng biểu diễn xe đỉnh cao lần đầu tại đường đua F1 Mỹ
-Đình
-
-   Công ty Honda Việt Nam tổ chức ngày hội Honda Thanks Day vào đầu tháng
-   1/2023 với màn biểu diễn xe đỉnh cao lần đầu tại đường đua F1 Mỹ Đình,
-   tri ân khách hàng.
-   Hà Nội: Tìm được nam thanh niên nhảy xuống hồ Thiền Quang nghi tự tử
-
-Hà Nội: Tìm được nam thanh niên nhảy xuống hồ Thiền Quang nghi tự tử
-
-   Một nam thanh niên đi xe ôm đến đối diện số nhà 70 Nguyễn Du và đi
-   thẳng xuống hồ Thiền Quang (Hà Nội) tự tử. Người dân xuống cứu nạn nhân
-   nhưng bất thành.
-   Người dân làng Tây Tựu ăn ngủ cùng hoa vào dịp cận Tết
-
-Người dân làng Tây Tựu ăn ngủ cùng hoa vào dịp cận Tết
-
-   Những ngày giữa tháng Chạp, trên cánh đồng của làng hoa Tây Tựu (quận
-   Bắc Từ Liêm, Hà Nội), người dân đang tất bật thu hoạch và chăm sóc hoa
-   dịp cận Tết.
-   Xem thêm
-   [INS: :INS]
-   gas-22-11
-   evn-2022
-   [INS: :INS]
-   [INS: :INS]
-
-     * Báo Công Thương điện tử, kinh tế, chính trị, xã hội
-     * Thời sự
-     * Công Thương 24h
-     * Quản lý thị trường
-     * Thương mại
-     * Công nghiệp
-     * Pháp luật - Điều tra
-     * Thị trường
-     * Năng lượng
-     * Hội nhập - Quốc tế
-     * Tiêu dùng - Khuyến mại
-     * Bạn đọc
-
-   ?v=2.620230104170300
-
-   Tổng biên tập: Trương Thu Hiền
-
-   Phó tổng biên tập: Nguyễn Văn Minh (phụ trách báo điện tử)
-
-   Phó tổng biên tập: Nguyễn Tiến Cường
-
-   Phó tổng biên tập: Đặng Thái Anh
-
-   ® Giấy phép hoạt động Báo điện tử số 456/GP-BTTTT do Bộ Thông tin và
-   Truyền thông cấp ngày 18/11/2013
-
-   Tòa soạn: Tầng 10-11, Tòa nhà Bộ Công Thương số 655 Phạm Văn Đồng, Bắc
-   Từ Liêm, Hà Nội.
-
-   Hotline: 0866.59.4498
-
-   Tel: 0243.936.6400 - Fax: 0243.936.6402
-
-   Email: [email protected]
-
-   Bản quyền thuộc về Báo Công Thương, chỉ được dẫn nguồn
-   khi có thỏa thuận bằng văn bản.
-   Theo dõi Congthuong.vn trên
-   Based on MasterCMS Ultimate Edition 2022 v2.9
-
-   Mobile Verion Phiên bản di động [INS: :INS]
+   © Copyright - Nguoi Viet Daily News

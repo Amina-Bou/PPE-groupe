@@ -1,603 +1,464 @@
-    #Dòng thông tin Tạp chí Kinh tế Sài Gòn » Dòng phản hồi Tạp chí Kinh
-   tế Sài Gòn » Tạp chí Kinh tế Sài Gòn » Quy định về đình công cần thực
-   tế hơn Dòng phản hồi alternate alternate alternate
+   REFRESH(1800 sec):
+   https://danviet.vn/gia-tang-cac-cuoc-dinh-cong-ngung-viec-tap-the-do-da
+   u-20220216111913043.htm
 
-     * Tiêu điểm
-     * Tài chính
-          + Ngân hàng
-          + Chứng khoán
-          + Bảo hiểm
-     * Kinh doanh
-          + Thương mại – Dịch vụ
-          + Công nghiệp – Nông nghiệp
-          + Thương mại điện tử / Kinh tế số
-     * Doanh nhân – Doanh nghiệp
-          + Chuyện làm ăn
-          + Gương mặt / Khởi nghiệp
-          + Chuyện quản trị
-     * Địa ốc
-          + Thị trường nhà đất
-          + Quy hoạch / Hạ tầng
-     * Văn hóa – Xã hội
-          + Văn hóa
-          + Xã hội
+   IFRAME: https://id.danviet.vn/user-icon.htm
+
+   etime Trang trại Việt Làng cười Thế giới tiếp thị Dân Việt Media Tâm
+   hồn làng Việt
+   Đăng nhập/ Đăng ký
+   Dân Việt
+   ____________________ (BUTTON)
+     * Nhịp cầu nhân ái
+     * [chuyen-dong-sai-gon-ngoai.png] Chuyển động Sài Gòn
+     * [ha-noi-hom-nay-ngoai.png] Hà Nội Hôm Nay
+
+     *
+     * Video
+     * Ảnh
+     * Tin tức
      * Thế giới
-          + Phân tích / Bình luận
-          + Thị trường / Doanh nghiệp
-     * Multimedia
-     * Chuyên mục khác
-          + Lăng kính
-          + Thông tin doanh nghiệp
-          + Bản tin podcasts
-          + Sự kiện – Vấn đề
+     * Nhà nông
+     * Dân Việt trò chuyện
+     * Thể thao
+     * Pháp luật
+     * Kinh tế
+     * Giáo Dục
+     * Đời sống
+     * Văn hóa - Giải trí
+     * Bạn đọc
+     * x
 
-   TÌM KIẾM ____________________
-
-                         [logo-xuan-2023-online.jpg]
-
-                         [logo-xuan-2023-online.jpg]
-
-   Thứ Sáu, 6/01/2023, 06:22
-   22 C
-   Ho Chi Minh City
-
-                         [logo-xuan-2023-online.jpg]
-
-   Facebook
-   Instagram
-   Twitter
-   Youtube
-   Tin mới
-
-   Ông Trần Hồng Hà, ông Trần Lưu Quang trở thành Phó thủ tướng Chính phủ
-
-   Mô hình quản lý nào cho cảng Liên Chiểu?
-
-   Duy Tân nhận giải Top 500 doanh nghiệp lớn nhất Việt Nam 2022
-
-   Thấy gì qua vụ tranh chấp thương hiệu của Lý Tử Thất?
-
-   Agribank dành hơn 90 tỉ đồng hỗ trợ người nghèo nhân dịp Xuân Quý Mão
-   2023
-
-   Đặt báo in
-
-   Thông tin quảng cáo
-
-   Thông tin quảng cáo
-   Tìm kiếm
-     * Tiêu điểm
-     * Tài chính
-          + Ngân hàng
-          + Chứng khoán
-          + Bảo hiểm
-     * Kinh doanh
-          + Thương mại – Dịch vụ
-          + Công nghiệp – Nông nghiệp
-          + Thương mại điện tử / Kinh tế số
-     * Doanh nhân – Doanh nghiệp
-          + Chuyện làm ăn
-          + Gương mặt / Khởi nghiệp
-          + Chuyện quản trị
-     * Địa ốc
-          + Thị trường nhà đất
-          + Quy hoạch / Hạ tầng
-     * Văn hóa – Xã hội
-          + Văn hóa
+     * Tin tức
+          + Kính đa tròng
+          + Ngày mới tốt lành
+          + Chính trị
           + Xã hội
+          + Phóng sự - Ghi chép
      * Thế giới
-          + Phân tích / Bình luận
-          + Thị trường / Doanh nghiệp
-     * Multimedia
-     * Chuyên mục khác
-          + Lăng kính
-          + Thông tin doanh nghiệp
-          + Bản tin podcasts
-          + Sự kiện – Vấn đề
+          + Nông sản độc - lạ thế giới
+          + Cộng đồng Việt
+          + Điểm nóng
+          + Hồ sơ - Tư liệu
+          + Góc chuyên gia
+          + Vũ khí - Quân sự
+     * Nhà nông
+          + Tin nông nghiệp
+          + Muôn cách làm giàu
+          + Ngon - Sạch - Lạ
+          + Thị trường nông sản
+          + Khuyến nông
+          + Nông thôn mới
+          + Chợ Việt xưa nay
+          + Địa chỉ xanh
+          + Môi trường xanh
+          + Nông dân phố
+          + Truyền thông và giảm nghèo về thông tin
+     * Thể thao
+          + Bóng chuyền
+          + Phía sau sân cỏ
+          + 360 độ Sao
+          + Bóng đá
+          + Chuyển nhượng
+          + Bên lề
+          + Các môn khác
+          + Tin nóng World Cup 2022
+          + AFF Cup 2022
+     * Pháp luật
+          + Pháp đình
+          + An ninh trật tự
+     * Kinh tế
+          + Góc nhìn chuyên gia
+          + Thị trường
+          + Đầu tư - Tài chính
+          + Nhà đất
+          + Doanh nghiệp - Doanh nhân
+     * Văn hóa - Giải trí
+          + Chuyện của Sao
+          + Thời trang
+          + Phim ảnh
+          + Âm nhạc
+          + Gameshow
+          + Đời sống văn hóa
+     * Gia đình
+          + Sống khỏe
+          + Món ngon nhà đẹp
+     * Chuyển động số
+          + Kinh tế số
+          + Nông nghiệp số
+          + Xã hội số
+          + Công nghệ số
+     * Du lịch
+          + Tin tức
+          + Món ngon - Điểm đẹp
+          + Trải nghiệm
+          + Tour hay – Khuyến mại
+          + Video - Ảnh
+     * Ô tô - Xe máy
+          + Tin ô tô - xe máy
+          + Đánh giá
+          + Bảng giá
+          + Tư vấn
+          + Mẹo vặt
+     * Đông Tây - Kim Cổ
+          + Võ thuật
+          + Danh nhân lịch sử
+          + Hồ sơ mật
+          + Bí ẩn khoa học
+          + Bí mật quân sự
+          + Thâm Cung Bí Sử
+     * Bạn đọc
+          + Tiêu dùng thông minh
+          + Kho tri thức
+          + Ý kiến bạn đọc
+          + Đường dây nóng
+          + Giải đáp pháp luật
+          + Điều tra
+     * Hội nông dân
+          + Công tác Hội
+          + Nông dân giỏi
+          + Đời sống nông thôn
+          + Ý kiến
+          + Chân dung cán bộ Hội
+     * Dân Việt trò chuyện
+     * Chuyện lạ
+     * Làng cười
+     * Doanh nghiệp
+     * Đọc sách cùng bạn
+     * Kể chuyện làng
+     * Chuyển động Sài Gòn
+          + Thời sự dân sinh
+          + Thời sự kinh doanh
+          + Sống vui
+     * Giáo Dục
+          + Học đường
+          + Tuyển sinh
+          + Du học
+          + Gương sáng
+          + Sống trẻ
+     * Đời sống
+          + Sức khoẻ
+          + Cộng đồng
+          + Lao động việc làm
+          + Tiêu dùng
+          + Nhà đẹp - Giá tốt
+     * Hà Nội hôm nay
+          + Chuyển động Hà Nội
+          + Hà Nội xưa và nay
+          + Phát triển cùng Thủ đô
 
-   ...
+     * Clip
+     * Ảnh
+     * Infographic
+     * Emagazine
+     * Về trang chủ
 
-     * Tiêu điểm
-     * Tài chính
-          + Ngân hàng
-          + Chứng khoán
-          + Bảo hiểm
-     * Kinh doanh
-          + Thương mại – Dịch vụ
-          + Công nghiệp – Nông nghiệp
-          + Thương mại điện tử / Kinh tế số
-     * Doanh nhân – Doanh nghiệp
-          + Chuyện làm ăn
-          + Gương mặt / Khởi nghiệp
-          + Chuyện quản trị
-     * Địa ốc
-          + Thị trường nhà đất
-          + Quy hoạch / Hạ tầng
-     * Văn hóa – Xã hội
-          + Văn hóa
-          + Xã hội
-     * Thế giới
-          + Phân tích / Bình luận
-          + Thị trường / Doanh nghiệp
-     * Multimedia
-     * Chuyên mục khác
-          + Lăng kính
-          + Thông tin doanh nghiệp
-          + Bản tin podcasts
-          + Sự kiện – Vấn đề
+   Chủ đề nóng
+     * Giải cứu bé 10 tuổi lọt xuống ống cọc sâu 35m ở Đồng Tháp
+     * Vua bóng đá Pele qua đời
+     * AFF Cup 2022
+     * Xét xử vụ án liên quan đến AIC và BV Đa khoa Đồng Nai
+     * Lùm xùm lễ vinh danh "nhà thơ thế giới" Tống Thu Ngân
+     * Đại biểu HĐND tỉnh bị tố đánh caddie bằng gậy golf
+     * 50 năm chiến thắng Điện Biên Phủ trên không
+     * World Cup 2022 tại Qatar
 
-   More
+     * Đăng nhập
+     * Đăng ký
+     * ×
+
+   Vui lòng đăng nhập hoặc đăng ký để gửi bình luận
+   (BUTTON) Facebook (BUTTON) Google
+   ____________________
+   ____________________
 
    Đăng nhập
-   Đăng nhập tài khoản
-   ____________________Tài khoản
-   ____________________mật khẩu của bạn
-   [BUTTON Input] (not implemented)_____________
-   Forgot your password? Get help
-   Khôi phục mật khẩu
-   Khởi tạo mật khẩu
-   ____________________email của bạn
-   [BUTTON Input] (not implemented)_____________________________
-   Mật khẩu đã được gửi vào email của bạn.
 
-   KINH DOANHThương mại - Dịch vụ
+   Email
+   ____________________
 
-Quy định về đình công cần thực tế hơn
+   Họ và tên
+   ____________________
 
-   Share
-   Facebook
-   Twitter
-   Pinterest
-   WhatsApp
+   Mật khẩu
+   ____________________
 
-   Chủ Nhật, 16/05/2010
+   Mã xác nhận
+   ____________________ Captcha refesh
 
-   Kinh tế Sài Gòn Online
-   Share
-   Facebook
-   Twitter
-   Pinterest
-   WhatsApp
+   Đăng ký
 
-   Chủ Nhật, 16/05/2010
+   Xin chào, !
 
-   Kinh tế Sài Gòn Online
+   Bạn đã đăng nhập với email:
 
-   Quy định về đình công cần thực tế hơn
+   Đăng xuất
 
-   Tuấn Hoàng
+   Đời sống
+     * Sức khoẻ
+     * Cộng đồng
+     * Lao động việc làm
+     * Tiêu dùng
+     * Nhà đẹp - Giá tốt
 
-   [379fe_dinh-cong.jpg]
-   Một vụ đình công ở TPHCM. Ảnh: Kinh Luân.
+Gia tăng các vụ đình công, ngừng việc tập thể là do đâu
 
-   (TBKTSG) – Năm 2007, chương XIV Bộ luật Lao động được sửa đổi, bổ sung
-   theo hướng đơn giản hóa các thủ tục cần thiết cho việc tổ chức một cuộc
-   đình công theo trình tự pháp luật quy định. Thế nhưng, đình công tự
-   phát vẫn xảy ra.
+​​Gia tăng các cuộc đình công, ngừng việc tập thể do đâu?
 
-   Dự thảo lần 3 Bộ luật Lao động sửa đổi cũng tiếp tục có những thay đổi,
-   tuy nhiên so với các quy định trước đây, dự thảo lần này không có sự
-   thay đổi lớn.
+   Thùy Anh Thứ tư, ngày 16/02/2022 12:20 PM (GMT+7)
+   Aa Aa+
+   Từ đầu năm 2022 đến nay, cả nước đã xảy ra 28 cuộc đình công. Nguyên
+   nhân chính được chỉ ra là do bất đồng trong chính sách chi trả lương,
+   thưởng tại doanh nghiệp. Ngoài ra, các vấn đề thiếu lao động, tình
+   trạng tăng giờ làm thêm... cũng là nguyên nhân dẫn tới việc đình công,
+   ngừng việc.
+   Bình luận 0
+     * 5.000 công nhân đình công tập thể, kéo ra đường để đòi quyền lợi
+       ngay sau Tết
+     * Ngừng việc vì lương thưởng tết: Đừng để “đốm lửa” thành “đám cháy”
+     * Hàng nghìn công nhân đình công giữa trưa, đòi tăng thưởng Tết
 
-   Quy định pháp luật về đình công: xa rời thực tế
+6 tuần đầu năm xảy ra 28 vụ đình công, ngừng việc
 
-   Những thay đổi trong quy định về điều kiện và thủ tục đình công tại
-   chương XIV Bộ luật Lao động có hiệu lực từ năm 2007 đã không đáp ứng
-   được nhu cầu của thực tế giải quyết đình công. Việc xây dựng và sửa đổi
-   luật vẫn chưa đi sâu nghiên cứu thực tiễn của hiện tượng đình công tại
-   Việt Nam. Hậu quả tất yếu là các quy định đó không được áp dụng trên
-   thực tế.
+   Thông tin từ Tổng Liên đoàn lao động Việt Nam (Tổng LĐLĐVN) cho biết,
+   từ đầu năm 2022 đến nay, cả nước xảy ra 28 cuộc tranh chấp lao động,
+   ngừng việc tập thể, giảm 7 cuộc so với cùng kỳ năm 2021.
 
-   Thứ nhất, quyền đình công chỉ được thực hiện đối với các tranh chấp về
-   lợi ích, là những tranh chấp về việc tập thể lao động yêu cầu xác lập
-   các điều kiện lao động mới hơn so với quy định của pháp luật lao động,
-   thỏa ước lao động tập thể hoặc các thỏa thuận khác với doanh nghiệp
-   (điều 157 Bộ luật Lao động 2007).
+   Mặc dù tính chất, quy mô các cuộc đình công, ngừng việc tập thể không
+   phức tạp, song nguyên nhân chủ yếu vẫn là do người lao động chưa đồng
+   tình với việc thay đổi hình thức trả lương, nâng lương định kỳ của
+   doanh nghiệp; doanh nghiệp trả thưởng thấp hơn so với tết 2021, điều
+   kiện trả thưởng…
+   đình công, ngừng việc
 
-   Những tranh chấp về quyền, là tranh chấp về việc thực hiện các quy định
-   pháp luật, thỏa ước lao động tập thể và nội quy lao động mà doanh
-   nghiệp đã đăng ký với cơ quan nhà nước, chỉ được giải quyết bởi cơ quan
-   nhà nước có thẩm quyền bao gồm: hội đồng hòa giải lao động cơ sở hoặc
-   hòa giải viên, chủ tịch ủy ban nhân dân quận, huyện và tòa án nhân dân
-   (điều 165 Bộ luật Lao động 2007).
+   Hàng nghìn công nhân Công ty TNHH Vienergy tại Ninh Bình đình công ngày
+   11/2 do không đồng tình với phương án trả lương của công ty. Ảnh: Gia
+   Ngư
 
-   Thế nhưng, có những tranh chấp mà nội dung của nó không thể xác định
-   được là tranh chấp về quyền hay tranh chấp về lợi ích.
+   Điển hình như cuộc ngừng việc tập thể kéo dài 4 ngày, xảy ra trước tết
+   tại Công ty TNHH Pouchen Việt Nam, có trụ sở tại tỉnh Đồng Nai. Có tới
+   16.158 lao động ngừng việc tập thể do không đồng ý việc công ty giảm
+   tiền thưởng cuối năm 2021 so với năm 2020 là 30%.
 
-   Đơn cử trường hợp doanh nghiệp và người lao động thỏa thuận trong thỏa
-   ước lao động tập thể về trách nhiệm của doanh nghiệp trong việc cung
-   cấp bữa ăn trưa cho người lao động.
+   Những ngày sau tết, 3 cuộc ngừng việc tập thể liên tiếp xảy ra tại Công
+   ty TNHH Viet Glory (sản xuất giày, dép) tại Nghệ An; Công ty TNHH
+   Vietnergy (Đài Loan, sản xuất giày, dép) tại Ninh Bình và tại Công ty
+   TNHH Phúc Mậu tại Thái Bình...
 
-   Khi tranh chấp giữa người lao động và doanh nghiệp xảy ra liên quan đến
-   chất lượng bữa ăn thì việc xác định đây là tranh chấp về quyền hay
-   tranh chấp lợi ích gặp rất nhiều khó khăn. Người lao động cho rằng khi
-   doanh nghiệp cố ý cung cấp bữa ăn trưa ở mức độ không thể chấp nhận
-   được thì cũng có thể xem đó là việc không thực hiện đầy đủ nghĩa vụ của
-   doanh nghiệp.
-   Sẽ chưa hợp lý nếu pháp luật trao cho Công đoàn thẩm quyền quyết định
-   đình công (bằng việc giao cho tổ chức này quyền tổ chức và lãnh đạo
-   đình công) và xem đó như điều kiện tiên quyết phải có khi xác định đình
-   công hợp pháp. Bởi lẽ với quy định này, chủ thể thực hiện quyền đình
-   công sẽ là Công đoàn mà không là người lao động.
+   Nguyên nhân là do người lao động yêu cầu tăng lương cơ bản, tăng chế độ
+   độc hại; bổ sung chế độ phụ cấp thâm niên, chế độ hỗ trợ cho người lao
+   động mắc Covid-19; phản ánh việc trả lương tháng thứ 13 theo thời gian
+   làm việc chưa công bằng. Bên cạnh đó còn có nguyên nhân thái độ của một
+   số quản lý người nước ngoài không đúng mực với người lao động.
 
-   Ngoài ra, thực tiễn giải quyết đình công cũng cho thấy rằng khi một
-   cuộc đình công xảy ra, bao giờ cũng có sự tồn tại đan xen những nội
-   dung tranh chấp về quyền và lợi ích. Điều đó dẫn đến việc phân định
-   tranh chấp về quyền và tranh chấp về lợi ích để xác định giới hạn thẩm
-   quyền giải quyết của các cơ quan và phạm vi tranh chấp được thực hiện
-   quyền đình công không có giá trị thực tiễn.
+   Ngày 16/2, thông tin từ Tổng liên đoàn Lao động Việt Nam cho biết, đơn
+   vị này vừa có công văn hỏa tốc Số 3649, do ông Phan Văn Anh - Phó chủ
+   tịch Tổng Liên đoàn Lao động Việt Nam, ký ngày 15/2 gửi Liên đoàn lao
+   động tỉnh, thành phố, Công đoàn ngành, công đoàn trung ương; Công đoàn
+   Tổng công ty trực thuộc Tổng Liên đoàn về việc Tăng cường thực hiện các
+   giải pháp phòng ngừa, giải quyết tranh chấp lao động, ngừng việc tập
+   thể.
 
-   Quy định hạn chế quyền đình công trong những tranh chấp về quyền là có
-   cơ sở, bởi lẽ đối với các tranh chấp về quyền (thể hiện đa phần ở việc
-   người lao động cho rằng người sử dụng lao động không tuân thủ quy định
-   pháp luật hoặc các thỏa thuận khác với người lao động, làm cho quyền và
-   lợi ích hợp pháp của người lao động bị ảnh hưởng) thì cơ quan nhà nước
-   có thẩm quyền hoàn toàn có thể giải quyết được trên cơ sở các quy định
-   pháp luật hoặc thỏa thuận của hai bên đã được nhà nước thừa nhận.
+   Tổng liên đoàn Lao động Việt Nam đưa ra 5 biện pháp để phòng ngừa, giải
+   quyết khi có tranh chấp lao động, hoặc ngừng việc tập thể.
 
-   Và đây cũng là trách nhiệm của các cơ quan này. Trong xã hội pháp
-   quyền, khi các chủ thể có ý thức tuân thủ pháp luật, tranh chấp về
-   quyền trở nên dễ dàng để giải quyết. Thực tế ở các nước phát triển, gần
-   như vấn đề này không còn xảy ra nhiều.
+   Ngoài các nguyên nhân trên, ông Phan Văn Anh - Phó chủ tịch Tổng Liên
+   đoàn lao động Việt Nam cho rằng còn có nguyên nhân xuất phát từ mâu
+   thuẫn do chủ sử dụng lao động không tuân thủ các quy định pháp luật của
+   doanh nghiệp đối với người lao động; không công khai, minh bạch các chế
+   độ của người lao động, thông tin của doanh nghiệp; tiền lương, tiền
+   công, thu nhập thấp, điều kiện làm việc không đảm bảo an toàn, vệ sinh
+   lao động, chất lượng bữa ăn ca kém...
 
-   Tuy nhiên, trong điều kiện kinh tế – xã hội Việt Nam hiện tại, quy định
-   như vậy là chưa thực tế bởi sự kiểm soát của các cơ quan nhà nước đối
-   với hành vi vi phạm pháp luật lao động của doanh nghiệp còn rất hạn
-   chế. Vi phạm pháp luật trong lĩnh vực lao động hiện nay xảy ra ở phạm
-   vi rộng và thường xuyên, và đây chính là một trong những nguyên nhân cơ
-   bản dẫn đến đình công tại các doanh nghiệp.
+   Trước tình hình trên, tổ chức công đoàn phối hợp cùng với các cơ quan
+   chức năng tham gia giải quyết. Với sự vận động, thuyết phục, hỗ trợ của
+   tổ chức công đoàn cùng các cơ quan chức năng, toàn bộ người lao động
+   tại các công ty đã quay trở lại làm việc.
 
-   Có nhiều nguyên nhân dẫn đến tình trạng này: hệ thống thanh tra kiểm
-   tra chưa thật sự hiệu quả, ý thức tuân thủ pháp luật còn kém và đặc
-   biệt là hệ thống chế tài chưa tương xứng với tính chất và mức độ vi
-   phạm của hành vi. Trong nhóm nguyên nhân này, nguyên nhân thứ ba là
-   quan trọng nhất vì khi khắc phục nó có thể khắc phục hai nguyên nhân
-   trước.
+   Ông Phan Văn Anh cho biết, trong năm 2022, các cấp công đoàn tiếp tục
+   xác định chủ đề của năm là "Chăm lo việc làm, đời sống cho người lao
+   động; các cấp công đoàn sẽ tiếp tục tập trung nghiên cứu đề xuất và
+   tham gia xây dựng, triển khai, giám sát việc thực hiện chính sách, pháp
+   luật liên quan đến quyền của người lao động; tổ chức thương lượng, đối
+   thoại với người sử dụng lao động để đảm bảo quyền lợi của người lao
+   động, trong đó quan tâm nội dung việc làm cho người lao động tại các
+   doanh nghiệp”.
 
-   Một chế tài được xem là hiệu quả, khi nó đảm bảo loại bỏ được ý muốn
-   thực hiện hành vi vi phạm của doanh nghiệp. Một khi lợi ích doanh
-   nghiệp thu về cao hơn nhiều so với việc gánh chịu hậu quả bất lợi,
-   doanh nghiệp sẽ tìm cách thực hiện hành vi vi phạm, và khi đó cho dù số
-   lượng thanh tra viên lao động có nhiều đến mức nào nữa cũng không thể
-   kiểm soát được hành vi vi phạm của doanh nghiệp.
+   Điều này được xem là kênh giúp hạn chế tình trạng đình công, ngừng việc
+   tự do xảy ra.
 
-   Và chính vì sự thiếu hiệu quả trong việc kiểm soát của cơ quan nhà nước
-   đối với doanh nghiệp, việc hạn chế quyền đình công của người lao động
-   như sự tự bảo vệ mình trước hành vi vi phạm của doanh nghiệp sử dụng
-   lao động đã trở nên không hợp lý và thực tế người lao động tiếp tục sử
-   dụng đình công như vũ khí chống lại sự vi phạm của người sử dụng lao
-   động dù biết đó là trái luật.
+Đình công, ngừng việc là bình thường
 
-   Thứ hai, Bộ luật Lao động nhấn mạnh vai trò của Công đoàn cơ sở, trong
-   khi thực tế việc thực hiện vai trò này còn rất hạn chế. Để được công
-   nhận là hợp pháp, đình công phải được Công đoàn cơ sở tổ chức và lãnh
-   đạo. Tại Luật sửa đổi bổ sung một số điều của Bộ luật Lao động 2007,
-   ngoài tổ chức công đoàn cơ sở, đại diện cho tập thể lao động, được tập
-   thể lao động cử ra cũng được thực hiện vai trò tổ chức và lãnh đạo đình
-   công (điều 172a). Tuy nhiên, trong dự thảo lần 3 Bộ luật Lao động sửa
-   đổi, bổ sung lần này, vai trò tổ chức và lãnh đạo đình công chỉ được
-   trao cho tổ chức Công đoàn.
+   Nhìn nhận ở góc độ khách quan hơn, chuyên gia trong lĩnh vực lao động,
+   bà Nguyễn Thị Lan Hương cho rằng việc đình công, ngừng việc là việc khá
+   bình thường ở bất cứ nền kinh tế thị trường nào.
+   đình công, ngừng việc
 
-   Thực tế, khi chỉ có hơn 20.399/300.000 doanh nghiệp ngoài quốc doanh có
-   tổ chức Công đoàn hoạt động thì việc quy định vai trò tổ chức và lãnh
-   đạo bắt buộc của Công đoàn cơ sở là một giới hạn to lớn cho việc thực
-   hiện quyền đình công tại các doanh nghiệp chưa có tổ chức công đoàn.
+   2.000 công nhân Công ty TNHH Cresyn Hà Nội (tại Bắc Ninh) đình công tập
+   thể đòi tăng lương cơ bản, tăng phụ cấp và giải quyết chế độ phúc lợi.
+   Ảnh: Quốc Hưng
 
-   Nói cách khác, quy định này đang loại hơn 80% doanh nghiệp ra khỏi phạm
-   vi các doanh nghiệp mà ở đó người lao động được đình công đúng luật.
-   Thế thì, khi người lao động muốn sử dụng vũ khí đình công, họ phải làm
-   thế nào? Có ý kiến cho rằng nên trao thẩm quyền này cho Công đoàn cấp
-   trên, tuy nhiên liệu có thực tế khi Công đoàn cấp trên không gắn liền,
-   hiểu rõ các vấn đề ở từng doanh nghiệp.
+   Bà Hương nói, dịch bệnh Covid-19 đã khiến thị trường lao động bị tác
+   động lớn. Sau một thời gian người lao động mất việc, ngừng việc, công
+   ty thì ngừng hoạt động doanh thu giảm... điều này đã khiến cho mối quan
+   hệ lao động rất căng thẳng. Vì thế, tới Tết khi các doanh nghiệp chi
+   lương, thưởng Tết, người lao động sẽ so sánh, tính toán. Nếu họ cảm
+   thấy chế độ phúc lợi, mức chi của công ty không xứng đáng họ sẵn sàng
+   đình công.
 
-   Đình công – quyền của ai?
+   Bên cạnh đó, cũng theo bà Hương, hiện nay tình trạng thiếu lao động
+   đang diễn biến phức tạp, cục bộ, nên người lao động có quyền lựa chọn
+   nơi làm việc tốt, chế độ lương thưởng cao. Vì vậy, họ có quyền ra ưu
+   sách với doanh nghiệp.
 
-   Khoản 4, điều 7, Bộ luật Lao động khẳng định “người lao động được quyền
-   đình công theo quy định của pháp luật”. Khoản 1 Luật Công đoàn ghi
-   nhận: “Công đoàn đại diện và bảo vệ các quyền, lợi ích hợp pháp, chính
-   đáng của người lao động”. Chi tiết hơn tại khoản 2 điều 11 luật này quy
-   định: “Công đoàn đại diện cho người lao động thương lượng với thủ
-   trưởng cơ quan, đơn vị, tổ chức để giải quyết các tranh chấp lao động
-   xảy ra trong cơ quan, đơn vị, tổ chức mình”.
+   "Tuy nhiên, nhìn nhận ở góc độ tích cực thì việc đình công cũng là tín
+   hiệu tốt cho thấy vai trò, sức mạnh của người lao động trong việc đòi
+   hỏi thương thảo quyền lợi. Điều này góp phần cải thiện quan hệ lao động
+   theo hướng tiến bộ, bình đẳng", bà Hương nói.
+     * Ngừng việc vì lương thưởng tết: Đừng để “đốm lửa” thành “đám cháy”
+    Ngừng việc vì lương thưởng tết: Đừng để “đốm lửa” thành “đám cháy”
+        14/01/2022 06:00
+     * Đồng Nai: Công nhân Công ty Pouchen được nhận lương những ngày
+       ngừng việc
+    Đồng Nai: Công nhân Công ty Pouchen được nhận lương những ngày ngừng
+       việc
+        12/01/2022 17:33
+     * Công nhân Pouchen ngừng việc do bị hạ thưởng Tết: Doanh nghiệp mong
+       công nhân chia sẻ khó khăn
+    Công nhân Pouchen ngừng việc do bị hạ thưởng Tết: Doanh nghiệp mong
+       công nhân chia sẻ khó khăn
+        12/01/2022 09:14
 
-   Việc phân tích những quy định này cho thấy quyền đình công là quyền của
-   cá nhân người lao động, mà không phải thuộc về Công đoàn. Khi có tranh
-   chấp lao động xảy ra, bao gồm cả đình công, Công đoàn sẽ đóng vai trò
-   trung gian, đại diện cho người lao động đưa ra yêu cầu và tiến hành
-   thương lượng với người sử dụng lao động theo như ý chí và mong muốn của
-   người lao động. Công đoàn không thay cho người lao động để quyết định
-   các vấn đề mà người lao động đang tranh chấp với người sử dụng lao
-   động, mà chỉ đại diện cho quyền lợi của người lao động.
+   Chia sẻ
+   Từ khóa:
+     * đình công
+     * ngừng việc tập thể
+     * đình công ngừng việc tập thể
+     * thủ tục đình công
+     * đình công ngừng việc thế nào cho đúng luật
 
-   Vì vậy, sẽ chưa hợp lý nếu pháp luật trao cho Công đoàn thẩm quyền
-   quyết định đình công (bằng việc giao cho tổ chức này quyền tổ chức và
-   lãnh đạo đình công) và xem đó như điều kiện tiên quyết phải có khi xác
-   định đình công hợp pháp. Bởi lẽ với quy định này, chủ thể thực hiện
-   quyền đình công sẽ là Công đoàn mà không là người lao động.
+   Mời các bạn đồng hành cùng báo Dân Việt trên mạng xã hội Facebook để
+   nhanh chóng cập nhật những tin tức mới và chính xác nhất.
 
-   Thực tế sẽ có trường hợp Công đoàn không tiến hành tổ chức đình công vì
-   cho rằng yêu cầu của người lao động là không phù hợp, trong khi người
-   lao động lại cho rằng yêu cầu của mình đối với người sử dụng lao động
-   là cần thiết. Trong ví dụ này, rõ ràng vai trò của người tổ chức đình
-   công đã vượt ra khỏi phạm vi đại diện cho người lao động trong thương
-   lượng với người sử dụng lao động để giải quyết các tranh chấp lao động
-   xảy ra.
+     danviet.vn
 
-   Quyền đình công là quyền của người lao động. Thực tế, trong các cuộc
-   đình công tự phát có liên quan đến quyền xảy ra từ 1995 đến nay đều do
-   bản thân người lao động nhận thức vấn đề và thể hiện chính kiến của
-   mình về đình công bằng việc ngừng việc.
+   IFRAME:
+   https://id.danviet.vn/CommentLogin.aspx?objId=20220216111913043&objType
+   =1&objZoneId=1190&objUrl=https://danviet.vn/gia-tang-cac-cuoc-dinh-cong
+   -ngung-viec-tap-the-do-dau-20220216111913043.htm&objTitle=JUUyJTgwJThCJ
+   UUyJTgwJThCR2lhJTIwdCVDNCU4M25nJTIwYyVDMyVBMWMlMjBjdSVFMSVCQiU5OWMlMjAl
+   QzQlOTElQzMlQUNuaCUyMGMlQzMlQjRuZyUyQyUyMG5nJUUxJUJCJUFCbmclMjB2aSVFMSV
+   CQiU4N2MlMjB0JUUxJUJBJUFEcCUyMHRoJUUxJUJCJTgzJTIwZG8lMjAlQzQlOTElQzMlQT
+   J1JTNG&layout='danvietw'
 
-   Khi vấn đề tranh chấp được nhiều người cùng nhận thức và cùng thể hiện
-   chính kiến bằng việc ngừng việc, cần thiết phải có sự liên kết giữa họ
-   với nhau để đảm bảo sức mạnh tập thể. Chính lúc này (sau khi có sự kiện
-   ngừng việc xảy ra), yếu tố tập thể người lao động mới xuất hiện và đóng
-   vai trò chủ đạo trong việc tạo áp lực với người sử dụng lao động trong
-   việc yêu cầu người sử dụng lao động khôi phục quyền lợi của tập thể lao
-   động.
+   Tin cùng chuyên mục
+   Xem theo ngày Xem
+     * Nguy cơ tử vong liên quan đến việc không uống đủ nước?
+    Nguy cơ tử vong liên quan đến việc không uống đủ nước?
+     * Bí mật giấu vợ tài sản hơn 500 triệu đồng, người đàn ông đau khổ vì
+       cháy sạch
+    Bí mật giấu vợ tài sản hơn 500 triệu đồng, người đàn ông đau khổ vì
+       cháy sạch
+     * Bộ Y tế công bố tin tức dịch Covid-19 mới nhất ngày 5/1
+    Bộ Y tế công bố tin tức dịch Covid-19 mới nhất ngày 5/1
+     * Biến thể phụ XBB, XBB.1.5 gây nguy hiểm đến mức độ nào?
+    Biến thể phụ XBB, XBB.1.5 gây nguy hiểm đến mức độ nào?
+     * Loại rau được ví như "nhân sâm" của người nghèo, giảm nguy cơ mắc
+       ung thư Loại rau được ví như "nhân sâm" của người nghèo, giảm nguy
+       cơ mắc ung thư
+     * Đồng Nai: Khởi động chi hỗ trợ từ 1-4 triệu đồng cho nhân viên y tế
+    Đồng Nai: Khởi động chi hỗ trợ từ 1-4 triệu đồng cho nhân viên y tế
 
-   Và cũng chính lúc này, tập thể người lao động rất cần sự tham gia của
-   người đại diện được pháp luật công nhận của mình – tổ chức Công đoàn.
-   Điều đó có nghĩa, đình công về quyền sẽ bao gồm hai giai đoạn: xuất
-   phát từ sự ngừng việc của bản thân người lao động và sau đó phát triển
-   thành ý kiến chung của tập thể người lao động được thể hiện thông qua
-   tổ chức Công đoàn. Theo logic này chúng ta mới có điều kiện đưa các vụ
-   tranh chấp lao động dẫn đến đình công vào khuôn khổ pháp luật và có quy
-   định để xử lý cho phù hợp.
+   Tin nổi bật
+     * Thưởng Tết hơn 1 triệu đồng, công nhân không dám về quê ăn Tết
+    Thưởng Tết hơn 1 triệu đồng, công nhân không dám về quê ăn Tết
 
-   Song song đó, trong điều kiện kinh tế xã hội Việt Nam hiện tại, việc
-   quy định người lao động dễ dàng thực hiện quyền đình công của mình một
-   cách hợp pháp để tạo áp lực đối với người sử dụng lao động chấm dứt
-   ngay hành vi vi phạm pháp luật sẽ tạo điều kiện thuận lợi cho việc xây
-   dựng ý thức tuân thủ pháp luật lao động ở người sử dụng lao động. Doanh
-   nghiệp bị buộc phải tự cải tiến và duy trì việc áp dụng đúng pháp luật
-   tại doanh nghiệp bởi lẽ họ luôn bị đặt trong trường hợp gánh chịu hậu
-   quả nặng nề nhất khi người lao động đình công đúng luật và họ đang là
-   người vi phạm pháp luật.
+     * Rơi vào bể nước tại nhà, bé gái 2 tuổi thoát chết trong gang tấc
+     * Sốc: Đồ vật trong một căn nhà ở Thanh Hóa liên tục tự bốc cháy
+     * Trao hàng ngàn món quà Tết cho bệnh nhân BHYT có hoàn cảnh khó khăn
 
-   Và dĩ nhiên trong những trường hợp như vậy, pháp luật không cần đặt
-   nghĩa vụ phải báo trước cho người sử dụng lao động khi tiến hành đình
-   công. Nghĩa vụ này chỉ đặt ra đối với các tranh chấp đơn thuần về lợi
-   ích, mà ở đó trước khi tiến hành ngừng việc, tập thể người lao động cần
-   thông tin đến cho người sử dụng lao động biết để người sử dụng lao động
-   có thể suy nghĩ và thương lượng về yêu cầu của tập thể người lao động.
-
-BÌNH LUẬN Hủy trả lời
-
-
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   Bình luận:
-   Vui lòng nhập bình luận của bạn
-   ______________________________ Tên:*
-   Vui lòng nhập tên của bạn ở đây
-   ______________________________ Email:*
-   Bạn đã nhập một địa chỉ email không chính xác!
-   Vui lòng nhập địa chỉ email của bạn ở đây
-   ______________________________ Website:
-
-   [ ] Lưu tên, email và trang web của tôi trong trình duyệt này cho lần
-   tiếp theo tôi nhận xét.
-
-   __  +  eight  =  twelve
-
-   Đăng
-
-Tin liên quan
-
-Mô hình quản lý nào cho cảng Liên Chiểu?
-
-   Thứ Năm, 5/01/2023
-
-Duy Tân nhận giải Top 500 doanh nghiệp lớn nhất Việt Nam 2022
-
-   Thứ Năm, 5/01/2023
-
-Thấy gì qua vụ tranh chấp thương hiệu của Lý Tử Thất?
-
-   Thứ Năm, 5/01/2023
-
-Agribank dành hơn 90 tỉ đồng hỗ trợ người nghèo nhân dịp Xuân Quý Mão 2023
-
-   Thứ Năm, 5/01/2023
-
-Kon Tum kỳ vọng có hơn 130.000 tấn dược liệu vào năm 2030
-
-   Thứ Năm, 5/01/2023
-
-Mời xem ‘Giai phẩm Kinh tế Sài Gòn Xuân Quý Mão’
-
-   Thứ Năm, 5/01/2023
    Xem thêm
-
-   IFRAME: https://thesaigontimes.vn/quangcao/qcaoduoitin.htm
-
-Có thể bạn quan tâm
-
-Mô hình quản lý nào cho cảng Liên Chiểu?
-
-   Thứ Năm, 5/01/2023
-
-Duy Tân nhận giải Top 500 doanh nghiệp lớn nhất Việt Nam 2022
-
-   Thứ Năm, 5/01/2023
-
-Thấy gì qua vụ tranh chấp thương hiệu của Lý Tử Thất?
-
-   Thứ Năm, 5/01/2023
-
-Agribank dành hơn 90 tỉ đồng hỗ trợ người nghèo nhân dịp Xuân Quý Mão 2023
-
-   Thứ Năm, 5/01/2023
-
-Kon Tum kỳ vọng có hơn 130.000 tấn dược liệu vào năm 2030
-
-   Thứ Năm, 5/01/2023
-
-Mời xem ‘Giai phẩm Kinh tế Sài Gòn Xuân Quý Mão’
-
-   Thứ Năm, 5/01/2023
-
-Chờ đợi gì ở thị trường địa ốc?
-
-   Thứ Năm, 5/01/2023
-
-Đặt hàng các nhà khoa học, trí thức cùng giải bài toán quy hoạch phát triển
-kinh tế
-
-   Thứ Năm, 5/01/2023
-
-Đại học Quốc gia Hà Nội và TPHCM công bố ngày thi đánh giá năng lực
-
-   Thứ Năm, 5/01/2023
-
-Xuất khẩu lô nhãn đầu tiên sang Nhật Bản bằng đường hàng không
-
-   Thứ Năm, 5/01/2023
-
-Bình Dương ra mắt app cung cấp thông tin cho người dân, doanh nghiệp
-
-   Thứ Năm, 5/01/2023
-
-TPHCM cấm xe nhiều tuyến đường để tổ chức Đường hoa – Đường sách Tết Quý Mão
-
-   Thứ Năm, 5/01/2023
-   Xem thêm
-
-         IFRAME: https://thesaigontimes.vn/quangcao/admicroz302.htm
-
-        IFRAME: https://thesaigontimes.vn/quangcao/adsense300250.htm
-
-Tin mới
-
-   Nổi bật
-
-Ông Trần Hồng Hà, ông Trần Lưu Quang trở thành Phó thủ tướng Chính phủ
-
-   THÔNG TIN DOANH NGHIỆP
-
-Duy Tân nhận giải Top 500 doanh nghiệp lớn nhất Việt Nam 2022
-
-   THÔNG TIN DOANH NGHIỆP
-
-Agribank dành hơn 90 tỉ đồng hỗ trợ người nghèo nhân dịp Xuân Quý Mão 2023
-
-   Xã hội
-
-Kon Tum kỳ vọng có hơn 130.000 tấn dược liệu vào năm 2030
-
-   BÁO IN
-
-Mời xem ‘Giai phẩm Kinh tế Sài Gòn Xuân Quý Mão’
-
-             IFRAME: https://www.sgtiepthi.vn/quangcao/sgtt.htm
-
-         IFRAME: https://english.thesaigontimes.vn/quangcao/eng.htm
-
-                                 [group.jpg]
-
-   Tổng biên tập
-   TRẦN MINH HÙNG Phó tổng biên tập PHẠM HỮU CHƯƠNG
-
-                                 [ktsg.png]
-
-                                 [ktsgo.png]
-
-                                 [sgtt.png]
-
-                                [weekly.png]
-
-                                [sgtimes.png]
-
-                               [sgtbook2.png]
-
-                                 [club2.png]
-
-                                 [stf2.png]
-
-                         [logo-xuan-2023-online.jpg]
-
-   Giấy phép Tạp chí điện tử số 133/GP-BTTTT, cấp ngày 02/3/2021
-     * Tổng biên tập: Trần Minh Hùng
-     * Thư ký tòa soạn: Lê Uy Linh, Yến Dung
-     * Phó thư ký tòa soạn: Đào Loan
-     * Tòa soạn: 35 Nam Kỳ Khởi Nghĩa, Quận 1, TP.HCM
-     * ĐT:(8428)3829 5936; Fax:(8428)3829 4294;
-     * Email: online@kinhtesaigon.vn
-
-   Trang ngoài sẽ được mở ra ở cửa sổ mới. Tạp chí Kinh tế Sài Gòn Online
-   không chịu trách nhiệm nội dung trang ngoài.
-
-   Kinh tế Sài Gòn giữ bản quyền nội dung của trang web thesaigontimes.vn.
-   Không sử dụng lại nội dung trên trang này dưới mọi hình thức, trừ khi
-   được Kinh tế Sài Gòn đồng ý bằng văn bản.
-
-                                 [ktsg.png]
-
-                                 [ktsgo.png]
-
-                                 [sgtt.png]
-
-                                [weekly.png]
-
-                                [sgtimes.png]
-
-                               [sgtbook2.png]
-
-                                 [club2.png]
-
-                                 [stf2.png]
-
-                         [logo-xuan-2023-online.jpg]
-
-   Giấy phép Tạp chí điện tử số 133/GP-BTTTT, cấp ngày 02/3/2021
-
-     * Tổng biên tập: Trần Minh Hùng
-     * Thư ký tòa soạn: Lê Uy Linh, Yến Dung
-     * Phó thư ký tòa soạn: Đào Loan
-     * Tòa soạn: 35 Nam Kỳ Khởi Nghĩa, Quận 1, TP.HCM
-     * ĐT:(8428)3829 5936; Fax:(8428)3829 4294;
-     * Email: online@kinhtesaigon.vn
-
-   Trang ngoài sẽ được mở ra ở cửa sổ mới. Tạp chí Kinh tế Sài Gòn Online
-   không chịu trách nhiệm nội dung trang ngoài.
-
-   Kinh tế Sài Gòn giữ bản quyền nội dung của trang web thesaigontimes.vn.
-   Không sử dụng lại nội dung trên trang này dưới mọi hình thức, trừ khi
-   được Kinh tế Sài Gòn đồng ý bằng văn bản.
-     * Tiêu điểm
-     * Tài chính
-          + Ngân hàng
-          + Chứng khoán
-          + Bảo hiểm
-     * Kinh doanh
-          + Thương mại – Dịch vụ
-          + Công nghiệp – Nông nghiệp
-          + Thương mại điện tử / Kinh tế số
-     * Doanh nhân – Doanh nghiệp
-          + Chuyện làm ăn
-          + Gương mặt / Khởi nghiệp
-          + Chuyện quản trị
-     * Địa ốc
-          + Thị trường nhà đất
-          + Quy hoạch / Hạ tầng
-     * Văn hóa – Xã hội
-          + Văn hóa
+   Dân Việt
+     * Tòa soạn
+     * Đặt báo
+     * Quảng cáo
+
+     * Tin tức
+          + Kính đa tròng
+          + Ngày mới tốt lành
+          + Chính trị
           + Xã hội
      * Thế giới
-          + Phân tích / Bình luận
-          + Thị trường / Doanh nghiệp
-     * Multimedia
-     * Chuyên mục khác
-          + Lăng kính
-          + Thông tin doanh nghiệp
-          + Bản tin podcasts
-          + Sự kiện – Vấn đề
+          + Nông sản độc - lạ thế giới
+          + Cộng đồng Việt
+          + Điểm nóng
+          + Hồ sơ - Tư liệu
+     * Nhà nông
+          + Tin nông nghiệp
+          + Muôn cách làm giàu
+          + Ngon - Sạch - Lạ
+          + Thị trường nông sản
+     * Thể thao
+          + Bóng chuyền
+          + Phía sau sân cỏ
+          + 360 độ Sao
+          + Bóng đá
+     * Pháp luật
+          + Pháp đình
+          + An ninh trật tự
+     * Kinh tế
+          + Góc nhìn chuyên gia
+          + Thị trường
+          + Đầu tư - Tài chính
+          + Nhà đất
+     * Văn hóa - Giải trí
+          + Chuyện của Sao
+          + Thời trang
+          + Phim ảnh
+          + Âm nhạc
+     * Gia đình
+          + Sống khỏe
+          + Món ngon nhà đẹp
+     * Chuyển động số
+          + Kinh tế số
+          + Nông nghiệp số
+          + Xã hội số
+          + Công nghệ số
+     * Du lịch
+          + Tin tức
+          + Món ngon - Điểm đẹp
+          + Trải nghiệm
+          + Tour hay – Khuyến mại
+     * Ô tô - Xe máy
+          + Tin ô tô - xe máy
+          + Đánh giá
+          + Bảng giá
+          + Tư vấn
+     * Đông Tây - Kim Cổ
+          + Võ thuật
+          + Danh nhân lịch sử
+          + Hồ sơ mật
+          + Bí ẩn khoa học
 
-   ...
+
+   Trụ sở: 13 Đường Thụy Khuê, Quận Tây Hồ, Hà Nội
+   Tòa soạn và trị sự: Lô E2, Dương Đình Nghệ, Quận Cầu Giấy, Hà Nội
+   Điện thoại: (84-24) 38472263
+   Email: toasoan@danviet.vn
+   Đường dây nóng: 0857.835.666
+   Liên hệ quảng cáo: 0329298892
+
+
+   Báo điện tử của Trung ương Hội Nông dân Việt Nam
+   Tổng Biên tập: LƯU QUANG ĐỊNH
+   Phó Tổng Biên tập: Phan Huy Hà (Thường trực), Lưu Phan, Nguyễn Văn Hoài
+   Giấy phép số 115/GP-BTTTT cấp ngày 01/3/2022
+
+   Chung nhan Tin Nhiem Mang
+   Bản quyền thuộc về Báo điện tử Dân Việt. Mọi hình thức sao chép lại
+   thông tin, hình ảnh phải được sự đồng ý bằng văn bản.
+     *
+     *
+     *
+     *
+     *

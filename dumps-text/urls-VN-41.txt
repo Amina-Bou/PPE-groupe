@@ -1,406 +1,210 @@
-   #alternate publisher
+   #alternate
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KMGZZZ
+   BBC News, Tiếng ViệtBỏ qua để xem nội dung
 
-     * (BUTTON) menu.svg
-
-   (BUTTON) vetnamnet
-   ____________________ (BUTTON) search.png
-     *
-     * Chính trị
-     * Công nghệ số và Truyền thông
-     * Tuần Việt Nam
-     * Thời sự
-     * Kinh doanh
-     * Giải trí
-     * Thế thao
-     * Sức khỏe
-     * Đời sống
-     * Giáo dục
+   (BUTTON) Mục
+     * Tin chính
+     * Việt Nam
      * Thế giới
-     * Pháp luật
-     * Ô tô xe máy
-     * Bất động sản
-     * Du lịch
-     * Bạn đọc
+     * Diễn đàn
+     * Kinh tế
+     * Nhịp sống mới
+     * Thể thao
      * Video
-     * English
-     * Hồ sơ
-     * Talks
-     * Multimedia
-     * Ảnh
-     * Toàn văn
-     * Dân tộc - Tôn giáo
-     * Giảm nghèo bền vững
-     * Thị trường tiêu dùng
-     * Công nghiệp hỗ trợ
-     * Bảo vệ người tiêu dùng
-     * Tải app VietNamNet
-     * Tuyển dụng
-     * Liên hệ tòa soạn
-     * Liên hệ quảng cáo
 
-     * Tin nóng
-     * Tuyến bài
-     * Tin tức 24h
-     * Sự kiện
-
-     * Cơ quan chủ quản: Bộ Thông tin và Truyền thông
-     * Số giấy phép: 09/GP - BTTTT, cấp ngày 07/01/2019
-     * Tổng biên tập: Nguyễn Văn Bá
-
-     * Tòa soạn: Tòa nhà C'Land - 156 Xã Đàn 2,
-     * Đống Đa, Hà Nội
-     * Hotline: 19001081 (8h-20h) | 0923457788 (ngoài giờ HC)
-     * © 1997 Báo VietNamNet. All rights reserved.
-     * Chỉ được phát hành lại thông tin từ website này khi có sự đồng ý
-       bằng văn bản của báo VietNamNet.
-
-   Tải ứng dụng Độc giả gửi bài
-
-vetnamnet
-
-   #AFF Cup 2022
-
-     *
-
-     * Xin chào , Mai Anh !
-     * Quản lý đơn hàng
-     * Thông tin tài khoảng
-     * Tin đã lưu
-     * Đăng xuất
-
-   iconmenu
-     * (BUTTON) icon icon
-     * (BUTTON) icon notlike icon like
-     * icon
-     *
-     * Aa
-
-     * iconfacebook Facebook
-     * icontwitter
-       Zalo
-     * iconmail Email
-     * iconKhác Sao chép liên kết
-
-   text-font text-font
-
-     * https://static.vnncdn.net/v1/icon/home_mobile.svg
+     * Tin chính
+     * Việt Nam
      * Thế giới
-
-Biểu tình rầm rộ ở Paris phản đối giá cả leo thang
-
-   17/10/2022  - 08:07 [google-news.svg]
-
-   Tuấn Anh
-
-   Nhà báo
-   Xem các bài viết của tác giả
-
-   Hàng nghìn người đã đổ ra các đường phố ở thủ đô Paris, Pháp cuối tuần
-   qua để bày tỏ sự bất bình trước tình trạng giá cả sinh hoạt leo thang.
-
-   Các cuộc biểu tình rầm rộ ở Paris diễn ra trong bối cảnh công đoàn lớn
-   nhất Pháp CGT tiếp tục tiến hành đình công tại các nhà máy lọc dầu,
-   khiến nhiều trạm bán xăng trên toàn quốc phải tạm đóng cửa.
-
-   IFRAME: https://embed.vietnamnet.vn/v/004DVX.html
-
-   Theo đài RT, cuộc biểu tình ngày 16/10 do cựu ứng cử viên tổng thống
-   Jean-Luc Melenchon, lãnh đạo đảng cánh tả Nước Pháp bất khuất (LFI) tổ
-   chức. Một số tổ chức và đảng cánh tả khác đã tham gia, với một số kêu
-   gọi Tổng thống Emmanuel Macron phải hành động mạnh mẽ hơn để chống lại
-   biến đổi khí hậu.
-   [bieu-tinh-phap-1-219.jpg] Lãnh đạo đảng LFI Jean-Luc Melenchon (giữa)
-   đứng đầu đoàn người tuần hành phản đối giá cả leo thang ở Paris, Pháp
-   ngày 16/10. Ảnh: AP
-
-   Tuy nhiên, những lo ngại về kinh tế luôn là mối quan tâm hàng đầu, đang
-   choán lấy tâm trí của những người biểu tình. “Đây không phải là cuộc
-   tuần hành của Melenchon. Đây là cuộc tuần hành của những người đói,
-   những người đang bị lạnh và những người muốn được trả lương cao hơn”,
-   lãnh đạo LFI phát biểu trên kênh truyền hình France 3.
-
-   Manon Aubry, Phó chủ tịch đảng LFI bày tỏ, tình trạng giá cả leo thang
-   hiện nay “không thể chịu đựng được” và dẫn tới việc mất sức mua lớn
-   nhất trong 40 năm qua ở Pháp.
-   [bieu-tinh-phap-2-217.jpg] [bieu-tinh-phap-3-221.jpg] Ảnh: Reuters
-
-   Tỷ lệ lạm phát của Pháp hiện ở mức 6%, trong khi hầu hết các lĩnh vực
-   công nghiệp của nước này đều ghi nhận sự sụt giảm hoạt động do chi phí
-   năng lượng tăng, trong bối cảnh Liên minh châu Âu (EU) áp trừng phạt
-   nhiên liệu hóa thạch của Nga vì chiến dịch quân sự đặc biệt của Moscow
-   tại Ukraine.
-
-   Với hóa đơn năng lượng của các hộ gia đình tăng cao, một bộ phận người
-   dân Pháp bắt đầu quay trở lại dùng củi và tình trạng mất điện đã được
-   dự báo.
-
-   IFRAME: https://embed.vietnamnet.vn/v/004DBE.html
-
-   Đụng độ giữa những người biểu tình cực tả quá khích với lực lượng cảnh
-   sát ở Paris đã diễn ra trong các cuộc biểu tình hồi cuối tuần. Những
-   hình ảnh được chia sẻ trên mạng xã hội cho thấy, cảnh sát chống bạo
-   động đã bắn hơi cay nhằm cố gắng trấn áp những người chống đối mặc áo
-   đen.
-
-   Động thái diễn ra giữa lúc CGT tiếp tục phát động đình công tại các nhà
-   máy lọc dầu nhằm yêu cầu tăng lương cho công nhân. Các cuộc đình công
-   kéo dài 3 tuần qua đã gây ra tình trạng thiếu hụt và phải phân bổ nguồn
-   cung tại các trạm xăng khắp đất nước.
-
-   GCT hôm 15/10 cho biết đã bác bỏ một đề nghị trả lương từ “ông lớn” dầu
-   khí TotalEnergies. Ông Melenchon kêu gọi tổng đình công trên toàn quốc
-   vào ngày 18/10.
-
-   Tuấn Anh
-
-   >> Đọc thêm tin thế giới trên báo VietNamNet
-
-   Châu Âu ngăn khủng hoảng năng lượng biến thành suy thoái kinh tế cách
-   nào?Các chuyên gia tin, châu Âu có thể thực hiện các giải pháp đồng bộ,
-   mạnh mẽ hơn để ngăn chặn cuộc khủng hoảng năng lượng hiện tại biến
-   thành suy thoái kinh tế.
-   https://static.vnncdn.net/v1/icon/square.svg Biểu tình rầm rộ chống
-   chính phủ, EU và NATO ở CH Séc
-   https://static.vnncdn.net/v1/icon/square.svg Pháp cáo buộc Nga dùng khí
-   đốt làm "vũ khí"
-   https://static.vnncdn.net/v1/icon/square.svg Lạm phát tại Anh tăng cao
-   nhất trong vòng 40 năm qua
-     * Chủ đề:
-     * Pháp
-     * biểu tình
-     * Paris
-
-   Tết quý mão
-     * Dự báo thời tiết
-     * Lời chúc tết ý nghĩa
-
-Tin nổi bật
-
-   Chân dung công tố viên đặc biệt phụ trách các vụ điều tra ông Trump
-
-Chân dung công tố viên đặc biệt phụ trách các vụ điều tra ông Trump
-
-   Thế giới
-   Video pháo tự hành Akatsiya tấn công mục tiêu ở Ukraine
-
-Video pháo tự hành Akatsiya tấn công mục tiêu ở Ukraine [icon-video.svg]
-
-   Thế giới
-
-   Liệu UAV sát thủ tự động có được triển khai trên các vùng chiến sự
-   Ukraine?
-
-Liệu UAV sát thủ tự động có được triển khai trên các vùng chiến sự Ukraine?
-
-   Thế giới
-
-   Tổng thống Putin ra lệnh ngừng bắn 36 giờ ở Ukraine
-
-Tổng thống Putin ra lệnh ngừng bắn 36 giờ ở Ukraine
-
-   Thế giới
-
-   Thổ Nhĩ Kỳ kêu gọi Nga ngừng bắn, Ukraine tin Đức sẽ chuyển giao xe
-   tăng chủ lực
-
-Thổ Nhĩ Kỳ kêu gọi Nga ngừng bắn, Ukraine tin Đức sẽ chuyển giao xe tăng chủ
-lực
-
-   Thế giới
-
-   Bộ phận nhạy cảm trong tên lửa của Đài Loan được gửi tới Trung Quốc
-
-Bộ phận nhạy cảm trong tên lửa của Đài Loan được gửi tới Trung Quốc
-
-   Thế giới
-
-   Mỹ xúc tiến mở lại sứ quán tại Solomon
-
-Mỹ xúc tiến mở lại sứ quán tại Solomon
-
-   Thế giới
-
-   Ukraine ước tính số lính Nga thiệt mạng, thừa nhận thiệt hại nặng ở
-   Bakhmut
-
-Ukraine ước tính số lính Nga thiệt mạng, thừa nhận thiệt hại nặng ở Bakhmut
-
-   Thế giới
-
-   Vụ thảm sát cả gia đình 8 người rúng động thành phố Mỹ
-
-Vụ thảm sát cả gia đình 8 người rúng động thành phố Mỹ
-
-   Thế giới
-
-   Cá ngừ vây xanh được bán đấu giá hơn 6 tỷ đồng ở Tokyo
-
-Cá ngừ vây xanh được bán đấu giá hơn 6 tỷ đồng ở Tokyo
-
-   Thế giới
-
-   Bị kiện vì phóng sinh hơn 12 tấn cá xuống hồ để cầu may
-
-Bị kiện vì phóng sinh hơn 12 tấn cá xuống hồ để cầu may
-
-   Thế giới
-
-   Lý do kiểm tra nước thải trên máy bay từ Trung Quốc để ngăn Covid-19
-
-Lý do kiểm tra nước thải trên máy bay từ Trung Quốc để ngăn Covid-19
-
-   Thế giới
-
-   Tehran cảnh báo Pháp về tranh biếm họa lãnh tụ tinh thần tối cao Iran
-
-Tehran cảnh báo Pháp về tranh biếm họa lãnh tụ tinh thần tối cao Iran
-
-   Thế giới
-
-   UAV Triều Tiên bay vào vùng cấm bay quanh văn phòng Tổng thống Hàn Quốc
-
-UAV Triều Tiên bay vào vùng cấm bay quanh văn phòng Tổng thống Hàn Quốc
-
-   Thế giới
-
-   Ghế Chủ tịch Hạ viện Mỹ được quyết định như thế nào?
-
-Ghế Chủ tịch Hạ viện Mỹ được quyết định như thế nào?
-
-   Thế giới
-
-   (BUTTON) Xem thêm icon-loading
-
-Quân sự
-
-   [loading.svg]
-
-Video pháo tự hành Akatsiya tấn công mục tiêu ở Ukraine
-
-   Liệu UAV sát thủ tự động có được triển khai trên các vùng chiến sự
-   Ukraine? Liệu UAV sát thủ tự động có được triển khai trên các vùng
-   chiến sự Ukraine?
-   Bộ phận nhạy cảm trong tên lửa của Đài Loan được gửi tới Trung Quốc Bộ
-   phận nhạy cảm trong tên lửa của Đài Loan được gửi tới Trung Quốc
-   Nga tung video công phá cứ điểm Ukraine bằng tên lửa dẫn đường thế hệ
-   mới Nga tung video công phá cứ điểm Ukraine bằng tên lửa dẫn đường thế
-   hệ mới
-
-Thế giới đó đây
-
-   [loading.svg]
-
-Vụ thảm sát cả gia đình 8 người rúng động thành phố Mỹ
-
-   Cá ngừ vây xanh được bán đấu giá hơn 6 tỷ đồng ở Tokyo Cá ngừ vây xanh
-   được bán đấu giá hơn 6 tỷ đồng ở Tokyo
-   Bị kiện vì phóng sinh hơn 12 tấn cá xuống hồ để cầu may Bị kiện vì
-   phóng sinh hơn 12 tấn cá xuống hồ để cầu may
-   Bộ Nội vụ Philippines yêu cầu toàn bộ tướng, đại tá cảnh sát từ chức Bộ
-   Nội vụ Philippines yêu cầu toàn bộ tướng, đại tá cảnh sát từ chức
-
-Bình luận quốc tế
-
-   [loading.svg]
-
-Ghế Chủ tịch Hạ viện Mỹ được quyết định như thế nào?
-
-   Trung Quốc tái mở cửa tác động thế nào tới toàn cầu? Trung Quốc tái mở
-   cửa tác động thế nào tới toàn cầu?
-   Năm 2023 sẽ đầy thách thức với ông Trump Năm 2023 sẽ đầy thách thức với
-   ông Trump
-   Các xu hướng định hình thế giới năm 2023 Các xu hướng định hình thế
-   giới năm 2023
-
-Chân dung
-
-   [loading.svg]
-
-Chân dung công tố viên đặc biệt phụ trách các vụ điều tra ông Trump
-
-   Người đàn ông Mỹ cứu sống hàng chục người mắc kẹt giữa bão tuyết Người
-   đàn ông Mỹ cứu sống hàng chục người mắc kẹt giữa bão tuyết
-   Chân dung những tỷ phú giàu nhất châu Âu Chân dung những tỷ phú giàu
-   nhất châu Âu
-   Messi và những câu chuyện từ thiện đáng nhớ Messi và những câu chuyện
-   từ thiện đáng nhớ
-
-[mucvideo.svg] video
-
-   IFRAME: https://embed.vietnamnet.vn/v/006FPL.html
-
-Văn Lâm ráo riết tìm bố trên sân Mỹ Đình sau chiến thắng trước Myanmar
-
-   video 16x9 [play-button.svg]
-
-TP.HCM: Nam sinh năm 3 tử vong trên đường đi làm thêm về nhà
-
-   video 16x9 [play-button.svg]
-
-Dùng ngón chân ghép thay ngón tay cho bệnh nhân bị tai nạn lao động
-
-   video 16x9 [play-button.svg]
-
-TP.HCM: Diễn tập cứu 20 người mắc kẹt trong đám cháy căng tin
-
-   video 16x9 [play-button.svg]
-
-Người đàn ông dựng tượng vợ quá cố để ở nhà, chăm sóc y như người thật
-
-     * vpremium-menu-logo
-     * Chính trị
-     * Công nghệ số và Truyền thông
-     * Tuần Việt Nam
-     * Thời sự
-     * Kinh doanh
-     * Giải trí
-     * Thế thao
-     * Sức khỏe
-     * Đời sống
-     * Giáo dục
-     * Thế giới
-     * Pháp luật
-     * Ô tô xe máy
-     * Bất động sản
-     * Du lịch
-     * Bạn đọc
+     * Diễn đàn
+     * Kinh tế
+     * Nhịp sống mới
+     * Thể thao
      * Video
-     * English
-     * Hồ sơ
-     * Talks
-     * Multimedia
-     * Ảnh
-     * Toàn văn
-     * Dân tộc - Tôn giáo
-     * Giảm nghèo bền vững
-     * Thị trường tiêu dùng
-     * Công nghiệp hỗ trợ
-     * Bảo vệ người tiêu dùng
-     * Tải app VietNamNet
-     * Tuyển dụng
-     * Liên hệ tòa soạn
-     * Liên hệ quảng cáo
 
-     * Tin nóng
-     * Tuyến bài
-     * Tin tức 24h
-     * Sự kiện
+Đình công ở Tp HCM: chính quyền 'xoa dịu'?
 
-     * Cơ quan chủ quản: Bộ Thông tin và Truyền thông
-     * Số giấy phép: 09/GP - BTTTT, cấp ngày 07/01/2019
-     * Tổng biên tập: Nguyễn Văn Bá
+   1 tháng 4 2015
+   Cuộc đình công kéo dài liên tục từ ngày 26/3
 
-     * Tòa soạn: Tòa nhà C'Land - 156 Xã Đàn 2,
-     * Đống Đa, Hà Nội
-     * Hotline: 19001081 (8h-20h) | 0923457788 (ngoài giờ HC)
-     * © 1997 Báo VietNamNet. All rights reserved.
-     * Chỉ được phát hành lại thông tin từ website này khi có sự đồng ý
-       bằng văn bản của báo VietNamNet.
+   Nguồn hình ảnh, facebbok
+   Chụp lại hình ảnh,
 
-   Tải ứng dụng Độc giả gửi bài
+   Cuộc đình công kéo dài liên tục từ ngày 26/3
 
-   Trở lại đầu trang
+   Đại diện của chính quyền hứa sẽ xem xét nguyện vọng của công nhân sau
+   một đợt đình công lớn tại công ty Pou Yuen Việt Nam phản đối một
+   điều luật mới của Luật Bảo hiểm Xã hội, truyền thông trong nước đưa
+   tin.
 
-   [detail?id=2070703&w=000003]
+   Trước đó, hàng ngàn công nhân của Pou Yuen, một công ty thuộc sở hữu
+   hoàn toàn của Đài Loan chuyên sản xuất giày thể thao và may mặc xuất
+   khẩu, đã đình công liên tục từ ngày 26/3 để phản đối Luật Bảo hiểm xã
+   hội sắp có hiệu lực vốn không cho phép người lao động lãnh tiền bảo
+   hiểm xã hội sau khi nghỉ việc mà phải đến sau khi nghỉ hưu mới được
+   lãnh.
+
+   Trước tình hình đó, ông Doãn Mậu Diệp, Thứ trưởng Bộ Lao
+   động-Thương binh-Xã hội đã có buổi đối thoại trực tiếp với công nhân
+   vào trưa thứ Ba ngày 31/3, báo chí trong nước đưa tin.
+
+   Ông Diệp được tờ Lao Động dẫn lời nói với các công nhân rằng Bộ Lao
+   động-Thương binh-Xã hội sẽ trình chính phủ phương án cho phép công
+   nhân lựa chọn cách làm nào phù hợp cho họ: hoặc là thanh toán một lần
+   sau khi công nhân nghỉ việc rồi chốt sổ hoặc là bảo lưu sổ bảo hiểm
+   xã hội để công nhân có thể tiếp tục tích lũy cho đủ điều kiện đến khi
+   về hưu được nhận lương hưu.
+
+   Các công nhân có mặt tại buổi đối thoại được cho là đã ‘vỗ tay đồng
+   tình’ với đề xuất của ông Diệp, báo mạng VnExpress cho biết.
+
+   'Hồi chuông cảnh tỉnh'
+
+   Trong một diễn biến khác, ông Đặng Ngọc Tùng, Chủ tịch Tổng Liên đoàn
+   Lao động Việt Nam, đã ra lời kêu gọi các công nhân Pou Yuen quay trở
+   lại làm việc và ‘không để cho kẻ xấu lợi dụng, kích động, xúi giục’.
+
+   BBC Việt ngữ đã liên lạc các vị có chức trách ở Quận Bình Tân cũng
+   như phường Tân Tạo A để hỏi thêm về vụ việc nhưng tất cả đều từ chối
+   trả lời.
+
+   Hiện tại chưa rõ các công nhân đình công đã tở lại làm việc hay chưa
+   nhưng trang mạng của tờ Pháp Luật dẫn lời ông Củ Phát Nghiệp, chủ
+   tịch Công đoàn Pou Yuen, cho biết ‘tình hình đã ổn định’ và ‘một bộ
+   phận công nhân đã trở lại làm việc’.
+
+   BBC không có mặt tại chỗ nên không có điều kiện kiểm chứng thông tin
+   này.
+
+   Trả lời BBC ngày 31/3, Luật sư Hoàng Văn Hướng, trưởng văn phòng luật
+   sư Hoàng Hưng, cho rằng cuộc đình công là "hồi chuông cảnh tỉnh", nhắc
+   nhở các nhà làm luật cần đạt được "sự đồng thuận, sâu sắc, thấu đáo"
+   khi điều chỉnh luật.
+
+   "Trước đây thì họ thanh toán luôn, ngay sau khi chấm dứt hợp đồng,
+   nhưng giờ sửa lại là phải đợi sau một thời gian nữa. Mục đích nhà làm
+   luật là muốn cộng dồn lại thời gian đóng bảo hiểm để mục đích cuối cùng
+   là đảm bảo an sinh xã hội, tức là vấn đề hưu trí."
+
+   "Họ cho rằng nếu như đã thanh toán một lần ở doanh nghiệp này, thì sau
+   này đến tuổi nghỉ hưu lại không có lương hưu thì đó là thiệt hại cho
+   người lao động. Tôi nghĩ rằng nên chăng giữa các nhà quản lý về lao
+   động, kể cả Liên đoàn Lao động ở TP.HCM cầncó đối thoại để giải thích
+   cặn kẽ".
+
+   "Nếu đối thoại tận cùng vấn đề mà thấy cần sửa luật thì cũng nên chỉnh
+   sửa luật chứ cũng không cần phải cứng nhắc. Các cuộc đình công làm
+   gióng lên hồi chuông cảnh tỉnh cho những người làm luật là khi ban hành
+   chính sách thì phải đảm bảo tính đồng thuận, sâu sắc, thấu đáo".
+
+   Trong khi đó Luật sư Hà Huy Sơn thì cho rằng cuộc đình công là một
+   "biểu hiện tốt".
+
+   "Người lao động đã có ý thức về quyền lợi của mình nên chuyện đình công
+   đó rất tốt cho xã hội. Phía nhà nước cần thay đổi tư duy, nhất là đối
+   với luật bảo hiểm xã hội để người ta có quyền lựa chọn chứ không thể áp
+   đặt như vậy.
+
+Tin liên quan
+
+     *
+
+'Bãi công là hồi chuông cảnh tỉnh'
+       31 tháng 3 năm 2015
+     *
+
+Tiếp tục đình công lớn ở Tp HCM
+       30 tháng 3 năm 2015
+
+Tin chính
+
+     *
+
+Tàu chiến Hoa Kỳ đi qua eo biển Đài Loan khiến Trung Quốc nổi giận
+       25 phút trước
+     *
+
+Hàm Nghi - vị Hoàng đế lưu đày tìm tự do qua nghệ thuật
+       5 tháng 1 năm 2023
+     *
+
+Trung Quốc: Người nổi tiếng tử vong, làm tăng lo ngại về số người chết vì
+Covid
+       5 tháng 1 năm 2023
+
+Góc nhìn và chuyên mục
+
+     * Getty Images
+
+Lớp trẻ có thực sự kém cỏi hơn thế hệ cha chú?
+       1 tháng 1 năm 2023
+     * Getty Images
+
+New York chuẩn thuận việc ủ thi thể người thành đất compost
+       2 tháng 1 năm 2023
+     * Picture of nose cone of Artemis-i SLS rocket and Orion capsule on
+       launch gantry with moon above
+
+Vì sao các cường quốc đua nhau thám hiểm Mặt trăng và vũ trụ năm 2023?
+       26 tháng 12 năm 2022
+     * NASA/JPL-Caltech
+
+Vũ trụ tồn tại vĩnh viễn hay sẽ diệt vong?
+       12 tháng 3 năm 2020
+     * Getty Images
+
+Bệnh tự ảo tưởng về kiến thức của bản thân
+       26 tháng 12 năm 2022
+     * Getty Images
+
+Các định luật vật lý có chứng minh sự tồn tại của Chúa?
+       6 tháng 5 năm 2021
+     * Alamy
+
+Những vị vua khoác long bào khảm xà cừ của London
+       18 tháng 12 năm 2022
+     * Getty Images
+
+Những đứa con phải sống dưới bóng cha mẹ
+       14 tháng 12 năm 2022
+     * Getty Images
+
+Góc khuất đáng sợ của việc hẹn hò trên mạng
+       25 tháng 11 năm 2021
+
+Đọc nhiều nhất
+
+    1. 1
+       Việt Nam: Cho hai Phó Thủ tướng 'từ chức' để làm gương?
+    2. 2
+       Trung Quốc: Người nổi tiếng tử vong, làm tăng lo ngại về số người
+       chết vì Covid
+    3. 3
+       Đình chỉ cán bộ công an Nội Bài bị tố đòi tiền tip của du khách
+    4. 4
+       Chúng ta biết gì về biến thể Covid mới XBB.1.5?
+    5. 5
+       Có bao nhiêu Hạo Nam còn sống?
+    6. 6
+       Hàm Nghi - vị Hoàng đế lưu đày tìm tự do qua nghệ thuật
+    7. 7
+       Hoàng gia Anh: Hoàng tử Harry cáo buộc từng bị Hoàng tử William
+       'đánh'
+    8. 8
+       Bé Thái Lý Hạo Nam kẹt trong cọc bê tông 'đã tử vong'
+    9. 9
+       Bé trai rơi xuống cột bê tông ở Đồng Tháp: Trách nhiệm thuộc về ai?
+   10. 10
+       Lạm dụng, tham nhũng và những cái chết trên tàu cá Trung Quốc ở
+       Ghana
+
+   BBC News, Tiếng Việt
+     * Tại sao bạn có thể tin tưởng BBC News
+     * Điều khoản sử dụng
+     * Về BBC
+     * Chính sách riêng tư
+     * Cookie
+     * Liên hệ BBC
+     * AdChoices / Do Not Sell My Info
+
+   © 2023 BBC. BBC không chịu trách nhiệm nội dung các trang ngoài. Tìm
+   hiểu cách chúng tôi tiếp cận việc dẫn tới trang ngoài

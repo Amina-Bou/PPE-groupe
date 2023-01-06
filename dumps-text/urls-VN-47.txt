@@ -1,465 +1,514 @@
-   REFRESH(1800 sec):
-   https://danviet.vn/gia-tang-cac-cuoc-dinh-cong-ngung-viec-tap-the-do-da
-   u-20220216111913043.htm
+   #Liên tiếp các vụ đình công, Công đoàn Nhà nước yếu kém hay vô trách
+   nhiệm? - b'RSS 1.0' Liên tiếp các vụ đình công, Công đoàn Nhà nước yếu
+   kém hay vô trách nhiệm? - b'RSS 2.0' Liên tiếp các vụ đình công, Công
+   đoàn Nhà nước yếu kém hay vô trách nhiệm? - b'Atom' Search this site
 
-   IFRAME: https://id.danviet.vn/user-icon.htm
+   (BUTTON)
 
-   etime Trang trại Việt Làng cười Thế giới tiếp thị Dân Việt Media Tâm
-   hồn làng Việt
-   Đăng nhập/ Đăng ký
-   Dân Việt
-   ____________________ (BUTTON)
-     * Nhịp cầu nhân ái
-     * [chuyen-dong-sai-gon-ngoai.png] Chuyển động Sài Gòn
-     * [ha-noi-hom-nay-ngoai.png] Hà Nội Hôm Nay
+RFA logo
 
-     *
+   (BUTTON)
+
+     * Trang Chính
+     * Tin tức
+     * Thời Sự
+     * Bình luận
+     * Chuyên mục
      * Video
-     * Ảnh
+     * Tranh biếm hoạ
+
+   Search __________________ Submit
+   Advanced Search…
+   (BUTTON)
+
+     * Trang Chính
      * Tin tức
-     * Thế giới
-     * Nhà nông
-     * Dân Việt trò chuyện
-     * Thể thao
-     * Pháp luật
-     * Kinh tế
-     * Giáo Dục
-     * Đời sống
-     * Văn hóa - Giải trí
-     * Bạn đọc
-     * x
+     * Thời Sự
+     * Bình luận
+     * Chuyên mục
+     * Video
+     * Tranh biếm hoạ
 
-     * Tin tức
-          + Kính đa tròng
-          + Ngày mới tốt lành
-          + Chính trị
-          + Xã hội
-          + Phóng sự - Ghi chép
-     * Thế giới
-          + Nông sản độc - lạ thế giới
-          + Cộng đồng Việt
-          + Điểm nóng
-          + Hồ sơ - Tư liệu
-          + Góc chuyên gia
-          + Vũ khí - Quân sự
-     * Nhà nông
-          + Tin nông nghiệp
-          + Muôn cách làm giàu
-          + Ngon - Sạch - Lạ
-          + Thị trường nông sản
-          + Khuyến nông
-          + Nông thôn mới
-          + Chợ Việt xưa nay
-          + Địa chỉ xanh
-          + Môi trường xanh
-          + Nông dân phố
-          + Truyền thông và giảm nghèo về thông tin
-     * Thể thao
-          + Bóng chuyền
-          + Phía sau sân cỏ
-          + 360 độ Sao
-          + Bóng đá
-          + Chuyển nhượng
-          + Bên lề
-          + Các môn khác
-          + Tin nóng World Cup 2022
-          + AFF Cup 2022
-     * Pháp luật
-          + Pháp đình
-          + An ninh trật tự
-     * Kinh tế
-          + Góc nhìn chuyên gia
-          + Thị trường
-          + Đầu tư - Tài chính
-          + Nhà đất
-          + Doanh nghiệp - Doanh nhân
-     * Văn hóa - Giải trí
-          + Chuyện của Sao
-          + Thời trang
-          + Phim ảnh
-          + Âm nhạc
-          + Gameshow
-          + Đời sống văn hóa
-     * Gia đình
-          + Sống khỏe
-          + Món ngon nhà đẹp
-     * Chuyển động số
-          + Kinh tế số
-          + Nông nghiệp số
-          + Xã hội số
-          + Công nghệ số
-     * Du lịch
-          + Tin tức
-          + Món ngon - Điểm đẹp
-          + Trải nghiệm
-          + Tour hay – Khuyến mại
-          + Video - Ảnh
-     * Ô tô - Xe máy
-          + Tin ô tô - xe máy
-          + Đánh giá
-          + Bảng giá
-          + Tư vấn
-          + Mẹo vặt
-     * Đông Tây - Kim Cổ
-          + Võ thuật
-          + Danh nhân lịch sử
-          + Hồ sơ mật
-          + Bí ẩn khoa học
-          + Bí mật quân sự
-          + Thâm Cung Bí Sử
-     * Bạn đọc
-          + Tiêu dùng thông minh
-          + Kho tri thức
-          + Ý kiến bạn đọc
-          + Đường dây nóng
-          + Giải đáp pháp luật
-          + Điều tra
-     * Hội nông dân
-          + Công tác Hội
-          + Nông dân giỏi
-          + Đời sống nông thôn
-          + Ý kiến
-          + Chân dung cán bộ Hội
-     * Dân Việt trò chuyện
-     * Chuyện lạ
-     * Làng cười
-     * Doanh nghiệp
-     * Đọc sách cùng bạn
-     * Kể chuyện làng
-     * Chuyển động Sài Gòn
-          + Thời sự dân sinh
-          + Thời sự kinh doanh
-          + Sống vui
-     * Giáo Dục
-          + Học đường
-          + Tuyển sinh
-          + Du học
-          + Gương sáng
-          + Sống trẻ
-     * Đời sống
-          + Sức khoẻ
-          + Cộng đồng
-          + Lao động việc làm
-          + Tiêu dùng
-          + Nhà đẹp - Giá tốt
-     * Hà Nội hôm nay
-          + Chuyển động Hà Nội
-          + Hà Nội xưa và nay
-          + Phát triển cùng Thủ đô
+   Tin tức
+     * Tin Việt Nam
+     * Tin quốc tế
 
-     * Clip
-     * Ảnh
-     * Infographic
-     * Emagazine
-     * Về trang chủ
+   Thời sự
+     * Tường trình từ Việt Nam
 
-   Chủ đề nóng
-     * Giải cứu bé 10 tuổi lọt xuống ống cọc sâu 35m ở Đồng Tháp
-     * Vua bóng đá Pele qua đời
-     * AFF Cup 2022
-     * Xét xử vụ án liên quan đến AIC và BV Đa khoa Đồng Nai
-     * Lùm xùm lễ vinh danh "nhà thơ thế giới" Tống Thu Ngân
-     * Đại biểu HĐND tỉnh bị tố đánh caddie bằng gậy golf
-     * 50 năm chiến thắng Điện Biên Phủ trên không
-     * World Cup 2022 tại Qatar
+   Bình luận
+     * Blog
+     * Bạn đọc viết
 
-     * Đăng nhập
-     * Đăng ký
-     * ×
+   Chuyên mục
 
-   Vui lòng đăng nhập hoặc đăng ký để gửi bình luận
-   (BUTTON) Facebook (BUTTON) Google
+   Video
+
+   Tranh biếm hoạ
+
+   Về RFA
+     * Sứ mệnh
+     * Tuyển dụng
+     * Liên hệ
+
+     * [header_manlink-black.png]
+     * [header_canlink-black.png]
+     * [header_burlink-black.png]
+     * [header_korlink-black.png]
+     * [header_laolink-black.png]
+     * [header_khmlink-black.png]
+     * [header_tiblink-black.png]
+     * [header_uyglink-black.png]
+     * [header_vielink-black.png]
+     * [header_englink-black.png]
+
+   Search __________________ Submit
+   Advanced Search…
+
+   []
+
+Liên tiếp các vụ đình công, Công đoàn Nhà nước yếu kém hay vô trách nhiệm?
+
+   2022.02.17
+   Share on WhatsApp
+   Share on WhatsApp
+   Liên tiếp các vụ đình công, Công đoàn Nhà nước yếu kém hay vô trách
+   nhiệm? Các vụ đình công liên tiếp sau Tết Nguyên đán 2022
+   [icon-zoom.png] RFA edited
+   Phần âm thanh Tải xuống âm thanh
+
+   Từ sau vụ đình công ở công ty Việt Glory, hàng loạt cuộc đình công ở
+   các xí nghiệp khác đã diễn ra nhằm đòi hỏi các quyền lợi về lương
+   thưởng của người lao động. Báo chí nhà nước đưa tin dẫn nguồn từ Tổng
+   liên đoàn lao động Việt Nam cho biết từ trước và sau Tết Nguyên đán
+   2022, đã xảy ra 28 cuộc đình công tập thể. Nhà hoạt động công đoàn nhận
+   xét vụ việc này cho thấy sự bất lực và yếu kém của Liên đoàn lao động
+   Việt Nam.
+
+   Hàng loạt vụ đình công sau Tết
+
+   Khoảng 5.000 công nhân công ty Viet Glory ở Nghệ An vào ngày 7/2 đồng
+   loạt ngưng làm việc trong một tuần, yêu cầu được tăng lương cơ bản và
+   các khoản trợ cấp. Đến 14/2, người lao động đã đạt được mục đích, công
+   ty Viet Glory đồng ý tăng 6% mức lương cơ bản, bổ sung tiền thâm niên,
+   tăng một số khoản phụ cấp khác như tiền xăng xe, tiền ăn và phụ cấp con
+   nhỏ.
+
+   Sau đó, một số cuộc đình công khác nổ ra tại các công ty khác. Công
+   nhân bỏ việc đòi hỏi quyền lợi ở các tỉnh khu vực miền Bắc Trung bộ như
+   Nghệ An, Hà Tĩnh và ở Bắc bộ như  Bắc Ninh…
+
+   Cụ thể như vụ Công ty TNHH EM - Tech Việt Nam, thành phố Vinh, Nghệ An,
+   khoảng 500 công nhân bỏ việc tập thể từ chiều ngày 15/2, phản đối công
+   ty tăng lương cơ bản không đồng đều, yêu cầu tăng phụ cấp. Một công
+   nhân tên L, nói với RFA rằng:
+
+   “Em bây giờ muốn là nếu không lên lương thì cũng cho tụi em một lý do
+   như thế nào thôi. Còn đây là không có một lý do nào luôn.
+
+   Chưa giải quyết nhưng bây giờ công việc bắt buộc cũng phải làm, chứ nếu
+   không thì bị đuổi việc.”
+
+   Đến ngày 16/2, công nhân đã đi làm lại sau khi ban lãnh đạo công ty hứa
+   sẽ nêu kiến nghị của công nhân lên tổng công ty bên Hàn Quốc.
+
+   Cũng tại Nghệ An, sau giờ nghỉ trưa ngày 15/2, hàng trăm công nhân của
+   Công ty cổ phần Nam Thuận Nghệ An không vào xưởng làm việc. Họ tập
+   trung trong sân công ty yêu cầu xem xét lại chế độ lương thưởng không
+   công bằng giữa các bộ phận khác nhau, yêu cầu tăng phụ cấp xăng xe,
+   không trừ các khoản phụ cấp trong tháng một cách vô lý, không trừ tiền
+   nghỉ phép vào tiền thưởng tháng 13…
+
+   Ở Hà Tĩnh, cũng trong chiều ngày 15/2, hàng trăm công nhân thuộc Công
+   ty TNHH Haivina, ở thị xã Hồng Lĩnh, Hà Tĩnh, đã tập trung tại trụ sở
+   công ty để yêu cầu công ty này điều chỉnh mức lương. Chị H, làm việc
+   tại đây cho biết:
+
+   “Lương quá thấp mà nếu không có những khoản phụ cấp khác thì lấy gì mà
+   tiêu. Ở bên này khoảng gần bảy triệu nếu làm trên bảy năm, tùy thuộc
+   vào thâm niên làm việc.”
+
+   Tại Bắc Ninh, hơn 2.000 công nhân Công ty TNHH Cresyn Hà Nội đặt tại
+   Cụm Công nghiệp Đông Thọ, huyện Yên Phong đình công đòi tăng lương và
+   giải quyết các chế độ phúc lợi khác từ ngày 14/2.
+
+   Theo mạng báo Tiền Phong, đại diện lãnh đạo Công ty đã đồng ý đáp ứng
+   một số yêu cầu như tăng tiền ăn từ 18.000 đồng lên 20.000 đồng/bữa, cơi
+   nới nhà để xe. Các vấn đề quan trọng khác như tăng lương cơ bản, tăng
+   phụ cấp lương, tiền thưởng ngày lễ Tết ..., công ty sẽ bàn lại và trả
+   lời cho người lao động vào ngày 25/2.
+   vietglorydinhcong.jpeg Công nhân Viet Glory đình công ở Nghệ An hồi đầu
+   tháng 2/2022. Hình: Công An Nhân Dân
+
+   Hiệu ứng domino?
+
+   Trong các hội nhóm Facebook của cộng đồng người ở Nghệ An, Hà Tĩnh…
+   nhiều ý kiến cho rằng sự kiện xảy ra ở Viet Glory đã tạo hiệu ứng
+   domino, dẫn tới các vụ đình công tiếp theo trong những ngày qua.
+
+   Facebooker Oanh Chinh bình luận “Team áo hồng (đồng phục công ty Viet
+   Glory - PV) mở hàng đắt quá!”
+
+   Tài khoản tên Hoàng Văn Hùng đặt câu hỏi “Lại đến lượt các chiến binh
+   nón xanh (đồng phục công ty Nam Thuận, Nghệ An - PV) à!
+
+   Một công nhân khác tên Duyên, thuộc công ty Haivina Hồng Lĩnh, Hà Tĩnh,
+   ghi “Áo hồng Nghệ An gọi, Áo đen (đồng phục công ty Haivina - PV) Hà
+   Tĩnh trả lời!”
+
+   Chị H, công nhân Haivina cho rằng các vụ đình công xảy ra đồng loạt là
+   vì năm nay các công ty đều không, hoặc ít tăng lương như mọi năm. Công
+   nhân các công ty khác thấy Viet Glory đòi được quyền lợi nên cũng có bị
+   tác động:
+
+   “Chắc cũng có phần nào đó ảnh hưởng. Mọi năm cứ vào đầu năm là được
+   tăng lương cơ bản, nhưng năm nay nghe nói dịch bệnh nên không có công
+   ty nào lên lượng cả, chỉ có đáp ứng một số yêu cầu chứ không phải
+   đáp ứng hết.”
+
+   Theo chị L, vụ đình công ở Viet Glory được nhiều người ủng hộ nên cũng
+   tạo động lực cho những nơi khác mạnh dạn lên tiếng, nhưng không có sự
+   liên hệ tổ chức đình giữa các công ty:
+
+   “Em cùng nghĩ như vậy nhưng tự công nhân đứng ra làm vậy chứ có liên hệ
+   gì với nhau đâu.”
+
+   IFRAME: //www.youtube.com/embed/ZDmCPxkTIrQ
+
+   Doanh nghiệp nói gì?
+
+   Lý do mà hầu hết các công ty đưa ra để từ chối tăng lương cho công nhân
+   là lương cơ bản mà công ty trả đã cao hơn mức lương cơ bản theo quy
+   định của pháp luật về mức lương tối thiểu phân chia theo vùng. Còn về
+   tiền phụ cấp thì tuỳ thuộc vào điều kiện của từng doanh nghiệp.
+
+   Trong một đoạn video do công nhân công ty Haivina đăng tải trên
+   Facebook, ghi lại nội dung ban lãnh đạo công ty này phát biểu với công
+   nhân đang đình công rằng:
+
+   “Thứ nhất, phía công ty đã nói rõ ràng rồi, đề nghị mọi người trở về vị
+   trí làm việc của mình. Thứ Hai, viết kiến nghị gởi lên. Thứ ba, công ty
+   sẽ có trách nhiệm trả lời.
+
+   Nếu trường hợp công ty đã chấp nhận tuân thủ tất cả những quy trình
+   liên quan đến kiến nghị của người lao động mà anh chị em không tuân thủ
+   thì bắt đầu từ sau phút này, công ty sẽ đóng cửa nhà máy.”
+
+   Các công nhân nói với RFA rằng mức lương theo luật định là quá thấp. Cả
+   tháng làm tăng ca liên tục, không vi phạm lỗi gì mới được khoảng hơn
+   sáu triệu. Trong khi vật giá các hàng hoá, mặt hàng nhu yếu phẩm thì
+   cũng ngang ngửa ở thành phố. Như vậy là không thể đủ sống:
+
+   “Đình công để tăng lương nhưng năm nay dịch giã gì đó không lên lương,
+   lương thấp quá. Tụi em làm đêm thì tháng khoảng bảy triệu, giờ nhiều
+   khoản lắm, làm sao mà đủ được.” - chị L nói.
+
+   Theo Nghị định về mức lương tối thiểu vùng năm 2022 do Chính phủ ban
+   hành quy định, mức lương tối thiểu sẽ được chia theo bốn cấp độ. Trong
+   đó, cao nhất là vùng một với bốn triệu hai trăm ngàn đồng, giảm dần
+   xuống đến thấp nhất là khoảng ba triệu ở vùng bốn.
+
+   Các công ty đóng tại các tỉnh Nghệ An, Hà Tĩnh, Bắc Ninh thuộc vùng ba,
+   nên công nhân chỉ nhận được ba triệu tư/tháng, chưa tính tiền phụ cấp.
+
+   Đình công hàng loạt, Công đoàn vẫn được khen thưởng
+
+   Riêng ở Nghệ An, chỉ trong vòng hai tuần từ sau tết Nguyên đán đã xảy
+   ra ít nhất ba vụ người lao động đình công.
+
+   Dù vậy, tập thể Liên đoàn Lao động tỉnh Nghệ An vẫn được tặng thưởng Cờ
+   thi đua của Chính phủ hồi giữa tháng một, và được tặng Huân chương Lao
+   động với thành tích “đoàn kết, quyết tâm, nỗ lực sáng tạo trong tổ chức
+   hoạt động, tích cực, đạt nhiều kết quả, thành tích xuất sắc”.
+
+   Công nhân tên H nói làm việc cho công ty Haivina đã nhiều năm, tháng
+   nào cũng đóng tiền công đoàn, nhưng công đoàn luôn đứng về phía doanh
+   nghiệp thay vì phải bênh vực lợi ích của người lao động:
+
+   “Đợt đình công vừa rồi công đoàn tỉnh cũng có về thương lượng với công
+   ty nhưng không giải quyết được vấn đề gì. Công đoàn công ty thì hầu như
+   họ đứng về phía công ty thôi.
+
+   Thì cứ nói cho qua chuyện chứ công đoàn cũng chẳng giải quyết được vấn
+   đề gì. Không biết công ty khác như thế nào chứ công ty này thì công
+   đoàn có như không.”
+
+   Trả lời mạng báo Zing về tình hình liên tiếp xảy ra các vụ ngừng việc
+   tập thể, Tổng Liên đoàn Lao động Việt Nam nói đã tăng cường công tác
+   tuyên truyền, tư vấn tới người lao động, người sử dụng lao động về việc
+   đồng hành, chia sẻ khó khăn; đồng thời rà soát nhằm có phương án ngăn
+   chặn, hỗ trợ, giải quyết kịp thời, giảm thiểu tranh chấp lao động,
+   ngừng việc tập thể, đình công tự phát xảy ra.
+
+   Trách nhiệm của Công đoàn Nhà nước trong các vụ đình công
+
+   Ông Bùi Thiện Tri, Chủ tịch Nghiệp đoàn Độc lập Việt Nam (VIU) trả lời
+   RFA qua email về trách nhiệm của Công đoàn Nhà nước khi xảy ra các cuộc
+   đình công, biểu tình tập thể của công nhân rằng:
+
+   “Tuyệt đại đa số các cuộc đình công ở Việt Nam từ trước đến nay đều là
+   tự phát, chứ không phải được lãnh đạo bởi các cấp Công đoàn (tức đại
+   diện của Tổng Lao động Lao động Việt Nam tại cơ sở).
+
+   Điều này cho thấy sự mờ nhạt trong vai trò đại diện cho quyền lợi người
+   lao động ở cơ sở của Công đoàn Nhà nước cũng như sự vô trách nhiệm của
+   cấp lãnh đạo Công đoàn Nhà nước đã không làm tròn trách nhiệm của mình
+   tới nơi tới chốn, trong khi họ vẫn nhận tiền lương từ sự đóng góp của
+   công nhân.
+
+   Việc công nhân đình công tự phát cho thấy sự bất lực của Công đoàn Nhà
+   nước trong việc đại diện cho người lao động khi đối thoại, đấu tranh
+   với người sử dụng lao động để bảo vệ quyền lợi của người lao động. Chỉ
+   đến khi đình công xảy ra thì Công đoàn cấp trên cơ sở (cấp huyện, tỉnh)
+   mới vào cuộc như là một bên trung gian hoà giải, cùng với công an,
+   chính quyền giải quyết xung đột. Mục đích của họ là làm sao để cho
+   người lao động trở lại làm việc càng sớm càng tốt, đó là kiểu làm việc
+   giải quyết tình thế.
+
+   Để xảy ra đình công thì họ cũng viện lý do là công đoàn cơ sở còn non
+   trẻ và thiếu kinh nghiệm, đặc biệt ở một vài doanh nghiệp thì công đoàn
+   cơ sở còn chưa được thành lập nên người lao động cũng không biết bấu
+   víu vào đâu.
+
+   Trong khi đó Bộ luật Lao động năm 2019 có quy định về việc thành lập Tổ
+   chức đại diện người lao động ở doanh nghiệp (ngoài tổ chức công đoàn
+   nhà nước) đã có hiệu lực từ 01/01/2021 nhưng đến nay vẫn phải chưa có
+   các văn bản dưới luật hay các nghị định hướng dẫn nên người lao động
+   cũng chưa được tự thành lập tổ chức đại diện cho mình.”
+
+Tin, bài liên quan
+
+Thời Sự
+
+     * Công nhân Bình Dương đình công vì bị ‘kích động'?
+     * Ông Nguyễn Thiện Nhân lại lo phụ nữ không chịu sinh con
+     * Người lao động đình công: Lỗi do đâu?
+     * Chất lượng bữa ăn và đình công: Câu chuyện “tức nước, vỡ bờ”
+     * Việt Nam bắt đầu sửa luật cho phép thành lập công đoàn độc lập?
+
+Bài được đọc nhiều nhất
+
+RFA
+
+   Chỉ đạo giao đấu trên sân Ba Đình là... “đỉnh của đỉnh”?
+     * Chỉ đạo giao đấu trên sân Ba Đình là... “đỉnh của đỉnh”?
+     * Hai Phó Thủ tướng bị thôi chức: "Công tác nhân sự phải là việc của
+       toàn dân!"
+     * Vụ Trịnh Xuân Thanh: bị cáo thứ hai bác bỏ cáo buộc khiến toà Đức
+       trưng nhiều bằng chứng mới
+     * Đảng thanh trừng Phạm Bình Minh, liệu quan hệ Việt – Mỹ có bị ảnh
+       hưởng?
+     * Thích Tuệ Hải - thượng tọa, trụ trì, “bậc chân tu thần y” chữa tiệt
+       nọc từ HIV đến COVID
+
+Bài được đọc nhiều nhất
+
+Thời Sự
+
+   Trẻ lọt ống bê tông trong công trình xây dựng: trách nhiệm ở khâu nào?
+     * Trẻ lọt ống bê tông trong công trình xây dựng: trách nhiệm ở khâu
+       nào?
+     * Nạn “bôi trơn” bị lật tẩy dẫn đến quá tải đăng kiểm xe!
+     * Hơn 40 ngàn lao động mất việc trước Tết - “Việt Nam cần chuẩn bị
+       cho kịch bản tệ hơn trong năm tới”
+     * Nhìn lại Việt Nam năm 2022
+
+   Nhận xét
+
+   Bạn có thể đưa ý kiến của mình vào khung phía dưới. Ý kiến của Bạn sẽ
+   được xem xét trước khi đưa lên trang web, phù hợp với Nguyên tắc sử
+   dụng của RFA. Ý kiến của Bạn sẽ không xuất hiện ngay lập tức. RFA không
+   chịu trách nhiệm về nội dung các ý kiến. Hãy vui lòng tôn trọng các
+   quan điểm khác biệt cũng như căn cứ vào các dữ kiện của vấn đề.
+   Tên
    ____________________
-   ____________________
+   Nhận xét
 
-   Đăng nhập
-
-   Email
-   ____________________
-
-   Họ và tên
-   ____________________
-
-   Mật khẩu
-   ____________________
-
-   Mã xác nhận
-   ____________________ Captcha refesh
-
-   Đăng ký
-
-   Xin chào, !
-
-   Bạn đã đăng nhập với email:
-
-   Đăng xuất
-
-   Đời sống
-     * Sức khoẻ
-     * Cộng đồng
-     * Lao động việc làm
-     * Tiêu dùng
-     * Nhà đẹp - Giá tốt
-
-Gia tăng các vụ đình công, ngừng việc tập thể là do đâu
-
-​​Gia tăng các cuộc đình công, ngừng việc tập thể do đâu?
-
-   Thùy Anh Thứ tư, ngày 16/02/2022 12:20 PM (GMT+7)
-   Aa Aa+
-   Từ đầu năm 2022 đến nay, cả nước đã xảy ra 28 cuộc đình công. Nguyên
-   nhân chính được chỉ ra là do bất đồng trong chính sách chi trả lương,
-   thưởng tại doanh nghiệp. Ngoài ra, các vấn đề thiếu lao động, tình
-   trạng tăng giờ làm thêm... cũng là nguyên nhân dẫn tới việc đình công,
-   ngừng việc.
-   Bình luận 0
-     * 5.000 công nhân đình công tập thể, kéo ra đường để đòi quyền lợi
-       ngay sau Tết
-     * Ngừng việc vì lương thưởng tết: Đừng để “đốm lửa” thành “đám cháy”
-     * Hàng nghìn công nhân đình công giữa trưa, đòi tăng thưởng Tết
-
-6 tuần đầu năm xảy ra 28 vụ đình công, ngừng việc
-
-   Thông tin từ Tổng Liên đoàn lao động Việt Nam (Tổng LĐLĐVN) cho biết,
-   từ đầu năm 2022 đến nay, cả nước xảy ra 28 cuộc tranh chấp lao động,
-   ngừng việc tập thể, giảm 7 cuộc so với cùng kỳ năm 2021.
-
-   Mặc dù tính chất, quy mô các cuộc đình công, ngừng việc tập thể không
-   phức tạp, song nguyên nhân chủ yếu vẫn là do người lao động chưa đồng
-   tình với việc thay đổi hình thức trả lương, nâng lương định kỳ của
-   doanh nghiệp; doanh nghiệp trả thưởng thấp hơn so với tết 2021, điều
-   kiện trả thưởng…
-   đình công, ngừng việc
-
-   Hàng nghìn công nhân Công ty TNHH Vienergy tại Ninh Bình đình công ngày
-   11/2 do không đồng tình với phương án trả lương của công ty. Ảnh: Gia
-   Ngư
-
-   Điển hình như cuộc ngừng việc tập thể kéo dài 4 ngày, xảy ra trước tết
-   tại Công ty TNHH Pouchen Việt Nam, có trụ sở tại tỉnh Đồng Nai. Có tới
-   16.158 lao động ngừng việc tập thể do không đồng ý việc công ty giảm
-   tiền thưởng cuối năm 2021 so với năm 2020 là 30%.
-
-   Những ngày sau tết, 3 cuộc ngừng việc tập thể liên tiếp xảy ra tại Công
-   ty TNHH Viet Glory (sản xuất giày, dép) tại Nghệ An; Công ty TNHH
-   Vietnergy (Đài Loan, sản xuất giày, dép) tại Ninh Bình và tại Công ty
-   TNHH Phúc Mậu tại Thái Bình...
-
-   Nguyên nhân là do người lao động yêu cầu tăng lương cơ bản, tăng chế độ
-   độc hại; bổ sung chế độ phụ cấp thâm niên, chế độ hỗ trợ cho người lao
-   động mắc Covid-19; phản ánh việc trả lương tháng thứ 13 theo thời gian
-   làm việc chưa công bằng. Bên cạnh đó còn có nguyên nhân thái độ của một
-   số quản lý người nước ngoài không đúng mực với người lao động.
-
-   Ngày 16/2, thông tin từ Tổng liên đoàn Lao động Việt Nam cho biết, đơn
-   vị này vừa có công văn hỏa tốc Số 3649, do ông Phan Văn Anh - Phó chủ
-   tịch Tổng Liên đoàn Lao động Việt Nam, ký ngày 15/2 gửi Liên đoàn lao
-   động tỉnh, thành phố, Công đoàn ngành, công đoàn trung ương; Công đoàn
-   Tổng công ty trực thuộc Tổng Liên đoàn về việc Tăng cường thực hiện các
-   giải pháp phòng ngừa, giải quyết tranh chấp lao động, ngừng việc tập
-   thể.
-
-   Tổng liên đoàn Lao động Việt Nam đưa ra 5 biện pháp để phòng ngừa, giải
-   quyết khi có tranh chấp lao động, hoặc ngừng việc tập thể.
-
-   Ngoài các nguyên nhân trên, ông Phan Văn Anh - Phó chủ tịch Tổng Liên
-   đoàn lao động Việt Nam cho rằng còn có nguyên nhân xuất phát từ mâu
-   thuẫn do chủ sử dụng lao động không tuân thủ các quy định pháp luật của
-   doanh nghiệp đối với người lao động; không công khai, minh bạch các chế
-   độ của người lao động, thông tin của doanh nghiệp; tiền lương, tiền
-   công, thu nhập thấp, điều kiện làm việc không đảm bảo an toàn, vệ sinh
-   lao động, chất lượng bữa ăn ca kém...
-
-   Trước tình hình trên, tổ chức công đoàn phối hợp cùng với các cơ quan
-   chức năng tham gia giải quyết. Với sự vận động, thuyết phục, hỗ trợ của
-   tổ chức công đoàn cùng các cơ quan chức năng, toàn bộ người lao động
-   tại các công ty đã quay trở lại làm việc.
-
-   Ông Phan Văn Anh cho biết, trong năm 2022, các cấp công đoàn tiếp tục
-   xác định chủ đề của năm là "Chăm lo việc làm, đời sống cho người lao
-   động; các cấp công đoàn sẽ tiếp tục tập trung nghiên cứu đề xuất và
-   tham gia xây dựng, triển khai, giám sát việc thực hiện chính sách, pháp
-   luật liên quan đến quyền của người lao động; tổ chức thương lượng, đối
-   thoại với người sử dụng lao động để đảm bảo quyền lợi của người lao
-   động, trong đó quan tâm nội dung việc làm cho người lao động tại các
-   doanh nghiệp”.
-
-   Điều này được xem là kênh giúp hạn chế tình trạng đình công, ngừng việc
-   tự do xảy ra.
-
-Đình công, ngừng việc là bình thường
-
-   Nhìn nhận ở góc độ khách quan hơn, chuyên gia trong lĩnh vực lao động,
-   bà Nguyễn Thị Lan Hương cho rằng việc đình công, ngừng việc là việc khá
-   bình thường ở bất cứ nền kinh tế thị trường nào.
-   đình công, ngừng việc
-
-   2.000 công nhân Công ty TNHH Cresyn Hà Nội (tại Bắc Ninh) đình công tập
-   thể đòi tăng lương cơ bản, tăng phụ cấp và giải quyết chế độ phúc lợi.
-   Ảnh: Quốc Hưng
-
-   Bà Hương nói, dịch bệnh Covid-19 đã khiến thị trường lao động bị tác
-   động lớn. Sau một thời gian người lao động mất việc, ngừng việc, công
-   ty thì ngừng hoạt động doanh thu giảm... điều này đã khiến cho mối quan
-   hệ lao động rất căng thẳng. Vì thế, tới Tết khi các doanh nghiệp chi
-   lương, thưởng Tết, người lao động sẽ so sánh, tính toán. Nếu họ cảm
-   thấy chế độ phúc lợi, mức chi của công ty không xứng đáng họ sẵn sàng
-   đình công.
-
-   Bên cạnh đó, cũng theo bà Hương, hiện nay tình trạng thiếu lao động
-   đang diễn biến phức tạp, cục bộ, nên người lao động có quyền lựa chọn
-   nơi làm việc tốt, chế độ lương thưởng cao. Vì vậy, họ có quyền ra ưu
-   sách với doanh nghiệp.
-
-   "Tuy nhiên, nhìn nhận ở góc độ tích cực thì việc đình công cũng là tín
-   hiệu tốt cho thấy vai trò, sức mạnh của người lao động trong việc đòi
-   hỏi thương thảo quyền lợi. Điều này góp phần cải thiện quan hệ lao động
-   theo hướng tiến bộ, bình đẳng", bà Hương nói.
-     * Ngừng việc vì lương thưởng tết: Đừng để “đốm lửa” thành “đám cháy”
-    Ngừng việc vì lương thưởng tết: Đừng để “đốm lửa” thành “đám cháy”
-        14/01/2022 06:00
-     * Đồng Nai: Công nhân Công ty Pouchen được nhận lương những ngày
-       ngừng việc
-    Đồng Nai: Công nhân Công ty Pouchen được nhận lương những ngày ngừng
-       việc
-        12/01/2022 17:33
-     * Công nhân Pouchen ngừng việc do bị hạ thưởng Tết: Doanh nghiệp mong
-       công nhân chia sẻ khó khăn
-    Công nhân Pouchen ngừng việc do bị hạ thưởng Tết: Doanh nghiệp mong
-       công nhân chia sẻ khó khăn
-        12/01/2022 09:14
-
-   Chia sẻ
-   Từ khóa:
-     * đình công
-     * ngừng việc tập thể
-     * đình công ngừng việc tập thể
-     * thủ tục đình công
-     * đình công ngừng việc thế nào cho đúng luật
-
-   Mời các bạn đồng hành cùng báo Dân Việt trên mạng xã hội Facebook để
-   nhanh chóng cập nhật những tin tức mới và chính xác nhất.
-
-     danviet.vn
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Captcha
 
    IFRAME:
-   https://id.danviet.vn/CommentLogin.aspx?objId=20220216111913043&objType
-   =1&objZoneId=1190&objUrl=https://danviet.vn/gia-tang-cac-cuoc-dinh-cong
-   -ngung-viec-tap-the-do-dau-20220216111913043.htm&objTitle=JUUyJTgwJThCJ
-   UUyJTgwJThCR2lhJTIwdCVDNCU4M25nJTIwYyVDMyVBMWMlMjBjdSVFMSVCQiU5OWMlMjAl
-   QzQlOTElQzMlQUNuaCUyMGMlQzMlQjRuZyUyQyUyMG5nJUUxJUJCJUFCbmclMjB2aSVFMSV
-   CQiU4N2MlMjB0JUUxJUJBJUFEcCUyMHRoJUUxJUJCJTgzJTIwZG8lMjAlQzQlOTElQzMlQT
-   J1JTNG&layout='danvietw'
-
-   Tin cùng chuyên mục
-   Xem theo ngày Xem
-     * Bí mật giấu vợ tài sản hơn 500 triệu đồng, người đàn ông đau khổ vì
-       cháy sạch
-    Bí mật giấu vợ tài sản hơn 500 triệu đồng, người đàn ông đau khổ vì
-       cháy sạch
-     * Bộ Y tế công bố tin tức dịch Covid-19 mới nhất ngày 5/1
-    Bộ Y tế công bố tin tức dịch Covid-19 mới nhất ngày 5/1
-     * Biến thể phụ XBB, XBB.1.5 gây nguy hiểm đến mức độ nào?
-    Biến thể phụ XBB, XBB.1.5 gây nguy hiểm đến mức độ nào?
-     * Loại rau được ví như "nhân sâm" của người nghèo, giảm nguy cơ mắc
-       ung thư Loại rau được ví như "nhân sâm" của người nghèo, giảm nguy
-       cơ mắc ung thư
-     * Đồng Nai: Khởi động chi hỗ trợ từ 1-4 triệu đồng cho nhân viên y tế
-    Đồng Nai: Khởi động chi hỗ trợ từ 1-4 triệu đồng cho nhân viên y tế
-     * Trời tối, bé gái 2 tuổi rơi xuống cống đang thi công
-    Trời tối, bé gái 2 tuổi rơi xuống cống đang thi công
-
-   Tin nổi bật
-     * Người phụ nữ khốn khổ hàng chục năm tiểu ra như mỡ, có lúc như
-       thạch
-    Người phụ nữ khốn khổ hàng chục năm tiểu ra như mỡ, có lúc như thạch
-
-     * Sốc: Đồ vật trong một căn nhà ở Thanh Hóa liên tục tự bốc cháy
-     * Nguy cơ tử vong liên quan đến việc không uống đủ nước?
-     * Bệnh viện tỉnh Quảng Trị có nguy cơ gián đoạn hoạt động
-
-   Xem thêm
-   Dân Việt
-     * Tòa soạn
-     * Đặt báo
-     * Quảng cáo
-
-     * Tin tức
-          + Kính đa tròng
-          + Ngày mới tốt lành
-          + Chính trị
-          + Xã hội
-     * Thế giới
-          + Nông sản độc - lạ thế giới
-          + Cộng đồng Việt
-          + Điểm nóng
-          + Hồ sơ - Tư liệu
-     * Nhà nông
-          + Tin nông nghiệp
-          + Muôn cách làm giàu
-          + Ngon - Sạch - Lạ
-          + Thị trường nông sản
-     * Thể thao
-          + Bóng chuyền
-          + Phía sau sân cỏ
-          + 360 độ Sao
-          + Bóng đá
-     * Pháp luật
-          + Pháp đình
-          + An ninh trật tự
-     * Kinh tế
-          + Góc nhìn chuyên gia
-          + Thị trường
-          + Đầu tư - Tài chính
-          + Nhà đất
-     * Văn hóa - Giải trí
-          + Chuyện của Sao
-          + Thời trang
-          + Phim ảnh
-          + Âm nhạc
-     * Gia đình
-          + Sống khỏe
-          + Món ngon nhà đẹp
-     * Chuyển động số
-          + Kinh tế số
-          + Nông nghiệp số
-          + Xã hội số
-          + Công nghệ số
-     * Du lịch
-          + Tin tức
-          + Món ngon - Điểm đẹp
-          + Trải nghiệm
-          + Tour hay – Khuyến mại
-     * Ô tô - Xe máy
-          + Tin ô tô - xe máy
-          + Đánh giá
-          + Bảng giá
-          + Tư vấn
-     * Đông Tây - Kim Cổ
-          + Võ thuật
-          + Danh nhân lịch sử
-          + Hồ sơ mật
-          + Bí ẩn khoa học
+   https://www.google.com/recaptcha/api/fallback?k=6Lf_TyMTAAAAAEMn_3fTLEz
+   Kgt74y1XGDX4bsH3a&hl=en
 
 
-   Trụ sở: 13 Đường Thụy Khuê, Quận Tây Hồ, Hà Nội
-   Tòa soạn và trị sự: Lô E2, Dương Đình Nghệ, Quận Cầu Giấy, Hà Nội
-   Điện thoại: (84-24) 38472263
-   Email: toasoan@danviet.vn
-   Đường dây nóng: 0857.835.666
-   Liên hệ quảng cáo: 0329298892
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Nhận xét Bỏ
 
+Nhận xét
 
-   Báo điện tử của Trung ương Hội Nông dân Việt Nam
-   Tổng Biên tập: LƯU QUANG ĐỊNH
-   Phó Tổng Biên tập: Phan Huy Hà (Thường trực), Lưu Phan, Nguyễn Văn Hoài
-   Giấy phép số 115/GP-BTTTT cấp ngày 01/3/2022
+Anonymous
 
-   Chung nhan Tin Nhiem Mang
-   Bản quyền thuộc về Báo điện tử Dân Việt. Mọi hình thức sao chép lại
-   thông tin, hình ảnh phải được sự đồng ý bằng văn bản.
-     *
-     *
-     *
-     *
-     *
+   17/02/2022 09:07
+
+   Công đoàn quốc doanh ở VN hiện nay chỉ là công cụ của đảng để khống chế
+   công nhân, làm lợi cho chính sách thu hút đầu tư nước ngoài bằng giá
+   nhân công rẻ mạt, không và sẽ không bao giờ bảo vệ người lao động như
+   tôn chỉ của nó. Còn công đoàn độc lập bảo vệ thật sự cho người lao động
+   thì bị tiêu diệt từ trong trứng nước. Đảng cnvn từ lâu đã không còn là
+   đại diện cho công nhân và nông dân, mà đã trở thành tầng lớp thống trị
+   mới, phối hợp chặt chẽ với tư bản trong và ngoài nước bóc lột người
+   công nhân thậm tệ. Những ràng buộc về pháp lý với Châu Âu và Mỹ để
+   người lao động được hưởng phúc lợi đã bị nhà nước VN ngăn cản tinh vi,
+   nhằm giúp giảm chi phí và tăng lợi nhuận cho doanh nghiệp, tăng thu cho
+   nhà nước và bổng lộc quan chức. Nhà nước csvn ác với dân, ác với người
+   công nhân và nông dân vô cùng tận!
+
+Anonymous
+
+   18/02/2022 12:51
+
+   Đảng CSVN đâu ròi? Sao không đứng về giai caấp công nhân? Sao không
+   bênh vực giai cấp công nhân để công nhân bị tư bản bóc lột vậy?
+   CS cái mồm !!! Phải không ông Trọng "Lú Bì"?
+
+Anonymous
+
+   18/02/2022 17:26
+
+   Qua những vụ đình công này, cho thấy ĐCSVN hiện nay thực chất chính là
+   Tư bản Đỏ, cấu kết với tư bản nước ngoài bóc lột nhân dân lao động VN.
+   Báo LĐ của Công Đoàn "quốc doanh" vừa có bài đe dọa những người đình
+   công, rằng ai thấy công việc không thích hợp thì tư nguyện chấm dứt hợp
+   đồng, chứ không được kêu gọi cùng nhau nghỉ việc, ảnh hưởng đến đầu tư
+   nước ngoài, đến sự phát triển của đất nước(!).
+   Quốc Hội im re, ai đã ra luật định "lương tối thiểu" - lương chết đói
+   dành cho người lao động - để cho tư bản nước ngoài đổ xô đế VN bóc
+   lột???
+
+Duy Hữu, USA
+
+   19/02/2022 10:12
+
+   Anh chị em công nhân lao động Việt Nam ta... người bình thường, còn
+   bình thương... ai ai cũng biết, đều biết, đã biết, sẽ biết...
+   Tất cả các công đoàn nhà nước Búa Liềm, của Tổng Liên đoàn Lao động Búa
+   Liềm, của đảng, do đảng, vì đảng Búa Liềm,
+   vì đặc quyền, đặc lợi, vì độc quyền, độc trị, độc tài của đảng cờ đỏ
+   Búa Liềm... vô tâm, vô tầm...vô trách nhiệm, đổ trách nhiệm..
+   rất bất tài, bất lực... rất bất lương, bất nhân ...
+   Độc bọn, toàn bọn tham, ngu, hèn, ác, láo... ăn cháo, đái bát... ăn
+   hại, đái nát... ngồi mát, ăn bát vàng... ăn lương công nhân ta,
+   thờ ma chủ nhân ông ... ăn cơm công nhân ta, thờ ma chủ nhân ma... ăn
+   cơm dân ta, thờ ma đảng ma ...
+   Chúng nó, bè đảng chúng nó... đéo có cần, đéo có phải, đéo có thèm...
+   đấu tranh cho các quyền lao động, quyền lợi lao động, quyền sống, quyền
+   sống còn, quyền là người tự do, quyền làm người tự do của tất cả anh
+   chị em lao động, công nhân, nông dân ta, trong các công ty, các xí
+   nghiệp, các doanh nghiệp của các tập đoàn chủ nhân ông, con buôn đỏ,
+   con buôn đen, tài phiệt đỏ, tài phiệt đen, tư bản đỏ, tư bản đen, tư
+   lợi đỏ, tư lợi đen, " sân sau " đỏ, " sân sau " đen, của đảng đỏ, đảng
+   đen, đảng trưởng đỏ, đen, đảng viên đen, đỏ, cán bộ đen, đỏ Búa Liềm, "
+   chủ nghĩa xã hội đen, xã hội đỏ Búa Liềm ".
+   Nhưng các công đoàn Búa Liềm chúng nó lại bắt tay, làm tai say cho các
+   tập đoàn chủ nhân ông tư bản đỏ, chủ nhân ông tư bản đen, tư lợi đen,
+   tư lợi đỏ, " chủ nghĩa xã hội đỏ, xã hội đen Búa Liềm "... đang bóc lột
+   tận xương tủy sức lao động nô lệ với mức lương lao động nô lệ của tất
+   cả anh chị em lao động ta , công nhân, nông dân, nghèo khổ, đói nghèo,
+   trên chính đất nước ta.
+   Đồng bào ta, nhân dân ta, anh chị em lao động ta, khắp nơi, khắp nước,
+   khắp thế giới, nhân dân thế giới, anh chị em lao động
+   thế giới... Đứng Lên, Lên Tiếng... đồng lòng, đồng hành, đồng thanh...
+   ngưỡng mộ, cảm phục, cảm mến... ủng hộ, hồ trợ... tất cả anh chị em
+   công nhân Việt Nam ta đang can đảm, tự động, tự nguyện, tự phát, tự
+   liên kết, tự đoàn kết... đình công, lãng công...
+   Đứng Lên, Lên Tiếng... Phản biện, Phản đối, Phản kháng... Bất bạo động,
+   Bất tín nhiệm, Bất hợp tác... Bất tuân, Bất chấp...
+   Bất khuất, Bất diệt... Bách chíên, Bách thắng... đấu tranh cho Công
+   bằng, Công lý, Công tâm... chống Bất công, Bất chính...
+   Bất lương, Bất nhân...
+   Đòi hỏi các quyền lao động, các quyền lợi lao động, chính đáng, chính
+   danh, chính nghĩa, quyền sống, quyền là nguời tự do, quyền làm người tự
+   do của tất cả các anh chị em lao đông ta, trên chính đất nước Viêt Nam
+   ta.
+   Liên kết trong Sự thật, đoàn kết trong Tình thương, Tình người, Tình
+   đồng nghiệp, Tình dân tộc.
+   Một người cho Mọi người, Mọi người cho Một người ! ... Liên kết trong
+   Đa dạng !... Đa dạng trong Đoàn kết !
+   One for All, All for One !... Unity in Diversity !... Diversity in
+   Unity !...
+
+   Mục định hướng
+
+     * Liên tiếp các vụ đình công, Công đoàn Nhà nước yếu kém hay vô trách
+       nhiệm?
+
+Nội dung
+
+   Trang chính
+   Tin tức
+   Thời Sự
+   Bình luận
+   Chuyên mục
+   Video
+   Tranh biếm họa
+
+Ngôn ngữ
+
+   [footer_manlink.png]
+   [footer_canlink.png]
+   [footer_burlink.png]
+   [footer_korlink.png]
+   [footer_laolink.png]
+   [footer_khmlink.png]
+   [footer_tiblink.png]
+   [footer_uyglink.png]
+   [footer_englink.png]
+
+Nghe
+
+   Schedule
+   Frequencies
+   Podcasts
+
+Xem
+
+   Chương trình Podcast
+   Tranh biếm họa
+
+Đăng ký
+
+   RSS News Feeds
+   Email Alerts
+
+Liên kết
+
+   Youtube
+   Facebook
+   Twitter
+   Instagram
+   Vượt tường lửa
+   Gửi tin cho chúng tôi
+
+Về RFA
+
+   Sứ mệnh
+   Nguyên tắc sử dụng
+   Quyền riêng tư
+   Trợ giúp
+   Tuyển dụng
+
+Liên hệ
+
+Địa chỉ
+
+   Radio Free Asia
+   2025 M Street NW
+   Suite 300
+   Washington, DC
+   20036 USA
+
+Điện thoại
+
+   1 (202) 530-4900
+
+Email
+
+   vietweb@rfa.org
+   © 2022 Đài Á Châu Tự Do
