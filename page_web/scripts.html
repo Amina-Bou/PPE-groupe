@@ -111,12 +111,7 @@ Le dernier élément <expression_régulière> est à remplacer pour chaque fichi
 		    <pre class="bbcode_container"> #!/usr/bin/env bash
 
 #===============================================================================
-# VOUS DEVEZ MODIFIER CE BLOC DE COMMENTAIRES.
-# Ici, on décrit le comportement du programme.
-# Indiquez, entre autres, comment on lance le programme et quels sont
-# les paramètres.
-# La forme est indicative, sentez-vous libres d'en changer !
-# Notamment pour quelque chose de plus léger, il n'y a pas de norme en bash.
+# CE BLOC DE COMMENTAIRES.
 #===============================================================================
 
 
@@ -133,8 +128,8 @@ mot=$3 # expression régulière du mot cible
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
 
-echo "<html><head><link rel="stylesheet" href="style.css"></head><body>" > $fichier_tableau
-echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
+echo "<pre><html></pre><pre><head></pre><pre><link rel="stylesheet" href="style.css"></pre><pre></head></pre><pre><body></pre>" > $fichier_tableau
+echo "<pre><h2></pre>Tableau $basename :<pre></h2></pre>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table>" >> $fichier_tableau
 echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>dump_html</th><th>dump_text</th><th>occurrences</th><th>contextes</th><th>concordances</th></tr>" >> $fichier_tableau
