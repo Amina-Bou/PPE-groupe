@@ -87,8 +87,20 @@ La sortie attendue de ce script est donc un tableau comprenant les informations 
 <br>- Le contenu de la page de l'URL sous le format texte (.txt)
 <br>- Le nombre d'occurrences du mot cible dans la page de l'URL
 <br>- Le contexte d'apparition, plus précisemment la ligne précendant et suivant le mot cible
-<br>- Le concordancier autour du mot cible (jusqu'à 5 mots)
-
+<br>- Le concordancier autour du mot cible (jusqu'à 5 mots) </p>
+	
+		 <br> <br>
+        <p>
+            
+            <span class="headline hl4">Lancement du script</span>
+		<p>
+Pour lancer ce script, il faut se placer à la racine de la page et effectuer la commande suivante du terminal: (l'architecture de la page est celle conseillée dans la page d'exercice sur les URLS)
+<br> -->  bash programmes/base_tableaux_fichier.sh ./URLs/url-Anglais ./tableaux/tableau-Anglais.html "<expression_régulière>"
+Le dernier élément <expression_régulière> est à remplacer pour chaque fichier d'URL et donc de langue. 
+<br>Pour l'anglais ce sera: "[S|s]trikes?"
+<br>Pour le français ce sera : "[G|g]rèves?"
+<br>Pour le vietnamien ce sera: (voir script vietnamien)
+		
                 <br></center>
         </p></div>
 
