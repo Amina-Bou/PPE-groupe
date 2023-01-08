@@ -1,3 +1,19 @@
+.bbcode_container {
+  margin: 0;
+  padding: 6px;
+  border: 1px inset;
+  text-align: left;
+  overflow: scroll;
+  direction: ltr;
+  background: #f2f6f8 none repeat-x;
+  font-size: 12px;
+}
+
+
+
+
+
+
 .dropdownmenu {
 	background-color: #f1eddf;
 	display: flex;
