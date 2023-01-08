@@ -450,4 +450,94 @@ margin-left: 10px;
 				border-left: none;
       	border-bottom: 1px solid #2f2f2f;
 	}
+<<<<<<< HEAD
     
+=======
+    header{
+        max-width: 320px;
+        font-size: 60px;
+        line-height: 54px;
+        overflow: hidden;
+    }
+
+}
+
+#container {
+	margin: 0 auto;
+	width: 100%;
+	justify-content: space-around;
+	diplay: flex;
+}
+
+p {
+	text-align: center;
+}
+
+                                         
+nav {
+	margin:0 auto;
+	width: 100%;
+	ustify-content: space-around;
+	background-color:none;
+}
+
+nav ul {
+	padding: 0;
+  	margin: 0;
+	list-style: none;
+	position: relative;
+	}
+	
+nav ul li {
+	display:inline-block;
+	background-color: #f9f7f1;
+	}
+
+nav a {
+	display:block;
+	padding:0 10px;	
+	color:#2f2f2f;
+	font-size:20px;
+	line-height: 60px;
+	height: 60px;
+	text-decoration:none;
+	text-align: center;
+	transition: all 0.65s;
+}
+
+nav a:hover { 
+	background-color: #ebe3cc; 
+}
+
+/* Dropdowns caché par défault */
+nav ul ul {
+	display: none;
+	position: absolute; 
+	top: 60px; /* la hauteur de la main nav */
+}
+	
+/* Afficher les listes déroulantes au survol */
+nav ul li:hover > ul {
+	display:inherit;
+}
+	
+/* Première partie Dropdown */
+nav ul ul li {
+	width:170px;
+	float:none;
+	display:list-item;
+	position: relative;
+}
+
+/* Seconde, troisième et autres parties	*/
+nav ul ul ul li {
+	position: relative;
+	top:-60px; 
+	left:170px;
+}
+
+	
+/* Change ça si tu veux changer le symbole du dropdown */
+li > a:after { content:  ' +'; }
+li > a:only-child:after { content: ''; }
+>>>>>>> d2242eaf793d231b8cb922ac6ee5f539d9a2f711
