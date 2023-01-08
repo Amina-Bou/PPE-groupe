@@ -281,6 +281,8 @@ p{
 
 #container {
 	margin: 0 auto;
+	width: 100%;
+	justify-content: space-around;
 }
 
 p {
@@ -295,7 +297,7 @@ nav {
 
 nav ul {
 	padding: 0;
-  margin: 0;
+  	margin: 0;
 	list-style: none;
 	position: relative;
 	}
