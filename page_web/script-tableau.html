@@ -110,6 +110,7 @@ Le dernier élément &lt;expression_régulière&gt; est à remplacer pour chaque
         <div class="collumn"><center>
         <br><br>
             <div class="head"><span class="headline hl1">Script dans son entièreté </span>
+		    <br><br>
                	<div class="bbcode_container"> 
 		<pre style="height:600px; width:100%;">
 #!/usr/bin/env bash
@@ -233,16 +234,8 @@ echo "&lt;table&gt;" &gt;&gt; $fichier_tableau
 La variable "basename" récupère le nom du fichier d'URLs (exemple: url_anglais.txt) et lui enlève son extension text
 Ce qui suit les commandes "echo" est redirigé vers un fichier dans lequel le tableau sera crée.
 Pour créer le fichier et rediriger l'information on utilise un chevron simple (utilisé dans le premier echo). Par la suite des chevrons doubles sont utilisés afin d'ajouter du contenu sans rien effacer.</p>
-
-		<br><br><br><br>
-
-        </div></center>
-
-        <div class="collumn">
-        <br><br>
-        <center><div class="head"><span class="headline hl1">... Suite description précise du contenu</span></div>
-				<div class="bbcode_container"> 
-			    <pre style="height:100px; width:100%;">
+		<div class="bbcode_container"> 
+			    <pre style="height:75px; width:100%;">
 echo "&lt;tr&gt;&lt;th&gt;ligne&lt;/th&gt;&lt;th&gt;code&lt;/th&gt;&lt;th&gt;URL&lt;/th&gt;&lt;th&gt;encodage&lt;/th&gt;&lt;th&gt;dump_html&lt;/th&gt;&lt;th&gt;dump_text&lt;/th>&lt;th&gt;occurrences&lt;/th&gt;&lt;th&gt;contextes&lt;/th&gt;
 &lt;th&gt;concordances&lt;/th&gt;&lt;/tr&gt;" &gt;&gt; $fichier_tableau
 		</pre>
@@ -262,6 +255,15 @@ Un compteur "lineo" est installé et une boucle "while" (tant que) est créée.
 La boucle continue le traitement des URLs et s'arrête quand il n'y a plus d'URLs à traiter.
 La commande "curl" ici permet le récuperer les pages web en format html. Ces pages sont redigérées dans le fichier nommé "aspiration" avec le basename ainsi que le numéro de l'URL avec l'extension .html
  <br><br></p>
+
+		<br><br><br><br>
+
+        </div></center>
+
+        <div class="collumn">
+        <br><br>
+        <center><div class="head"><span class="headline hl1">... Suite description précise du contenu</span></div>
+		<br><br>
 		<div class="bbcode_container"> 
 			    <pre style="height:100px; width:100%;">
 
@@ -329,13 +331,35 @@ echo "$dump" | grep -P -A2 -B2 $mot &gt; "./contextes/$basename-$lineno.txt"
 		</div>
 		<br>
 		<p>	
- Un fichier contenant le dumps est crée pourchaque urls et est mis dans le dossier "dumps-text" du git. 
+ Un fichier contenant le dumps est crée pour chaque urls et est mis dans le dossier "dumps-text" du git. 
  Un fichier contenant le contexte des dumps, c'est-à-dire les deux lignes avant et après de mot cible, est aussi crée puis redirigé vers le dossier "contextes" du git. 
  </p>
+		<div class="bbcode_container"> 
+			    <pre style="height:75px; width:100%;">
 
-
-		
-		
+bash programmes/concordance.sh ./dumps-text/$basename-$lineno.txt $mot &gt; ./concordances/$basename-$lineno.html
+		</pre>
+		</div>
+		<br>
+		<p>Afin de construire un tableau de concordance, nous faisons appel à un script bash nommé "concordance.sh" (décrit dans l'onglet script/concordances), 
+			puis ce tableau de concordance est redirigé vers le dossier nommé "concordances" du git. 
+<br><br></p>
+		<div class="bbcode_container"> 
+			    <pre style="height:75px; width:100%;">
+echo "&lt;tr&gt;&lt;td&gt;$lineno&lt;/td&gt;&lt;td&gt;$code&lt;/td&gt;&lt;td&gt;&lt;a href=\"$URL\">$URL&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$charset&lt;/td&gt;&lt;td&gt;&lt;a href="../aspirations/$basename-$lineno.html"&gt;html&lt;/a&gt;&lt;/td&gt;&lt;td&gt;  
+	&lt;a href="../dumps-text/$basename-$lineno.txt"&gt;text&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$compte&lt;/td&gt;&lt;td&gt;
+	&lt;a href="../contextes/$basename-$lineno.txt"&gt;contextes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;
+	&lt;a href="../concordances/$basename-$lineno.html"&gt;concordance&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;" &gt;&gt; $fichier_tableau
+	echo -e "\t--------------------------------"
+	lineno=$((lineno+1));
+done &lt; $fichier_urls
+echo "&lt;/table&gt;" &gt;&gt; $fichier_tableau
+echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau
+		</pre>
+		</div>
+		<p><br>
+Enfin, chaque information est copiée dans une ligne du tableau, puis une fois toutes les urls traitées, les balises fermant le tableau et l'élément html sont copiées mettant fin au tableau et au fichier html. 
+ </p>
 		</center>
 		
             <br>
