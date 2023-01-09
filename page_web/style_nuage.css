@@ -421,6 +421,14 @@ margin-left: 10px;
     mix-blend-mode: multiply;
     width: 100%;
 }
+.titre.nuage.viet{
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+    padding: 10px 0 10px 0;
+
+}
+
 /*________________________________________________________________________________________________________________________________*/
 /*MEDIAQUERIES*/
 @media only all and (max-width: 1300px) {
