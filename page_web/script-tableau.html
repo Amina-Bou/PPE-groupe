@@ -192,7 +192,7 @@ echo "&lt;/table&gt;" &gt;&gt; $fichier_tableau
 echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau 
 		    </pre>
 		    </div>
-		    
+		    <br><br><br>
 		</div>
 		<div class="head"><span class="headline hl1">Description précise du contenu</span><span class="headline hl4">Entrons dans les détails...</span><p></p></div>
 			<p>Passons maintenant à la description précsise du contenu et des commandes du scrpit </p>
@@ -209,9 +209,9 @@ fi
 mot=$3 # expression régulière du mot cible
 		</pre>
 		</div>
-		<p>
+		<p><br>
 Cette partie indique que le script nécessite trois arguments pour fonctionner. Si le nombre d'argument n'est pas respecté alors, le message suivant la commande "echo" sera affiché dans le terminal. Dans le cas où le nombre d'argument est respecté le traitement continue.
-</p>
+</p> <br><br>
 			<div class="bbcode_container"> 
 			    <pre style="height:100px; width:100%;">
  
@@ -224,7 +224,7 @@ echo "&lt;br/&gt;" &gt;&gt; $fichier_tableau
 echo "&lt;table&gt;" &gt;&gt; $fichier_tableau
 </pre>
 		</div>
-		<p>
+		<p><br>
 La variable "basename" récupère le nom du fichier d'URLs (exemple: url_anglais.txt) et lui enlève son extension text
 Ce qui suit les commandes "echo" est redirigé vers un fichier dans lequel le tableau sera crée.
 Pour créer le fichier et rediriger l'information on utilise un chevron simple (utilisé dans le premier echo). Par la suite des chevrons doubles sont utilisés afin d'ajouter du contenu sans rien effacer.</p>
@@ -235,46 +235,13 @@ Pour créer le fichier et rediriger l'information on utilise un chevron simple (
 
         <div class="collumn">
         <br><br>
-        <center><div class="head"><span class="headline hl1">Description précise du contenu</span><span class="headline hl4">Entrons dans les détails...</span><p></p></div>
-		<p>Passons maintenant à la description précsise du contenu et des commandes du scrpit </p>
-		<div class="bbcode_container"> 
-		<pre style="height:100px; width:100%;">
-fichier_urls=$1 # le fichier d'URL en entrée
-fichier_tableau=$2 # le fichier HTML en sortie
-
-if [[ $# -ne 3 ]]
-then
-	echo "Ce programme demande exactement trois arguments."
-	exit
-fi
-mot=$3 # expression régulière du mot cible
-		</pre>
-		</div>
-		<p>
-Cette partie indique que le script nécessite trois arguments pour fonctionner. Si le nombre d'argument n'est pas respecté alors, le message suivant la commande "echo" sera affiché dans le terminal. Dans le cas où le nombre d'argument est respecté le traitement continue.
-</p>
-			<div class="bbcode_container"> 
-			    <pre style="height:100px; width:100%;">
- 
-echo $fichier_urls;
-basename=$(basename -s .txt $fichier_urls)
-
-echo "&lt;html&gt;&lt;head&gt;&lt;link rel="stylesheet" href="style.css"&gt;&lt;/head&gt;&lt;body&gt;" &gt; $fichier_tableau
-echo "&lt;h2&gt;Tableau $basename :&lt;/h2&gt;" &gt;&gt; $fichier_tableau
-echo "&lt;br/&gt;" &gt;&gt; $fichier_tableau
-echo "&lt;table&gt;" &gt;&gt; $fichier_tableau
-</pre>
-		</div>
-		<p>
-La variable "basename" récupère le nom du fichier d'URLs (exemple: url_anglais.txt) et lui enlève son extension text
-Ce qui suit les commandes "echo" est redirigé vers un fichier dans lequel le tableau sera crée.
-Pour créer le fichier et rediriger l'information on utilise un chevron simple (utilisé dans le premier echo). Par la suite des chevrons doubles sont utilisés afin d'ajouter du contenu sans rien effacer.</p>
-		<div class="bbcode_container"> 
+        <center><div class="head"><span class="headline hl1">... Suite description précise du contenu</span></div>
+				<div class="bbcode_container"> 
 			    <pre style="height:100px; width:100%;">
 echo "&lt;tr&gt;&lt;th&gt;ligne&lt;/th&gt;&lt;th&gt;code&lt;/th&gt;&lt;th&gt;URL&lt;/th&gt;&lt;th&gt;encodage&lt;/th&gt;&lt;th&gt;dump_html&lt;/th&gt;&lt;th&gt;dump_text&lt;/th>&lt;th&gt;occurrences&lt;/th&gt;&lt;th&gt;contextes&lt;/th&gt;&lt;th&gt;concordances&lt;/th&gt;&lt;/tr&gt;" &gt;&gt; $fichier_tableau
 		</pre>
 		</div>
-<p>Ensuite, on crée les colonnes de notre tableau</p>
+<p><br>Ensuite, on crée les colonnes de notre tableau<br><br></p>
 		<div class="bbcode_container"> 
 			    <pre style="height:100px; width:100%;">
 lineno=1;
@@ -284,11 +251,11 @@ while read -r URL; do
 	curl $URL &gt; "./aspirations/$basename-$lineno.html"
 		</pre>
 		</div>
-		<p>
+		<p><br>
 Un compteur "lineo" est installé et une boucle "while" (tant que) est créée.
 La boucle continue le traitement des URLs et s'arrête quand il n'y a plus d'URLs à traiter.
 La commande "curl" ici permet le récuperer les pages web en format html. Ces pages sont redigérées dans le fichier nommé "aspiration" avec le basename ainsi que le numéro de l'URL avec l'extension .html
- </p>
+ <br><br></p>
 		<div class="bbcode_container"> 
 			    <pre style="height:100px; width:100%;">
 
@@ -299,10 +266,10 @@ echo -e "\tcode : $code";
 
 	</pre> 
 		</div>
-		<p>La variable "code" récupère le code de retour de l'url/page web.
+		<p><br>La variable "code" récupère le code de retour de l'url/page web.
 À l'aide de la commande -curl et d'une expression régulière le content-type de l'url/page web est récupéré et stocké dans la variable "code".
 La variable "charset" stocke l'encodage de chaque page. Une fois de plus une expression régulière avec grep sera utilisée. Cet encodage est affiché dans le terminal avec la commande "echo"
-</p>
+<br><br></p>
 		
 		
 		
