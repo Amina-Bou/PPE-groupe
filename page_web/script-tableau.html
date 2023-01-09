@@ -15,17 +15,18 @@
 <header class="dropdownmenu-header">
 	<div class="head">
     <div class="headerobjectswrapper">
-        <div class="weatherforcastbox"><span style="font-s  tyle: italic;">Programme et projet encadré : Amina, Yaasmine, Tifanny.</span><br><span>Grève - Strike - Đình công.
-        </span></div>
+    <br><br>
 	    <p class="titre">TAL Gazette</p>
 		</div>
+    <div class="weatherforcastbox"><span style="font-style: italic;">Programme et projet encadré : Amina, Yaasmine, Tifanny.</span><br><span>Grève - Strike - Đình công.
+        </span></div>
 	<br> <br><br>
 
 <hr>
-<div class="titrestyle" >Grève  | &emsp;Srike  | &emsp;đình công  </div>
+<div class="titrestyle" >Grève  | &emsp;Strike  | &emsp;đình công  </div>
 
 <ul class="dropdownmenu">
-	<li><a href="/PPE-groupe/index.html">HOME <i class="fa-solid fa-house fa-1x"></i></a>
+	<li><a href="#">HOME <i class="fa-solid fa-house fa-1x"></i></a>
 </li>
 	<li><a href="#">TABLEAUX</a>
 		<ul>
@@ -57,31 +58,31 @@
 
 </header>
 
-<p> <br> <br> <br> <br></p>
+<p> <br> <br> </p>
 
-<br>
+<br><br><br>
 
 
 
 <body id= "backgroundcouleur">
 
 
+
 <div class="content">
     <div class="collumns">
         <div class="collumn"><center>
-            <div class="head"><span class="headline hl1">Description générale du script générant le tableau</span><p>
-                <span class="headline hl4">"Généralités"</span></p></div>
-<p>Ce script permet de générer un tableau contenant les données importantes de traitement pour les URLs. 
+        <br><br>
+            <div class="head"><span class="headline hl1">Description générale du Script</span><p>
+                <span class="headline hl4">Généralités</span></p></div>
+		<p>Ce script permet de générer un tableau contenant les données importantes de traitement pour les URLs. 
 Ce script prend trois arguments : 
 <br>-Le fichier d'URL
 <br>-Un tableau (que le script génère) qu'il faut nommer et dans lequel le traitement des données sera redirigé 
-<br>-Une expression régulière permettant de chercher le mot sur lequel nous travaillons (le script sera donc le même pour les différentes langues, sauf si une tokenisation est à faire) </p>
-            <br> <br>
+<br>-Une expression régulière permettant de chercher le mot sur lequel nous travaillons (le script sera donc le même pour les différentes langues, sauf si une tokenisation est à faire)
         <p>
-            
+        <br><br>
             <span class="headline hl4">La sortie attendue</span>
-            <p>
-La sortie attendue de ce script est donc un tableau comprenant les informations suivantes pour chaque url:
+            <p>La sortie attendue de ce script est donc un tableau comprenant les informations suivantes pour chaque url:
  <br>
 <br>- Un compteur indiquant le numéro de l'URL traitée
 <br>- Le code de retour indiquant le statut de la réponse (exemple: réussite, erreurs du serveur, erreurs du client)
@@ -92,25 +93,24 @@ La sortie attendue de ce script est donc un tableau comprenant les informations 
 <br>- Le nombre d'occurrences du mot cible dans la page de l'URL
 <br>- Le contexte d'apparition, plus précisemment la ligne précendant et suivant le mot cible
 <br>- Le concordancier autour du mot cible (jusqu'à 5 mots) </p>
-	
-		 <br> <br>
-        <p>
-            
-            <span class="headline hl4">Lancement du script</span>
-		<p>
-Pour lancer ce script, il faut se placer à la racine de la page et effectuer la commande suivante dans le terminal: (l'architecture de la page est celle conseillée dans la page d'exercice sur les URLS)
+                
+        <br><br>
+            <span class="headline hl4">Lancement du script</span></p>
+            <p>Pour lancer ce script, il faut se placer à la racine de la page et effectuer la commande suivante dans le terminal: (l'architecture de la page est celle conseillée dans la page d'exercice sur les URLS)
 <br> -->  bash programmes/base_tableaux_fichier.sh ./URLs/url-Anglais ./tableaux/tableau-Anglais.html "<expression_régulière>"
 Le dernier élément <expression_régulière> est à remplacer pour chaque fichier d'URL et donc de langue. 
 <br>Pour l'anglais ce sera: "[S|s]trikes?"
 <br>Pour le français ce sera : "[G|g]rèves?"
-<br>Pour le vietnamien ce sera: (voir script vietnamien)</p>
-		
-			</center>	
-       </div>
-	   
+<br>Pour le vietnamien ce sera: (voir script: Tableau Bash Vietnamien)</p>
+   
+             <br><br><br><br><br><br><br>
+            </center>
+        </p></div>
 
-        <div class="collumn"><center><div class="head"><span class="headline hl1">Script dans son entièrté</span>
-		    <div class="bbcode_container"> 
+        <div class="collumn"><center>
+        <br><br>
+            <div class="head"><span class="headline hl1">Script dans son entièrté </span>
+               	<div class="bbcode_container"> 
 			    <pre style="height:400px; width:100%;">
 #!/usr/bin/env bash
 
@@ -195,24 +195,21 @@ done &lt; $fichier_urls
 echo "&lt;/table&gt;" &gt;&gt; $fichier_tableau
 echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau 
 			</pre>
-			    </center>
 		    </div>
-		
 		</div>
 		
-		
-        <div class="collumn"><center><div class="head"><span class="headline hl1">Description précise du contenu</span><p>
-		<span class="headline hl4">"rentrons dans les détails..."</span></p></div>
-		<p>essai desespéré</p>
-		
-		
-	<br> <br>
-        </div>
-		</div>
 
-     
+        </div></center>
 
-        
+        <div class="collumn">
+        <br><br>
+        <center><div class="head"><span class="headline hl1">Description précise du contenu</span><span class="headline hl4">Entrons dans les détails...</span><p></p></div><p>Test est-ce que ça marche ?</p></center>
+            <br>
+          <br> <br><br>
+        <center><div class="head"><span class="headline hl1">Contexte du mot</span><span class="headline hl4">au Vietnam</span><p></p></div><p>Comme en Europe, la grève est un phénomène courant au Vietnam. Il représente un droit des travailleurs. Néanmoins, actuellement, la majorité des grèves qui ont lieu sont des grèves illégales, dont la plupart sont spontanées sans suivre certains ordres, procédures et processus de la loi. </p></center>
+            <br>
+                      <br><br><br><br><br><br>
+	</div>
     </div>
     </div>
 </body>
@@ -245,3 +242,13 @@ echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau
 
 
 </html>
+
+
+
+
+
+
+
+
+
+
