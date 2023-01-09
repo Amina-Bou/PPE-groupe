@@ -1,3 +1,21 @@
+
+.h2 { 
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 22px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #000000;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+
+
+
+
+
 .dropdownmenu {
 	background-color: #f1eddf;
 	display: flex;
