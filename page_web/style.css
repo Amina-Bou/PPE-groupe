@@ -212,13 +212,13 @@ margin-left: 10px;
 }
 .weatherforcastbox{
     position: relative;
-    width: 12%;
+    width: 30%;
     left: 10px;
     border: 3px double #2f2f2f;
     padding: 10px 15px 10px 15px;
     line-height: 20px;
     display: inline-block;
-    margin: 0 50px 20px -360px;
+    margin: 0 1px 20px -10px;
 }
 .content{
     font-size: 0;
