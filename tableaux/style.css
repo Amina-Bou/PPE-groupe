@@ -1,6 +1,9 @@
 td {
 	text-decoration:none;
 }
+a {
+	text-decoration: none;
+}
 
 .dropdownmenu {
 	background-color: #000000;
