@@ -1,112 +1,39 @@
 
-	
-.titre {
-    font-family: 'Playfair Display', serif;
-    font-weight: 900;
-    font-size: 80px;
-    text-transform: uppercase;
-    display: inline-block;
-    line-height: 72px;
-    text-align: center;
-    margin-bottom: 20px;
-	
-
-.stitre1 {
-font-family: "Trebuchet MS", Helvetica, sans-serif;
-font-size: 24px;
-letter-spacing: 2px;
-word-spacing: 2px;
-color: #000000;
-font-weight: bold;
-text-decoration: none;
-font-style: normal;
-font-variant: normal;
-text-transform: none;
-text-align: center;
-}
- 
-.contenupage {
-font-family: "Trebuchet MS", Helvetica, sans-serif;
-font-size: 20px;
-letter-spacing: 0px;
-word-spacing: 2px;
-color: #000000;
-font-weight: normal;
-text-decoration: none;
-font-style: normal;
-font-variant: normal;
-text-transform: none;
-margin-right: 10px;
-margin-left: 10px;
-}
-
-
-.stitre2 {
-font-family: "Trebuchet MS", Helvetica, sans-serif;
-font-size: 20px;
-letter-spacing: 0px;
-word-spacing: 2px;
-color: #000000;
-font-weight: normal;
-text-decoration: none;
-font-style: normal;
-font-variant: normal;
-text-transform: none;
-text-align: center;
-}
-
-
 
 table.greyGridTable {
-  border: 2px solid #FFFFFF;
-  width: 100%;
-  text-align: center;
-  border-collapse: collapse;
-}
-table.greyGridTable td, table.greyGridTable th {
-  border: 1px solid #FFFFFF;
-  padding: 3px 4px;
-}
-table.greyGridTable tbody td {
-  font-size: 13px;
-}
-table.greyGridTable td:nth-child(even) {
-  background: #EBEBEB;
-}
-table.greyGridTable thead {
-  background: #FFFFFF;
-  border-bottom: 4px solid #333333;
-}
-table.greyGridTable thead th {
-  font-size: 15px;
-  font-weight: bold;
-  color: #333333;
-  text-align: center;
-  border-left: 2px solid #333333;
-}
-table.greyGridTable thead th:first-child {
-  border-left: none;
-}
-
-table.greyGridTable tfoot td {
-  font-size: 14px;
-}
-
-.news {
-	font-family: Georgia, serif;
-	font-size: 22px;
-	letter-spacing: 2px;
-	word-spacing: 2px;
-	color: #000000;
-	font-weight: normal;
-	text-decoration: none;
-	font-style: normal;
-	font-variant: normal;
-	text-transform: none;
-}
-
-
-
+    border: 2px solid #FFFFFF;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+  }
+  table.greyGridTable td, table.greyGridTable th {
+    border: 1px solid #FFFFFF;
+    padding: 3px 4px;
+  }
+  table.greyGridTable tbody td {
+    font-size: 13px;
+  }
+  table.greyGridTable td:nth-child(even) {
+    background: #EBEBEB;
+  }
+  table.greyGridTable thead {
+    background: #FFFFFF;
+    border-bottom: 4px solid #333333;
+  }
+  table.greyGridTable thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #333333;
+    text-align: center;
+    border-left: 2px solid #333333;
+  }
+  table.greyGridTable thead th:first-child {
+    border-left: none;
+  }
+  
+  table.greyGridTable tfoot td {
+    font-size: 14px;
+  }
 
 
 .dropdownmenu {
@@ -119,7 +46,7 @@ table.greyGridTable tfoot td {
 	top:0;
 	}
 
-
+		
 .dropdownmenu ul {
 	display: none;
 	}
@@ -130,7 +57,7 @@ table.greyGridTable tfoot td {
 	margin: 0px;
 	padding: 0px;
 	}
-
+	
 .dropdownmenu a {
 	display: block;
 	min-width: 150px;
@@ -143,7 +70,7 @@ table.greyGridTable tfoot td {
 	padding: 3px 10px;
 	transition: all 0.65s;
 	}
-
+	
 .dropdownmenu > li > a {
 	font-size: 24px;
         font-weight: 700;
@@ -157,39 +84,39 @@ table.greyGridTable tfoot td {
 	padding: 0px;
 	}
 
-
+        
 .dropdownmenu > li a:hover {
 	background-color: #ebe3cc;
 	}
-
+	
 .dropdownmenu li {
 	letter-spacing: 2.2px;
 	font-weight: 700;
 	}
-
+	
 .dropdownmenu li:hover ul {
 	display: block;
-	position: absolute;
+	position: absolute; 
 	top: 41px
 	left: 0px
 	z-index: 100;
 	}
-
+	
 .dropdownmenu ul a:hover{
 	background-color: #ebe3cc;
 	}
+	
 
 
-
-
+		
 #backgroundcouleur {
 	background: #f9f7f1;
 	}
-
-
-
-
-
+	
+	
+	
+	
+	
 .footer-basic {
   padding:40px 0;
   background-color:#282d32;;
@@ -249,8 +176,8 @@ table.greyGridTable tfoot td {
   color:#aaa;
   margin-bottom:0;
 }
-
-
+ 
+ 
 hr {
     border: none;
     border-top: 3px double #333;
@@ -259,7 +186,7 @@ hr {
     text-align: center;
     height: 5px;
 }
-
+ 
 .titrestyle {
 font-family: "Trebuchet MS", Helvetica, sans-serif;
 font-size: 25px;
@@ -273,7 +200,7 @@ font-variant: normal;
 text-transform: capitalize;
 text-align: center;
 }
-
+ 
 .contenupage {
 font-family: "Trebuchet MS", Helvetica, sans-serif;
 font-size: 20px;
@@ -349,16 +276,16 @@ margin-left: 10px;
 .collumn{
     font-size: 14px;
     line-height: 20px;
-    width: 33%;
+    width: 50%;
     display: inline-block;
     padding: 0 1% 0 1%;
     vertical-align: top;
     margin-bottom: 50px;
     transition: all .7s;
-}
+}  
+   
 
-
-.collumn + .collumn {
+.collumn + .collumn { 
   border-left: 1px solid #2f2f2f;
 }
 .collumn .headline{
@@ -429,7 +356,7 @@ margin-left: 10px;
     border-bottom: 1px solid #2f2f2f;
     content: '';
     width: 100px;
-    height: 17px;
+    height: 10px;
     display: block;
     margin: 0 auto;
 
