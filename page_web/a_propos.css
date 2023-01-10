@@ -9,82 +9,74 @@
     font-size: 12px;
   }
   
-  
-  
-  
-  
-  
-  .dropdownmenu {
-      background-color: #f1eddf;
-      display: flex;
-      position: sticky;
-      margin:0 auto;
-      width: 100%;
-      justify-content: space-around;
-      top:0;
-      }
-  
-          
-  .dropdownmenu ul {
-      display: none;
-      }
-  
-  .dropdownmenu,
-  .dropdownmenu ul {
-      list-style: none;
-      margin: 0px;
-      padding: 0px;
-      }
-      
-  .dropdownmenu a {
-      display: block;
-      min-width: 150px;
-      height: 65px;
-      line-height: 65px;
-      color: #000000;
-      background-color: #f1eddf;
-       text-align: center;
-       text-decoration: none;
-      padding: 3px 10px;
-      transition: all 0.65s;
-      }
-      
-  .dropdownmenu > li > a {
-      font-size: 24px;
-          font-weight: 700;
-          border-left: 2px solid #fff;
-      }
-  
-  .dropdownmenu,
-  .dropdownmenu ul {
-      list-style: none;
-      margin: 0px;
-      padding: 0px;
-      }
-  
-          
-  .dropdownmenu > li a:hover {
-      background-color: #ebe3cc;
-      }
-      
-  .dropdownmenu li {
-      letter-spacing: 2.2px;
-      font-weight: 700;
-      }
-      
-  .dropdownmenu li:hover ul {
-      display: block;
-      position: absolute; 
-      top: 41px
-      left: 0px
-      z-index: 100;
-      }
-      
-  .dropdownmenu ul a:hover{
-      background-color: #ebe3cc;
-      }
-      
-  
+.dropdownmenu {
+	background-color: #f1eddf;
+	display: flex;
+	position: sticky;
+	margin:0 auto;
+	width: 100%;
+	justify-content: space-around;
+	top:0;
+	}
+    
+.dropdownmenu ul {
+	display: none;
+	}
+
+.dropdownmenu,
+.dropdownmenu ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	}
+	
+.dropdownmenu a {
+	display: block;
+	min-width: 150px;
+	height: 65px;
+	line-height: 65px;
+	color: #000000;
+	background-color: #f1eddf;
+ 	text-align: center;
+ 	text-decoration: none;
+	padding: 3px 10px;
+	transition: all 0.65s;
+	}
+	
+.dropdownmenu > li > a {
+	font-size: 24px;
+        font-weight: 700;
+        border-left: 2px solid #fff;
+	}
+
+.dropdownmenu,
+.dropdownmenu ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	}
+
+        
+.dropdownmenu > li a:hover {
+	background-color: #ebe3cc;
+	}
+	
+.dropdownmenu li {
+	letter-spacing: 2.2px;
+	font-weight: 700;
+	}
+	
+.dropdownmenu li:hover ul {
+	display: block;
+	position: absolute; 
+	top: 41px
+	left: 0px
+	z-index: 100;
+	}
+	
+.dropdownmenu ul a:hover{
+	background-color: #ebe3cc;
+	}
   
           
   #backgroundcouleur {
