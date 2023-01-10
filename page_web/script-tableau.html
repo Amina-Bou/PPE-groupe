@@ -254,7 +254,7 @@ echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau
 				<p><br>
 		Un compteur "lineo" est installé et une boucle "while" (tant que) est créée.
 		La boucle continue le traitement des URLs et s'arrête quand il n'y a plus d'URLs à traiter.
-		La commande "curl" ici permet le récuperer les pages web en format html. Ces pages sont redigérées dans le fichier nommé "aspiration" avec le basename ainsi que le numéro de l'URL avec l'extension .html
+		La commande "curl" ici permet de récuperer les pages web en format html. Ces pages sont redigérées dans le fichier nommé "aspiration" avec le basename ainsi que le numéro de l'URL avec l'extension .html
 		<br><br></p>
 
 		<br><br><br><br>
@@ -309,7 +309,7 @@ if [[ $code -eq 200 ]]
 		</pre>
 		</div>
 		<p><br>
-Ce morceau de code permet de récupérer le contenu de la page web ayant un content-type de 200 et de le stoker dans une variable nommée dump. 
+Ce morceau de code permet de récupérer le contenu de la page web ayant un content-type de 200 et de le stocker dans une variable nommée dump. 
 Si l'encodage des dumps est différent de l'UTF-8, ils seront convertis en UTF-8. Dans le cas où le content-type est différent de 200 le dump et le charset seront vides. 
 <br><br></p>
 		<div class="bbcode_container"> 
@@ -333,7 +333,7 @@ echo "$dump" | grep -P -A2 -B2 $mot &gt; "./contextes/$basename-$lineno.txt"
 		<br>
 		<p>	
  Un fichier contenant le dumps est crée pour chaque urls et est mis dans le dossier "dumps-text" du git. 
- Un fichier contenant le contexte des dumps, c'est-à-dire les deux lignes avant et après de mot cible, est aussi crée puis redirigé vers le dossier "contextes" du git. 
+ Un fichier contenant le contexte des dumps, c'est-à-dire les deux lignes avant et après le mot cible, est aussi crée puis redirigé vers le dossier "contextes" du git. 
  </p>
 		<div class="bbcode_container"> 
 			    <pre style="height:75px; width:100%;">
@@ -342,8 +342,8 @@ bash programmes/concordance.sh ./dumps-text/$basename-$lineno.txt $mot &gt; ./co
 		</pre>
 		</div>
 		<br>
-		<p>Afin de construire un tableau de concordance, nous faisons appel à un script bash nommé "concordance.sh" (décrit dans l'onglet script/concordances), 
-			puis ce tableau de concordance est redirigé vers le dossier nommé "concordances" du git. 
+		<p>Afin de construire un tableau de concordances, nous faisons appel à un script bash nommé "concordance.sh" (décrit dans l'onglet script/concordances), 
+			puis ce tableau de concordancesest redirigé vers le dossier nommé "concordances" du git. 
 <br><br></p>
 		<div class="bbcode_container"> 
 			    <pre style="height:75px; width:100%;">
