@@ -54,6 +54,7 @@
 </li>
 	<li><a href="/PPE-groupe/page_web/nuages_mots.html">NUAGES DE MOTS</a>
 </li>
+<li><a href="/PPE-groupe/page_web/a_propos.html">À PROPOS</a></li>
 </ul>
 
 </header>
@@ -91,7 +92,7 @@ Ce script prend trois arguments :
 <br>- Le contenu de la page de l'URL sous le format html (.html)
 <br>- Le contenu de la page de l'URL sous le format texte (.txt)
 <br>- Le nombre d'occurrences du mot cible dans la page de l'URL
-<br>- Le contexte d'apparition, plus précisemment la ligne précendant et suivant le mot cible
+<br>- Le contexte d'apparition, plus précisemment la ligne précédant et suivant le mot cible
 <br>- Le concordancier autour du mot cible (jusqu'à 5 mots) </p>
                 
         <br><br>
@@ -199,62 +200,62 @@ echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau
 		    </div>
 		    <br><br><br>
 		</div>
-		<div class="head"><span class="headline hl1">Description précise du contenu</span><span class="headline hl4">Entrons dans les détails...</span><p></p></div>
-			<p>Passons maintenant à la description précsise du contenu et des commandes du scrpit </p>
-		<div class="bbcode_container"> 
-		<pre style="height:100px; width:100%;">
-fichier_urls=$1 # le fichier d'URL en entrée
-fichier_tableau=$2 # le fichier HTML en sortie
+				<div class="head"><span class="headline hl1">Description précise du contenu</span><span class="headline hl4">Entrons dans les détails...</span><p></p></div>
+					<p>Passons maintenant à la description précise du contenu et des commandes du scrpit </p>
+				<div class="bbcode_container"> 
+				<pre style="height:100px; width:100%;">
+		fichier_urls=$1 # le fichier d'URL en entrée
+		fichier_tableau=$2 # le fichier HTML en sortie
 
-if [[ $# -ne 3 ]]
-then
-	echo "Ce programme demande exactement trois arguments."
-	exit
-fi
-mot=$3 # expression régulière du mot cible
-		</pre>
-		</div>
-		<p><br>
-Cette partie indique que le script nécessite trois arguments pour fonctionner. Si le nombre d'argument n'est pas respecté alors, le message suivant la commande "echo" sera affiché dans le terminal. 
-Dans le cas où le nombre d'argument est respecté le traitement continue.
-</p> <br><br>
-			<div class="bbcode_container"> 
-			    <pre style="height:100px; width:100%;">
- 
-echo $fichier_urls;
-basename=$(basename -s .txt $fichier_urls)
+		if [[ $# -ne 3 ]]
+		then
+			echo "Ce programme demande exactement trois arguments."
+			exit
+		fi
+		mot=$3 # expression régulière du mot cible
+				</pre>
+				</div>
+				<p><br>
+		Cette partie indique que le script nécessite trois arguments pour fonctionner. Si le nombre d'argument n'est pas respecté alors, le message suivant la commande "echo" sera affiché dans le terminal. 
+		Dans le cas où le nombre d'argument est respecté le traitement continue.
+		</p> <br><br>
+					<div class="bbcode_container"> 
+						<pre style="height:100px; width:100%;">
+		
+		echo $fichier_urls;
+		basename=$(basename -s .txt $fichier_urls)
 
-echo "&lt;html&gt;&lt;head&gt;&lt;link rel="stylesheet" href="style.css"&gt;&lt;/head&gt;&lt;body&gt;" &gt; $fichier_tableau
-echo "&lt;h2&gt;Tableau $basename :&lt;/h2&gt;" &gt;&gt; $fichier_tableau
-echo "&lt;br/&gt;" &gt;&gt; $fichier_tableau
-echo "&lt;table&gt;" &gt;&gt; $fichier_tableau
-</pre>
-		</div>
-		<p><br>
-La variable "basename" récupère le nom du fichier d'URLs (exemple: url_anglais.txt) et lui enlève son extension text
-Ce qui suit les commandes "echo" est redirigé vers un fichier dans lequel le tableau sera crée.
-Pour créer le fichier et rediriger l'information on utilise un chevron simple (utilisé dans le premier echo). Par la suite des chevrons doubles sont utilisés afin d'ajouter du contenu sans rien effacer.</p>
-		<div class="bbcode_container"> 
-			    <pre style="height:75px; width:100%;">
-echo "&lt;tr&gt;&lt;th&gt;ligne&lt;/th&gt;&lt;th&gt;code&lt;/th&gt;&lt;th&gt;URL&lt;/th&gt;&lt;th&gt;encodage&lt;/th&gt;&lt;th&gt;dump_html&lt;/th&gt;&lt;th&gt;dump_text&lt;/th>&lt;th&gt;occurrences&lt;/th&gt;&lt;th&gt;contextes&lt;/th&gt;
-&lt;th&gt;concordances&lt;/th&gt;&lt;/tr&gt;" &gt;&gt; $fichier_tableau
+		echo "&lt;html&gt;&lt;head&gt;&lt;link rel="stylesheet" href="style.css"&gt;&lt;/head&gt;&lt;body&gt;" &gt; $fichier_tableau
+		echo "&lt;h2&gt;Tableau $basename :&lt;/h2&gt;" &gt;&gt; $fichier_tableau
+		echo "&lt;br/&gt;" &gt;&gt; $fichier_tableau
+		echo "&lt;table&gt;" &gt;&gt; $fichier_tableau
 		</pre>
-		</div>
-<p><br>Ensuite, on crée les colonnes de notre tableau<br><br></p>
-		<div class="bbcode_container"> 
-			    <pre style="height:100px; width:100%;">
-lineno=1;
-while read -r URL; do
+				</div>
+				<p><br>
+		La variable "basename" récupère le nom du fichier d'URLs (exemple: url_anglais.txt) et lui enlève son extension text
+		Ce qui suit les commandes "echo" est redirigé vers un fichier dans lequel le tableau sera créé.
+		Pour créer le fichier et rediriger l'information on utilise un chevron simple (utilisé dans le premier echo). Par la suite des chevrons doubles sont utilisés afin d'ajouter du contenu sans rien effacer.</p>
+				<div class="bbcode_container"> 
+						<pre style="height:75px; width:100%;">
+		echo "&lt;tr&gt;&lt;th&gt;ligne&lt;/th&gt;&lt;th&gt;code&lt;/th&gt;&lt;th&gt;URL&lt;/th&gt;&lt;th&gt;encodage&lt;/th&gt;&lt;th&gt;dump_html&lt;/th&gt;&lt;th&gt;dump_text&lt;/th>&lt;th&gt;occurrences&lt;/th&gt;&lt;th&gt;contextes&lt;/th&gt;
+		&lt;th&gt;concordances&lt;/th&gt;&lt;/tr&gt;" &gt;&gt; $fichier_tableau
+				</pre>
+				</div>
+		<p><br>Ensuite, on crée les colonnes de notre tableau<br><br></p>
+				<div class="bbcode_container"> 
+						<pre style="height:100px; width:100%;">
+		lineno=1;
+		while read -r URL; do
 
-	#récupération des pages web utilisées en format html
-	curl $URL &gt; "./aspirations/$basename-$lineno.html"
-		</pre>
-		</div>
-		<p><br>
-Un compteur "lineo" est installé et une boucle "while" (tant que) est créée.
-La boucle continue le traitement des URLs et s'arrête quand il n'y a plus d'URLs à traiter.
-La commande "curl" ici permet le récuperer les pages web en format html. Ces pages sont redigérées dans le fichier nommé "aspiration" avec le basename ainsi que le numéro de l'URL avec l'extension .html
- <br><br></p>
+			#récupération des pages web utilisées en format html
+			curl $URL &gt; "./aspirations/$basename-$lineno.html"
+				</pre>
+				</div>
+				<p><br>
+		Un compteur "lineo" est installé et une boucle "while" (tant que) est créée.
+		La boucle continue le traitement des URLs et s'arrête quand il n'y a plus d'URLs à traiter.
+		La commande "curl" ici permet le récuperer les pages web en format html. Ces pages sont redigérées dans le fichier nommé "aspiration" avec le basename ainsi que le numéro de l'URL avec l'extension .html
+		<br><br></p>
 
 		<br><br><br><br>
 

@@ -54,6 +54,7 @@
 </li>
 	<li><a href="/PPE-groupe/page_web/nuages_mots.html">NUAGES DE MOTS</a>
 </li>
+<li><a href="/PPE-groupe/page_web/a_propos.html">À PROPOS</a></li>
 </ul>
 
 </header>
@@ -82,15 +83,22 @@
 • Positives = "réunir", "mobilisation", "centaine" (exprimant l’union de la population pour lutter contre quelque chose)<br>
 • Négatives = "interdire", "suspend", "conséquences" (exprimant les dégâts et engrenages que peuvent provoquer une grève)</p>
 <br><br><br>
+
         <div class="head"><span class="headline hl1"> Plus en détails ... </span>
             <span class="headline hl4"> Graphe de cooccurrents sur un pôle donné </span>
-            <p>Ensuite, nous avons décidé d’étudier le mot en obtenant un graphe de cooccurrents sur un pôle donné, ici “Grève”, avec retour en contexte (que nous n’avions pas avec les expressions régulières). De cette façon, il a été possible d’analyser le mot en profondeur.</p><br>
+            <p>Ensuite, nous avons décidé d’étudier le mot en obtenant un graphe de cooccurrents sur un pôle donné, ici “Grève”, 
+                avec retour en contexte (que nous n’avions pas avec les expressions régulières). De cette façon, il a été possible d’analyser le mot en profondeur.</p><br>
+
             <span class="headline hl4"> Pôle = "Grève" </span>
             <img src="https://github.com/Amina-Bou/PPE-groupe/blob/main/Images/itrameur2.png?raw=true" width=90% /> <br><br><br>
-            <p>Nous voyons que le mot “Grève” est souvent employé aux côtés du mot “droit”. C’est pourquoi, nous avons décidé de l’analyser individuellement afin de voir dans quelle mesure il était ici employés sachant que notre cas, il est toujours lié au mot “grève”. </p> <br>
+            <p>Nous voyons que le mot “Grève” est souvent employé aux côtés du mot “droit”. C’est pourquoi, nous avons décidé de l’analyser individuellement afin de voir dans 
+                quelle mesure il était ici employé sachant que notre cas, il est toujours lié au mot “grève”. </p> <br>
+
             <span class="headline hl4"> Pôle  = "droit" </span>
             <img src="https://github.com/Amina-Bou/PPE-groupe/blob/main/Images/itrameur3.png?raw=true" width=90%/> <br><br><br>
-            <p>Ici, nous étudions donc le terme “Droit de grève” qui nous permet une analyse du mot “grève” du point de vue légal. On constate ainsi des mots négatifs associés à ce terme tels que “limites”, “conséquences” ou “justifier”. Ces mots sous-entendent une connotation péjorative et nous laisse penser qu’au niveau légal, le mot n’est pas forcément vu comme étant positif. Car on voit ici dans ce mot, les débordements et problèmes que cela peut causer.</p>
+            <p>Ici, nous étudions donc le terme “Droit de grève” qui nous permet une analyse du mot “grève” du point de vue légal. On constate ainsi des mots 
+                négatifs associés à ce terme tels que “limites”, “conséquences” ou “justifier”. Ces mots sous-entendent une connotation péjorative et nous laisse penser qu’au niveau légal, 
+                le mot n’est pas forcément vu comme étant positif. Car on voit ici dans ce mot, les débordements et problèmes que cela peut causer.</p>
             <br><br>
             <p>De plus, nous avons continué l’analyse en mettant cette fois “grèves” au pluriel comme étant le pôle et d'observer le contexte dans lequel se trouve un de ses cooccurrents.</p>
                 </center>
@@ -99,17 +107,22 @@
         <div class="collumn"><center>
             <div class="head"><span class="headline hl1"> Regardons de plus près... </span>
                 <span class="headline hl4"> Pôle = "grèves" </span>
-                <br> <img src="https://github.com/Amina-Bou/PPE-groupe/blob/main/Images/itrameur4.png?raw=true" width=90%/> <br><br><br>
-                <p>Nous pouvons voir que des mots tels que “prochaines"", "en cours", etc..  sont présents. Ce qui démontre que ce mot représente un phénomène complètement actuel en France. Nous pouvons ajouter que le mot “contre” se trouvant plusieurs fois à proximité du mot “grèves” lui apporte une connotation négative. C’est pourquoi, nous avons choisi de l’observer en contexte.</p> <br><br>
+                <br> <img src="https://github.com/Amina-Bou/PPE-groupe/blob/main/Images/itrameur4.png?raw=true" width=90%/>
+                <br><br><br>
+
+                <p>Nous pouvons voir que des mots tels que “prochaines", "en cours", etc..  sont présents. Ce qui démontre que ce mot représente un phénomène complètement actuel en France. 
+                    Nous pouvons ajouter que le mot “contre” se trouvant plusieurs fois à proximité du mot “grèves” lui apporte une connotation négative. C’est pourquoi, nous avons choisi de l’observer en contexte.</p> <br><br>
                 <span class="headline hl4"> Mot en contexte = "contre" et "grèves" </span>
-                <br> <img src="https://github.com/Amina-Bou/PPE-groupe/blob/main/Images/itrameur5.png?raw=true" width=90% > <br><br><br>
+                <br> <img src="https://github.com/Amina-Bou/PPE-groupe/blob/main/Images/itrameur5.png?raw=true" width=90% > 
+                <br><br><br>
+
                 <p>Nous comprenons qu’une grève est perçue comme se faisant contre quelque chose et non pour quelque chose. Ainsi, le mot “contre” apporte une connotation assez négative du terme de “grève”.</p>
                 <br><br><br>
 
 
 
         <div class="head"><span class="headline hl1"> Conclusion </span>
-            <span class="headline hl4"> Graphe très globale obtenue avec une expression régulière <br>  \b(G|g)rève(s)?\b </span><br>
+            <span class="headline hl4"> Graphe très global obtenu avec une expression régulière <br>  \b(G|g)rève(s)?\b </span><br>
 
             <p>Enfin, nous souhaitions en apprendre plus sur ce mot, telle est la raison pour laquelle nous avons fait une nouvelle requête avec une expression régulière prenant le mot avec ou sans majuscule mais aussi au singulier comme au pluriel.</p><br>
             <img src="https://github.com/Amina-Bou/PPE-groupe/blob/main/Images/itrameur6.png?raw=true" width=90%/> <br><br><br>
