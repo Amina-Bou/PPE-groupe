@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="UTF-8" />
-<link rel="stylesheet" href="index.css">
+<link rel="stylesheet" href="style_script_tableau.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
 <link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic|Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -23,10 +23,10 @@
 	<br> <br><br>
 
 <hr>
-<div class="titrestyle" >Grève  | &emsp;Strike  | &emsp;đình công  </div>
+<div class="titrestyle">Script tableau bash vietnamien.</div>
 
 <ul class="dropdownmenu">
-	<li><a href="#">HOME <i class="fa-solid fa-house fa-1x"></i></a>
+	<li><a href="/PPE-groupe/index.html">HOME <i class="fa-solid fa-house fa-1x"></i></a>
 </li>
 	<li><a href="#">TABLEAUX</a>
 		<ul>
@@ -48,7 +48,7 @@
 	<li><a href="#">SCRIPTS</a>
 		<ul>
 			<li><a href="/PPE-groupe/page_web/script-tableau.html">Tableau Bash </a></li>
-			<li><a href="/PPE-groupe/page_web/script-tokenisation.html">Tableau Bash Vietnamien</a></li>
+			<li><a href="/PPE-groupe/page_web/script-tokenisation.html">Tableau Bash Vietnamien </a></li>
 			<li><a href="/PPE-groupe/page_web/script-concordances.html">Concordances</a></li>
 		</ul>
 </li>
@@ -72,69 +72,192 @@
     <div class="collumns">
         <div class="collumn"><center>
         <br><br>
-            <div class="head"><span class="headline hl1">Signification du mot</span><p>
-                <span class="headline hl4">"Grève"</span></p></div>
-            Portant plusieurs significations, nous avons choisi le mot "grève" comme représentant de la cessation collective et concentrée du travail en vue d'appuyer des revendications professionnelles.
-            <br> <br> <img src="https://www.whatsupdoc-lemag.fr/sites/default/files/article/pictures_movies/protest-and-strike-demonstration-and-revolution-concept-silhouettes-vector-id1211578313.jpg" width=100% height=22%/>
+            <div class="head"><span class="headline hl1">Description générale du Script</span><p>
+                <span class="headline hl4">Généralités</span></p></div>
+		<p>Ce script permet de générer un tableau contenant les données importantes de traitement pour les URLs. Il a été crée pour régler les
+            problèmes liés au vietnamien : certains mots s'écrivent en deux. Il faut donc utiliser un tokenizer donné par les professeurs.
+<br>Contraitement au <a href="/PPE-groupe/page_web/script-tableau.html">script de base</a>, celui-ci prend 2 arguments : 
+<br>- Le fichier d'URL
+<br>- Un tableau (que le script génère) qu'il faut nommer et dans lequel le traitement des données sera redirigé 
+<br>L'expression régulière est directement incluse dans le script.
         <p>
         <br><br>
-            <span class="headline hl1"> Choix du mot</span>
-            <span class="headline hl4">Pourquoi ce mot ?  </span>
-            <p>Le mot grève ainsi que les causes et revendications qui se trouvent derrière donnent des indications socio-économique d’un pays. C’est pourquoi il nous a semblé intéressant de l’analyser.
-                En effet, ce mot permet l’étude de diverses problématiques ancrées dans un pays qu’elle concerne l’économie, le fonctionnement social ou l’application du droit de grève dans les pays.</p>
-                Nous nous interrogeons donc sur trois niveaux:
-                <br> <br>
-
-                 ↝ Social ↜
-                <br>
-                 ↝ Économique ↜
-                <br>
-                 ↝ Légal ↜
-                <br>
-                <br>
+            <span class="headline hl4">La sortie attendue</span>
+            <p>La sortie attendue de ce script est donc un tableau comprenant les informations suivantes pour chaque url:
+<br>
+<br>- Un compteur indiquant le numéro de l'URL traitée
+<br>- Le code de retour indiquant le statut de la réponse (exemple: réussite, erreurs du serveur, erreurs du client)
+<br>- L'URL
+<br>- L'encodage de la page (qui devra être UTF-8 pour toutes les URLs)
+<br>- Le contenu de la page de l'URL sous le format html (.html)
+<br>- Le contenu de la page de l'URL sous le format texte (.txt)
+<br>- Le nombre d'occurrences du mot cible dans la page de l'URL
+<br>- Le contexte d'apparition, plus précisemment la ligne précendant et suivant le mot cible
+<br>- Le concordancier autour du mot cible (jusqu'à 5 mots) </p>
+                
         <br><br>
-            <span class="headline hl1">Choix des langues</span><p>
-            <span class="headline hl4">Français, anglais britannique, vietnamien.</span></p>
-            L'anglais britannique a été choisi afin de pouvoir mettre en parallèle deux pays d'un même continent : ici l'Europe. Le Vietnamien permet d'avoir une comparaison avec une autre partie du monde que nous savons différente culturellement : l'Asie.    </p>
+            <span class="headline hl4">Lancement du script</span></p>
+            <p>Pour lancer ce script, il faut se placer à la racine de la page et effectuer la commande suivante dans le terminal: (l'architecture de la page est celle conseillée dans la page d'exercice sur les URLS)
+<br> -->  bash programmes/base_tableaux_fichier.sh ./URLs/urls-VN ./tableaux/tableau-Vietnamien.html"
+<br>Il n'y a pas besoin d'expression régulière puisqu'elle est inscrite dans le script.
+   
              <br><br><br><br><br><br><br>
             </center>
         </p></div>
 
         <div class="collumn"><center>
         <br><br>
-            <div class="head"><span class="headline hl1">Problématiques</span>
-                <span class="headline hl4">Deux petites questions.</span>
-                <br>
-                <p>Le mot possède-t-il une connotation plutôt positive, neutre, ou alors négative ?</p>
-                <p>Pouvons-nous observer des différences entre les pays choisis ?</p>
+            <div class="head"><span class="headline hl1">Script dans son entièreté </span>
+               	<div class="bbcode_container"> 
+			    <pre style="height:400px; width:100%;">
+#!/usr/bin/env bash
+# -*- coding:utf-8 -*
 
-                <figure class="figure">
-                    <img class="media" src="http://i.giphy.com/PW7MoTD2d9pJK.gif" alt="">
-                    <figcaption class="figcaption">Hermione hoping for courage.</figcaption>
-            </figure></div>
-            <br><br>
-        <center><div class="head"><span class="headline hl1">Contexte du mot</span><span class="headline hl4">en France</span><p></p></div>Selon un rapport de l'Institut d'études économiques et sociales de la fondation allemande Hans-Böckler en 2018, la France est le pays faisant le plus grève.
-        La grève fait, pour certain, partie de la culture française.
-        Depuis des années, elle fait également l’objet de débats politiques récurrents en France.
-        De plus, faire grève est un droit que les citoyens possèdent tant qu’ils respectent certaines conditions.
-        Du point de vue historique, le pays est passé de la revendication matérielle à la défense des libertés démocratiques. Elle forme ainsi, dans l’histoire contemporaine, une sorte de « fait social total”.</p></center>
-        <br><img src="https://resize-lejdd.lanmedia.fr/f/webp/rcrop/960,640,FFFFFF,forcey,center-middle/img/var/jdd/public/media/image/2022/07/19/16/greve-contre-la-reforme-des-retraites-pourquoi-le-mouvement-devrait-battre-le-record-de-1986.jpg?VersionId=LOfsa.FGp7b66xV1PnEB.vlothKvcS5K" width=100% height=25%/>
-            <br><br><br><br><br>
+fichier_urls=$1 # le fichier d'URL en entrée
+fichier_tableau=$2 # le fichier HTML en sortie
 
-        </div></center>
+if [[ $# -ne 2 ]]
+then
+    echo "Ce programme demande exactement deux arguments." 
+    exit
+fi
+
+mot="[Đ/đ]ình_công" # L'expression régulière du mot grève en vietnamien.
+
+echo $fichier_urls;
+basename=$(basename -s .txt $fichier_urls) # Nom de base des fichiers
+
+# Construction du début du tableau.
+echo "&lt;html&gt;&lt;body&gt;" &gt; $fichier_tableau
+echo "&lt;h2&gt;Tableau $basename :&lt;/h2&gt;" &gt;&gt; $fichier_tableau
+echo "&lt;br/&gt;" &gt;&gt; $fichier_tableau
+echo "&lt;table&gt;" &gt;&gt; $fichier_tableau
+echo "&lt;tr&gt;&lt;th&gt;Ligne&lt;/th&gt; &lt;th&gt;Code&lt;/th&gt; &lt;th&gt;URL&lt;/th&gt; &lt;th&gt;Encodage&lt;/th&gt; 
+&lt;th&gt;Dump HTML&lt;/th&gt; &lt;th&gt;Dump text&lt;/th&gt; &lt;th&gt;Occurrences&lt;/th&gt; &lt;th&gt;Contextes&lt;/th&gt;&lt;th&gt;
+Concordances&lt;/th&gt;&lt;/tr&gt;" &gt;&gt; $fichier_tableau
+                    
+lineno=1;
+while read -r URL; do
+
+# Récupération des pages web utilisées en format html
+    aspirations=$(curl $URL > "./aspirations/$basename-$lineno.html")
+    
+    echo -e "\tURL : $URL";
+    code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
+    charset=$(curl -ILs $URL "./aspirations/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | cut -d= -f2 | tail -n 1)
+
+    echo -e "\tcode : $code";
+
+# Détection de l'encodage
+
+    if [[ ! $charset ]]
+    then
+        echo -e "\tencodage non détecté, on prendra UTF-8 par défaut.";
+        charset="UTF-8";
+    else
+        echo -e "\tencodage : $charset";
+    fi
+
+# Code HTML : s'il est de 200 alors on récupère le contenu de la page, sinon on utilise un dump vide.
+    if [[ $code -eq 200 ]]
+    then
+        dump=$(lynx -dump -nolist -assume_charset=$charset -display_charset=$charset $URL)
+        if [[ $charset -ne "UTF-8" && -n "$dump" ]]
+        then
+            dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE) # Conversion en UTF-8
+            # dump_vn=$(echo "$dump" | python3.9 Tokenizer/Tokenizer_VN.py) Tokenizer qui ne marche pas pour une raison inconnue
+        fi
+    else
+        echo -e "\tcode différent de 200 utilisation d'un dump vide"
+        dump=""
+        charset=""
+    fi
+
+
+# On dump le contenu des pages dans un dossier en format texte.
+    echo "$dump" > "./dumps-text/$basename-$lineno.txt" 
+
+# On utilise le tokenizer sur le contenu qui vient d'être dumpé afin que les mots composés soient liés en un seul
+# On dump ces nouveaux fichiers dans un autre dossier.
+
+    dump_vn=$(cat "./dumps-text/$basename-$lineno.txt" | python3.9 Tokenizer/Tokenizer_VN.py > "./dumps-tokenize/$basename-$lineno.txt")
+
+# Compte des occurrences
+
+    compte=$(grep -P -o -i $mot "./dumps-tokenize/$basename-$lineno.txt" | wc -l)
+
+# Construction du contexte 
+
+    contexte=$(grep -P -A2 -B2 $mot "./dumps-tokenize/$basename-$lineno.txt"  > "./contextes/$basename-$lineno.txt")
+    
+# Construction des concordances
+
+        bash programmes/concordance.sh ./dumps-tokenize/$basename-$lineno.txt $mot > ./concordances/$basename-$lineno.html
+
+# On ferme le tableau
+    echo "&lt;tr&gt;&lt;td&gt;$lineno&lt;/td&gt;&lt;td&gt;$code&lt;/td&gt;&lt;td&gt;&lt;a href=\"$URL\"&gt;$URL&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$charset&lt;/td&gt;&lt;td&gt;&lt;
+    a href="../aspirations/$basename-$lineno.html"&gt;html&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href="../dumps-tokenize/$basename-$lineno.txt"&gt;text&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$compte&lt;/td&gt;&lt;td&gt;&lt;
+    a href="../contextes/$basename-$lineno.txt"&gt;contextes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href="../concordances/$basename-$lineno.html"&gt;concordance&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;" >> $fichier_tableau
+    echo -e "\t--------------------------------"
+    lineno=$((lineno+1));
+
+done < $fichier_urls
+echo "</table>" >> $fichier_tableau
+echo "</body></html>" >> $fichier_tableau 
+            
+            </pre>
+            </div>       <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+        </div> </div></center>
 
         <div class="collumn">
         <br><br>
-        <center><div class="head"><span class="headline hl1">Contexte du mot</span><span class="headline hl4">en Angleterre</span><p></p></div><p>Le phénomène de grève est également très répandu en Angleterre.
-            Au sein de la société anglaise, le droit de grève est un outil de protestation économique de masse souvent en conjonction avec d'autres formes d'action (comme par exemple, électorale).
-            D’un point de vue historique et politique, suite à la loi anti-syndicale, la grève générale est passée d'un outil de solidarité de grève ouvrière à une forme générale de protestation sociale, politique et économique.</p></center>
-            <br>
-        <img src="https://i.guim.co.uk/img/media/0cdb8c44972be2fa4611be7e9855d7e138a63406/0_48_3000_1800/master/3000.jpg?width=620&quality=85&dpr=1&s=none" width=100% height=25%/>
-          <br> <br><br>
-        <center><div class="head"><span class="headline hl1">Contexte du mot</span><span class="headline hl4">au Vietnam</span><p></p></div><p>Comme en Europe, la grève est un phénomène courant au Vietnam. Il représente un droit des travailleurs. Néanmoins, actuellement, la majorité des grèves qui ont lieu sont des grèves illégales, dont la plupart sont spontanées sans suivre certains ordres, procédures et processus de la loi. </p></center>
-            <br>
-           <img src="https://i.guim.co.uk/img/media/0cdb8c44972be2fa4611be7e9855d7e138a63406/0_48_3000_1800/master/3000.jpg?width=620&quality=85&dpr=1&s=none" width=100% height=25%/>
-           <br><br><br><br><br><br>
+        <center><div class="head"><span class="headline hl1">Description précise du contenu</span><span class="headline hl4">Entrons dans les détails...</span><p></p></div>
+			<p>Passons maintenant à la description précise du contenu et des commandes du script.
+                <br> Le script étant très similaire à celui du <a href="/PPE-groupe/page_web/script-tableau.html">tableau bash de base</a>, seules les différences seront notées.
+            </p>
+		<div class="bbcode_container"> 
+		<pre style="height:100px; width:100%;">
+
+fichier_urls=$1 # le fichier d'URL en entrée
+fichier_tableau=$2 # le fichier HTML en sortie
+
+if [[ $# -ne 2 ]]
+then
+    echo "Ce programme demande exactement deux arguments."
+    exit
+fi
+mot="[Đ/đ]ình_công"
+
+	</pre> 
+		</div>
+		<p><br>Cette partie indique qu'il faut entrer deux arguments lors de l'exécution du script, l'expression régulière étant déjà déclaré.
+<br>Il faut noter l'existance du "_" dans l'expression. C'est une jointure faites par le tokenizer plus bas, qui sert à joindre deux mots pour n'en faire qu'un.
+<br><br>
+
+        <div class="bbcode_container"> 
+		<pre style="height:100px; width:100%;">
+# On dump le contenu des pages dans un dossier en format texte.
+    echo "$dump" > "./dumps-text/$basename-$lineno.txt" 
+
+# On utilise le tokenizer sur le contenu qui vient d'être dumpé afin que les mots composés soient liés en un seul
+# On dump ces nouveaux fichiers dans un autre dossier.
+
+    dump_vn=$(cat "./dumps-text/$basename-$lineno.txt" | python3.9 Tokenizer/Tokenizer_VN.py > "./dumps-tokenize/$basename-$lineno.txt")
+		</pre>
+		</div>
+        <br>
+        <p> Avant de compter les occurences, construire le contexte et d'exécuter le programme de concordances, il faut régler le problème lié à la langue Vietnamienne.
+            <br> Certains mots en Vietnamien sont composés de deux éléments, comme pour le mot grève : đình công et l'espace n'est pas compris par egrep.
+            Pour cela, les professeurs ont mis à disposition un tokenizer.
+            <br> Pour l'utiliser, il faut d'abord dump le contenu des textes dans un dossier pour en garder une trace. 
+            Ces textes seront repris ensuite et le tokenizer va leur être appliqué avec la commande "python3.9" avant d'être dump corrigés dans un nouveau
+            dossier.
+            <br> Ce nouveau dossier sera celui appelé dans les prochaines lignes.
+        </p><br><br>
+		</center>
+		
+            <br><br><br><br><br><br><br><br><br><br><br>
 	</div>
     </div>
     </div>
@@ -146,7 +269,6 @@
 
 
 
-</head>
 
 
     <div class="footer-basic">
