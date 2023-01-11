@@ -1,7 +1,7 @@
 # PPE-groupe
 
 ### Membre du groupe: 
-⮕ Yaasmine NOHU   
+⮕ Yaasmine NOHUR   
 ⮕ Tifanny NGUYEN  
 ⮕ Amina BOUTELDJA
 
