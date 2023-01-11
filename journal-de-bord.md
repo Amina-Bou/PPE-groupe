@@ -2,8 +2,6 @@
 
 → 11/22 : Création du git de groupe
 
-→11/22 : Yaaslamenace vient tout juste de comprendre qu’il faut pull avant de push.
-
 →11/22 :  Ajout index html
 
 →11/22 :  Création de page github web
