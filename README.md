@@ -1,8 +1,8 @@
 # PPE-groupe
 
 ### Membre du groupe: 
-⮕ Yaasmine NOHU 
-⮕ Tifanny NGUYEN
+⮕ Yaasmine NOHU   
+⮕ Tifanny NGUYEN  
 ⮕ Amina BOUTELDJA
 
 ### Mot choisi : 🧐
