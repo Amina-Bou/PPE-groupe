@@ -12,8 +12,8 @@ On a choisit le mot **grève** et nous avons réduit sur la grève du travail po
 - Yaasmine s'occupe du corpus en Français.
 - Tifanny s'occupe du corpus en Vietnamien.
 - Amina s'occupe du corpus en Anglais (d'Angleterre)
-.
-Nous avons choisi nos URL en fonction de :
+
+Nous avons choisi nos URLs en fonction de :
 - LA DÉFINITION
 - L'ÉTYMOLOGIE DU MOT
 - LES DIFFERENTS TYPES DE GREVE SELON LES PAYS
