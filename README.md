@@ -1,7 +1,9 @@
 # PPE-groupe
 
 ### Membre du groupe: 
-Yaasmine NOHUR, Tifanny NGUYEN, Amina BOUTELDJA
+⮕ Yaasmine NOHU 
+⮕ Tifanny NGUYEN
+⮕ Amina BOUTELDJA
 
 ### Mot choisi : 🧐
 Nous avons choisi de travailler sur le mot “grève”. En effet, les revendications qui poussent à faire “grève” sont intéressantes car elles donnent une indication sur la situation économique et politique d’un pays.
